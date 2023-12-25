@@ -11,20 +11,20 @@
 --->
 
 ## tópicos - práticas (Github Pages)  
-* [Hello world ]()
+* [Hello world ]
 
 ## tópico - anotaçôes (link wiki)  
 
-* [Fontes]()
-* [Sintaxe da linguagem ]()
-* [Sobre a linguagem]()
-* [Declaração de variáveis]()
-* [Operadores Aritiméticos]()
-* [Operadores Lógicos]()
-* [Interpolação de variáveis]()
-* [String : manipulando caracteres]()
-* [Concatenação de variáveis]()
-* [Estrutura de desição (if,swicth) ]()
-* [Função]()
-* [Estrutura de repetição (for,while,do while,forEach)]()
-* [Métodos]()
+* [Fontes]
+* [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hello-world)
+* [Sobre a linguagem]
+* [Declaração de variáveis]
+* [Operadores Aritiméticos]
+* [Operadores Lógicos]
+* [Interpolação de variáveis]
+* [String : manipulando caracteres]
+* [Concatenação de variáveis]
+* [Estrutura de desição (if,swicth) ]
+* [Função]
+* [Estrutura de repetição (for,while,do while,forEach)]
+* [Métodos]
