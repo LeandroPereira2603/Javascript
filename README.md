@@ -10,10 +10,10 @@
 | Código Fonte - local do repositório | ☕|
 --->
 
-## tópicos - práticas (Github Pages)  
+## tópicos (Github Pages)  
 * [Hello world ]
 
-## tópico - anotaçôes (link wiki)  
+## tópico (link wiki)  
 
 * [Fontes]
 * [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hello-world)
