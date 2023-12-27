@@ -10,12 +10,12 @@
 | Código Fonte - local do repositório | ☕|
 --->
 
-## tópicos (Github Pages) 
+## Tópicos (Github Pages) 
 ### Prática de programação  : 
 * [ Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/)
 * []
 
-## tópicos (link wiki)  
+## Tópicos (link wiki)  
 
 * [Fontes]
 * [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
