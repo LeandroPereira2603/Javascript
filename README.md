@@ -1,6 +1,6 @@
 # Javascript (Geral)
 
-<p> Aqui terá todos os meus reposiórios criados com a linguagem javascript , tanto anotaçôes , desenvolvimentos , para fácil localização </p>
+<p> Aqui terá todos os meus reposiórios criados com a linguagem javascript , tanto anotaçôes , desenvolvimentos , para ficar mais fácil localizar certos temas  </p>
  
 
 <!---
