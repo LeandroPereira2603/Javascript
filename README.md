@@ -7,7 +7,7 @@
 |:--: |:--:|
 | Projeto em desenvolvimento    |  🛑  |
 | Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕| 
+| Código Fonte - local do repositório | ☕|  -->
 
 ## Tópicos (Github Pages) 
 ### Prática de programação  : 
