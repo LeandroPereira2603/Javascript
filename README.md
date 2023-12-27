@@ -15,7 +15,7 @@
 * [ Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/)
 * [ Operadores Relacionais ]
 
-## tópico (link wiki)  
+## tópicos (link wiki)  
 
 * [Fontes]
 * [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hello-world)
