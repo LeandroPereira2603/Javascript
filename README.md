@@ -18,7 +18,7 @@
 ## tópicos (link wiki)  
 
 * [Fontes]
-* [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hello-world)
+* [Sintaxe da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
 * [Sobre a linguagem]
 * [Declaração de variáveis]
 * [Operadores Aritiméticos]
