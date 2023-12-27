@@ -1,6 +1,6 @@
 # Javascript (Geral)
  
- 
+
 <!---
 <strong> Os significados dos logotipos :</strong>
 |Descrição | Logotipo   |
