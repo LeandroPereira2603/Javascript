@@ -11,7 +11,7 @@
 --->
 
 ## tópicos (Github Pages) 
-### Alguns exemplos : 
+### Alguns exemplos de programação  : 
 * [ Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/)
 * [ Operadores Relacionais ]
 
