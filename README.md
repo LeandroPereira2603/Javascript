@@ -7,12 +7,11 @@
 |:--: |:--:|
 | Projeto em desenvolvimento    |  🛑  |
 | Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕|
---->
+| Código Fonte - local do repositório | ☕| 
 
 ## Tópicos (Github Pages) 
 ### Prática de programação  : 
-* [ Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/) ☕ [Código fonte : repositório ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+* [ 💻 Site:Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/) ☕ [Código fonte : repositório ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 * []
 
 ## Tópicos (link wiki)  
