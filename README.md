@@ -32,3 +32,7 @@
 * [Função]
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
+
+<!-- colocar imagem e link 
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/main?filepath=notebooks%2FAula_Especial_Python.ipynb)
+-->
