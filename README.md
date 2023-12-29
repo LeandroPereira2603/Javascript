@@ -32,6 +32,23 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
+```javascript
+// um dos meus prediiletos são a utilização do for , exemplo :
+// Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar 
+var c = prompt("Digite o número máximo de tabuadas que deseja visualizar ");
+var n = 0;
+for (var k=0 ;k<c+1;k++){ 
+ for (var i = 0 ; i<11;i++){
+  var result = n * i ;
+   console.log(" "+n+" x "+i+" = "+result);
+  }
+  n++;
+ }
+```
+       
+    
+  
+
 <!-- colocar imagem e link 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/main?filepath=notebooks%2FAula_Especial_Python.ipynb)
 -->
