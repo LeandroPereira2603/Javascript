@@ -32,7 +32,7 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
-## Algoritmo predileto 
+**Algoritmo** predileto 
 
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
