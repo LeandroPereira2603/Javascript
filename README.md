@@ -32,8 +32,8 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
-## Códigos 
-### um conjunto de tabuadas 
+## Código JavaScript 
+### Algoritmo que calcula e mostra um conjunto de tabuadas , ordem crescente .
 
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
