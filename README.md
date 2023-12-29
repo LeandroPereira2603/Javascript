@@ -32,7 +32,7 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
-## Algoritmo prediletos a resolução da lógica 
+## Algoritmos prediletos a resolução da lógica 
 
 
 ```javascript
