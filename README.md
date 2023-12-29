@@ -25,7 +25,7 @@
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
 * [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-L%C3%B3gicos)
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
-* [String : manipulando caracteres]
+* [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Estrutura de desição (if,swicth case) ]
 * [Função]
