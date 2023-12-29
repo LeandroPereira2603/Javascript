@@ -32,7 +32,7 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
-## Código JavaScript 
+## Algoritmo prediletos a resolução da lógica 
 ### Algoritmo que calcula e mostra um conjunto de tabuadas , ordem crescente .
 
 ```javascript
