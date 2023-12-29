@@ -1,8 +1,8 @@
 
 // primeiro código
 
-var alert = console.log("Hello , world !!");
-alert(alert);
+var msg = console.log("Hello , world !!");
+alert(msg);
 
 // Declaração de variáveis 
 
