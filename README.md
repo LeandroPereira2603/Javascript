@@ -27,7 +27,7 @@
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [String : manipulando caracteres]
 * [Concatenação de variáveis]
-* [Estrutura de desição (if,swicth) ]
+* [Estrutura de desição (if,swicth case) ]
 * [Função]
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
