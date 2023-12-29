@@ -91,7 +91,7 @@ console.log(" Uma "+inseto+" da cor "+cor);
 
 var nome ="Leandro"
 var sobrenome ="Pereira ";
-var nnomeCompleto = nome = sobrenome ;
+var nomeCompleto = nome = sobrenome ;
 
 console.log(nomeCompleto);
 
