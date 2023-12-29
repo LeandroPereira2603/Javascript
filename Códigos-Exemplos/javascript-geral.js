@@ -81,6 +81,24 @@ else{
     console.log ("falso");
 }
 
+// Interpolação de variável 
+var inseto = "Butterfly";
+var cor = "Azul";
+
+console.log(" Uma "+inseto+" da cor "+cor);
+
+// Concatenação de variável 
+
+var nome ="Leandro"
+var sobrenome ="Pereira ";
+var nnomeCompleto = nome = sobrenome ;
+
+console.log(nomeCompleto);
+
+
+
+
+
 // verificar se é par ou immpar
 
 if(n % 2==0){
