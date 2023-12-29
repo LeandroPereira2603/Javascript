@@ -34,7 +34,52 @@ var mod = n % 2  ;
 
 console.log(" Resto da divisão de "+n+" / 2 é  = "+mod);
 
+// Operadores lógico 
 
+console.log (" "+x+" é maior que "+y+" ? ´");
+
+if(x > y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" "+x+" é menor que "+y+" ? ´");
+
+if(x < y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" "+x+" é menor ou igual que "+y+" ? ´");
+
+if(x <= y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" "+x+" é maior ou igual que "+y+" ? ´");
+
+if(x >= y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" "+x+" diferente do que "+y+" ? ´");
+
+if(x != y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
 
 // verificar se é par ou immpar
 
@@ -46,8 +91,6 @@ else{
     console.log("o "+n+" divido por 2 o resto da divisão não é 0 então e impar");
 }
 
-
-
 if(y % 3 == 0 ){
     console.log("o "+y+" divido por 2 o resto da divisão não é 0 então e impar");
 }
@@ -55,3 +98,20 @@ else{
     console.log(" o "+y+" divido por 2 o resto da divisão é 0 então é  par");
 }
 
+
+
+
+
+
+// um dos meus prediiletos são a utilização do for , exemplo :
+// Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar 
+var c = prompt("Digite o número máximo de tabuadas que deseja visualizar ");
+c++;
+var n = 0;
+for (var k=0 ;k<c;k++){ 
+ for (var i = 0 ; i<11;i++){
+  var result = n * i ;
+   console.log(" "+n+" x "+i+" = "+result);
+  }
+  n++;
+ }
