@@ -26,7 +26,7 @@
 * [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-L%C3%B3gicos)
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [String : manipulando caracteres]
-* [Concatenação de variáveis]
+* [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Estrutura de desição (if,swicth case) ]
 * [Função]
 * [Estrutura de repetição (for,while,do while,forEach)]
