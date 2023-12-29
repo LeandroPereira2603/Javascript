@@ -33,7 +33,7 @@
 * [Métodos]
 
 ```javascript
-// um dos meus prediiletos são a utilização do for , exemplo :
+// LLP- Leandro Pereira : um dos meus prediiletos são a utilização do for , exemplo :
 // Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar 
 var c = prompt("Digite o número máximo de tabuadas que deseja visualizar ");
 var n = 0;
