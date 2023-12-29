@@ -32,6 +32,8 @@
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 
+**Algoritmo** predileto 
+
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
  Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar */
