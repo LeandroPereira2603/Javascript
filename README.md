@@ -14,7 +14,7 @@
 ## Tópicos (Github Pages) 
 ### Prática de programação  : 
 * [ 💻 Site : Hello world ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
-* []
+
 
 ## Tópicos (link wiki)  
 ### Anotaçôes
