@@ -33,7 +33,7 @@
 * [Métodos]
 
 ## Algoritmo prediletos a resolução da lógica 
-### Algoritmo que calcula e mostra um conjunto de tabuadas , ordem crescente .
+
 
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
