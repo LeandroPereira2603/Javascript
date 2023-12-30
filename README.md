@@ -36,7 +36,7 @@
 ### Elementos
 
 * [pseudo elemento](https://github.com/LeandroPereira2603/Javascript/wiki/Pseudo-elemento)
-* [querySelector e querySelectorAll]
+* [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
 * [addEventListener]
 * [createElement]
 * [create object]
