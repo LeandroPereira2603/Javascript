@@ -29,12 +29,12 @@
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
 * [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-L%C3%B3gicos)
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
-* [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Estrutura de desição (if,swicth case) ](https://github.com/LeandroPereira2603/Javascript/wiki/Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth-case))
 * [Função](https://github.com/LeandroPereira2603/Javascript/wiki/Function)
 * [Estrutura de repetição (for,while,do while,forEach)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 * [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
+* [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
 
 
 ### Mnipulação de elementos (link wiki)
