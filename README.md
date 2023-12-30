@@ -17,7 +17,7 @@
 
 
 
-## 📚 Tópicos : estudos (Wiki) 
+## 📚 Tópicos de estudos (Wiki) 
 
 
 ### Explicações (link wiki) 
