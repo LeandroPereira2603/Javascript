@@ -45,7 +45,7 @@
 * [createElement](https://github.com/LeandroPereira2603/Javascript/wiki/Create-Element)
 * [create object](https://github.com/LeandroPereira2603/Javascript/wiki/Create-object)
 
-**Algoritmo** predileto 
+**Algoritmo** predileto :
 
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
