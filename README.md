@@ -33,7 +33,7 @@
 * [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
 
 ## Tópicos (link wiki)  
-### Elementos javascript
+### Elementos
 
 * [pseudo elemento]
 * [querySelector e querySelectorAll]
