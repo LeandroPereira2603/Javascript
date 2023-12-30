@@ -38,7 +38,7 @@
 * [pseudo elemento](https://github.com/LeandroPereira2603/Javascript/wiki/Pseudo-elemento)
 * [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
 * [addEventListener](https://github.com/LeandroPereira2603/Javascript/wiki/addEventListener)
-* [createElement]
+* [createElement](https://github.com/LeandroPereira2603/Javascript/wiki/Create-Element)
 * [create object]
 
 **Algoritmo** predileto 
