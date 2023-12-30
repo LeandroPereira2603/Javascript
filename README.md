@@ -29,7 +29,7 @@
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Estrutura de desição (if,swicth case) ](https://github.com/LeandroPereira2603/Javascript/wiki/Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth-case))
 * [Função](https://github.com/LeandroPereira2603/Javascript/wiki/Function)
-* [Estrutura de repetição (for,while,do while,forEach)]
+* [Estrutura de repetição (for,while,do while,forEach)](https://github.com/LeandroPereira2603/Javascript/wiki/Estrutura-de-repeti%C3%A7%C3%A3o-(for,while,do-while,forEach)
 * [Métodos]
 
 **Algoritmo** predileto 
