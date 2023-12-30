@@ -121,16 +121,19 @@ else{
 
 // Desvio condicional if 
 
-var caminhoA;
-var caminhoB;
-var caminhoC;
+var caminhoA = 1;
+var caminhoB = 2;
+var caminhoC = 3;
 
 
-/* Vamos supor um exemplo , um carro esta indo a uma direção só que entra numa cruzilhada , que tem possibilidade de três caminhos diferentes a  esquerda , direita , e reta , na lógica , pelo percuso que vai chegar mais rápido e a reta , so que tem um problema no meio do percuso de uma das rotas tem um atalho para mudar o percuso , e outro e uma rua sem saida , crie a lógica  com a escolha do úsuario e que mostra qual e o destino mais rápido , e mostre qual o caminho final ele escolgeu  */
+/* Vamos supor um exemplo , um carro esta indo a uma direção só que entra numa cruzilhada , 
+que tem possibilidade de três caminhos diferentes a  esquerda , direita , e reta , na lógica , 
+pelo percuso que vai chegar mais rápido e a reta , so que tem um problema no meio do percuso de 
+uma das rotas tem um atalho para mudar o percuso , e outro e uma rua sem saida , crie a lógica  
+com a escolha do úsuario e que mostra
+ qual e o destino mais rápido , e mostre qual o caminho final ele escolgeu    */
 
-var escolha = prompt(" Digite o camilho que deseja escolher 1 ( esquerda ) 2 ( reta ) 3 (direita ) ") ; 
-
-switch(escolha) {
+switch(caminhoA) {
 
  case 1 :
 
@@ -140,7 +143,11 @@ switch(escolha) {
  case 2 : 
    console.log("ops , voce escolheu o caminho com atalho ");
 
-  
+   break;
+ case 2 : 
+   console.log("ops , voce escolheu o caminho com atalho ");
+   break;
+
 
   case 3 :
    console.log(" E o caminho mais rápido ") ; 
