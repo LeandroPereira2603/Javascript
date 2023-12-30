@@ -15,15 +15,15 @@
 ### Prática de programação  : 
 * [ 💻 Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-## Tópicos (link wiki)  
-### Explicações 
+
+### Explicações (link wiki) 
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
 
 
-## Tópicos (link wiki) 
-### Sintaxe : Linguagem javascript  :
+
+### Sintaxe : Linguagem javascript (link wiki)   :
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
@@ -36,8 +36,8 @@
 * [Estrutura de repetição (for,while,do while,forEach)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 * [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
 
-## Tópicos (link wiki)  
-### Mnipulação de elementos
+
+### Mnipulação de elementos (link wiki)
 
 
 * [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
