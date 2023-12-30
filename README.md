@@ -32,6 +32,15 @@
 * [Estrutura de repetição (for,while,do while,forEach)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
 * [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
 
+## Tópicos (link wiki)  
+### Elemento javascript
+
+* [pseudo elemento]
+* [querySelector e querySelectorAll]
+* [addEventListener]
+* [createElement]
+* [create object]
+
 **Algoritmo** predileto 
 
 ```javascript
