@@ -35,7 +35,7 @@
 ## Tópicos (link wiki)  
 ### Elementos
 
-* [pseudo elemento]
+* [pseudo elemento](https://github.com/LeandroPereira2603/Javascript/wiki/Pseudo-elemento)
 * [querySelector e querySelectorAll]
 * [addEventListener]
 * [createElement]
