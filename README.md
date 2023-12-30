@@ -15,12 +15,16 @@
 ### Prática de programação  : 
 * [ 💻 Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-
 ## Tópicos (link wiki)  
-### Expressão básica para desenvolver a lógica de programação 
+### Explicações 
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
+
+
+## Tópicos (Github Pages) 
+### Sintaxe : Linguagem javascript  :
+
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
 * [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-L%C3%B3gicos)
@@ -33,7 +37,7 @@
 * [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
 
 ## Tópicos (link wiki)  
-### Elementos
+### Mnipulação de elementos
 
 
 * [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
