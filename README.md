@@ -17,7 +17,7 @@
 
 
 ## Tópicos (link wiki)  
-### Anotaçôes
+### básico 
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
