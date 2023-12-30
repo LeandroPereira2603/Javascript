@@ -12,7 +12,7 @@
 | Código Fonte - local do repositório | ☕|  -->
 
 ## Tópicos (Github Pages) 
-### Prática de programação : 
+###  Prática de programação : 
 * [ 💻 Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 
@@ -21,7 +21,7 @@
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
 
-## Tópicos (Wiki) 
+## 📚 Tópicos (Wiki) 
 
 ### Sintaxe : Linguagem javascript (link wiki)   :
 
