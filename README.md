@@ -22,7 +22,7 @@
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
 
 
-## Tópicos (Github Pages) 
+## Tópicos (link wiki) 
 ### Sintaxe : Linguagem javascript  :
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
