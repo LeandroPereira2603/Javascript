@@ -9,9 +9,9 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Projeto em desenvolvimento    |  🛑  | 0 |
+| Projetos concluídos    |  💻  | 1 |
 | Meus projetos Favoritos | ⭐ | 0  |
-| Projetos concluídos    |  ✅  | 0 |
-| Código Fonte - local do repositório | ☕| 0 | 
+| Código Fonte - local do repositório | ☕| 1 | 
 
 ## 💻 Tópicos (Github Pages) 
 ###  Prática de programação : 
