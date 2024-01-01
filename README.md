@@ -6,12 +6,12 @@
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
+|Descrição | Logotipo   | Totais |
 |:--: |:--:|:--:|
-| Abandonados | 🔴 | 0 |
+| Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 0 |
-| Concluídos    |  🟢  | 1 |
-| Repositórios Favoritos | ⭐ | 0  |
+| Concluído    |  🟢  | 1 |
+| Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 1 | 
 
 ## 💻 Tópicos (Github Pages) 
