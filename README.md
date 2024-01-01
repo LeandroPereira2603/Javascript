@@ -10,6 +10,7 @@
 |:--: |:--:|:--:|
 | Projeto em desenvolvimento    |  🛑  | 0 |
 | Meus projetos Favoritos | ⭐ | 0  |
+| Projetos concluídos    |  ✅  | 0 |
 | Código Fonte - local do repositório | ☕| 0 | 
 
 ## 💻 Tópicos (Github Pages) 
