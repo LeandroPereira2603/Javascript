@@ -8,8 +8,9 @@
 
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
-| Projetos em desenvolvimento    |  🛑  | 0 |
-| Projetos concluídos    |  💻  | 1 |
+| Prohetos abandonados | 🔴 | 0 |
+| Projetos em desenvolvimento    |  🟡  | 0 |
+| Projetos concluídos    |  🟢  | 1 |
 | Meus projetos Favoritos | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕| 1 | 
 
