@@ -23,12 +23,12 @@
 ## 📚 Tópicos de estudos (Wiki) 
 
 
-### Explicações  
+### Sobre :
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
 
-### Sintaxe : Linguagem javascript (link wiki)   :
+### Sintaxe : Linguagem javascript :
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
@@ -42,7 +42,7 @@
 * [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
 
 
-### Manipulação de elementos (link wiki)
+### Manipulação de elementos :
 
 
 * [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
