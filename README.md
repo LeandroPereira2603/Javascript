@@ -14,8 +14,8 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 1 | 
 
-## 💻 Tópicos (Github Pages) 
-###  Prática de programação : 
+## 💻 Prática (Github Pages) 
+###  Sites : 
 * [ 🟢 Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 
@@ -23,7 +23,7 @@
 ## 📚 Tópicos de estudos (Wiki) 
 
 
-### Explicações (link wiki) 
+### Explicações  
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
 * [Sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
