@@ -8,7 +8,7 @@
 
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
-| Prohetos abandonados | 🔴 | 0 |
+| Projetos abandonados | 🔴 | 0 |
 | Projetos em desenvolvimento    |  🟡  | 0 |
 | Projetos concluídos    |  🟢  | 1 |
 | Meus projetos Favoritos | ⭐ | 0  |
