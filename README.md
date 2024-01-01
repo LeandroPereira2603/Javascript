@@ -3,13 +3,14 @@
 <p> Aqui terá todos os meus reposiórios criados com a linguagem javascript. </p>
  
 
-<!---
-<strong> Os significados dos logotipos :</strong>
-|Descrição | Logotipo   |
-|:--: |:--:|
-| Projeto em desenvolvimento    |  🛑  |
-| Meus projetos Favoritos | :heart: |
-| Código Fonte - local do repositório | ☕|  -->
+
+<strong> Legenda :</strong>
+
+|Descrição | Logotipo   | Total |
+|:--: |:--:|:--:|
+| Projeto em desenvolvimento    |  🛑  | 0 |
+| Meus projetos Favoritos | ⭐ | 0  |
+| Código Fonte - local do repositório | ☕| 0 | 
 
 ## 💻 Tópicos (Github Pages) 
 ###  Prática de programação : 
