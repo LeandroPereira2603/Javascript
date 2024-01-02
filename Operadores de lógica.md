@@ -14,6 +14,7 @@ if ( x == y ) && ( y == c ) {
  console.log(" Verdadeiro ");
 
 }
+
 else {
 
 console.log("Falso") ;
