@@ -19,37 +19,37 @@
 
 
 
-## 📚 Tópicos de estudos (Wiki) 
+## 📚 Tópicos de estudos (MD) 
 
 
 ### Sobre :
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
-* [Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
+* [Regras de sintaxe e história da linguagem ]
 
 ### Sintaxe - Linguagem javascript :
 
-* [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
-* [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
-* [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-Relacionais)
-* [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-l%C3%B3gico)
-* [Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-de-compara%C3%A7%C3%A3o)
-* [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
-* [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
-* [Estrutura de desição (if,swicth case) ](https://github.com/LeandroPereira2603/Javascript/wiki/Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth-case))
-* [Função](https://github.com/LeandroPereira2603/Javascript/wiki/Function)
-* [Estrutura de repetição (for,while,do while,forEach)](https://github.com/leandroluizpereira/web-design-frond-end/wiki/1.99--Estrutura-de-repeti%C3%A7%C3%A2o-(for,while,do-while))
-* [Métodos](https://github.com/LeandroPereira2603/Javascript/wiki/Metodos)
-* [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
+* [Declaração de variáveis]
+* [Operadores Aritiméticos]
+* [Operadores Relacionais]
+* [Operadores Lógicos]
+* [Operadores de comparação]
+* [Interpolação de variáveis]
+* [Concatenação de variáveis]
+* [Estrutura de desição (if,swicth case) ]
+* [Função]
+* [Estrutura de repetição (for,while,do while,forEach)]
+* [Métodos]
+* [String : manipulando caracteres]
 
 
 ### Manipulação de elementos DOM ( Document Object Model ) :
 
 
-* [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
-* [addEventListener](https://github.com/LeandroPereira2603/Javascript/wiki/addEventListener)
-* [createElement](https://github.com/LeandroPereira2603/Javascript/wiki/Create-Element)
-* [create object](https://github.com/LeandroPereira2603/Javascript/wiki/Create-object)
+* [querySelector e querySelectorAll]
+* [addEventListener]
+* [createElement]
+* [create object]
 
 **Algoritmo** predileto :
 
