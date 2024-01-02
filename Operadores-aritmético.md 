@@ -1,0 +1,24 @@
+<p> <strong>Operadores aritmético </strong> : São operadores de cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática , so alguns que não como resto de divisão , e multiplicação , sxemplo ( + , - , % , / , * ) 
+
+```javascript 
+
+var x = 30 ;
+var y = 40 ; 
+
+var soma = x + y ;
+
+var subt = x - y ;
+
+var div = x / y ;
+
+var mult = x * y ; 
+
+// Resto da divisão 
+
+var rest = x > % y == 2 ; 
+
+// porcentagem 
+
+var porc = ( x / y ) * 100 ; 
+
+```
