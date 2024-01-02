@@ -22,10 +22,11 @@ console.log("Idoso");
 ```
 
 
-```Javascript 
-
 ## Switch Case
 
+
+
+```Javascript 
 
 
  switch(dia){
