@@ -32,7 +32,7 @@
 ### Sintaxe - Linguagem javascript :
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
-* [Operadores Aritiméticos]
+* [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
 * [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * [Operadores Lógicos]
 * [Operadores de comparação]
