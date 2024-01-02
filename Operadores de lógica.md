@@ -30,7 +30,7 @@ console.log("Falso") ;
 50 == 70 = False <br>
 retorno : False <br>
 
-Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . <br>
+Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . 
 <br>
 
 Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> 
