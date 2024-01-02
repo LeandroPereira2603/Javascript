@@ -1,5 +1,8 @@
 console.log("Operadores Aritméticos");
 
+var n = 28;
+var y = 20;
+
 var soma = n + y ;
 
 console.log(" Soma de "+n+" + "+y+" = "+soma);
