@@ -19,7 +19,9 @@
 
 
 
-## 📚 Tópicos de estudos (MD) 
+## 📚 Tópicos de estudos 
+
+### nome do arquivo do repositório : Explicacaçôes ( extensão : md ) 
 
 
 ### Sobre :
@@ -29,9 +31,9 @@
 
 ### Sintaxe - Linguagem javascript :
 
-* [Declaração de variáveis]
+* [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [Operadores Aritiméticos]
-* [Operadores Relacionais]
+* [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * [Operadores Lógicos]
 * [Operadores de comparação]
 * [Interpolação de variáveis]
