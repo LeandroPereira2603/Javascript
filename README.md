@@ -25,7 +25,7 @@
 ### Sobre :
 
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/wiki)
-* [Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/wiki/Hist%C3%B3ria-e-sintaxe-da-linguagem)
+* [Regras de sintaxe e história da linguagem ]
 
 ### Sintaxe - Linguagem javascript :
 
