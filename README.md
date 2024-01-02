@@ -34,7 +34,7 @@
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
 * [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
-* [Operadores Lógicos]
+* [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
 * [Operadores de comparação]
 * [Interpolação de variáveis]
 * [Concatenação de variáveis]
