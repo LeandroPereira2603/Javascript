@@ -31,7 +31,8 @@
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Declara%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-aritm%C3%A9ticos)
-* [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/wiki/Operadores-L%C3%B3gicos)
+* [Operadores Relacionais]
+* [Operadores Lógicos]()
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Interpola%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/wiki/Concatena%C3%A7%C3%A3o-de-vari%C3%A1vel)
 * [Estrutura de desição (if,swicth case) ](https://github.com/LeandroPereira2603/Javascript/wiki/Estrutura-de-desi%C3%A7%C3%A3o-(if,swicth-case))
