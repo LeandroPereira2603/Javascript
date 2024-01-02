@@ -1,6 +1,6 @@
 ```javascript 
 
-\* Operadores relacionais , e quando tem uma ligação de comparação entre dois operadores , exemplos de relações ( > , < , >= , <= , == , === , != , !== )  *\
+\\ Operadores relacionais , e quando tem uma ligação de comparação entre dois operadores , exemplos de relações ( > , < , >= , <= , == , === , != , !== )  *\
 
 var butterfly = 0.08 ;
 var mariposa = 0.07;
