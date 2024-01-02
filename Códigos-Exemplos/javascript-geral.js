@@ -18,6 +18,24 @@ var caractere = 'a';
 
 console.log("Operadores Aritméticos");
 
+var calc = n + y ;
+
+console.log(" "+n+" + "+y+" = "+calc);
+
+var calc = n - y ;
+
+console.log(" "+n+" - "+y+" = "+calc);
+
+var calc = n / y ;
+
+console.log(" "+n+" / "+y+" = "+calc);
+
+var calc = n * y ;
+
+console.log(" "+n+" x "+y+" = "+calc);
+
+
+
 // Operadores relacionais
 
 console.log (" "+x+" é maior que "+y+" ? ´");
@@ -156,8 +174,6 @@ var sobrenome ="Pereira ";
 var nomeCompleto = nome = sobrenome ;
 
 console.log(nomeCompleto);
-
-
 
 
 
