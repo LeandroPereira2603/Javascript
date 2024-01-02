@@ -28,7 +28,7 @@ console.log("Falso") ;
 
 40 == 50 = False <br>
 50 == 70 = False <br>
-<br> <br>
+<br> 
 retorno : False <br>
 
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . <br>
