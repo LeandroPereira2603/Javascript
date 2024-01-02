@@ -18,27 +18,15 @@ var caractere = 'a';
 
 console.log("Operadores Aritméticos");
 
-var soma = n + y ;
-
-console.log(" Soma de "+n+" + "+y+" = "+soma);
-
-var sub = n - y ;
-
-console.log(" Subtração de "+n+" - "+y+" = "+sub);
-
-var div = n / y ;
-
-console.log(" Divisão de "+n+" / "+y+" = "+sub);
-
-var mod = n % 2  ;
-
-console.log(" Resto da divisão de "+n+" / 2 é  = "+mod);
-
-// Operadores lógico 
+// Operadores relacionais
 
 console.log (" "+x+" é maior que "+y+" ? ´");
 
+// Maior que (>)
+// Retorna verdadeiro caso o operando da esquerda seja maior que o da direita.
+
 if(x > y){
+
     console.log ("Verdadeiro");
 }
 else{
@@ -47,16 +35,90 @@ else{
 
 console.log (" "+x+" é menor que "+y+" ? ´");
 
+// Lógica : Menor que (<)
+// Retorna verdadeiro caso o operando da esquerda seja menor que o da direita
+
 if(x < y){
+
+    console.log ("Verdadeiro");
+}
+
+else{
+
+    console.log ("falso");
+}
+
+console.log (" "+x+" é menor ou igual que "+y+" ? ´");
+
+// Lógica : Menor que ou igual (<=)
+// Retorna verdadeiro caso o operando da esquerda seja menor ou igual ao da direita.
+
+if(x <= y){
+
+    console.log ("Verdadeiro");
+
+}
+
+else{
+
+    console.log ("falso");
+}
+
+console.log (" "+x+" é maior e igual que "+y+" ? ´");
+
+// Lógica : maior e igua que (>=)
+// Retorna verdadeiro caso o operando da esquerda seja maior ou igual ao da direita.
+
+if(x >= y){
+
     console.log ("Verdadeiro");
 }
 else{
     console.log ("falso");
 }
 
-console.log (" "+x+" é menor ou igual que "+y+" ? ´");
+console.log (" "+x+" não é igual do que "+y+" ? ´");
 
-if(x <= y){
+// Lógica : Não igual (!=)
+// Retorna verdadeiro caso os operandos não sejam iguais
+
+if(x != y){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+// Lógica = Igual (==)
+// Retorna verdadeiro caso os operandos sejam iguais.
+
+if( 3 == x ){
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" 3 não é do mesmo tipo do que "+y+" ? ´");
+
+// Lógica : Estritamente igual (===)
+// Retorna verdadeiro caso os operandos sejam iguais e do mesmo tipo .
+
+if( 3 === x ){
+
+    console.log ("Verdadeiro");
+}
+else{
+    console.log ("falso");
+}
+
+console.log (" 3 não é igual ou não é do mesmo tipo que  "+y+" ? ´");
+
+// Estritamente não igual (!==)
+// Retorna verdadeiro caso os operandos não sejam iguais e/ou não sejam do mesmo tipo.
+
+if( 3 !== x ){
+
     console.log ("Verdadeiro");
 }
 else{
