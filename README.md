@@ -21,7 +21,7 @@
 
 ## 📚 Tópicos de estudos 
 
-### nome do arquivo do repositório : Explicacaçôes ( extensão : md ) 
+### Link de acesso ao arquivo do repositório explicaçôes (extensão : md)
 
 
 ### Sobre :
