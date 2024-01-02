@@ -43,7 +43,7 @@
 * [String : manipulando caracteres](https://github.com/LeandroPereira2603/Javascript/wiki/String-:-Manipula%C3%A7%C3%A3o-de-caractere)
 
 
-### Manipulação de elementos :
+### Manipulação de elementos DOM ( Document Object Model ) :
 
 
 * [querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/wiki/QuerySelector-e-querySelectorAll)
