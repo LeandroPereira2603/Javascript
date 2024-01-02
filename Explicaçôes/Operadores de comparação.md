@@ -1,0 +1,17 @@
+Operadores de comparação  : Os operadores de comparaçôes compara seus operandos , a retorna o valor lógico ( == , === , != , !== )
+
+```javascript
+
+if (true == “true”) //retorna true
+if (10 == “10”) //retorna true
+if (true == true) //retorna true
+if (10 == 10) //retorna true
+
+if (true != “true”) //retorna false
+if (4 != “4”) //retorna false
+if (true !== “true”) //retorna true
+if (4 !== “4”) //retorna true
+if (true !== true) //retorna false
+if (4 !== 4) //retorna false
+
+```
