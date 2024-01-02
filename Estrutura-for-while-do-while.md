@@ -20,6 +20,8 @@ for (var i=0; i<11;i++){
 
 ```javascript 
 
+var i = 0;
+
 while(i<11) {
 
 console.log(i);
