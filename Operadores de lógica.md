@@ -33,7 +33,7 @@ retorno : False <br>
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . <br>
 <br>
 
-Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> <br>
+Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> 
 
 Lógica NOT = vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
-<br> <br>
+<br> 
