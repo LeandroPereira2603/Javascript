@@ -20,7 +20,7 @@ Console.log ( "Id = "+id" : "+butterfly+" cor : "+color+" peso : "+peso+" altura
 
 ```
 
-Para que o programa a reconheça e atribuir algo a ela , para que o programa saiba que valor estamos armazenando na variável .
+ Para que o programa a reconheça e atribuir algo a ela , para que o programa saiba que valor estamos armazenando na variável .
 
 ```javascript 
 
