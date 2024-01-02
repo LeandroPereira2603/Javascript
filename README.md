@@ -14,7 +14,7 @@
 | Código Fonte - local do repositório | ☕ | 1 | 
 
 ## 💻 Prática (Github Pages) 
-###  Sites : 
+###  Exemplos de elementos do javascript com html e css  : 
 * 🟢 [ 💻 Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 
