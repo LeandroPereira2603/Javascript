@@ -11,5 +11,5 @@ var logica = butterfly > mariposa ;
 console.log(logica);
 
 ``` 
-vai fazer a copilação do sistema e retornar true "verdadeiro"  na tela de depuração do console , do navegador escolhido .<br>
+<p> vai fazer a copilação do sistema e retornar true "verdadeiro"  na tela de depuração do console , do navegador escolhido .</p>
 navegadores :  google chrome , safari , opera  etc ... 
