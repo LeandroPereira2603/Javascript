@@ -26,17 +26,17 @@
 
 ### Sobre :
 
-* [Fontes](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/fontes.md)
-* [Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
+* [Fontes](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
+* [Regras de sintaxe e história da linguagem ]
 
 ### Sintaxe - Linguagem javascript :
 
-* [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
-* [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
-* [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
-* [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
-* [Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
-* [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
+* [Declaração de variáveis]
+* [Operadores Aritiméticos]
+* [Operadores Relacionais]
+* [Operadores Lógicos]
+* [Operadores de comparação]
+* [Interpolação de variáveis]
 * [Concatenação de variáveis]
 * [Estrutura de desição (if,swicth case) ]
 * [Função]
