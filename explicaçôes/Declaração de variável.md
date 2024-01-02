@@ -19,3 +19,15 @@ Console.log ( "Id = "+id" : "+butterfly+" cor : "+color+" peso : "+peso+" altura
 
 
 ```
+
+Para que o programa a reconheça e atribuir algo a ela , para que o programa saiba que valor estamos armazenando na variável .
+
+```javascript 
+
+  var n = 30 ;
+  var x = 3.7 ;
+  var nome = "Leandro";
+  var bolean = true ;
+  var peso = 10.23 ;
+  
+```
