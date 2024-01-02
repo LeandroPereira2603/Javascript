@@ -17,3 +17,30 @@ for (var i=0; i<11;i++){
 //ira retorna do 0 á 10 
 
 ```
+
+```javascript 
+
+while(i<11) {
+
+console.log(i);
+
+i++;
+
+}
+
+```
+
+```javascript
+
+do {
+
+var i=0;
+
+console.log("ira começar a contagem do laço de repetição do while ") ;
+
+i++;
+
+}
+while (i<10);
+
+```
