@@ -31,7 +31,7 @@
 
 ### Sintaxe - Linguagem javascript :
 
-* [Declaração de variáveis]
+* [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [Operadores Aritiméticos]
 * [Operadores Relacionais]
 * [Operadores Lógicos]
