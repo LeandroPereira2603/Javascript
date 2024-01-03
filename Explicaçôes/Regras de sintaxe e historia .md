@@ -15,7 +15,7 @@
 |Multiplataforma | sim |
 
 
-## Regras de sintaxe ;
+## Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula 
 * A indentação não interfere ao rodar o código
