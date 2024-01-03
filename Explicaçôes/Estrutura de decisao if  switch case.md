@@ -80,7 +80,7 @@ else {
 , so que mais organizado , quando ha vários casos de escolhas diferentes , podendo sair da estrutura  com o comando breack; </p>  
 
 
-### Exemplo de escolha definida pelo sistema programado 
+<p> Exemplo de escolha definida pelo sistema programado </p>
 
 
 
@@ -119,7 +119,8 @@ switch(dia) {
  }
 
 ```
-### Exemplo de escolha informado pelo úsuario 
+
+<p> Exemplo de escolha informado pelo úsuario </p>
  
 <p> O úsuario digitou número : 4 </p>
 
