@@ -10,7 +10,7 @@ var wingLeft , wingRight ;
 var butterfly; 
 var sinOne , sinTwo;
 
-var n = parseInt(prompt("Input  the first number of umerator : ")) ;
+var n = parseInt(prompt("Input  the first number of numerator : ")) ;
 
 var nTwo = parseInt(prompt("Input  the second number of numerator ")) ; 
 
