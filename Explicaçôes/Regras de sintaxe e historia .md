@@ -19,8 +19,8 @@
 |Orientado a objeto | sim |
 |Multiplataforma | sim |
 
-<strong>Tipagem dinânima </strong> : não precisa definir o tipo primitivo para a variável . </p> 
-<strong>Multiplataforma </strong> : o código roda em todos os sistemas operacionais ou seja em vários dispositivos diferentes . </p> 
+<strong>Tipagem dinânima </strong> : Não precisa definir o tipo primitivo para a variável . </p> 
+<strong>Multiplataforma </strong> : O código roda em todos os sistemas operacionais ou seja em vários dispositivos diferentes . </p> 
 <strong>Orientação a objeto </strong> : POO Programação orientada a objetos é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos </p>
 
 ## Regras de sintaxe 
