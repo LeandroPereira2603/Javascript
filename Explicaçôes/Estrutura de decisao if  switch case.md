@@ -1,22 +1,30 @@
 ## If composto ( Desvio condicional )
 
 ```Javascript 
+
 var idade = 25;
-if (idade <11){
 
-console.log("Criança");
-}
-else if (idade > 12 && idade < 17){
+if (idade <11) {
 
-console.log("Adolescente");
+   console.log("Criança");
+
 }
 
-else if (idade >= 18 && idade <= 55){
+else if (idade > 12 && idade < 17) {
 
-console.log("Adulto");
+   console.log("Adolescente");
 }
+
+else if (idade >= 18 && idade <= 55) {
+
+   console.log("Adulto");
+
+}
+
 else {
-console.log("Idoso");
+
+   console.log("Idoso");
+
 }
 
 ```
@@ -29,7 +37,7 @@ console.log("Idoso");
 ```Javascript 
 
 
-switch(dia){
+switch(dia) {
    case 0:
       console.log("DOMINGO");
       break;
