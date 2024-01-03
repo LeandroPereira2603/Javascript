@@ -47,7 +47,7 @@ sinTwo = (calcD / 2 );
 
 console.log("");
 
-console.log("Resultado final :");
+console.log("End result :");
 
 console.log("");
 
