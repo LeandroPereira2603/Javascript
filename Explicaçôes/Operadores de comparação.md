@@ -1,4 +1,7 @@
-Operadores de comparação  : Os operadores de comparaçôes compara os valores , a retorna o valor lógico ( == , === , != , !== )
+
+## Operadores de comparação
+
+ Os operadores de comparaçôes compara os valores , a retorna o valor lógico ( == , === , != , !== )
 
 ```javascript
 
