@@ -6,9 +6,9 @@
 
 ### Três algoritmos :
 
-* 1 - Determina a escolha do conjunto de tabuadas , defindas pelo úsuario de inicio e fim .
-* 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario .
-* 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario .
+* 1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim.
+* 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario.
+* 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario.
 
 
 ```javascript
