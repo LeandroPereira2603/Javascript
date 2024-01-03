@@ -43,7 +43,7 @@ function divisao(nDois){
     return div;
 }
 
-console.log(divisao(n));
+console.log(divisao(nDois));
 
 ```
 
