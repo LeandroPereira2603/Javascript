@@ -15,8 +15,10 @@ function tabuadaDefinida ( begin , end) {
     for ( var i = 0 ; i<c;i++){
       var mult = c * i ; 
        var result = console.log(" "+c+" X "+i+" = "mult);
+
      }
    }
+
  return result ;
 
 }
