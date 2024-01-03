@@ -1,5 +1,5 @@
 
-/* Switch case : Vai dar opçôes de  escolher o algoritmo para o cálculo de tabuada */
+/* Algoritmo que da para escolha a visualizar diferentes tipos de tabuadas */
 
 var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
 
@@ -9,11 +9,9 @@ switch(escolha) {
      //case 1 : algoritmo de conjunto de tabuada definida o inicio e fim pelo úsuario .
     var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada")) ;
     var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada "));
-
-    n++;
-
+    nDois++;
     console.log ("Tabuada completa :");
-    console.log(" do "+n+" até o "+nDois+" ");
+    console.log(" do "+n+" até o "+nDois+" : números escolhida pelo úsuario ");
     console.log("");
 
   function tabuadaDefinida ( begin , end) {
@@ -38,7 +36,8 @@ switch(escolha) {
 
    tabuadaDefinida(n,nDois); 
 
-   console.log("Tabuada do 2 ao 5 pelo sistema !.")
+   console.log("Tabuada do 2 ao 5 : números colocados na função !.")
+   console.log("");
     // definida a função agora pelo sistema e não pelo o digito do úsuario :
 
    tabuadaDefinida(2,5+1);
@@ -88,10 +87,10 @@ switch(escolha) {
   case 3 :
 
     var c = parseInt(prompt("Digite o número da tabuada  deseja visualizar "));
-    c++;
+    
 
     for (var i = 0 ; i<11;i++){
-      var result = n * i ;
+      var result = c * i ;
        console.log(" "+c+" x "+i+" = "+result);
      }
     console.log("");
