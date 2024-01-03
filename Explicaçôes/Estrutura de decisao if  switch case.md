@@ -4,7 +4,7 @@
 
 <p> Desvio codicional : estrutura if , tem a finalidade de criar e definir vários possibilidades de percurssos diferentes , como "composto" , " encadeado " ou " simples "  , levando ao certo destino final ,  sendo escolhidos pelo percuso já estabelecido "programado" ou definido por uma escolha como do "úsuario"  . </p>
 
-### Exemplo de algoritmo , if "composto"  :
+### Algoritmo : if "composto" 
 
 <p> Algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade é informada pelo programador .  </p>
 
