@@ -13,6 +13,7 @@ if (idade <11) {
 else if (idade > 12 && idade < 17) {
 
    console.log("Adolescente");
+
 }
 
 else if (idade >= 18 && idade <= 55) {
@@ -43,6 +44,7 @@ var dia = 2 ;
 // Irá retornar : TERÇA
 
 switch(dia) {
+
    case 0:
       console.log("DOMINGO");
       break;
@@ -77,6 +79,7 @@ var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
 
 switch(day) {
+
     case 0:
        console.log("DOMINGO");
        break;
