@@ -8,6 +8,8 @@ var nomeCompleto = nome = sobrenome ;
 
 console.log(nomeCompleto);
 
+// Irá retornar : Leandro Pereira
+
 var nOne = "20"
 var nTwo = "40";
 
