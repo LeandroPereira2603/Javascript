@@ -247,7 +247,7 @@ default :
 
 // um dos meus prediiletos são a utilização do for , exemplo :
 // Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar 
-var c = prompt("Digite o número máximo de tabuadas que deseja visualizar ");
+var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visualizar "));
 c++;
 var n = 0;
 for (var k=0 ;k<c;k++){ 
@@ -256,4 +256,119 @@ for (var k=0 ;k<c;k++){
    console.log(" "+n+" x "+i+" = "+result);
   }
   n++;
+  console.log("");
  }
+
+
+
+
+
+
+/* 1 - Revisão : prática usando a estrutura  for e if de forma encadeado */
+
+
+
+
+var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada")) ;
+
+var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada "));
+
+n++;
+
+console.log ("Tabuada completa :");
+console.log(" do "+n+" até o "+nDois+" ");
+
+console.log("");
+
+function tabuadaDefinida ( begin , end) {
+ 
+  if(begin < end ){
+  for (var k = begin ;k<end;k++){
+    for ( var i = 0 ; i<11;i++){
+      var mult = begin * i ; 
+       var result = console.log(" "+begin+" X "+i+" = "+mult);
+
+     }
+       begin++;
+       console.log("");
+     }
+
+    return result ;
+  }
+  else {
+    console.log("erro : ordem decrescente !!")
+}
+   
+}      
+
+tabuadaDefinida(n,nDois); 
+
+// Ou pode ser definida :
+
+tabuadaDefinida(2,5+1);
+
+// vai mostrar a tabuada do 2 ao 5 
+
+/* Ou seja vai fazer como comando split() 
+ou como um SELECT WHERE , no sentido de 
+filtragem com dois termos  ,
+so que neste caso  vai calcular
+e mostrar somente as tabelas definidas
+pelo úsuario , exemplo da tabuada 2
+a tabuada 5 */
+
+/* Com 14 linhas totais de código apenas,
+da para mostrar  a tabuada completa do 
+0 á 10 da tabuada 1 até 
+o número da tabuada  que o úsuario 
+quiser exemplo 1000000000, com  dois
+digitos pelo usuario , 
+claro  se o úsuario preferir  esta 
+quantidade .*/
+
+/*### 2 - Lógica de programação : desvio condicional encadeado composto , prática : */
+
+
+
+var escolha = parseInt(prompt("Digite o número do caminho que desejar percorrer  1 = esquerda  ,2 = reto , 3 = a direita .")) ; 
+
+switch(escolha) { 
+
+  case 1 :
+     console.log(" O "+escolha+" : Que pena ,voce escolheu o caminho   muito longo !") ;
+     break;
+
+  case 2 :
+     console.log(" o "+escolha+" : Opa !!! tem um atalho no caminho    ");
+
+  case 3 : 
+     console.log(" O "+escolha+" : Parabéns !!  voce escolheu o caminho   mais curto e fácil no trageto !! ") ;
+     console.log(" Congratulation ! Do you choose the  traject ,  more easy ") ;
+     break;
+
+  default :
+     console.log("Erro este caminho não existe ") ;
+
+}
+
+
+
+
+/* ### 3 - Confirmação  usando if . */
+
+
+
+var nome = prompt("Digite seu nome :") ;
+
+if (nome == "Leandro" || nome == "leandro"){
+
+  console.log("Olá "+nome+" , voce é programador");
+
+}
+
+else {
+
+  console.log(" Olá "+nome);
+
+}
+

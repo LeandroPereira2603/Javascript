@@ -2,12 +2,12 @@
 
 ### 1 - Revisão : prática usando a estrutura  for e if de forma encadeado .
 
+
 ```javascript 
 
+var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada")) ;
 
-var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada") ;
-
-var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada ");
+var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada "));
 
 n++;
 
@@ -15,17 +15,21 @@ console.log ("Tabuada completa :");
 console.log(" do "+n+" até o "+nDois+" ");
 
 function tabuadaDefinida ( begin , end) {
-  
+  if(begin < end){
   for (var k = begin ;k<end;k++){
     for ( var i = 0 ; i<11;i++){
       var mult = begin * i ; 
-       var result = console.log(" "+begin+" X "+i+" = "mult);
+       var result = console.log(" "+begin+" X "+i+" = "+mult);
 
      }
        begin++;
    }
 
  return result ;
+  }
+  else{
+    console.log("erro esta na forma decrescente ");
+  }
 
 }
        
@@ -59,21 +63,22 @@ quantidade .*/
 
 ```javascript 
 
-var escolha = parseInt(prompt("Digite o caminho que desejar percorrer , 1 ,2 , 3 ") ;
+var escolha = parseInt(prompt("Digite o caminho que desejar percorrer , 1 ,2 , 3 "));
 
 switch(escolha) { 
 
-  case : 1
+  case 1 :
      console.log("Que pena ,voce escolheu o caminho     muito longo !") ;
      break;
 
-  case : 2
+  case 2 :
      console log("Opa !!! tem um atalho no caminho    ");
-     continue;
 
-  case : 3 
+
+  case 3 :
      console.log("Parabéns !!  voce escolheu o caminho   mais curto e fácil no trageto !! ") ;
      console.log(" Congratulation ! Do you choose the  traject ,  more easy ") ;
+     break;
 
   default :
      console.log("Erro este caminho não existe ") ;
@@ -98,7 +103,7 @@ if (nome == "Leandro" || nome == "leandro"){
 
 else {
 
-  console.log(" Olá "+nome+" !!);
+  console.log(" Olá "+nome);
 
 }
 
