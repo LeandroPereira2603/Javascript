@@ -5,20 +5,24 @@
 ```javascript 
 
 
-var n = parseInt(prompt("Digite o número que vai definir o inicio de tabelas de tabuada") ;
+var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada") ;
 
-var nDois = parseInt(prompt("Digite o número que vai definir a última tabela da tabuada ");
+var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada ");
 
 n++;
 
+console.log ("Tabuada completa :");
+console.log(" do "+n+" até o "+nDois+" ");
+
 function tabuadaDefinida ( begin , end) {
-  var c=0;
+  
   for (var k = begin ;k<end;k++){
-    for ( var i = 0 ; i<c;i++){
-      var mult = c * i ; 
-       var result = console.log(" "+c+" X "+i+" = "mult);
+    for ( var i = 0 ; i<11;i++){
+      var mult = begin * i ; 
+       var result = console.log(" "+begin+" X "+i+" = "mult);
 
      }
+       begin++;
    }
 
  return result ;
