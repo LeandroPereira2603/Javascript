@@ -30,7 +30,7 @@ console.log(" Resto da divisão de "+n+" / 2 é  = "+mod);
 
 var porc = ( x / y ) * 100 ; 
 
-var i = 10 ;
+var i = 10;
 
 var k = 10;
 
