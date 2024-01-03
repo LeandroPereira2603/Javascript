@@ -11,6 +11,6 @@ Welcome to the Javascript wiki!
 * [W3School](https://www.w3schools.com/)
 
 ## 🏫 cursos
-* [Curso : canal - curso em video](https://www.cursoemvideo.com/)
+* [Curso : curso em video](https://www.cursoemvideo.com/)
 * [Curso : Alura](https://www.alura.com.br/)
 * [Faculdade : Uninove](https://www.uninove.br/)
