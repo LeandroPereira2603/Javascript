@@ -1,4 +1,6 @@
-```javascript
+
+
+// Função sem paramêtro 
 
 function soma () {
 
@@ -8,11 +10,10 @@ var y = 25;
 var soma = x + y;
 
 console.log(soma);
-}
 
-```
 
-```javascript 
+} 
+
 // Função com parâmetro 
 
 var n = parseInt(prompt("Digite um número para fazer o cálculo multiplicado por 10 : "))
@@ -25,10 +26,6 @@ function mult(n){
 }
 
 mult(n);
-
-```
-
-```javascript
 
 
 // ou outro exemplo de retorno
@@ -44,7 +41,4 @@ function divisao(nDois){
 }
 
 console.log(divisao(n));
-
-```
-
 
