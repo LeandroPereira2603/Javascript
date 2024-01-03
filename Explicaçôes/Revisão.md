@@ -69,7 +69,7 @@ switch(escolha) {
      console.log("Parabéns !!  voce escolheu o caminho   mais curto e fácil no trageto !! ") ;
      console.log(" Congratulation ! Do you choose the  traject ,  more easy ") ;
 
-  default :
+  default:
      console.log("Erro este caminho não existe ") ;
 
 }
