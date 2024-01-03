@@ -9,8 +9,6 @@ nDois= parseInt(prompt("Digite o número que vai definir a última tabela da tab
 
 n++;
 
-
-
 function tabuadaDefinida ( begin , end) {
   var c=0;
   for (var k = begin ;k<end;k++){
@@ -25,6 +23,7 @@ function tabuadaDefinida ( begin , end) {
        
 
 tabuadaDefinida(n,nDois); 
+
 
 ```
 
