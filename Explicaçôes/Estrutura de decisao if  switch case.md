@@ -76,15 +76,17 @@ else {
 
 ## Switch Case
 
+<p> O switch case tem a semelhancia da estrutura if 
+, so que mais organizado , quando ha vários casos de escolhas diferentes , podendo sair da estrutura  com o comando breack; </p>  
+
+
+### Exemplo de escolha definida pelo sistema programado 
+
 
 
 ```Javascript 
 
-// Exemplo de escolha definida pelo programador 
-
 var dia = 2 ; 
-
-// Irá retornar : TERÇA
 
 switch(dia) {
 
@@ -111,12 +113,20 @@ switch(dia) {
       break;
     default:
       console.log("Dia invalido");
+
+// Irá retornar : TERÇA
     
  }
 
- // Exemplo de escolha definida pelo úsuario número  : 4 
+```
 
-// O parseInt serve para converter os valores digitados para intenger que é números inteiroa .
+ 
+<p> O mesmo modelo , só que a escolha definida pelo úsuario , o úsuario exemplo digitou número : 4 </p>
+
+<p> O parseInt serve para converter os valores digitados para intenger, que significa números inteiroa .</p>
+
+
+```javascript 
 
 var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
