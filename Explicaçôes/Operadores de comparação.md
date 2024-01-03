@@ -19,7 +19,7 @@ if (4 !== 4) //retorna false
 
 ```
 
-<p> (===) compara os tipos .
+<p> (===) compara os tipos .</p>
 
 ```javascriot 
 
