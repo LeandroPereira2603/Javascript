@@ -15,7 +15,7 @@
 |Multiplataforma | não |
 
 
-## Regra de sintaxe da linguagem
+## Regras de sintaxe da linguagem JavaScript
 
 * Obrigatório colocar ponto e virgula 
 * A indentação não interfere ao rodar o código
