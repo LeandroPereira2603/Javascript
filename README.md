@@ -27,7 +27,7 @@
 * [Fontes](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
 * 🟡 [Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
 
-### Sintaxe - Linguagem javascript :
+### Sintaxe da Linguagem javascript :
 
 * [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
