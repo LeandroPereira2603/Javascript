@@ -4,13 +4,13 @@ var wingLeft , wingRight ;
 var butterfly; 
 var sinOne , sinTwo;
 
-var n = parseInt(prompt("Input , the first number of umerator : ")) ;
+var n = parseInt(prompt("Input  the first number of umerator : ")) ;
 
-var nTwo = parseInt(prompt("Input , the second number of numerator ")); 
+var nTwo = parseInt(prompt("Input  the second number of numerator ")); 
 
-var d = parseInt(prompt("Input , the first number of denominator "));
+var d = parseInt(prompt("Input  the first number of denominator "));
 
-var dTwo = parseInt(prompt(" Input , the second number od denominator "));
+var dTwo = parseInt(prompt(" Input  the second number od denominator "));
 
 wingLeft = n * dTwo ;
 wingRight = d * nTwo ;
@@ -29,7 +29,7 @@ console.log (" "+d+"   "+dTwo+"    "+calcD);
 
 console.log("");
     
-console.log("Simplificou :");
+console.log("simplified :");
 
 console.log("");
 
@@ -41,7 +41,7 @@ sinTwo = (calcD / 2) ;
 
 console.log("");
 
-console.log("Resultado final :");
+console.log("End result:");
 
 console.log("");
 
