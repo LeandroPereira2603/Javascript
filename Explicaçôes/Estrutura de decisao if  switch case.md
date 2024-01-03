@@ -119,17 +119,15 @@ switch(dia) {
  }
 
 ```
-
+### Exemplo , informado pelo úsuario 
  
-<p> O mesmo modelo , só que a escolha definida pelo úsuario , o úsuario exemplo digitou número : 4 </p>
-
-<p> O parseInt serve para converter os valores digitados para intenger, que significa números inteiroa .</p>
-
+<p> O úsuario digitou número : 4 </p>
 
 ```javascript 
 
 var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
+// O parseInt serve para converter os valores digitados para intenger, que significa números inteiroa .
 
 switch(day) {
 
