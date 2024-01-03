@@ -21,7 +21,7 @@ if (4 !== 4) //retorna false
 
 <p> (===) compara os tipos .</p>
 
-```javascriot 
+```javascript 
 
 var n = 30 ;
 var nome = "Leandro";
