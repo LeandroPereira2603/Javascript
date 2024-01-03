@@ -38,9 +38,9 @@ filtragem com dois termos  ,
  pelo úsuario , exemplo da tabuada 2
  a tabuada 5 */
 
-/* Com 15 linhas totais de código , 
- da para mostrar  a tabuada do 1 até 
-o número que o úsuario quiser exemplo 
+/* Com 14 linhas totais de código apenas,
+ da para mostrar  a tabuada completa do 0 á 10 da tabuada 1 até 
+o número da tabuada  que o úsuario quiser exemplo 
 1000000000, com  dois digitos pelo
  usuario , claro  se o úsuario preferir
  esta quantidade .*/
