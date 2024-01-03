@@ -26,17 +26,19 @@ function tabuadaDefinida ( begin , end) {
 
 tabuadaDefinida(n,nDois); 
 
-// Ou pode ser definida 
+// Ou pode ser definida :
 
-// tabuadaDefinida(2,5);
+tabuadaDefinida(2,5);
 
-// Ou seja vai mostra a tabela da tabuada do 2 á 5
+/* Ou seja vai fazer como comando split() 
+ou como um SELECT WHERE , no sentido de 
+filtragem com dois termos  , so que neste caso  vai calcular e mostrar somente as tabelas definidas pelo úsuario , exemplo da tabuada 2 a tabuada 5 */
 
-/*Com 15 linhas totais de código , 
-da para mostrar  a tabuada do 1 até  100000000000000000000 , com  dois
- digitos pelo usuario  , claro 
+/* Com 15 linhas totais de código , 
+ da para mostrar  a tabuada do 1 até o número que o úsuario quiser exemplo 1000000000
+ , com  dois digitos pelo usuario , claro 
  se o úsuario preferir esta 
-quantidade .*/
+ quantidade .*/
 
 ```
 
