@@ -1,4 +1,3 @@
-Welcome to the Javascript wiki!
 
 # Fontes
 
