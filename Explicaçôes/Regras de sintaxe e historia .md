@@ -1,7 +1,13 @@
 
-## História  
+## História
 
  <p> Criado por Brendan Eich em 4 de dezembro 1995  </p> 
+
+## Acontecimentos importantes 
+
+*
+*
+*
 
 ## Sobre o JavaScript : 
 
