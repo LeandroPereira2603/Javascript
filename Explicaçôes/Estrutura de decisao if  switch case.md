@@ -52,7 +52,7 @@ console.log("Idoso");
              console.log("SABADO");
              break;
              default:
-                 console.log("Dia invalido");
+              console.log("Dia invalido");
     
      }
 
