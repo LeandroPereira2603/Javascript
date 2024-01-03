@@ -1,4 +1,4 @@
-<p> <strong> Operadores aritmético </strong> : São operadores de cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática , como a multiplicação , sxemplo ( + , - , % , / , * ) </p>
+<p> <strong> Operadores aritmético </strong> : São operadores de cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática ,so alguns que não são como a multiplicação , sxemplo ( + , - , % , / , * ) </p>
 
 
 ```javascript
