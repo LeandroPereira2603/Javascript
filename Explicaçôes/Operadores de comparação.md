@@ -19,15 +19,15 @@ if (4 !== 4) //retorna false
 
 ```
 
-<p> (===) compara os tipos .</p>
+<p> (===) compara os tipos primitivos .</p>
 
 ```javascript 
 
-var n = 30 ;
+var n = 30;
 
 var nome = "Leandro";
 
-if (n === nome ) {
+if (n === nome) {
 
  console.log("Verdadeiro");
 
