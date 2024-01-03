@@ -60,12 +60,15 @@ switch(escolha) {
   case: 1
      console.log("Que pena ,voce escolheu o caminho     muito longo !") ;
      break;
+
   case: 2
      console log("Opa !!! tem um atalho no caminho    ");
      continue;
+
   case: 3 
      console.log("Parabéns !!  voce escolheu o caminho   mais curto e fácil no trageto !! ") ;
      console.log(" Congratulation ! Do you choose the  traject ,  more easy ") ;
+
   default :
      console.log("Erro este caminho não existe ") ;
 
