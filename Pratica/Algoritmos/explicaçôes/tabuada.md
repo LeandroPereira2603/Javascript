@@ -4,7 +4,7 @@
 
 <p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
 
-### são três algoritmos 
+### Três algoritmos :
 
 * 1 - Determina a escolha do conjunto de tabuadas , defindas pelo úsuario de inicio e fim .
 * 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario .
