@@ -47,6 +47,43 @@ var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto d
    tabuadaDefinida(2,5+1);
 ```
 
+
+
+```javascript 
+
+var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visualizar "));
+    c++;
+    var n = 0;
+    for (var k=0 ;k<c;k++){ 
+       for (var i = 0 ; i<11;i++){
+         var result = n * i ;
+        console.log(" "+n+" x "+i+" = "+result);
+        }
+        n++;
+         console.log("");
+     }
+
+```
+
+```javascript 
+
+var c = parseInt(prompt("Digite o número da tabuada  deseja visualizar "));
+    
+
+    for (var i = 0 ; i<11;i++){
+      var result = c * i ;
+       console.log(" "+c+" x "+i+" = "+result);
+     }
+    console.log("");
+  
+   break;
+        
+default :
+    console.log("Erro este caminho não existe ") ;
+
+}
+
+```
 ## Todos em um só algoritmo 
 ### Switch case 
 
