@@ -12,7 +12,7 @@
 | Concluído    |  💻  | 3 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 3 | 
-| Código em outra idioma | 🗺️ | 0 |
+| Desenvolvida para outro idioma | 🗺️ | 1 |
 
 ## 💻 Prática (Github Pages) 
 ### Prática sites:  
@@ -20,7 +20,7 @@
 
 ### Prática algoritmos :
 * 💻 [Tabuada-explicaçâo : arquivo.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [Tabuada : arquivo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
-* 💻[Metódo de butterfly ; arquivo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕[Metódo de butterfly : arquivo.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)
+* 🗺️ 💻[Metódo de butterfly ; arquivo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕[Metódo de butterfly : arquivo.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)
 
 ## 📚 Tópicos de estudos 
 
