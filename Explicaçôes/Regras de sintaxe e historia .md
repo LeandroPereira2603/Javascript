@@ -20,6 +20,8 @@
 |Orientado a objeto | não |
 |Multiplataforma | sim |
 
+<strong>Tipagem dinânima </strong> : não precisa definir o tipo primitivo para a variável . </p> 
+<strong>Multiplataforma </strong> : o código roda em todos os sistemas operacionais ou seja em vários dispositivos diferentes . </p> 
 
 ## Regras de sintaxe 
 
