@@ -42,7 +42,7 @@ for(var p in 0){
 
     var c = 1;
     while(c <= 6){
-      console.log("Tudo bem ?");
+      console.log("contagem : "+c);
       c++; // c = c + 1
     }
 
@@ -53,7 +53,7 @@ for(var p in 0){
 
     var i = 1;
     do{
-      console.log("Tudo bem ?");
+      console.log("contagem : "+i);
       i++; // i = i + 1
     }
     while(i<=6);
