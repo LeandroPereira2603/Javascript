@@ -40,10 +40,10 @@ filtragem com dois termos  ,
 
 /* Com 15 linhas totais de código , 
  da para mostrar  a tabuada do 1 até 
-o número que o úsuario quiser exemplo 1000000000
- , com  dois digitos pelo usuario , claro 
- se o úsuario preferir esta 
- quantidade .*/
+o número que o úsuario quiser exemplo 
+1000000000, com  dois digitos pelo
+ usuario , claro  se o úsuario preferir
+ esta quantidade .*/
 
 ```
 
