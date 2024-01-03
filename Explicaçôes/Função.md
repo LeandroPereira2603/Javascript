@@ -15,7 +15,7 @@ function soma () {
 
 ```javascript
 
-// Função com parâmetro 
+// Função com parâmetro :
 
 var n = parseInt(prompt("Digite um número para fazer o cálculo multiplicado por 10 : "))
 
@@ -33,7 +33,7 @@ mult(n);
 
 ```javascript
 
-// ou outro exemplo de retorno :
+// outro exemplo de retorno :
 
 var nDois = parseInt(prompt("Digite um número para fazer o cálculo dividido por 10 : "))
 
