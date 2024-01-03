@@ -18,7 +18,7 @@
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Prática algoritmos :
-* 💻 [Tabuadas](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
+* 💻 [Tabuada ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
 
 ## 📚 Tópicos de estudos 
 
