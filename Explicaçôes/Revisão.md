@@ -26,6 +26,12 @@ function tabuadaDefinida ( begin , end) {
 
 tabuadaDefinida(n,nDois); 
 
+// Ou pode ser definida 
+
+// tabuadaDefinida(2,5);
+
+// Ou seja vai mostra a tabela da tabuada do 2 á 5
+
 
 ```
 
