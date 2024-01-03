@@ -3,7 +3,8 @@ Welcome to the Javascript wiki!
 # Fontes
 
 ## 📚 Livros
-* Book : O Guia definitivo javascript  David Flanagan , parei na pág 80
+* Book : O Guia definitivo javascript <br>
+  By David Flanagan , parei na pág 80 .
 
 ## 🔍pesquisas
 * [wikipédia](https://pt.wikipedia.org/)
