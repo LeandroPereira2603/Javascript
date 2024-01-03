@@ -1,6 +1,6 @@
-```javascript
+## Função 
 
-// Função com parâmetro vázio :
+```javascript
 
 function soma () {
 
@@ -14,10 +14,9 @@ function soma () {
 }
 
 ```
+## Função com parâmetro 
 
 ```javascript
-
-// Função com parâmetro :
 
 var n = parseInt(prompt("Digite um número para fazer o cálculo multiplicado por 10 : "))
 
