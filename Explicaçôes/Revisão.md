@@ -73,4 +73,27 @@ switch(escolha) {
      console.log("Erro este caminho não existe ") ;
 
 }
-  
+
+
+```
+
+### 3 - Confirmação  usando if .
+
+
+```javascript
+
+var nome = prompt("Digite seu nome :") ;
+
+if (nome == "Leandro" || nome == "leandro"){
+
+  console.log("Olá "+nome+" , voce é programador");
+
+}
+
+else {
+
+  console.log(" Olá "+nome+" !!);
+
+}
+
+```
