@@ -1,5 +1,7 @@
 ## Função 
 
+### Função com parâmetro vázio :
+
 ```javascript
 
 function soma () {
@@ -14,7 +16,8 @@ function soma () {
 }
 
 ```
-## Função com parâmetro 
+
+### Função com parâmetro :
 
 ```javascript
 
