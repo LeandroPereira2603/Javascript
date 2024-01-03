@@ -34,7 +34,7 @@ console.log (" "+n+" + "+nTwo+" = "+butterfly);
 console.log (" "+d+"   "+dTwo+"    "+calcD);
 
 
-console.log("Simplificou :");
+console.log("simplified:");
 
 console.log("");
 
