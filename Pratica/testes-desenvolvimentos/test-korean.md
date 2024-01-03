@@ -1,8 +1,8 @@
-## Test-Korean 
+<p> Test-language-Korean-in-javascript </p> 
 
 ### Da certo a impressão em outros caracteres , na linguagem de programação , so os acentos que tem que alterar o charset no modo utf8 para outro idioma , em alguns casos , mas da para mostrar wm outra lingua tranquilhamente .
 
-```javascript 
+```javascript
 
 \\ I ... I love you butterfly blue  !!! 
 \\ Eu .... Eu amo voce borboleta azul
