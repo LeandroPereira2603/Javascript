@@ -32,6 +32,7 @@ tabuadaDefinida(n,nDois);
 
 // Ou seja vai mostra a tabela da tabuada do 2 á 5
 
+// Com 15 linhas totais de código , da para mostrar  a tabuada do 1 até  100000000000000000000 , com  dois digitos pelo usuario  se o úsuario preferir esta quantidade .
 
 ```
 
