@@ -10,7 +10,6 @@
 * 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario.
 * 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario.
 
-
 ```javascript
 
 var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
@@ -18,7 +17,7 @@ var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visual
 switch(escolha) { 
 
   case 1 :
-     //case 1 : algoritmo de conjunto de tabuada definida o inicio e fim pelo úsuario .
+    
     var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada")) ;
     var nDois = parseInt(prompt("Digite o número que vai definir o última tabela da tabuada "));
     nDois++;
@@ -51,10 +50,7 @@ switch(escolha) {
    console.log("Tabuada do 2 ao 5 : números colocados na função !.")
    console.log("");
  
-
    tabuadaDefinida(2,5+1);
-
-
 
     break;
 
