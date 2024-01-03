@@ -36,19 +36,19 @@ else {
 
 ```Javascript 
 
-\\ Exemplo de escolha definida pelo programador 
+// Exemplo de escolha definida pelo programador 
 
 var dia = 2 ; 
 
-\\ Irá retornar : TERÇA
+// Irá retornar : TERÇA
 
-\\ Exemplo de escolha definida pelo úsuario
+// Exemplo de escolha definida pelo úsuario
 
 dia = prompt("Digite o número de 0 á 6 ") ;
 
-\\ exemplo o úsuario digitou 4 
+// exemplo o úsuario digitou 4 
 
-\\ Irá retornar : QUINTA 
+// Irá retornar : QUINTA 
 
 
 switch(dia) {
