@@ -24,6 +24,7 @@ if (4 !== 4) //retorna false
 ```javascript 
 
 var n = 30 ;
+
 var nome = "Leandro";
 
 if (n === nome ) {
