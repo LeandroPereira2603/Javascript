@@ -1,6 +1,5 @@
-// If composto ( Desvio condicional )
 
-
+// if desvio condicional 
 
 var idade = 25;
 
@@ -29,12 +28,16 @@ else {
 
 
 
-// Switch Case
 
 
+// Exemplo de escolha definida pelo programador 
+
+var dia = 2 ; 
 
 
-var dia = 2;
+// exemplo o úsuario digitou 4 
+
+// Irá retornar : TERÇA
 
 switch(dia) {
    case 0:
@@ -63,3 +66,39 @@ switch(dia) {
     
  }
 
+ 
+
+
+// Exemplo de escolha definida pelo úsuario
+
+var day = prompt("Digite o número de 0 á 6 ") ;
+
+
+switch(day) {
+    case 0:
+       console.log("DOMINGO");
+       break;
+    case 1:
+       console.log("SEGUNDA");
+       break;
+    case 2:
+       console.log("TERÇA");
+       break;
+    case 3:
+       console.log("QUARTA");
+       break;
+    case 4:
+       console.log("QUINTA");
+       break;
+     case 5:
+       console.log("SEXTA");
+       break;
+     case 6:
+       console.log("SABADO");
+       break;
+     default:
+       console.log("Dia invalido");
+     
+  }
+
+// Irá retornar : QUINTA 
