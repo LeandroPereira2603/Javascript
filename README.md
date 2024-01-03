@@ -9,7 +9,7 @@
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 1 |
-| Concluído    |  🟢  | 1 |
+| Concluído    |  🟢  | 2 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 1 | 
 
