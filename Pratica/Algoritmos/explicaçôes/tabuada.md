@@ -6,10 +6,13 @@
 
 ### Três algoritmos :
 
-* 1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim.
+* 1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 .
 * 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario.
 * 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario.
 
+### 1 - Conjunto de tabuada 
+
+<p> O úsuario vai digitar o número de inicio e fim , exemplo : 5 , 14  , o sistema irá calcular e mostrar a tabuada completa , da tabuada 5 áté a tabuada 14 , mostrando as multiplicações do 0 até o 10 de cada tabuada .</p>
 ```javascript 
 
 var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto de tabuada")) ;
