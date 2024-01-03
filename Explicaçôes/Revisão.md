@@ -32,7 +32,11 @@ tabuadaDefinida(2,5);
 
 /* Ou seja vai fazer como comando split() 
 ou como um SELECT WHERE , no sentido de 
-filtragem com dois termos  , so que neste caso  vai calcular e mostrar somente as tabelas definidas pelo úsuario , exemplo da tabuada 2 a tabuada 5 */
+filtragem com dois termos  ,
+ so que neste caso  vai calcular
+ e mostrar somente as tabelas definidas
+ pelo úsuario , exemplo da tabuada 2
+ a tabuada 5 */
 
 /* Com 15 linhas totais de código , 
  da para mostrar  a tabuada do 1 até o número que o úsuario quiser exemplo 1000000000
