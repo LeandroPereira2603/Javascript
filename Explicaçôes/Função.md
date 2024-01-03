@@ -1,4 +1,4 @@
-## Function ( Função ) 
+## Função
 
 ### Função com parâmetro vázio :
 
