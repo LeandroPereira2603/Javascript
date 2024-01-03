@@ -42,15 +42,6 @@ var dia = 2 ;
 
 // Irá retornar : TERÇA
 
-// Exemplo de escolha definida pelo úsuario
-
-var dia = prompt("Digite o número de 0 á 6 ") ;
-
-// exemplo o úsuario digitou 4 
-
-// Irá retornar : QUINTA 
-
-
 switch(dia) {
    case 0:
       console.log("DOMINGO");
@@ -79,6 +70,8 @@ switch(dia) {
  }
 
  // Exemplo de escolha definida pelo úsuario
+
+// O parseInt converte os valores digitados para  intenger números inteiroa .
 
 var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
