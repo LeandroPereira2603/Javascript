@@ -44,7 +44,7 @@ var dia = 2 ;
 
 // Exemplo de escolha definida pelo úsuario
 
-dia = prompt("Digite o número de 0 á 6 ") ;
+var dia = prompt("Digite o número de 0 á 6 ") ;
 
 // exemplo o úsuario digitou 4 
 
