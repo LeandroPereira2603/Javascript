@@ -51,7 +51,9 @@ var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto d
    tabuadaDefinida(2,5+1);
 ```
 
+### 2 - Conjunto de tabuada 
 
+<p> O úsuario vai digitar o número que vai estabelecer o final do conjunto de tabuada , exemplo : digitou 5 , o sistema irá calcular e mostrar o conjunto de tabuadas do 0 até o 5 , mostrando a multiplicação do 0 até o 10 </p>
 
 ```javascript 
 
@@ -68,6 +70,12 @@ var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visuali
      }
 
 ```
+
+
+### 3 - Tabuada
+
+<p> O úsuario ira digitar um número, exemplo : 7 , o sistema irá calcular e mostrar a tabuada do 7 , da multiplicação do 0 até o 10 , </p>
+
 
 ```javascript 
 
@@ -88,8 +96,12 @@ default :
 }
 
 ```
+
+
 ## Todos em um só algoritmo 
 ### Switch case 
+
+<p> Com o switch case o úsuario vai escolher qual algoritmo quer visualizar </p>
 
 ```javascript
 
