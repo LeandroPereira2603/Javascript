@@ -37,7 +37,7 @@
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Concatena%C3%A7%C3%A3o%20de%20variavel.md)
 * [Estrutura de desição (if,swicth case) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
-* [Função]
+* [Função](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Fun%C3%A7%C3%A3o.md)
 * [Estrutura de repetição (for,while,do while,forEach)]
 * [Métodos]
 * [String : manipulando caracteres]
