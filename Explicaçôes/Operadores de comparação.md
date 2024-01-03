@@ -26,7 +26,7 @@ if (4 !== 4) //retorna false
 var n = 30 ;
 var nome = "Leandro";
 
-if (n ==== nome ) {
+if (n === nome ) {
  console.log("Verdadeiro");
 
 }
