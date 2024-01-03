@@ -1,4 +1,4 @@
-<p> <strong> Operadores aritmético </strong> : São operadores de cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática , so alguns que não como resto de divisão , e multiplicação , sxemplo ( + , - , % , / , * ) </p>
+<p> <strong> Operadores aritmético </strong> : São operadores de cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática , como a multiplicação , sxemplo ( + , - , % , / , * ) </p>
 
 
 ```javascript
@@ -32,10 +32,16 @@ var porc = ( x / y ) * 100 ;
 
 var i = 10 ;
 
+var k = 10;
+
 // incrementos 
 
 i++;
 
-i--;
+// Retorna : 11
+
+k--;
+
+// Retorna : 9
 
 ```
