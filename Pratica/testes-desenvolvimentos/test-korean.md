@@ -4,8 +4,8 @@
 
 ```javascript
 
-\\ I ... I love you butterfly blue  !!! 
-\\ Eu .... Eu amo voce borboleta azul
+// I ... I love you butterfly blue  !!! 
+// Eu .... Eu amo voce borboleta azul
 console.log (" 내가 ... 사항해요 나피 파란 !!! ") ; 
 
 ``` 
