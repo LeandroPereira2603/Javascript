@@ -29,7 +29,7 @@ console.log (" "+d+"   "+dTwo+"    "+calcD);
 
 console.log("");
     
-console.log("Simplificou");
+console.log("Simplificou :");
 
 console.log("");
 
