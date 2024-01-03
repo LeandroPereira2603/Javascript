@@ -23,7 +23,7 @@ function mult(n){
 
  var mult = n * 10 ;
 
- return console.log(mult);
+return console.log(mult);
 
 }
 
@@ -41,7 +41,8 @@ function divisao(nDois){
  
  var div = nDois / 10 ;
 
- return div;
+return div;
+
 }
 
 console.log(divisao(nDois));
