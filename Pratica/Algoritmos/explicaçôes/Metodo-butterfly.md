@@ -1,4 +1,4 @@
-### Algoritmo : método butterfly 
+### Algoritmo : method butterfly 
 
 <p> The user will input the values of each number , of  numerator and of denominator , the system will return with result .</p>
 
