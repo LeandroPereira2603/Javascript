@@ -16,7 +16,7 @@
 |Tipagem estática | Não | 
 |Tipagem fraca | sim |
 |Tipagem forte | não |
-|Orientado a objeto | não |
+|Orientado a objeto | sim |
 |Multiplataforma | sim |
 
 <strong>Tipagem dinânima </strong> : não precisa definir o tipo primitivo para a variável . </p> 
