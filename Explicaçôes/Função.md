@@ -1,5 +1,7 @@
 ```javascript
 
+// Função com parâmetro vázio :
+
 function soma () {
 
  var x = 39;
