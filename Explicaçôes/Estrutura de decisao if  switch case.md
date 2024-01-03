@@ -35,7 +35,7 @@ else {
 ```
 
 
-<p> Algoritmo que informa qual e a classificação que a pessoa está , exemplo : criança , adolescente , adulto ou idoso ,  sendo que a idade é informada pelo usuário . </p>
+<p> Agora a idade sendo informada pelo usuário . </p>
 
 ```Javascript 
 
