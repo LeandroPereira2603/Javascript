@@ -3,9 +3,9 @@
 ```javascript 
 
 
-n = parseInt(prompt("Digite o número que vai definir o inicio de tabelas de tabuada") ;
+var n = parseInt(prompt("Digite o número que vai definir o inicio de tabelas de tabuada") ;
 
-nDois= parseInt(prompt("Digite o número que vai definir a última tabela da tabuada ");
+var nDois= parseInt(prompt("Digite o número que vai definir a última tabela da tabuada ");
 
 n++;
 
