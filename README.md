@@ -11,14 +11,14 @@
 | Em desenvolvimento    |  🟡  | 1 |
 | Concluído    |  💻  | 2 |
 | Repositório Favorito | ⭐ | 0  |
-| Código Fonte - local do repositório | ☕ | 1 | 
+| Código Fonte - local do repositório | ☕ | 2 | 
 
 ## 💻 Prática (Github Pages) 
 ### Prática sites:  
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Prática algoritmos :
-* 💻 [Tabuada ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
+* 💻 [Tabuada-explicaçâo : arquivo.md]() ☕  [Tabuada : arquivo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
 
 ## 📚 Tópicos de estudos 
 
