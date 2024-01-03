@@ -60,7 +60,7 @@
 var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visualizar ")); 
 c++;
 var n = 0;
-for (var k=0 ;k<c;k++){ 
+for (var k=0;k<c;k++){ 
  for (var i = 0 ; i<11;i++){
   var result = n * i ;
    console.log(" "+n+" x "+i+" = "+result);
