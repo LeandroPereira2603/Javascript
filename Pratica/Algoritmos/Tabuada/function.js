@@ -1,5 +1,5 @@
 
-/* Algoritmo que da para escolha a visualizar diferentes tipos de tabuadas */
+/* Algoritmo que da para escolher tipos de saida de calculos de tabuadas diferentes  */
 
 var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
 
