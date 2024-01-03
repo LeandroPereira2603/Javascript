@@ -71,7 +71,7 @@ switch(dia) {
 
  // Exemplo de escolha definida pelo úsuario
 
-// O parseInt converte os valores digitados para  intenger números inteiroa .
+// O parseInt serve para converter os valores digitados para intenger que é números inteiroa .
 
 var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
