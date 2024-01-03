@@ -119,7 +119,7 @@ switch(dia) {
  }
 
 ```
-### Exemplo , informado pelo úsuario 
+### Exemplo de escolha informado pelo úsuario 
  
 <p> O úsuario digitou número : 4 </p>
 
