@@ -11,8 +11,8 @@
 |Tipagem estática | Não | 
 |Tipagem fraca | sim |
 |Tipagem forte | não |
-|Orientado a objeto | sim |
-|Multiplataforma | não |
+|Orientado a objeto | não |
+|Multiplataforma | sim |
 
 
 ## Regras de sintaxe da linguagem JavaScript
