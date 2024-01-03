@@ -71,7 +71,7 @@ switch(dia) {
     
  }
 
- // Exemplo de escolha definida pelo úsuario
+ // Exemplo de escolha definida pelo úsuario número  : 4 
 
 // O parseInt serve para converter os valores digitados para intenger que é números inteiroa .
 
