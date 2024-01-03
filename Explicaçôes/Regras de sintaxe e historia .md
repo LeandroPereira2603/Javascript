@@ -9,7 +9,7 @@
 |:--:|:--:|
 |Tipagem dinâmica | Sim |
 |Tipagem estática | Não | 
-|Tioagem fraca | sim |
+|Tipagem fraca | sim |
 |Tipagem forte | não |
 |Orientado a objeto | sim |
 |Multiplataforma | não |
