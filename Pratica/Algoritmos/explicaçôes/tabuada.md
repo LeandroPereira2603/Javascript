@@ -12,7 +12,7 @@
 
 ### 1 - Conjunto de tabuada 
 
-<p> O úsuario vai digitar o número de inicio e fim , exemplo : 5 , 14  , o sistema irá calcular e mostrar a tabuada completa , da tabuada 5 áté a tabuada 14 , mostrando as multiplicações do 0 até o 10 de cada tabuada .</p>
+<p> O úsuario vai digitar o número de inicio e fim , exemplo : 5 , 14  , o sistema irá calcular e mostrar a tabuada completa , da tabuada 5 até a tabuada 14 , mostrando as multiplicações do 0 até o 10 de cada tabuada .</p>
 
 ```javascript 
 
