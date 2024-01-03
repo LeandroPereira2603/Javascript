@@ -1,4 +1,8 @@
-## If composto ( Desvio condicional )
+## If composto 
+
+## Desvio condicional
+
+<p> Algoritmo que informa qual e a classificação que a pessoa está exemplo  criança , adolescente , adulto ou idoso , sendo que a idade é informada pelo programador  </p>
 
 ```Javascript 
 
@@ -29,6 +33,41 @@ else {
 }
 
 ```
+
+
+<p> Algoritmo que informa qual e a classificação que a pessoa está exemplo : criança , adolescente , adulto ou idoso ,  sendo que a idade é informada pelo usuário  </p>
+
+```Javascript 
+
+var idade = parseInt(prompt(" Digita o número da idade : ");
+
+if (idade <11) {
+
+   console.log("Criança");
+
+}
+
+else if (idade > 12 && idade < 17) {
+
+   console.log("Adolescente");
+
+}
+
+else if (idade >= 18 && idade <= 55) {
+
+   console.log("Adulto");
+
+}
+
+else {
+
+   console.log("Idoso");
+
+}
+
+```
+
+
 
 
 ## Switch Case
