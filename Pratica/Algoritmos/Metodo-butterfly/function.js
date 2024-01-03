@@ -17,20 +17,42 @@ wingRight = d * nTwo ;
 butterfly = wingLeft + wingRight ; 
 calcD = d * dTwo ; 
 
+console.log("Butterfly method");
+
 if ( butterfly % 2 == 0  &&  calcD % 2 == 0 ) {
 
-sinOne = butterfly / 2 ;
-sinTwo = calcD / 2 ;
+console.log("");
+
+
+console.log (" "+n+" + "+nTwo+" = "+butterfly);
+console.log (" "+d+"   "+dTwo+"    "+calcD);
+
+console.log("");
+    
+console.log("Simplificou");
+
+console.log("");
+
+console.log(" "+butterfly+" : / 2 ");
+console.log(" "+calcD+" : / 2 ");
+
+sinOne = (butterfly / 2) ;
+sinTwo = (calcD / 2) ;
+
+console.log("");
+
+console.log("Resultado final :");
+
 console.log("");
 
 console.log (" "+n+" + "+nTwo+" = "+sinOne);
-console.log (" "+d+"    "+dTwo+"      "+sinTwo);
+console.log (" "+d+"   "+dTwo+"    "+sinTwo);
 
 }
 
 else {
 
 console.log (" "+n+" + "+nTwo+" = "+butterfly);
-console.log (" "+d+"    "+dTwo+"      "+calcD);
+console.log (" "+d+"   "+dTwo+"    "+calcD);
 
 }
