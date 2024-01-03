@@ -1,6 +1,6 @@
 ### 1 - Revisão : prática usando a estrutura  for e if de forma encadeado .
 
-'''javascript 
+```javascript 
 
 
 n = parseInt(prompt("Digite o número que vai definir o inicio de tabelas de tabuada") ;
