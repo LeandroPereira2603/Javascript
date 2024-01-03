@@ -48,7 +48,7 @@ claro  se o úsuario preferir  esta
 quantidade .*/
 
 ```
-### 2 Lógica de programação : desvio condicional encadeado composto , prática : 
+### 2 - Lógica de programação : desvio condicional encadeado composto , prática : 
 
 
 ```javascript 
