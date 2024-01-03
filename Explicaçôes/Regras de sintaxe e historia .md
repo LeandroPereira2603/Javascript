@@ -6,8 +6,7 @@
 ## Acontecimentos importantes 
 
 *
-*
-*
+
 
 ## Sobre o JavaScript : 
 
