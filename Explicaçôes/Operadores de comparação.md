@@ -27,6 +27,7 @@ var n = 30 ;
 var nome = "Leandro";
 
 if (n === nome ) {
+
  console.log("Verdadeiro");
 
 }
