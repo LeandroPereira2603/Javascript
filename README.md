@@ -12,7 +12,7 @@
 | Concluído    |  💻  | 3 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 3 | 
-| Desenvolvida para outro idioma | 🗺️ | 1 |
+| Desenvolvimento para outro idioma | 🗺️ | 1 |
 
 ## 💻 Prática (Github Pages) 
 ### Prática sites:  
