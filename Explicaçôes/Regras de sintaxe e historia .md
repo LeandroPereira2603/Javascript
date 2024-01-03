@@ -3,19 +3,28 @@
 
  <p> Criado por Brendan Eich em 4 de dezembro 1995  </p> 
 
-## Regras de sintaxe da linguagem : 
+## Sobre o JavaScript : 
 
-|Descrição | Habilitado | 
+| Descrição | Incluso | 
 |:--:|:--:|
 |Tipagem dinâmica | Sim |
 |Tipagem estática | Não | 
+|Tioagem fraca | sim |
+|Tipagem forte | não |
+|Orientado a objeto | sim |
+|Multiplataforma | não |
+
+
+## Regra de sintaxe da linguagem
 
 * Obrigatório colocar ponto e virgula 
-* tipagem dinâmica 
-* tipagem fraca 
+* A indentação não interfere ao rodar o código
+
 
 Exemplo :
 
 ```javascript
+
 console.log('Hello , world !!!');
+
 ```
