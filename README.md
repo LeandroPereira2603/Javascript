@@ -19,8 +19,8 @@
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Prática algoritmos :
-* 💻 [ Explicação : Tabuada - arquivo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [Código-fonte: Tabuada - arquivo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
-* 💻[Explicação : Metódo de butterfly -  arquivo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕[Código-fonte - Metódo de butterfly : arquivo.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
+* 💻 [ Arquivo.md : Tabuada  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [ Arquivo.js: Tabuada ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
+* 💻[  Arquivo.md : Metódo de butterfly  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Arquivo.js : Metódo de butterfly ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
 
 ## 📚 Tópicos de estudos 
 
