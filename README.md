@@ -56,7 +56,8 @@
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
  Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar */
-var c = prompt("Digite o número máximo de tabuadas que deseja visualizar "); 
+
+var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visualizar ")); 
 c++;
 var n = 0;
 for (var k=0 ;k<c;k++){ 
