@@ -1,6 +1,17 @@
+# Algoritmo
+
+## Tabuada 
+
+<p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
+
+### são três algoritmos 
+
+* 1 - Determina a escolha do conjunto de tabuadas , defindas pelo úsuario de inicio e fim .
+* 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario .
+* 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario .
+
 
 ```javascript
-
 
 var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
 
