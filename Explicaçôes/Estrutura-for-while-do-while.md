@@ -34,6 +34,7 @@ for(var p in 0){
 }
 ```
 
+<p> Ele vai verificar primeiro a condição para sair do laço de repetição e imprimir as informações </p>
 
 
 ## While
@@ -49,6 +50,8 @@ for(var p in 0){
 ```
 ## Do While
 
+<p> Ele ira imprimir a informação primeiro e depois verificar o condicionamento para poder sair do laço </p>
+
 ```javascript 
 
     var i = 1;
@@ -59,7 +62,9 @@ for(var p in 0){
     while(i<=6);
 
 ```
+
 ## forEach
+
 ```javascript
 
 var erros = [];
