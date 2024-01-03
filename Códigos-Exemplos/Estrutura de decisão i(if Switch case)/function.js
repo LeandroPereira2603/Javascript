@@ -34,7 +34,7 @@ else {
 
 
 
-
+var dia = 2;
 
 switch(dia) {
    case 0:
