@@ -71,7 +71,7 @@ switch(dia) {
 
 // Exemplo de escolha definida pelo úsuario
 
-var day = prompt("Digite o número de 0 á 6 ") ;
+var day = parseInt(prompt("Digite o número de 0 á 6 ")) ;
 
 
 switch(day) {
