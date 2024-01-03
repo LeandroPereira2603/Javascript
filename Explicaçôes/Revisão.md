@@ -61,7 +61,7 @@ switch(escolha) {
    
     console.log("Que pena ,voce escolheu o caminho     muito longo !") ;
 
-    breack;
+  breack;
  
   case: 2
   
