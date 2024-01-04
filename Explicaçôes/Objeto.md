@@ -32,7 +32,7 @@ const butterly = {
 
 ``` 
 
-**Exemplo** Objeto  siglaPais
+**Exemplo** : Objeto  siglaPais
 
 ```javascript 
 
