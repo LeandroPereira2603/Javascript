@@ -15,7 +15,7 @@ x.toFixed(2);
 
 ```
 
-### 2 -Math.random()
+### 2 - Math.random()
 
 <p> Serve para gerar número aleatório </p>
 
