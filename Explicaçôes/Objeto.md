@@ -2,7 +2,7 @@
 
 ## Função com retorno da chave do objeto
 
-### Objeto : butterfly
+**Exemplo** : Objeto butterfly
 
 ```javascript 
 
@@ -32,7 +32,7 @@ const butterly = {
 
 ``` 
 
-### Objeto : siglaPais
+**Exemplo** Objeto  siglaPais
 
 ```javascript 
 
