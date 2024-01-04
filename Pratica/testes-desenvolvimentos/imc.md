@@ -40,5 +40,11 @@ console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
 
 }
 
+else {
+
+ console.log(" "+imc+" : este resultado não tem na descrição da tabela I.M.C ");
+
+}
+
 
 ```
