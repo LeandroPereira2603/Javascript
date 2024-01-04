@@ -1,4 +1,6 @@
-## desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chances dd  conquistas.
+## desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chancea.
+
+# em desenvolvimento 
 
 ```javascript 
 
@@ -24,10 +26,12 @@
       }
 
          if ( n == 1 ) {
-          console.log ( " "+n+"  são minhas chances de casar com voce meg , de ouvir um sim  "+n);
+          console.log ( " "+n+"  de chances   "+n);
+          
     }
        else {
-              console.log(" "+n+" tentativas e a resposta é não ") ;
+              console.log(" "+n+" tentativas e a resposta é não deu certo ") ;
+             console.log(" 
        }
 
 ```
