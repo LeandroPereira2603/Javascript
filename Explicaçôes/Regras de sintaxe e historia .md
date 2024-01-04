@@ -26,7 +26,7 @@
 ## Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula 
-* A indentação não interfere ao rodar o código ,no javascript é definida com chaves que são colchetes { } ,que vai determina o inicio e fim de um bloco de instrução de uma estrutura .
+* A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura .
 
 
 Exemplo :
