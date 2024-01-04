@@ -98,7 +98,7 @@ default :
 ```
 
 
-## (Geral) Todos os cálculos de tabuada 
+## (Geral) - Todos os cálculos de tabuada 
  
 ### Switch case 
 
