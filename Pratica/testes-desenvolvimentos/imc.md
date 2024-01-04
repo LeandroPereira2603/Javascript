@@ -1,6 +1,6 @@
 ## I.M.C
 
-* Algoritmo que calcule o I.M.C  , sendo que usuário coloque o peso e altura para calcular , e mostre qual grau que esta no resultado do IMC .
+* Algoritmo que calcule o I.M.C  , sendo que usuário coloque o peso e altura para calcular , e o sistema mostre qual grau que esta , de acordo da tabela do IMC .
 
 
 |Peso (kg) | IMC |
