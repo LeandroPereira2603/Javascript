@@ -1,50 +1,20 @@
-### desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chancea.
+### desafio de fazer o algoritmo com provabilidade de números ,  para treinar a base para depois  construir um modelo de cientista de dados mais elaborado , sendo que o número e escolhida pelo usúario .
 
 # em desenvolvimento 
 
 ```javascript 
 
+var x = parseInt(prompt("Escolha um número de 0 á 100 ");
 
- for (var i ; i<2; i++){
- \\vai repetir para criar o número duas vezes na váriavel 
-    var n =parseInt(prompt("Digite um número "));
-   for (var k;k<8;k++){
-       
-     for (var c;c<6;c++){
-       for (var = f;f<45; f++ ){
+var y = 100 ;
 
-           console.log('');
+var n = Math.random(x).toFixed(2)*100;
 
-            var rand = n.random(0,100000000000000000000);
-           
-            console.log("O número de tentativas   para conquistar é "+n);
+var porc = ( n / y ) * 100 ; 
 
 
-          }
+console.log (" A porcentagem : "+porc+" % ") ;
 
-        }
-      }
+\\ A porcentagem vai alterar de acordo com os digitos do usuário .   
 
-         if ( n == 1 ) {
-          console.log ( " "+n+"  de chances   "+n);
-          
-    }
-       else {
-              console.log(" "+n+" tentativas e a resposta é não deu certo ") ;
-             console.log(" 
-       }
-
-```
-
-## Matriz vom for array
-
-
- ```javascript
-
- var matriz = {[0,6,8,8] , [5,7,8,8 ] , [5,7,7,8 ]         [ 6,8,8,8] };
- 
-     for ( var i;i< matriz[[k]].lenght();i++){
-         matriz.push[[c]];
-          
-      }
 ```
