@@ -24,10 +24,10 @@
       }
 
          if ( n == 1 ) {
-          console.log ( " minhas chances de casar com voce meg , de ouvir sim  "+n);
+          console.log ( " "+n+"  são minhas chances de casar com voce meg , de ouvir um sim  "+n);
     }
        else {
-              console.log(" esta tentativa a resposta é não ") ;
+              console.log(" "+n+" tentativas e a resposta é não ") ;
        }
 
 ```
