@@ -43,7 +43,7 @@
 * [Função](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Fun%C3%A7%C3%A3o.md)
 * [Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
 
-### Bibliotecas e métodos  :
+### Complementos :
 
 * [Objeto]
 * [Métodos]
