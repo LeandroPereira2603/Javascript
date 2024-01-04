@@ -15,10 +15,10 @@
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
 ## 💻 Prática 
-### Sites ( Git hub : pages )
+### Prática sites ( Git hub : pages )
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-### Algoritmo ( extensões: md , js )
+### Prática algoritmo ( extensões : md , js )
 
 * md - para explicação detalhada do algoritmo 
 * js - execusão do algoritmo em javascript
