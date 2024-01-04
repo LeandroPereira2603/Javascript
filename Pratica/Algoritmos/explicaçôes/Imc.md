@@ -8,7 +8,9 @@
 | < 18,5kg/m2 | Baixo peso |
 | > 18,5 até 24,9kg/m2 | Eutrofia - peso adequado |
 | ≥ 25 até 29,9kg/m2 até 34,9kg/m2 | Sobrepeso |
-| > 30,0kg/m2 até 34,9km/m2 | Obesidade grau |
+| > 30,0kg/m2 até 34,9km/m2 | Obesidade grau 1 |
+
+<p>O Usuário vai digitar o número , para o peso e altura , o sistema irá calcular e informar qual é o grau que esta de acordo com a medida da tabela do imc . </p>
 
 ```javascript
 
@@ -22,31 +24,31 @@ var imc = kg / ( alt * alt ) ;
 
 if ( imc < 18.5 ) {
 
- console.log (" IMC = "+imc+" ( baixo peso ) ");
+ console.log (" IMC = "+imc+" kg/m2 ( baixo peso ) ");
  
 }
 
 else if ( imc > 18.6 && imc < 24.9 ) {
 
- console.log (" IMC = "+imc+" ( peso adequado ) ");
+ console.log (" IMC = "+imc+" kg/m2 ( peso adequado ) ");
 
 }
 
 else if ( imc >=25 && imc < 34.9 ) {
 
- console.log (" IMC = "+imc+" ( sobrepeso ) ");
+ console.log (" IMC = "+imc+" kg/m2 ( sobrepeso ) ");
 
 }
 
 else if( imc > 30  && imc < 34.9 ) {
 
-console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
+console.log (" IMC = "+imc+" kg/m2 ( Obesidade grau 1 )");
 
 }
 
 else {
 
- console.log(" "+imc+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
+ console.log(" "+imc+" kg/m2 : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
 
 }
 
@@ -68,25 +70,25 @@ var imc = kg / ( alt * alt ) ;
 
 if ( imc < 18.5 ) {
 
-var result = console.log (" IMC = "+imc+" ( baixo peso ) ");
+var result = console.log (" IMC = "+imc+" kg/m2 ( baixo peso ) ");
 
 }
 
 else if ( imc > 18.6 && imc < 24.9 ) {
 
- var result = console.log (" IMC = "+imc+" ( peso adequado ) ");
+ var result = console.log (" IMC = "+imc+" kg/m2 ( peso adequado ) ");
 
 }
 
 else if ( imc >=25 && imc < 34.9 ) {
 
- var result =console.log (" IMC = "+imc+" ( sobrepeso ) ");
+ var result =console.log (" IMC = "+imc+" kg/m2 ( sobrepeso ) ");
 
 }
 
 else if ( imc > 30  && imc < 34.9 ) {
 
-var result = console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
+var result = console.log (" IMC = "+imc+" kg/m2 ( Obesidade grau 1 )");
 
 }
 
