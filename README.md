@@ -59,7 +59,7 @@
 ### Prática :  resolvendo algoritmos ( extensões : md , js )
 
 | Descrição | Extensão | 
-|:--:|:--|
+|:--:|:--:|
 | Para melhor visualização , e com detalhes sobre o algoritmo | .md |
 | Para execusão do algoritmo em javascript | .js |
  
