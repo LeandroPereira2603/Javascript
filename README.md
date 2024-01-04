@@ -18,7 +18,7 @@
 ### Sites ( Git hub : pages )
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-### Algoritmos ( extensões: md , js )
+### Algoritmo ( extensões: md , js )
 
 * md - para explicação detalhada do algoritmo 
 * js - execusão do algoritmo em javascript
