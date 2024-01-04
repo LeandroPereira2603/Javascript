@@ -49,7 +49,9 @@ else {
 
 ```
 
-### exemplo com função e objeto 
+### Exemplo com função 
+
+<p> o peso e altura ja programado para o resultádo ,com objeto </p>
 
 ```javascript 
 
