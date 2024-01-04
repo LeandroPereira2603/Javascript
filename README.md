@@ -53,7 +53,7 @@
 
 ### Complementos :
 
-* 🟡 [Objeto]
+* 🟡 [Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
 * [Métodos]
 * [String : manipulando caracteres]
 + [importação de bibliotecas] 
