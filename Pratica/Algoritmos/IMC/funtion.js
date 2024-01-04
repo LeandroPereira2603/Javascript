@@ -1,20 +1,9 @@
-## I.M.C
-
-* Algoritmo que calcule o I.M.C  , sendo informada pelo usúario o peso e altura, mostrando o grau que esta no resultado de acordo com a tabela abaixo .
-
-
-|Peso (kg) | IMC |
-|:--:|:--:|
-| < 18,5kg/m2 | Baixo peso |
-| > 18,5 até 24,9kg/m2 | Eutrofia - peso adequado |
-| ≥ 25 até 29,9kg/m2 até 34,9kg/m2 | Sobrepeso |
-| > 30,0kg/m2 até 34,9km/m2 | Obesidade grau |
-
-```javascript
 
 var kg = parseFloat(prompt("Digite qual é o seu peso : "));
 
 var alt = parseFloat(prompt("Digite a sua altura :"));
+
+console.log("");
 
 console.log("Cálculo com os dados iformados pelo usuário altura : "+alt+" peso : "+kg+" ");
 
@@ -44,20 +33,16 @@ console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
 
 }
 
-else {
+else {  
 
- console.log(" "+imc+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
+    console.log(" "+imc+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
 
 }
 
 
-```
+console.log("");
 
-### Exemplo com função 
-
-<p> o peso e altura ja programado para o resultádo , com objeto criado pessoa .  </p>
-
-```javascript 
+console.log("Cálculo com oas dados ja estabelicido programado !! peso : 62 altura : 1.60 ");
 
 
 function calculoImc ( kg , alt ) {
@@ -92,10 +77,7 @@ var result = console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
 
 else {
 
-
-console.log("");
-
-console.log("Cálculo com oas dados ja estabelicido programado !! peso : 62 altura : 1.60 ");
+ var result = console.log(" "+imc+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
 
 }
 
@@ -121,4 +103,5 @@ var pesoLeandro = pessoa ['peso'];
 calculoImc(pesoLeandro ,altLeandro)  ; 
 
 
-```
+
+
