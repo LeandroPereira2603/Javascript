@@ -15,7 +15,7 @@ const butterly = {
  'nome' : 'Butterfly,
  'peso' : 0.1,
  'altura' : 0.8,
- 'cor' : azul 
+ 'cor' : azul  
 
 }
 
