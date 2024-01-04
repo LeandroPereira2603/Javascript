@@ -16,7 +16,7 @@
 
 
 
-## 📚 Tópicos de estudos 
+## 📚 Tópicos de estudo
 
 
 ### Sobre :
