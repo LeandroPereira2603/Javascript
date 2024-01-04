@@ -12,9 +12,9 @@
 
 ```javascript
 
-var kg = parseFloat(prompt("Digite qual é o seu peso : "));
+var kg = parseDouble(prompt("Digite qual é o seu peso : "));
 
-var alt = parseFloat(prompt("Digite a sua altura :"));
+var alt = parseDouble(prompt("Digite a sua altura :"));
 
 var imc = kg / ( alt * alt ) ; 
 
