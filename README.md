@@ -57,7 +57,7 @@
 
 ### Prática de algoritmos ( extensões : md , js )
 
-* md - para explicação detalhada do algoritmo 
+* md - para melhor visualização com detalhes do algoritmo 
 * js - execusão do algoritmo em javascript
  
 #### Algoritmos de Cálculos  
