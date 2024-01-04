@@ -3,9 +3,9 @@
 * Algoritmo que calcule o I.M.C  , sendo que usuário coloque o peso e altura para calcular , e mostre qual grau que esta no resultado do IMC .
 
 
-|peso| imc |
+|Peso (kg) | IMC |
 |:--:|:--:|
-| < 18,5kg/m2 | baixo peso |
+| < 18,5kg/m2 | Baixo peso |
 | > 18,5 até 24,9kg/m2 | Eutrofia - peso adequado |
 | ≥ 25 até 29,9kg/m2 até 34,9kg/m2 | Sobrepeso |
 | > 30,0kg/m2 até 34,9km/m2 | Obesidade grau |
