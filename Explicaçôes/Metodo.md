@@ -11,7 +11,7 @@ var x = 13.23232;
 
 x.toFixed(2);
 
-\\ retorna : 13.23 
+// retorna : 13.23 
 
 ```
 
@@ -25,6 +25,6 @@ var y ;
 
 y = Math.random(0,100).toFixed(2)*100;
 
-\\Retorna : vai gerar um número diferente toda vez que atualizar a página 
+//Retorna : vai gerar um número diferente toda vez que atualizar a página 
 
 ```
