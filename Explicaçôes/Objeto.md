@@ -12,7 +12,7 @@ function butterfly (caracteristicas) {
 
 const butterly = {
 
- 'nome' : 'Butterfly,
+ 'nome' : 'Butterfly',
  'peso' : 0.1,
  'altura' : 0.8,
  'cor' : azul  
