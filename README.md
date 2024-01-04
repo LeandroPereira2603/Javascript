@@ -14,6 +14,8 @@
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
+
+
 ## 📚 Tópicos de estudos 
 
 
