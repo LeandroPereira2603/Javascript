@@ -36,7 +36,7 @@ else if ( imc >=25 && imc < 34,9 ) {
 
 else if ( imc > 30  && < 34,9 } {
 
-console.log (" IMC = "+imc+" ( Obesidade grau 1);
+console.log (" IMC = "+imc+" ( Obesidade grau 1)");
 
 }
 
