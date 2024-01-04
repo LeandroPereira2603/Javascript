@@ -26,7 +26,8 @@
 #### Algoritmos de Cálculos  
 * 💻 [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
 * 💻[  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
-* [IMC]
+* 💻[Imc.md] [Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
+
 
 
 ## 📚 Tópicos de estudos 
