@@ -8,7 +8,7 @@
 
 function butterfly (caracteristicas) {
 
-\\ Criando objto que não pode ser alterado , pois esta dentro da variável const "constante"
+// Criando objto que não pode ser alterado , pois esta dentro da variável const "constante"
 
 const butterly = {
 
@@ -23,11 +23,11 @@ const butterly = {
 
 }
 
-\\ Acessar a chave do objeto butterfly 
+// Acessar a chave do objeto butterfly 
 
   console.log(butterfly('nome'));
 
-\\ Vai retornar : 'Butterfly'
+// Vai retornar : 'Butterfly'
 
 
 ``` 
@@ -53,7 +53,7 @@ return siglaPais[sigla] || 'País não encontrado';
 
 }
 
-\\ Ativando a função siglapais , pesquisando no parâmetro da função 'Russian', retornando o atributo da chave do objeto pais : 'RUS' .
+// Ativando a função siglapais , pesquisando no parâmetro da função 'Russian', retornando o atributo da chave do objeto pais : 'RUS' .
 
 console.log(siglaPais('Russian'));
 
