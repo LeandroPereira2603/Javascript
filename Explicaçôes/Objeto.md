@@ -1,6 +1,6 @@
 # Objeto 
 
-## Função com retorno da chave do objeto
+## Função para retornar a chave do objeto
 
 **Exemplo** : Objeto butterfly
 
