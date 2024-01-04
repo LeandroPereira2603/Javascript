@@ -14,8 +14,8 @@
 | Código Fonte - local do repositório | ☕ | 3 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
-## 💻 Prática (Github Pages) 
-### Prática : sites  
+## 💻 Prática 
+### Prática : sites ( Git Hub Pages ) 
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Prática : algoritmos 
