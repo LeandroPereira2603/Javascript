@@ -5,10 +5,10 @@
 
 |peso| imc |
 |:--:|:--:|
-| <18,5kg/m2 | baixo peso |
-| >18,5 até 24,9kg/m2 | Eutrofia (peso adequado) |
-| ≥25 até 29,9kg/m2 até 34,9kg/m2 | Sobrepeso |
-| >30,0kg/m2 até 34,9km/m2 | Obesidade grau |
+| < 18,5kg/m2 | baixo peso |
+| > 18,5 até 24,9kg/m2 | Eutrofia - peso adequado |
+| ≥ 25 até 29,9kg/m2 até 34,9kg/m2 | Sobrepeso |
+| > 30,0kg/m2 até 34,9km/m2 | Obesidade grau |
 
 ```javascript
 
@@ -24,19 +24,19 @@ if ( imc < 18,5 ) }
 
 else if ( imc > 18,6 && imc < 24,9 ) {
 
- console.log (" IMC = "+imc+" (peso adequado ");
+ console.log (" IMC = "+imc+" ( peso adequado ) ");
 
 }
 
 else if ( imc >=25 && imc < 34,9 ) {
 
- console.log (" IMC = "+imc+" ( sobrepeso ");
+ console.log (" IMC = "+imc+" ( sobrepeso ) ");
 
 }
 
 else if ( imc > 30  && < 34,9 } {
 
-console.log (" IMC = "+imc+" ( Obesidade grau 1)");
+console.log (" IMC = "+imc+" ( Obesidade grau 1 )");
 
 }
 
