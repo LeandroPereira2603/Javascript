@@ -15,7 +15,7 @@
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
 ## 💻 Prática 
-### Prática : sites ( Git Hub Pages ) 
+### Prática : sites ( Git hub pages ) 
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Prática : algoritmos 
