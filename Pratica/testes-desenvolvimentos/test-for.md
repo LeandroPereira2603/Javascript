@@ -1,4 +1,4 @@
-## for encadeado com multiplos teste .
+## desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chances dd  conquistas.
 
 ```javascript 
 
