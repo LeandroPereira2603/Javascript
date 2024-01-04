@@ -45,12 +45,12 @@
 
 ### Bibliotecas e métodos  :
 
+* [Objeto]
 * [Métodos]
 * [String : manipulando caracteres]
-
++ [importação de bibliotecas] 
 
 ### Manipulação de elementos DOM ( Document Object Model ) :
-
 
 * [querySelector e querySelectorAll]
 * [addEventListener]
