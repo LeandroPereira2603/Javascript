@@ -1,4 +1,4 @@
-## desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chancea.
+### desafio de fazer o algoritmo com for encadeado com multiplos testando as provabilidade de chancea.
 
 # em desenvolvimento 
 
