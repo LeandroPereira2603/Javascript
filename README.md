@@ -8,7 +8,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 2 |
+| Em desenvolvimento    |  🟡  | 3 |
 | Concluído    |  💻  | 4 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
@@ -53,7 +53,7 @@
 
 ### Complementos :
 
-* [Objeto]
+* 🟡 [Objeto]
 * [Métodos]
 * [String : manipulando caracteres]
 + [importação de bibliotecas] 
