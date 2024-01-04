@@ -68,6 +68,8 @@
 * 💻[  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
 * 💻[ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
 
+#### Algoritmo de lógica 
+* [ ] 
 
 **Algoritmo** predileto :
 
