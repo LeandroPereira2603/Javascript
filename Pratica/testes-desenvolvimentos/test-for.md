@@ -35,8 +35,8 @@
 
 '''javascript 
 
-var matriz = {[0,6,8,8] , [5,7,8,8 ] , [5,7,7,8 ] [6,8,8,8] };
-
+ var matriz = {[0,6,8,8] , [5,7,8,8 ] , [5,7,7,8 ]         [ 6,8,8,8] };
+ 
      for ( var i;i< matriz[[k]].lenght();i++){
          matriz.push[[c]];
           
