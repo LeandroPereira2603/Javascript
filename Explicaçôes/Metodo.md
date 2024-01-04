@@ -23,7 +23,7 @@ x.toFixed(2);
 
 var y ;
 
-y.Math.random(0,100);
+y = Math.random(0,100).toFixed(2)*100;
 
 \\Retorna : vai gerar um número diferente toda vez que atualizar a página 
 
