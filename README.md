@@ -60,8 +60,8 @@
 
 | Descrição | Extensão | 
 |:--:|:--|
-| Para melhor visualização , e com detalhes sobre o algoritmo | md |
-| Para execusão do algoritmo em javascript |
+| Para melhor visualização , e com detalhes sobre o algoritmo | .md |
+| Para execusão do algoritmo em javascript | .js |
  
 #### Algoritmos de Cálculos  
 * 💻 [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
