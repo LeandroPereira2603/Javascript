@@ -98,10 +98,11 @@ default :
 ```
 
 
-## Todos em um só algoritmo 
+## Todos os cálculos de tabuada 
+ 
 ### Switch case 
 
-<p> Com o switch case o úsuario vai escolher qual algoritmo quer visualizar </p>
+<p> Com o switch case o úsuario vai escolher qual algoritmo de cálculo de tabuada quer visualizar </p>
 
 ```javascript
 
