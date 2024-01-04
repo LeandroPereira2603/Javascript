@@ -11,31 +11,31 @@ var imc = kg / ( alt * alt ) ;
 
 if ( imc < 18.5 ) {
 
- console.log (" IMC = "+imc+" kg/m2 ( baixo peso ) ");
+ console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( baixo peso ) ");
  
 }
 
 else if ( imc > 18.6 && imc < 24.9 ) {
 
- console.log (" IMC = "+imc+" kg/m2 ( peso adequado ) ");
+ console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( peso adequado ) ");
 
 }
 
 else if ( imc >=25 && imc < 34.9 ) {
 
- console.log (" IMC = "+imc+" kg/m2 ( sobrepeso ) ");
+ console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( sobrepeso ) ");
 
 }
 
 else if( imc > 30  && imc < 34.9 ) {
 
-console.log (" IMC = "+imc+" kg/m2 ( Obesidade grau 1 )");
+console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( Obesidade grau 1 )");
 
 }
 
 else {  
 
-    console.log(" "+imc+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
+    console.log(" "+imc.toFixed(2)+" : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
 
 }
 
@@ -53,31 +53,31 @@ var imc = kg / ( alt * alt ) ;
 
 if ( imc < 18.5 ) {
 
-var result = console.log (" IMC = "+imc+" kg/m2 ( baixo peso ) ");
+var result = console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( baixo peso ) ");
 
 }
 
 else if ( imc > 18.6 && imc < 24.9 ) {
 
- var result = console.log (" IMC = "+imc+" kg/m2 ( peso adequado ) ");
+ var result = console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( peso adequado ) ");
 
 }
 
 else if ( imc >=25 && imc < 34.9 ) {
 
- var result =console.log (" IMC = "+imc+" kg/m2 ( sobrepeso ) ");
+ var result =console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( sobrepeso ) ");
 
 }
 
 else if ( imc > 30  && imc < 34.9 ) {
 
-var result = console.log (" IMC = "+imc+" kg/m2 ( Obesidade grau 1 )");
+var result = console.log (" IMC = "+imc.toFixed(2)+" kg/m2 ( Obesidade grau 1 )");
 
 }
 
 else {
 
- var result = console.log(" "+imc+" kg/m2 : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
+ var result = console.log(" "+imc.toFixed(2)+" kg/m2 : este resultado não tem na descrição de grau do imc na tabela I.M.C ");
 
 }
 
@@ -100,7 +100,7 @@ var altLeandro = pessoa['altura'];
 var pesoLeandro = pessoa ['peso'];
 
 
-calculoImc(pesoLeandro ,altLeandro)  ; 
+calculoImc(pesoLeandro, altLeandro)  ; 
 
 
 
