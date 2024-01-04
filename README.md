@@ -53,10 +53,10 @@
 * [create object]
 
 ## 💻 Prática 
-### Prática de sites ( Git hub : pages )
+### Prática construindo elementos do site ( Git hub : pages )
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-### Prática de algoritmos ( extensões : md , js )
+### Prática resolvendo algoritmos ( extensões : md , js )
 
 * md - para melhor visualização com detalhes do algoritmo 
 * js - execusão do algoritmo em javascript
