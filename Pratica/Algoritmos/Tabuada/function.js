@@ -1,7 +1,7 @@
 
 /* Algoritmo que da para escolher tipos de saida de calculos de tabuadas diferentes  */
 
-var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
+var escolha = parseInt(prompt("Escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo multiplicaçôes ")) ; 
 
 switch(escolha) { 
 
@@ -42,27 +42,6 @@ switch(escolha) {
 
    tabuadaDefinida(2,5+1);
 
-   // vai mostrar a tabuada do 2 ao 5 
-
-    /* Ou seja vai fazer como comando split() 
-    ou como um SELECT WHERE , no sentido de 
-    filtragem com dois termos  ,
-    so que neste caso  vai calcular
-    e mostrar somente as tabelas definidas
-    pelo úsuario , exemplo da tabuada 2
-    a tabuada 5 */
-
-    /* Com 14 linhas totais de código apenas,
-    da para mostrar  a tabuada completa do 
-    0 á 10 da tabuada 1 até 
-    o número da tabuada  que o úsuario 
-    quiser exemplo 1000000000, com  dois
-    digitos pelo usuario , 
-    claro  se o úsuario preferir  esta 
-    quantidade .*/
-
-    /*### 2 - Lógica de programação : desvio condicional encadeado composto , prática : */
-
     break;
 
   case 2 :
@@ -96,13 +75,29 @@ switch(escolha) {
     console.log("");
   
    break;
+
+   case 4 :
+
+    var t = parseInt(prompt("Digite o número da tabuada :"));
+
+    var s = parseInt(prompt("Digite o número de sequências maximas de multiplicação desta tabuada :"));
+
+    s++;
+
+    for (var i = 0;i<s;i++){
+
+    var result = t * i ; 
+
+    console.log ( " "+t+" x "+i+" = "+result);
+
+    }
+
+   break;
         
-default :
+   default :
     console.log("Erro este caminho não existe ") ;
 
 }
-
-
 
 
 

@@ -9,6 +9,7 @@
 * 1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 .
 * 2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario.
 * 3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario.
+* 4 - Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que foi definida pelo número escolhido pelo usuário .
 
 ### 1 - Conjunto de tabuada 
 
@@ -88,10 +89,26 @@ var c = parseInt(prompt("Digite o número da tabuada  deseja visualizar "));
      }
     console.log("");
   
-   break;
-        
-default :
-    console.log("Erro este caminho não existe ") ;
+
+```
+
+### 4 - Tabuada
+
+<p> Exemplo o usuário digitou 3 e 20 , vai mostrar a tabuada do 3 com sequência de multiplicaçôes do 0 ao 20 </P>
+
+```javascript 
+
+var t = parseInt(prompt("Digite o número da tabuada :"));
+
+var s = parseInt(prompt("Digite o número de sequências maximas de multiplicação desta tabuada :"));
+
+s++;
+
+for (var i = 0;i<s;i++){
+
+var result = t * i ; 
+
+  console.log ( " "+t+" x "+i+" = "+result);
 
 }
 
@@ -106,7 +123,7 @@ default :
 
 ```javascript
 
-var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada")) ; 
+var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo multiplcaçôes")) ; 
 
 switch(escolha) { 
 
@@ -177,14 +194,32 @@ switch(escolha) {
     console.log("");
   
    break;
+
+   case 4 :
+    var t = parseInt(prompt("Digite o número da tabuada :"));
+
+    var s = parseInt(prompt("Digite o número de sequências maximas de multiplicação desta tabuada :"));
+
+    s++;
+
+    for (var i = 0;i<s;i++){
+
+    var result = t * i ; 
+ 
+    console.log ( " "+t+" x "+i+" = "+result);
+
+    }
+    break;
         
-default :
+  default :
+
     console.log("Erro este caminho não existe ") ;
 
 }
 
 
 
-
-
 ```
+
+
+
