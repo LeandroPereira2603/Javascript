@@ -8,7 +8,7 @@
 
 function butterfly (caracteristicas) {
 
-// Criando objto que não pode ser alterado , pois esta dentro da variável const "constante"
+// Criando objeto , que não pode ser alterado , pois esta dentro da variável const, que significa uma "constante".
 
 const butterly = {
 
