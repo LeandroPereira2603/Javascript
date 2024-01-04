@@ -5,7 +5,7 @@
 
 <p> Serve para defenir a quantidade de casas decimais .</p>
 
-''' javascript
+``` javascript
 
 var x = 13.23232;
 
@@ -13,13 +13,13 @@ x.toFixed(2);
 
 \\ retorna : 13.23 
 
-'''
+```
 
 ### 2 -Math.random()
 
 <p> Serve para gerar número aleatório </p>
 
-'''javascript
+```javascript
 
 var y ;
 
@@ -27,4 +27,4 @@ y = Math.random(0,100).toFixed(2)*100;
 
 \\Retorna : vai gerar um número diferente toda vez que atualizar a página 
 
-'''
+```
