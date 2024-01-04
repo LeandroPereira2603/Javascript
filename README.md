@@ -19,6 +19,10 @@
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ### Algoritmos ( extensões: md , js )
+
+* md - para explicação detalhada do algoritmo 
+* js - execusão do algoritmo em javascript
+ 
 #### Cálculos  
 * 💻 [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md) ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js)
 * 💻[  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
