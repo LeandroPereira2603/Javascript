@@ -94,7 +94,7 @@ return result ;
 
 }
 
-criando objeto pessoa com chave
+\\ criando objeto pessoa com chave
 
 var const pessoa = {
 
