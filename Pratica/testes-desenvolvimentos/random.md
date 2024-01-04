@@ -1,6 +1,6 @@
-### desafio de fazer o algoritmo com provabilidade de números ,  para treinar a base para depois  construir um modelo de cientista de dados mais elaborado , sendo que o número e escolhida pelo usúario .
+<p> desafio de fazer o algoritmo com provabilidade de números ,  para treinar a base para depois  construir um modelo de cientista de dados mais elaborado , sendo que o número e escolhida pelo usúario .,/p>
 
-# em desenvolvimento 
+### em desenvolvimento 
 
 ```javascript 
 
