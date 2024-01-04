@@ -14,10 +14,10 @@
 |:--:|:--:|
 |Tipagem dinâmica | Sim |
 |Tipagem estática | Não | 
-|Tipagem fraca | sim |
-|Tipagem forte | não |
-|Orientado a objeto | sim |
-|Multiplataforma | sim |
+|Tipagem fraca | Sim |
+|Tipagem forte | Não |
+|Orientado a objeto | Sim |
+|Multiplataforma | Sim |
 
 <strong>Tipagem dinânima </strong> : Não precisa definir o tipo primitivo para a variável . </p> 
 <strong>Multiplataforma </strong> : O código roda em todos os sistemas operacionais ou seja em vários dispositivos diferentes . </p> 
