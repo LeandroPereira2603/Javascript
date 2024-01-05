@@ -24,3 +24,16 @@ Present the message "A=" followed by the value of the variable, as in the exampl
 |2.00 | A=12.5664 |
 | 100.64 | A=31819.3103 |
 | 150.00 | A=70685.7750 |
+
+```javascript 
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
+```
