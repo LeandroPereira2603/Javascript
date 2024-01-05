@@ -13,7 +13,7 @@ var r = parseInt(prompt("Digite um número para calcular : ") ;
 
 var pi = 3.14159;
 
-r.Math.pow(2).indexOf(4);
+r.Math.pow(2).toFixed(4);
 
 var result = pi * r ; 
 
