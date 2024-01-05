@@ -13,7 +13,10 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
-| | |
+
+<p> <strong>Legenda</strong> : arquivos ,</p>
+
+|desc | extensão |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
 | Para execusão do javascript | arquivo js |
