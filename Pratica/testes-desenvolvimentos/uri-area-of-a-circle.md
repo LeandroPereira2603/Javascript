@@ -55,7 +55,7 @@ var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4)));
 
 //other : 
 
-var a = ('A = '+(3.14159*r.toFixed(4).pot(2));
+var a = ('A = '+(3.14159*r.pot(2).toFixed(4));
 
 
 ```
