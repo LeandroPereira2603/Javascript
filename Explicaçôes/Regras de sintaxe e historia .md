@@ -5,7 +5,8 @@
 
 ## Acontecimentos importantes 
 
-*
+* Ecmascript
+* 
 
 
 ## Sobre o JavaScript : 
