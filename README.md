@@ -3,16 +3,18 @@
  
 
 
-<strong> Legenda :</strong> sobre o desenvolvimento
+<strong> Legenda :</strong> sobre prática , desenvolvimento , estudo .
 
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 3 |
-| Concluído    |  💻  | 4 |
+| Projeto concluído    |  💻  | 0 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
+| Exercicio em andamento |  🕗  |  0 |
+| Exercicio concluido | ✔ | 1 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de  extensão </p>
 
@@ -80,7 +82,7 @@
 
 ### Begin 
 
-* 
+* ✔ [Hello world!](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 
 **Algoritmo** predileto :
 
