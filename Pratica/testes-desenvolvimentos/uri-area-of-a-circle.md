@@ -19,7 +19,7 @@
 <p>
 The input contains a value of floating point (double precision), that is the variable R.  </p>
 
-<!-- A entrada contendo um valor de ponto flutuante (presição Double), que é a varoável R .-+
+<!-- A entrada contendo um valor de ponto flutuante (presição Double), que é a variável R . -->
 
 ### Output
 
@@ -47,5 +47,10 @@ var lines = input.split('\n');
  * Code your solution here
  * Escriba su solución aquí
  */
+
+var r = parseFloat(lines.shift());
+
+var a = ('A = '+r.readOf(-4));
+
 
 ```
