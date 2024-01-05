@@ -6,17 +6,29 @@
 
 <p> The formula to calculate the area of a circumference is defined as A = π . R2. Considering to this problem that π = 3.14159: </p>
 
+<!-- A fórmula para calcular a area de uma circuferência é definida com A = pi . R2 . considerando para este problema que pi = 3.14159 : --
+
 <p> Calculate the area using the formula given in the problem description.</p>
 
+<!-- Calcule a area usando a fórmula  given  na descrição do problema --
+
 ### Input
+
+<!-- entrada -->
 
 <p>
 The input contains a value of floating point (double precision), that is the variable R.  </p>
 
+<!-- A entrada contendo um valor de ponto flutuante (presição Double), que é a varoável R .-+
+
 ### Output
+
+<!-- saida -->
 
 <p>
 Present the message "A=" followed by the value of the variable, as in the example bellow, with four places after the decimal point. Use all double precision variables. Like all the problems, don't forget to print the end of line after the result, otherwise you will receive "Presentation Error".</p>
+
+<!-- Apresente a mensagem "A=" sequindo do valor da variável , como no exemplo abaixo , com quatro lugares (llp : ou seja casa decimais) depois o ponto decimal .Usa todos os double variáveis de precisão . Like all os problemas , não esqueça para imprimir o fim da linha depois o resultado , othetwise voce vai receber " Apresentação erro ". -->
 
 
 | Input Samples	| Output Samples |
