@@ -19,7 +19,7 @@
 | descrição | extensão |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
-| Para execusão do javascript | arquivo js |
+| Para execusão do javascript | arquivo.js |
 
 
 
