@@ -1,6 +1,6 @@
 # Area of a Circle
 
-<strong>Level : </strong> easy :star:
+<strong>Level : </strong> (:star:) - easy
 
 ### Timelimit: 1
 
