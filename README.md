@@ -14,7 +14,7 @@
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 | Exercicio em andamento |  🕗  |  0 |
-| Exercicio concluido | ✔ | 1 |
+| Exercicio concluido | ✔ | 2 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de  extensão </p>
 
@@ -83,6 +83,7 @@
 ### Begin 
 
 * ✔ [Hello world!](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
+* ✔ [ Extremely basic ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
 
 **Algoritmo** predileto :
 
