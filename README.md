@@ -16,7 +16,7 @@
 
 <p> <strong> Legenda : </strong>  extensão </p>
 
-| descrição | extensão |
+| Descrição | extensão |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
 | Para execusão do javascript | arquivo.js |
