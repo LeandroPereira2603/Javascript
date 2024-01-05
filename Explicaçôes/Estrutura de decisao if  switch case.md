@@ -2,7 +2,7 @@
 
 ## if : Desvio condicional
 
-<p> A estrutura if , tem a finalidade de criar e definir vários possibilidades de percurssos diferentes , tem vários exemplos de uso da esteutura : "simples" , "composto" , " encadeado ", levando ao certo destino final ,  sendo escolhidos o percuso já estabelecido "programado" ou definido por uma escolha do "úsuario"  . </p>
+<p> A estrutura if , tem a finalidade de criar e definir vários possibilidades de percurssos diferentes , tem vários exemplos de uso da estrutura : "simples" , "composto" , " encadeado ", levando ao certo destino final ,  sendo escolhidos o percuso já estabelecido "programado" ou definido por uma escolha do "úsuario"  . </p>
 
 ### if simples 
 
