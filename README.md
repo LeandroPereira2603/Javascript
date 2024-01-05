@@ -61,26 +61,22 @@
 
 # 💻 Prática 
 
-### Prática : construindo elementos do site ( Git hub : pages )
+## Sites ( Git hub : pages )
+
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-### Prática :  resolvendo algoritmos 
-
-| Descrição | Extensão | 
-|:--:|:--:|
-| Para melhor visualização , e com detalhes sobre o algoritmo | .md |
-| Para execusão do algoritmo em javascript | .js |
+## Algoritmos ( Geral ) 
  
-#### Algoritmos de Cálculos  
+### Cálculos  
 
 * 💻 [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md)  ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js) 
 * 💻[  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
 * 💻[ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
 
-#### Algoritmo de lógica 
+###  lógica 
 * [ ] 
 
-# 💻 Prática URI
+# 💻 Prática ( URI )
 
 ## Begin 
 
