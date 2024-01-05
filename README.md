@@ -13,6 +13,7 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
+| | |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
 | Para execusão do javascript | arquivo js |
