@@ -13,7 +13,7 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
-| Exercicio em andamento |  🕗  |  0 |
+| Exercicio em andamento |  🕗  |  1 |
 | Exercicio concluido | ✔ | 2 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de  extensão </p>
@@ -84,6 +84,7 @@
 
 * ✔ [Hello world!](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely basic ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
+* 🕗 [Area-of-a-circle](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
 
 **Algoritmo** predileto :
 
