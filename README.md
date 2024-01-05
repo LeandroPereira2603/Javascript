@@ -16,7 +16,7 @@
 
 
 
-## 📚 Tópicos de estudo
+# 📚 Tópicos de estudo
 
 
 ### Sobre :
@@ -52,7 +52,7 @@
 * [createElement]
 * [create object]
 
-## 💻 Prática 
+# 💻 Prática 
 ### Prática : construindo elementos do site ( Git hub : pages )
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
@@ -71,6 +71,13 @@
 
 #### Algoritmo de lógica 
 * [ ] 
+
+## Prática URI 
+
+### Begin 
+
+
+* 
 
 **Algoritmo** predileto :
 
