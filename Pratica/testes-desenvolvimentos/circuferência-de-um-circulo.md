@@ -7,7 +7,7 @@ calcule the values of cirference a circle the value of pi is π 3.14159 , input 
 <p> π = 3.14159. </p>
 
 
-'''javasceipt
+```javasceipt
 
 var r = parseInt(prompt("Digite um número para calcular : ") ;
 
