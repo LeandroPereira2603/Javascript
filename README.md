@@ -3,7 +3,7 @@
  
 
 
-<strong> Legenda :</strong>
+<strong> Legenda :</strong>desenvolvimento
 
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
@@ -14,7 +14,7 @@
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
-<p> <strong>Legenda</strong> : arquivos ,</p>
+<p> <strong>Legenda :</strong>  arquivos ,</p>
 
 |desc | extensão |
 |:--:|:--:|
