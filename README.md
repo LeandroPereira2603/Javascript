@@ -76,9 +76,9 @@
 ###  lógica :
 * [ ] 
 
-# 💻 Prática ( URI )
+## URI ( Geral }
 
-## Begin 
+### Begin 
 
 * 
 
