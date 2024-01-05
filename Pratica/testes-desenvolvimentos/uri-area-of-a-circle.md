@@ -46,11 +46,16 @@ var lines = input.split('\n');
  * Escreva a sua solução aqui
  * Code your solution here
  * Escriba su solución aquí
+ *the Calculate of circuference of a circle  is : π x R² 
  */
 
 var r = parseFloat(lines.shift());
 
 var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4)));
+
+//other : 
+
+var a = ('A = '+(3.14159*(r.toFixed(4).pot(2)));
 
 
 ```
