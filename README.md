@@ -14,7 +14,7 @@
 | Código Fonte - local do repositório | ☕ | 4 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 
-<p> <strong> Legenda : </strong>  arquivo </p>
+<p> <strong> Legenda : </strong>  extensão </p>
 
 | descrição | extensão |
 |:--:|:--:|
