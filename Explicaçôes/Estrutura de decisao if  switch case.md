@@ -92,6 +92,9 @@ else {
 
 ### if encadeado 
 
+<p> If encadeado vai definir duas estrutura de condição ou mais , sendo if colocado dentro de outro if. </p>
+
+
 ```javascript 
 
 var x = 50 ;
