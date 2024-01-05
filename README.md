@@ -53,10 +53,11 @@
 * [create object]
 
 # 💻 Prática 
+
 ### Prática : construindo elementos do site ( Git hub : pages )
 * 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
-### Prática :  resolvendo algoritmos ( extensões : md , js )
+### Prática :  resolvendo algoritmos 
 
 | Descrição | Extensão | 
 |:--:|:--:|
@@ -72,10 +73,9 @@
 #### Algoritmo de lógica 
 * [ ] 
 
-## Prática URI 
+# 💻 Prática URI
 
-### Begin 
-
+## Begin 
 
 * 
 
