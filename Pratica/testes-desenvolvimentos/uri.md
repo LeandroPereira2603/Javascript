@@ -34,7 +34,7 @@ var lines = input.split('\n');
 
 
 var a = parseInt(lines.shift());
-var b = parseInt(lines shift());
+var b = parseInt(lines.shift());
 
 var x = ('X = '+(a+b));
 
