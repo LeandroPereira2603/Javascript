@@ -1,6 +1,6 @@
 ## Hello World 
 
-<p><strong>level :</strong> : 0
+<p><strong>level :</strong>  0
 
 **Sovled**: ✓
 
