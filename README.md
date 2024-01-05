@@ -16,7 +16,7 @@
 | Exercicio em andamento |  🕗  |  1 |
 | Exercicio concluido | ✔ | 2 |
 
-<p> <strong> Legenda : </strong> sobre os arquivos de  extensão </p>
+<p> <strong> Legenda : </strong> sobre os arquivos de  extensão . </p>
 
 | Descrição | extensão |
 |:--:|:--:|
