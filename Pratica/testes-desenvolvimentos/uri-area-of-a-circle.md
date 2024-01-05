@@ -50,7 +50,7 @@ var lines = input.split('\n');
 
 var r = parseFloat(lines.shift());
 
-var a = ('A = '+(3.14159*r.toFixed(-4)));
+var a = ('A = '+(3.14159*r.toFixed(4)));
 
 
 ```
