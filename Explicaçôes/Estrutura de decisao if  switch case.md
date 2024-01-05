@@ -2,7 +2,26 @@
 
 ## Desvio condicional
 
-<p> Desvio codicional : estrutura if , tem a finalidade de criar e definir vários possibilidades de percurssos diferentes , como "composto" , " encadeado " ou " simples "  , levando ao certo destino final ,  sendo escolhidos pelo percuso já estabelecido "programado" ou definido por uma escolha como do "úsuario"  . </p>
+<p> Desvio codicional : estrutura if , tem a finalidade de criar e definir vários possibilidades de percurssos diferentes , como "composto" , " encadeado ", levando ao certo destino final ,  sendo escolhidos pelo percuso já estabelecido "programado" ou definido por uma escolha como do "úsuario"  . </p>
+
+### if simples 
+
+```javascript 
+
+var x = 10;
+var y = 30 ;
+
+if ( x > y){
+
+ console.log("Verdadeiro");
+
+}
+else {
+ console.log("Falso");
+
+}
+
+```
 
 ### If composto
 
@@ -71,6 +90,33 @@ else {
 
 ```
 
+### if encadeado 
+
+```javascript 
+
+var x = 50 ;
+var y = 70 ;
+var z = 20 ; 
+var w = 23 ;
+
+if ( x > y ) {
+
+ if ( z < w ) {
+
+   console.log("Verdadeiro");
+
+ else {
+
+   console.log("falso");
+
+else {
+
+  console.log("falso");
+
+}
+
+```
+    
 
 
 
