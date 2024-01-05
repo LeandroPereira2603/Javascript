@@ -13,5 +13,11 @@ This problem has no input.</p>
 You must print the message Hello World! and then the endline as shown below.</p>
 
 |Input Sample |	Output Sample |
+|:--:|:--:|
 | Hello World! | |
+
+```javascript
+
+
+```
 
