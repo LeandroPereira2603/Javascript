@@ -29,5 +29,5 @@ var x = undefined .              // Tipo Undefined é como null
 reconheça e atribuir algo a ela , para que saiba que valor estamos armazenando na variável .</p>
 
 > [!NOTE]
-> Rêferencia 
+> Rêferencia -
 > Livro : O guia definitivo do javascript
