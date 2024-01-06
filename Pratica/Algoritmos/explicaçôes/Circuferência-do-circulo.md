@@ -3,11 +3,11 @@
 
 ## Sobre a fórmula 
 
-<p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo   </p>
+<p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo .</p>
 
 <p> <strong>Fórmula :</strong> π * R² </p>
 
-<p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio </p>
+<p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio . </p>
 
 <p> Fórmula : π x 2 x R </p>
 
@@ -18,7 +18,7 @@
 
 ## Sobre a execusão do algoritmo 
 
-<p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa , como usuário desejar  . </p> 
+<p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa , como usuário desejar . </p> 
 
 ## Sobre o Código 
 
