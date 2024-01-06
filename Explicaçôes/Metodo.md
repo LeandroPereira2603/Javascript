@@ -40,3 +40,4 @@ x.Meth.pow(2) ;
 
 // é o mesmo que escrever na aritmética 81² .
 
+```
