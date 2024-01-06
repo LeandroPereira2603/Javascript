@@ -1,8 +1,5 @@
 # Array
 
-
-
-
 ```javascript
 
 // JavaScript também aceita arrays (listas indexadas numericamente) de valores.
@@ -20,12 +17,6 @@ var points = [       // Um array com 2 elementos.
      {x:1, y:1}      // Cada elemento é um objeto
 
 ];
-
-
-
-
-
-
 
 
 ```
