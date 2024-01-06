@@ -28,3 +28,15 @@ y = Math.random(0,100).toFixed(2)*100;
 // Retorna : vai gerar um número diferente toda vez que atualizar a página 
 
 ```
+### 3 - Math.pow()
+
+<p> Serve para elevar a potência do número </p>
+
+```javascrior
+
+var x = 81 ;
+
+x.Meth.pow(2) ; 
+
+// é o mesmo que escrever na aritmética 81² .
+
