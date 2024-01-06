@@ -5,7 +5,7 @@
 
 <p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo   </p>
 
-<p> **Fórmula :** π * R² </p>
+<p> **Fórmula** : π * R² </p>
 
 <p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio </p>
 
