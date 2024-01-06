@@ -8,7 +8,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 3 |
+| Em desenvolvimento    |  🟡  | 9 |
 | Projeto concluído    |  💻  | 0 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 4 | 
@@ -40,9 +40,9 @@
 
 * 🟡 [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
-* [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
-* [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
-* [Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
+* 🟡 [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
+* 🟡 [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
+* 🟡 [Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
 * [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
 * [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Concatena%C3%A7%C3%A3o%20de%20variavel.md)
 * [Estrutura de desição ( if ,swicth case ) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
@@ -53,9 +53,9 @@
 ### Complementos da Linguagem JavaScript :
 
 * 🟡 [Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
-* [Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
-* [String : manipulando caracteres]
-+ [importação de bibliotecas] 
+* 🟡 [Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
+* 🟡 [String : manipulando caracteres]
++ 🟡 [importação de bibliotecas] 
 
 ### Manipulação de elementos DOM ( Document Object Model ) :
 
