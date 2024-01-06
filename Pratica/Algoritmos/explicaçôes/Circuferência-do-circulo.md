@@ -1,7 +1,7 @@
 
-## Circuferência do circulo 
+# Circuferência do circulo 
 
-### Sobre a fórmula 
+## Sobre a fórmula 
 
 <p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo   </p>
 
@@ -16,11 +16,11 @@
 > O modelo da circuferência e plana não é tridimensional como a esfera .
 
 
-### Sobre a execusão do algoritmo 
+## Sobre a execusão do algoritmo 
 
 <p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa . </p> 
 
-### Código 
+## Código 
 
 ```javascript 
 
