@@ -13,7 +13,7 @@ var x ;                           // Declarando a variável chamada x
 
 // valores podem ser atribuidas a ela com sinal = igual
 
-var x = 30 ;                     // Agora  a variávvel x tem o valor 30 .      
+var x = 30 ;                     // Agora  a variável x tem o valor 30 .      
 
 // Javascript aceita vários tipos e valores 
 
