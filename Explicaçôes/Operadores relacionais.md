@@ -57,5 +57,6 @@ navegadores :  google chrome , safari , opera, etc.</p>
 
 -->
 
-> [!note] <strong> Refêrencia : </strong> <br>
-> Livro - O guia definitivo de JavaSccript 
+> [!NOTE]
+> Rêferencia -
+> Livro : O guia definitivo do javascript
