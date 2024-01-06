@@ -1,6 +1,6 @@
  
 
-<p> <strong>Operadores relacionais</strong> , são operadores que faz a comparação entre dois valores, exemplos de operadores relacionais ( > , < , >= , <= , == , === , != , !== )  </p>
+<p> <strong>Operadores relacionais</strong> , são operadores que faz a ligação de dois valores, exemplos : ( > , < , >= , <= , == , === , != , !== )  </p>
 
 ```javascript
 var butterfly = 0.08 ;
