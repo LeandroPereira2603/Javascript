@@ -11,7 +11,7 @@ var x = 13.23232;
 
 x.toFixed(2);
 
-// retorna com duas casas decimais : 13.23 
+// Vai retorna com duas casas decimais : 13.23 
 
 ```
 
