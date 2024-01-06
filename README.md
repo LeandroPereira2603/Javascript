@@ -27,7 +27,7 @@
 
 # 📚 Tópicos de estudo
 
-## (LLP ) Minhas anotações :
+## ( LLP ) Minhas anotações :
 
 <p> Aqui tera todas as minhas perspectivas e modo de enxergar e explicar a programação , sempre vou tentar uma maneira de melhorar as ideas , para alcançar todos os tipos de público , simplificando o entendemento , deixando mais leve e dinâmica e divertido de aprender a programação javascript , este e um dos meus objetivos .</p>
 
