@@ -59,6 +59,6 @@ point[1].x - points[0].x   // => 1: operando mais complicados também funcionam
 ```
 
 
-
-> [!note] <strong> Refêrencia : </strong> <br>
-> Livro - O guia definitivo de JavaSccript 
+> [!NOTE]
+> Rêferencia -
+> Livro : O guia definitivo do javascript
