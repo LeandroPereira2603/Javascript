@@ -41,10 +41,10 @@ console.log(booleanIgual);
 
 ```javascript
 
-var butterfly = 0.08 ;
+var butterfly = 0.08;
 var mariposa = 0.07;
 
-var logica = butterfly > mariposa ;
+var logica = butterfly > mariposa ; // Verificando os valores 
 
 console.log(logica);
 
@@ -58,5 +58,5 @@ navegadores :  google chrome , safari , opera, etc.</p>
 -->
 
 > [!NOTE]
-> Rêferencia -
-> Livro : O guia definitivo do javascript
+> <strong> Rêferencia : </strong>
+> * Livro : O guia definitivo do javascript
