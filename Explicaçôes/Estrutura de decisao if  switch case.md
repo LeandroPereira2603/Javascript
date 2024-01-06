@@ -126,7 +126,7 @@ else {
 ## Switch Case
 
 <p> O switch case tem a semelhancia da estrutura if 
-, so que mais organizado , quando ha vários casos de escolhas diferentes , podendo sair da estrutura  com o comando break; </p>  
+, so que mais organizado ,e ideal quando ha vários casos de escolhas diferentes , podendo sair da estrutura  com o comando break; </p>  
 
 
 <p> Exemplo de escolha definida pelo sistema programado </p>
