@@ -95,6 +95,6 @@ console.log(" a medida do comprimento do circulo e :"+result+" metros ");
 
 <p>
 
-A entrada de dados digitada pelo usuario ,vai esta em formato em números reais " Float " que é números quebrados , sendo que o metodo toFixed() que esta no resultado , vai deixar o número no  máximo com 4 casas decimais , a saida de dados vai imprimir toda informação em formato String , interpolada com a variável "result" .
+A entrada de dados digitada pelo usuario ,vai esta convertida para o formato em números reais " Float " que é números quebrados , sendo que o metodo toFixed() que esta no resultado , vai deixar o número no  máximo com 4 casas decimais , a saida de dados vai imprimir toda informação em formato String , interpolada com a variável "result" .
 
 </p>
