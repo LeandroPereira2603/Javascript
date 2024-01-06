@@ -25,7 +25,7 @@ else {
 
 ### If composto
 
-<p> Algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade é informada pelo programador .  </p>
+<p> Algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade ja definido programado .  </p>
 
 ```Javascript 
 
