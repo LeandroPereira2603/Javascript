@@ -17,16 +17,23 @@ calcule the values of cirference a circle the value of pi is π 3.14159 , input 
 
 ```javascript
 
-var r = parseInt(prompt("Digite um número para calcular : ") ;
+console.log("A circuferência do circulo ");
+
+var r = parseInt(prompt("Digite a medida do raio : ") ;
 
 var pi = 3.14159;
 
 r.Math.pow(2).toFixed(4);
 
+console.log("A medida do diametro é "+r);
+
+
 var result = pi * r ; 
 
 
-console.log(" A circuferência do circulo : "+result);
+console.log(" A medida da area total do circulo  é : "+result);
+
+
 
 ```
 
