@@ -54,4 +54,4 @@ console.log('Hello , world !!!');
 
 > [!NOTE]
 > Rêferencia :
-> Livro : O guia definitivo do javascript
+> Livro - O guia definitivo do javascript
