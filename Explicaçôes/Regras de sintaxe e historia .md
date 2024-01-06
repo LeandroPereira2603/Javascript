@@ -1,7 +1,7 @@
 
 ## História
 
-<p>O Javascript foi criada na Netscape na fase inicial da Web , licensiada pela Sun Microsystems (agora pela Oracle) , usada para descrever a implementação da linguagem pelo Netscape ( agora Mozilla ). Netscape enviou a linguagem para a ECMA - European Computer Manufacturer's Association - para padronização e , devido a questôes relacionadas á marca registrada, a versão padronizada manteve o nome "ECMAScript". </p>
+<p> O Javascript foi criada na Netscape na fase inicial da Web , licensiada pela Sun Microsystems (agora pela Oracle) , usada para descrever a implementação da linguagem pelo Netscape ( agora Mozilla ). Netscape enviou a linguagem para a ECMA - European Computer Manufacturer's Association - para padronização e , devido a questôescrelacionadas á marca registrada, a versão padronizada manteve o nome "ECMAScript". </p>
 
 
 ## Sobre o JavaScript : 
