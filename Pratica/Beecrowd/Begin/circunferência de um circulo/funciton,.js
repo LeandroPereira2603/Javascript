@@ -1,13 +1,4 @@
-# Area of a Circle
-
-<strong>Level : 4 </strong> :star: :star: :star: :star:
-
-**Sovled** : Not
-
-<p> The formula to calculate the area of a circumference is defined as A = π . R2. Considering to this problem that π = 3.14159: </p>
-
-<!-- A fórmula para calcular a area de uma circuferência é definida com A = pi . R2 . considerando para este problema que pi = 3.14159 : --
-
+/*
 <p> Calculate the area using the formula given in the problem description.</p>
 
 <!-- Calcule a area usando a fórmula  given  na descrição do problema --
@@ -37,7 +28,7 @@ Present the message "A=" followed by the value of the variable, as in the exampl
 | 100.64 | A=31819.3103 |
 | 150.00 | A=70685.7750 |
 
-```javascript 
+*/
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
@@ -61,4 +52,3 @@ var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4).shift()));
 
 var a = ('A = '+Math.pi()*Math.pow(r,2).toFixed(4).shift());
 
-```
