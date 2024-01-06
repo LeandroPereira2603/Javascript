@@ -25,7 +25,7 @@ var y ;
 
 y = Math.random(0,100).toFixed(2)*100;
 
-// Retorna : vai gerar um número diferente toda vez que atualizar a página 
+// Retorna : vai gerar um número diferente toda vez que atualizar a página , com duas casas decimais .
 
 ```
 ### 3 - Math.pow()
