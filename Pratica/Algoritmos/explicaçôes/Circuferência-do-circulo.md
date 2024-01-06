@@ -9,13 +9,11 @@
 
 <p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio </p>
 
+<p> Fórmula : π x 2 x R </p>
 
 > [!WARNING]
 > atenção :
 > O modelo da circuferência e plana não é tridimensional como a esfera .
-
-
-<p> Fórmula : π x 2 x R </p>
 
 
 ### Sobre a execusão do algoritmo 
