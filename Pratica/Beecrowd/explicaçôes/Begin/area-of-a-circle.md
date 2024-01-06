@@ -49,16 +49,16 @@ var lines = input.split('\n');
  *the Calculate of circuference of a circle  is : π x R² 
  */
 
-var r = parseFloat(lines.shift());
+var r = parseFloat(lines.split());
 
 var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4)));
 
 //other : 
 
-var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4));
+var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4).shift());
 
 //other : 
 
-var a = ('A = '+Math.pi()*Math.pow(r,2).toFixed(4));
+var a = ('A = '+Math.pi()*Math.pow(r,2).toFixed(4).shift());
 
 ```
