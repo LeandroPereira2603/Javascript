@@ -3,7 +3,7 @@
 
 ## Sobre a fórmula 
 
-<p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo .</p>
+<p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI = 3.14159 π , encontramos a área total da circufêrencia do circulo .</p>
 
 <p> <strong>Fórmula :</strong> π * R² </p>
 
