@@ -56,5 +56,6 @@ console.log(divisao(nDois));
 ```
 
 
-> [!note] <strong> Refêrencia : </strong> <br>
-> Livro - O guia definitivo de JavaSccript 
+> [!NOTE]
+> <strong> Rêferencia : </strong>
+> * Livro : O guia definitivo do javascript
