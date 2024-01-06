@@ -53,5 +53,5 @@ console.log('Hello , world !!!');
 
 
 > [!NOTE]
-> Rêferencia :
-> Livro - O guia definitivo do javascript
+> <strong>Rêferencia : </strong> 
+> * Livro - O guia definitivo do javascript
