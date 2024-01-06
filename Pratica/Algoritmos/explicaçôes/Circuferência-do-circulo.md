@@ -18,7 +18,7 @@
 
 ## Sobre a execusão do algoritmo 
 
-<p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa . </p> 
+<p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa , como usuário desejar  . </p> 
 
 ## Código 
 
