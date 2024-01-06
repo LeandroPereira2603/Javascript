@@ -44,7 +44,6 @@ k--;
 
 // Retorna : 9
 
-```
 
 // += ( Soma se for número e se for String concatena os caracteres  ) 
 
@@ -53,3 +52,5 @@ var d = 20 ;
 var d += 10 ;
 
 // Retorno : 30 
+
+```
