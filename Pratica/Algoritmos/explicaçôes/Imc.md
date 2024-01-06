@@ -6,7 +6,7 @@
 <p> ou </p>
 <p> <strong>Fórmula </strong> : kg / (altura²) </p>
 
-## Tabela IMC
+## Tabela I.M.C
 |Peso (kg) | IMC |
 |:--:|:--:|
 | < 18,5kg/m2 | Baixo peso |
