@@ -13,34 +13,74 @@
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a medida do raio : ") ;
+var r = parseInt(prompt("Digite a distância do raio , que esta na unidade de medida cm (centimetro) : ") ;
 
 var pi = 3.14159;
 
 r.Math.pow(2).toFixed(4);
 
-console.log("A medida do diametro é "+r);
+console.log("A medida do diametro é "+r+" cm ");
 
 
 var result = pi * r ; 
 
 
-console.log(" A medida da area total do circulo  é : "+result);
+console.log(" A medida da area total do circulo  é : "+result+" cm² " );
 
 
 ```
+
+
+```javascript
+
+console.log("A circuferência do circulo ");
+
+var r = parseInt(prompt("Digite a distância do raio , que esta em unidade de medida cm ( centimetro ): ") ;
+
+var pi = 3.14159;
+
+r.Math.pow(2).toFixed(4);
+
+console.log("A medida do diametro é "+r+" cm ");
+
+
+var result = pi * r ; 
+
+
+console.log(" A area total do circulo  é : "+result+" cm² ");
+
+
+```
+
+
+
+
 
 </p> Para saber o comprimento do circulo </p>
 
 ```javascript 
 
-var r = parseInt(prompt("Digite a medida do raio : ");
+var r = parseInt(prompt("Digite a distância da raio , que está em unidade de medida cm ( centimetros ) : ");
 
 var pi = 3.14159;
 
 var result = pi * 2 * r ;
 
 console.log(" a medida do comprimento do circulo e :"+result);
+
+
+```
+
+
+```javascript 
+
+var r = parseInt(prompt("Digite a distância da  do raio , que está em unidade de medida em metros : ");
+
+var pi = 3.14159;
+
+var result = pi * 2 * r ;
+
+console.log(" a medida do comprimento do circulo e :"+result+" metros ");
 
 
 ```
