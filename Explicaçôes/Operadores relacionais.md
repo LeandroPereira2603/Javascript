@@ -1,7 +1,7 @@
  
  # Operadores relacionais 
 
- <p> são operadores que faz a ligação para testar os valores para ver se são , desiguais , iguais , maiores etc ... são avaliados como verdadeiros ou falsos . : ( > , < , >= , <= , == , === , != , !== )  </p>
+ <p> São operadores que faz a ligação para testar os valores para ver se são , desiguais , iguais , maiores etc ... são avaliados como verdadeiros ou falsos . : ( > , < , >= , <= , == , === , != , !== )  </p>
 
 ## Exemplo :
 
@@ -37,7 +37,7 @@ console.log(booleanIgual);
 
 ```
 
-<p> fazendo uma relação dos valores da variável , butterfly e mariposa .</p>
+<p> Fazendo uma relação dos valores da variável , butterfly e mariposa .</p>
 
 ```javascript
 
