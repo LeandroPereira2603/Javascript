@@ -97,13 +97,11 @@ console.log("Falso") ;
 
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . 
 
-<br>
 
 Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> 
 
 Lógica NOT = inverte o valor booleano , ou seja vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
 
-
 > [!NOTE]
-> <STRONG>Rêferencia</STRONG> -
-> Livro : O guia definitivo do javascript
+> <strong> Rêferencia : </strong>
+> * Livro : O guia definitivo do javascript
