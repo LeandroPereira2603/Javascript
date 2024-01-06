@@ -1,4 +1,4 @@
-# Algoritm - butterfly method
+# Algoritm  butterfly method
 
 ## About algoritm :
 
