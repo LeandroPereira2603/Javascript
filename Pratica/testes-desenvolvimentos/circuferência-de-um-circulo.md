@@ -15,7 +15,7 @@
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a distância do raio , que esta no formato de unidade de medida cm (centimetro) : ") ;
+var r = parseFloat(prompt("Digite a distância do raio , que esta no formato de unidade de medida cm (centimetro) : ") ;
 
 var pi = 3.14159;
 
@@ -27,7 +27,7 @@ console.log("A medida do diametro é "+r+" cm ");
 var result = pi * r ; 
 
 
-console.log(" A medida da area total do circulo  é : "+result+" cm² " );
+console.log(" A medida da area total do circulo  é : "+result.toFixed(4)+" cm² " );
 
 
 ```
@@ -37,7 +37,7 @@ console.log(" A medida da area total do circulo  é : "+result+" cm² " );
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a distância do raio , que esta em formato de unidade de medida metros ") ;
+var r = parseFloat(prompt("Digite a distância do raio , que esta em formato de unidade de medida metros ") ;
 
 var pi = 3.14159;
 
@@ -47,6 +47,8 @@ console.log("A medida do diametro é "+r+" m ");
 
 
 var result = pi * r ; 
+
+result.toFixed(4);
 
 
 console.log(" A area total do circulo  é : "+result+" m² ");
@@ -62,13 +64,14 @@ console.log(" A area total do circulo  é : "+result+" m² ");
 
 ```javascript 
 
-var r = parseInt(prompt("Digite a distância da raio , que está no formato de unidade de medida cm ( centimetros ) : ");
+var r = parseFloat(prompt("Digite a distância da raio , que está no formato de unidade de medida cm ( centimetros ) : ");
 
 var pi = 3.14159;
 
 var result = pi * 2 * r ;
 
-console.log(" a medida do comprimento do circulo e :"+result+" cm ");
+
+console.log(" a medida do comprimento do circulo e :"+result.toFixed(4)+" cm ");
 
 
 ```
@@ -76,11 +79,13 @@ console.log(" a medida do comprimento do circulo e :"+result+" cm ");
 
 ```javascript 
 
-var r = parseInt(prompt("Digite a distância da  do raio , que está em unidade de medida em metros : ");
+var r = parseFloat(prompt("Digite a distância da  do raio , que está em unidade de medida em metros : ");
 
 var pi = 3.14159;
 
 var result = pi * 2 * r ;
+
+result.toFixed(4);
 
 console.log(" a medida do comprimento do circulo e :"+result+" metros ");
 
