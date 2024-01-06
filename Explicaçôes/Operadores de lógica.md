@@ -99,8 +99,8 @@ console.log("Falso") ;
 
 <p> O sistema vai fazer destar forma : </p>
 
-40 == 50 = False <br>
-50 == 70 = False <br>
+40 == 50 : False <br>
+50 == 70 : False <br>
 retorno : False <br>
 
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . 
