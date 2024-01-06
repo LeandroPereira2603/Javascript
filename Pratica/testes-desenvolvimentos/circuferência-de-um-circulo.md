@@ -1,7 +1,7 @@
 ## Circuferência de um circulo 
 
 
-<p> Com a medida do raio , encontramos o diametro , calculando o raio elevado por 2 , assim multiplicando por pi π , encontramos a area total da circufêrencia do circulo   </p>
+<p> Com a medida do raio , encontramos o diametro , calculando o raio elevado ao quadradro r² , assim multiplicando por pi π , encontramos a area total da circufêrencia do circulo   </p>
 
 <p> Formula : π * R² </p>
 
@@ -13,7 +13,7 @@
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a distância do raio , que esta na unidade de medida cm (centimetro) : ") ;
+var r = parseInt(prompt("Digite a distância do raio , que esta no formato de unidade de medida cm (centimetro) : ") ;
 
 var pi = 3.14159;
 
@@ -35,7 +35,7 @@ console.log(" A medida da area total do circulo  é : "+result+" cm² " );
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a distância do raio , que esta em unidade de medida cm ( centimetro ): ") ;
+var r = parseInt(prompt("Digite a distância do raio , que esta em formato de unidade de medida cm ( centimetro ): ") ;
 
 var pi = 3.14159;
 
@@ -60,13 +60,13 @@ console.log(" A area total do circulo  é : "+result+" cm² ");
 
 ```javascript 
 
-var r = parseInt(prompt("Digite a distância da raio , que está em unidade de medida cm ( centimetros ) : ");
+var r = parseInt(prompt("Digite a distância da raio , que está no formato de unidade de medida cm ( centimetros ) : ");
 
 var pi = 3.14159;
 
 var result = pi * 2 * r ;
 
-console.log(" a medida do comprimento do circulo e :"+result);
+console.log(" a medida do comprimento do circulo e :"+result+" cm ");
 
 
 ```
