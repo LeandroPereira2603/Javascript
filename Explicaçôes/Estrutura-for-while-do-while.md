@@ -7,7 +7,7 @@
 <p> São três argumentos dentro do parâmetro :</p>
 
 * 1° - Criação da variável para o incremento .
-* 2° - Campo para lógica para sair do laço de repetição .
+* 2° - Campo para lógica condicional para sair do laço de repetição .
 * 3° - Campo para o incremento .
 
 ```javascript 
