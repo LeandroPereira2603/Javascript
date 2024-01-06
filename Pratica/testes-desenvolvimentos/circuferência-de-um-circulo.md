@@ -28,6 +28,19 @@ var result = pi * r ;
 console.log(" A medida da area total do circulo  é : "+result);
 
 
-
 ```
 
+</p> Para saber o comprimento do circulo </p>
+
+```javascript 
+
+var r = parseInt(prompt("Digite a medida do raio : ");
+
+var pi = 3.14159;
+
+var result = pi * 2 * r ;
+
+console.log(" a medida do comprimento do circulo e :"+result);
+
+
+```
