@@ -1,12 +1,12 @@
-## I.M.C
+# I.M.C
 
-### Sobre a fórmula 
+## Sobre a fórmula 
 
 <p> <strong>Fórmula</strong> : kg / ( altura x altura ) </p>
 <p> ou </p>
 <p> <strong>Fórmula </strong> : kg / (altura²) </p>
 
-### Tabela IMC
+## Tabela IMC
 |Peso (kg) | IMC |
 |:--:|:--:|
 | < 18,5kg/m2 | Baixo peso |
@@ -14,7 +14,7 @@
 | ≥ 25 até 29,9kg/m2 | Sobrepeso |
 | > 30,0kg/m2 até 34,9km/m2 | Obesidade grau 1 |
 
-### Sobre o algoritmo 
+## Sobre o algoritmo 
 
 <p>Algoritmo que calcule o I.M.C  , sendo informada pelo usúario o peso e altura, mostrando o grau que esta no resultado de acordo com a tabela abaixo .</p>
 
