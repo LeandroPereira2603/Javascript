@@ -82,7 +82,7 @@ var x = 40 ;
 var y = 50 ;
 var c = 70 ;
 
-if ( x == y ) && ( y == c ) {
+if ( x == y  &&  y == c ) {
 
  console.log(" Verdadeiro ");
 
