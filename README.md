@@ -25,7 +25,7 @@
 
 #### Convençôes usadas para anotaçôes do repositório :
 
-<p> Utilizo a seguinte parâmetro para o repositório . </p>
+<p> Utilizo o seguinte parâmetro para o repositório . </p>
 
  <p> O uso dos parênteses : </p>
 
