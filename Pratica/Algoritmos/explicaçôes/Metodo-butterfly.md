@@ -1,6 +1,6 @@
-# Algoritm : butterfly method
+# Algoritm - butterfly method
 
-## About algoritm
+## About algoritm :
 
 <p> The user will input the values of each number , of  numerator and of denominator , the system will return with result .</p>
 
