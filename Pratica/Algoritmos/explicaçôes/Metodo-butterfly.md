@@ -1,8 +1,5 @@
 # Algoritm : butterfly method
 
-## About formula 
-
-
 ## About algoritm
 
 <p> The user will input the values of each number , of  numerator and of denominator , the system will return with result .</p>
