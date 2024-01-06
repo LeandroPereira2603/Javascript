@@ -1,11 +1,5 @@
 ## Circuferência de um circulo 
 
-circuference of a circle 
-
-calcule the values of cirference a circle the value of pi is π 3.14159 , input in variable R
-
-
-<p> π = 3.14159. </p>
 
 <p> Com a medida do raio , encontramos o diametro , calculando o raio elevado por 2 , assim multiplicando por pi π , encontramos a area total da circufêrencia do circulo   </p>
 
