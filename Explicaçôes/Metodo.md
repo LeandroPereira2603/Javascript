@@ -28,16 +28,17 @@ y = Math.random(0,100).toFixed(2)*100;
 // Retorna : vai gerar um número diferente toda vez que atualizar a página , com duas casas decimais .
 
 ```
-### 3 - Math.pow()
+### 3 - Math.pow( )
 
 <p> Serve para elevar a potência do número </p>
 
 ```javascript
 
-var x = 81 ;
+var x = 5 ;
 
-x.Math.pow(2) ; 
+Math.pow(x,2) ; 
 
-// é o mesmo que escrever na aritmética 81² .
+// é o mesmo que escrever na aritmética 5² .
+// Irá retorna = 25 
 
 ```
