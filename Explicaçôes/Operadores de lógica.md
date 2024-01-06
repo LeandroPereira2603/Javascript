@@ -104,5 +104,6 @@ Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro
 Lógica NOT = inverte o valor booleano , ou seja vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
 
 
-> [!note] <strong> Refêrencia : </strong> 
-> Livro - O guia definitivo de JavaSccript 
+> [!NOTE]
+> <STRONG>Rêferencia</STRONG> -
+> Livro : O guia definitivo do javascript
