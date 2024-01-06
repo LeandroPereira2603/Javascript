@@ -29,7 +29,7 @@
 
 ## ( LLP ) Minhas anotações :
 
-<p> Aqui tera todas as minhas perspectivas e modo de enxergar e explicar a programação javascript . </p>
+<p> Aqui tera todas as meus resumos e modo da programação javascript . </p>
 
 ### Sobre :
 
