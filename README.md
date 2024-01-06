@@ -115,7 +115,7 @@
 
 * ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
-* 🕗 [Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
+* ✔ [Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
 
 **Algoritmo** predileto :
 
