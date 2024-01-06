@@ -33,9 +33,9 @@ Present the message "A=" followed by the value of the variable, as in the exampl
 
 | Input Samples	| Output Samples |
 |:--:|:--:|
-|2.00 | A=12.5664 |
-| 100.64 | A=31819.3103 |
-| 150.00 | A=70685.7750 |
+| 2.00 | A = 12.5664 |
+| 100.64 | A = 31819.3103 |
+| 150.00 | A = 70685.7750 |
 
 ```javascript 
 
