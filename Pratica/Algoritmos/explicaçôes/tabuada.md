@@ -115,7 +115,7 @@ var result = t * i ;
 ```
 
 
-## (Geral) - Todos os exemplos de cálculos de tabuada em um aó algoritmo 
+## Todos os exemplos de cálculos de tabuada em um aó algoritmo 
  
 ### Switch case 
 
