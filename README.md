@@ -33,7 +33,7 @@
 * Para mostrar o significado da sigla que está abreviada .
 * Para colocar o meu nome como autor de toda a documentação ( LLP )  .
 
-Índice
+### Índice
 
 1 - Tópicos de estudo 
 
@@ -62,14 +62,14 @@
 
 ### Sintaxe da Linguagem javascript :
 
-* 🟡 [ Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
+* [ Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [ Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
 * 🟡 [ Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * 🟡 [ Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
 * 🟡 [ Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
 * [ Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
 * [ Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Concatena%C3%A7%C3%A3o%20de%20variavel.md)
-*  [Estrutura de desição ( if ,swicth case ) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
+*  [ Estrutura de desição ( if ,swicth case ) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
 * [ Função](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Fun%C3%A7%C3%A3o.md)
 * [ Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
 * [ array]
