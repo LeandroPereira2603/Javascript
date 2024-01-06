@@ -1,4 +1,4 @@
-<p> <strong>Operadores de lógica </strong> : Serve para comparar operadores e retornar se é verdadeiro "true" ou falso "false" exemplos de operadores de lógica ( AND "&&" , OR "||" , NOT "!=" ) </p> 
+<p> <strong>Operadores de lógica </strong> : Serve para comparar os valores e retornar se é verdadeiro "true" ou falso "false" exemplos de operadores de lógica ( AND "&&" , OR "||" , NOT "!=" ) </p> 
 
 
 ```javascript
