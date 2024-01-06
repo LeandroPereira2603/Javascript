@@ -29,7 +29,7 @@
 
 ## ( LLP ) Minhas anotações :
 
-<p> Aqui tera todas as meus resumos e modo da programação javascript . </p>
+<p> Aqui tera todas as meus resumos da linguagem de programação javascript . </p>
 
 ### Sobre :
 
