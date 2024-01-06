@@ -10,7 +10,7 @@
 
 <strong> Output </strong>
 
-<p> rint the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error" </p>
+<p> Print the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error" </p>
 
 | Input Samples |  Output Samples |
 |:--:|:--:|
