@@ -12,7 +12,7 @@
 <p> Fórmula : π x 2 x R </p>
 
 > [!WARNING]
-> atenção :
+> <strong>Atenção : </strong>
 > O modelo da circuferência e plana não é tridimensional como a esfera .
 
 
