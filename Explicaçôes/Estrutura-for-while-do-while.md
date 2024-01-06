@@ -12,7 +12,7 @@
 
 ```javascript 
 
-for (var i =0; i<11;i++){
+for(var i =0; i<11;i++){
 
 console.log(i);
 
