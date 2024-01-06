@@ -11,6 +11,6 @@ var logica = butterfly > mariposa ;
 console.log(logica);
 
 ``` 
-<p> vai fazer a copilação do sistema e retornar true "verdadeiro"  na tela de depuração do console , do navegador escolhido .</p> 
+<p> O interpretador do navegador vai retornar true "verdadeiro"  na tela de depuração do console que e uma API integrada ao navegador, para visualizar o código no console . .</p> 
 <p>
 navegadores :  google chrome , safari , opera, etc.</p>
