@@ -1,11 +1,11 @@
 ## Circuferência de um circulo 
 
 
-<p> Com a medida do raio , encontramos o diametro , calculando o raio elevado ao quadradro r² , assim multiplicando por pi π , encontramos a area total da circufêrencia do circulo   </p>
+<p> Com a medida do raio , encontramos o diamêtro , calculando o raio elevado ao quadradro "R²" , assim multiplicando por PI "π" , encontramos a área total da circufêrencia do circulo   </p>
 
-<p> Formula : π * R² </p>
+<p> Fórmula : π * R² </p>
 
-<p> para saber o comprimento do circulo , basta multiplicar o π por 2 e multiplica pelo raio </p>
+<p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio </p>
 
 <p> Fórmula : π x 2 x R </p>
 
@@ -35,19 +35,19 @@ console.log(" A medida da area total do circulo  é : "+result+" cm² " );
 
 console.log("A circuferência do circulo ");
 
-var r = parseInt(prompt("Digite a distância do raio , que esta em formato de unidade de medida cm ( centimetro ): ") ;
+var r = parseInt(prompt("Digite a distância do raio , que esta em formato de unidade de medida metros ") ;
 
 var pi = 3.14159;
 
 r.Math.pow(2).toFixed(4);
 
-console.log("A medida do diametro é "+r+" cm ");
+console.log("A medida do diametro é "+r+" m ");
 
 
 var result = pi * r ; 
 
 
-console.log(" A area total do circulo  é : "+result+" cm² ");
+console.log(" A area total do circulo  é : "+result+" m² ");
 
 
 ```
