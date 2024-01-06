@@ -36,7 +36,7 @@ y = Math.random(0,100).toFixed(2)*100;
 
 var x = 81 ;
 
-x.Meth.pow(2) ; 
+x.Math.pow(2) ; 
 
 // é o mesmo que escrever na aritmética 81² .
 
