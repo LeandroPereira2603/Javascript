@@ -64,7 +64,7 @@
 * [createElement]
 * [create object]
 
-📚 Tópicos de estudo
+# 📚 Tópicos de estudo
 
 ## Livro : O guia definitivo JavaScript 
 
