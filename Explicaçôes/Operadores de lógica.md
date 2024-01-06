@@ -73,7 +73,7 @@ console.log(" !gato retorna :"+n3;
 
 ```
 
-<p> usando exemplo para verificar a lógica com a esteutura ds desvio condicional "if" </p>
+<p> usando exemplo para verificar a lógica com a estrutura ds desvio condicional "if" </p>
 
 
 ```javascript 
