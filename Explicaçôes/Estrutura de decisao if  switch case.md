@@ -114,6 +114,8 @@ if ( x > y ) {
 
    console.log("falso");
 
+}
+
 else {
 
   console.log("falso");
