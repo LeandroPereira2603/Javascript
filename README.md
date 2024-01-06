@@ -16,58 +16,77 @@
 | Exercicio em andamento |  🕗  |  1 |
 | Exercicio concluido | ✔ | 2 |
 
-<p> <strong> Legenda : </strong> sobre os arquivos de  extensão . </p>
+<p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
 
-| Descrição | extensão |
+| Descrição | Extensão |
 |:--:|:--:|
 | Para melhor visualização e detalhe do código | arquivo.md|
 | Para execusão do javascript | arquivo.js |
+
+#### Convençôes usadas para anotaçôes do repositório :
+
+<p> Utilizo a seguinte parâmetro para o repositório . </p>
+
+ <p> O uso dos parênteses : </p>
+
+* Para dar ênfase ao assunto .
+* Para mostrar o significado da sigla que está abreviada .
+* Para colocar o meu nome como autor de toda a documentação ( LLP )  .
+
+Índice
+
+1 - Tópicos de estudo 
+
+ - 1.1 - Minhas anotaçôes ( LLP )
+
+
+2 - Prática 
+
+ - 2.1 Sites ( Git hub : pages )
+ - 2.2 Algoritmos ( Geral ) 
+ - 2.3 Beecrowd ( Geral )
+
 
 
 
 # 📚 Tópicos de estudo
 
-## ( LLP ) Minhas anotações :
+## :book: Minhas anotações  ( LLP ) :
 
 <p> Aqui tera todas as meus resumos da linguagem de programação javascript . </p>
 
 ### Sobre :
 
-* [Fontes](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
-* 🟡 [Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
+* [ Fontes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
+* 🟡 [ Regras de sintaxe e história da linguagem ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
 
 ### Sintaxe da Linguagem javascript :
 
-* 🟡 [Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
-* [Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
-* 🟡 [Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
-* 🟡 [Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
-* 🟡 [Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
-* [Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
-* [Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Concatena%C3%A7%C3%A3o%20de%20variavel.md)
-* [Estrutura de desição ( if ,swicth case ) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
-* [Função](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Fun%C3%A7%C3%A3o.md)
-* [Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
-* [array]
+* 🟡 [ Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
+* [ Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
+* 🟡 [ Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
+* 🟡 [ Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
+* 🟡 [ Operadores de comparação](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20compara%C3%A7%C3%A3o.md)
+* [ Interpolação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Interpola%C3%A7%C3%A3o%20de%20variavel%20.md)
+* [ Concatenação de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Concatena%C3%A7%C3%A3o%20de%20variavel.md)
+*  [Estrutura de desição ( if ,swicth case ) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20decisao%20if%20%20switch%20case.md)
+* [ Função](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Fun%C3%A7%C3%A3o.md)
+* [ Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
+* [ array]
 
 ### Complementos da Linguagem JavaScript :
 
-* 🟡 [Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
-* 🟡 [Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
-* 🟡 [String : manipulando caracteres]
-+ 🟡 [importação de bibliotecas] 
+* 🟡 [ Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
+* 🟡 [ Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
+* 🟡 [ String : manipulando caracteres]
++ 🟡 [ importação de bibliotecas] 
 
 ### Manipulação de elementos DOM ( Document Object Model ) :
 
-* [querySelector e querySelectorAll]
-* [addEventListener]
-* [createElement]
-* [create object]
-
-# 📚 Tópicos de estudo
-
-## Livro : O guia definitivo JavaScript 
-
+* [ querySelector e querySelectorAll]
+* [ addEventListener]
+* [ createElement]
+* [ create object]
 
 
 
@@ -77,28 +96,30 @@
 
 ## Sites ( Git hub : pages )
 
-* 💻 [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+*  [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 
 ## Algoritmos ( Geral ) 
  
 ### Cálculos :
 
-* 💻 [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md)  ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js) 
-* 💻[  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
-* 💻[ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
+*  [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md)  ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js) 
+*  [  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
+*  [ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
 
 ###  lógica :
-* [ ] 
+* [ ]
 
 ## Beecrowd ( Geral )
 
 ### Begin 
 
-* ✔ [Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
+* ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
 * 🕗 [Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
 
 **Algoritmo** predileto :
+
+* []()
 
 ```javascript
 /*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :

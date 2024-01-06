@@ -2,8 +2,8 @@
 # Fontes
 
 ## 📚 Livros
-* Book : O Guia definitivo javascript <br>
-  de David Flanagan , parei na pág 80 .
+* JavaScript : O guia definitivo , de David Flanagan <br>
+  de David Flanagan , parei na pág 22 .
 
 ## 🔍pesquisas
 * [wikipédia](https://pt.wikipedia.org/)

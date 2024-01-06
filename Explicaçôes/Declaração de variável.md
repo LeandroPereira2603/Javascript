@@ -1,33 +1,33 @@
 
-### Revisão : verificar depois se esta certo 
+## Declaração de variável 
 
-<p> Declaração de variável , é armazenar os valores ou conjunto de caracteres (String) ,guardando e ocupando um espaço de endereçamento do sistema de memória , o sistema localiza um espaço vázio aleatório , assim  guardando cada  variável armazenada , exemplo de endereço: E0000937 esta vázio então sistema vai guardala , como porta de entrada , para que possa futuramente usar estes dados quando declarar no sistema , para porta de saida mostrando na tela  .</p>
-
-<p> Como a linguagem javascript e de tipagem dinâmica , não precisa define o tipo para variável , exemplo : </p> 
-
-```javascript 
-
-var id = 30 ;
-var insect = " Butterfly ";
-var color = " Blue "; 
-var situation = true ; 
-var altura = 0.08;
-var peso = 0.01 ;
+<p> As variáveis são declaradas com a palavra-chave var . </p>
 
 
-Console.log ( "Id = "+id" : "+butterfly+" cor : "+color+" peso : "+peso+" altura ; "+altura+" existe : "+situation+"  ");
 
-
-```
-
- Para que o programa a reconheça e atribuir algo a ela , para que o programa saiba que valor estamos armazenando na variável .
+**Exemplo** :
 
 ```javascript 
 
-  var n = 30 ;
-  var x = 3.7 ;
-  var nome = "Leandro";
-  var bolean = true ;
-  var peso = 10.23 ;
-  
+var x ;                           // Declarando a variável chamada x 
+
+// valores podem ser atribuidas a ela com sinal = igual
+
+var x = 30 ;                     // Agora  a variávvel x tem o valor 30 .      
+
+// Javascript aceita vários tipos e valores 
+
+var x = 20 ;                     // Tipo Número inteiros 
+var x = 1.04;                    // Tipo Número reais 
+var x = true ;                   // Tipo Valor booleano
+var x = 'Hello world!';          // Tipo String conjunnto de caractere 
+var x = null ;                   // Tipo nenhum valor 
+var x = undefined .              // Tipo Undefined é como null 
+
 ```
+<p> Declaração de variável serve para que o interpretador "navegador" ,
+reconheça e atribuir algo a ela , para que saiba que valor estamos armazenando na variável .</p>
+
+> [!NOTE]
+> Rêferencias :
+> Livro : O guia definitivo do javascript
