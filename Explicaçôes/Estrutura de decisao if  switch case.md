@@ -58,7 +58,7 @@ else {
 ```
 
 
-<p> O mesmo modelo de algoritmo ,  agora sendo informada pelo usuário . </p>
+<p> O mesmo modelo de algoritmo ,  agora a idade sendo informada pelo usuário . </p>
 
 ```Javascript 
 
