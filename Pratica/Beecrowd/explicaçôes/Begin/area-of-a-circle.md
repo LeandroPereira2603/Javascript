@@ -57,5 +57,8 @@ var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4)));
 
 var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4));
 
+//other : 
+
+var a = ('A = '+Math.pi()*Math.pow(r,2).toFixed(4));
 
 ```
