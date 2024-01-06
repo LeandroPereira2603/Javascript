@@ -108,6 +108,8 @@ if ( x > y ) {
 
    console.log("Verdadeiro");
 
+ }
+
  else {
 
    console.log("falso");
