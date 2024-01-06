@@ -95,7 +95,6 @@ console.log("Falso") ;
 
 ```
 
-
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . 
 
 <br>
@@ -103,7 +102,7 @@ Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeir
 Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> 
 
 Lógica NOT = inverte o valor booleano , ou seja vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
-<br> 
+
 
 > [!note] <strong> Refêrencia : </strong> 
 > Livro - O guia definitivo de JavaSccript 
