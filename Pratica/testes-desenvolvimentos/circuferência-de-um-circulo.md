@@ -91,3 +91,9 @@ console.log(" a medida do comprimento do circulo e :"+result+" metros ");
 
 
 ```
+### sobre os códigos 
+
+<p>
+A entrada de dados digitada pelo usuario ,vai esta em formato em números reais " Float " números quebrados , sendo que o metodo toFixed que esta no resultado , vai deixar no  máximo com 4 casas decimais .
+
+</p>
