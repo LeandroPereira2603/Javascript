@@ -32,7 +32,7 @@ y = Math.random(0,100).toFixed(2)*100;
 
 <p> Serve para elevar a potência do número </p>
 
-```javascrior
+```javascript
 
 var x = 81 ;
 
