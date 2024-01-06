@@ -1,10 +1,12 @@
 ## Função
 
+<p> Uma função é um bloco de código Javascript nomeado e parametrizaddo que voce define uma vez e , então , pode chamar repetidamente. 
+
 ### Função com parâmetro vázio :
 
 ```javascript
 
-function soma () {
+function soma () { // Define a função chamada "soma" , com parãmetro vázio dem retorno .
 
  var x = 39;
  var y = 25;
@@ -23,11 +25,11 @@ function soma () {
 
 var n = parseInt(prompt("Digite um número para fazer o cálculo multiplicado por 10 : "))
 
-function mult(n){
+function mult(n){ // Define a função chamada "n" , com parãmetro "n" .
 
  var mult = n * 10 ;
 
-return console.log(mult);
+return console.log(mult); // retorna o valor mult que foi calculado .
 
 }
 
@@ -54,3 +56,5 @@ console.log(divisao(nDois));
 ```
 
 
+> [!note] <strong> Refêrencia : </strong> <br>
+> Livro - O guia definitivo de JavaSccript 

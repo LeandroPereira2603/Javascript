@@ -1,10 +1,10 @@
-<p> <strong>Operadores de lógica </strong> : Serve para comparar os valores e retornar se é verdadeiro "true" ou falso "false" exemplos de operadores de lógica ( AND "&&" , OR "||" , NOT "!=" ) </p> 
+<p> <strong>Operadores de lógica </strong> : Serve para comparar os valores e retornar se é verdadeiro "true" ou falso "false" exemplos de operadores de lógica ( AND "&&" , OR "||" , NOT "!=" ) podendo combinar ou inverter valores boolenos . </p> 
 
 
 ```javascript
 
-// O código a seguir mostra exemplos do operador && (E lógico).
 
+// O código a seguir mostra exemplos do operador && (E lógico).
 
 var a1 = true && true; // t && t retorna true
 console.log(" verdadeiro  && verdadeiro retorna : "+a1);
@@ -69,8 +69,6 @@ var n3 = !"Gato"; // !t retorna false
 console.log(" !gato retorna :"+n3;
 
 
-
-
 ```
 
 <p> usando exemplo para verificar a lógica com a estrutura ds desvio condicional "if" </p>
@@ -97,16 +95,16 @@ console.log("Falso") ;
 
 ```
 
-<p> O sistema vai fazer destar forma : </p>
-
-40 == 50 : False <br>
-50 == 70 : False <br>
-retorno : False <br>
 
 Lógica AND = As duas expressões tem que ser verdadeiro para retornar verdadeiro . 
+
 <br>
 
 Lógica OR = Uma das expressões tem que ser verdadeiro para retornar verdadeiro <br> 
 
-Lógica NOT = vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
+Lógica NOT = inverte o valor booleano , ou seja vai contraria a logica se a expressão for verdadeiro vai se transforma em falso .
 <br> 
+
+
+> [!note] <strong> Refêrencia : </strong> <br>
+> Livro - O guia definitivo de JavaSccript 

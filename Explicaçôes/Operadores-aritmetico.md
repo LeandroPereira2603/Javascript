@@ -1,4 +1,4 @@
-<p> <strong> Operadores aritmético </strong> : São operadores para cálculos , sendo que a maioria dos simbolos dos operadores são iguais aos dos simbolos de matemática , so alguns que não são como a multiplicação , exemplo ( + , - , % , / , * , --, ++,+= ) </p>
+<p> <strong> Operadores aritmético </strong> : São operadores para cálculos para produzir um novo valor. </p>
 
 
 ```javascript
@@ -12,7 +12,7 @@ var y = 20;
 
 var soma = n + y ;
 
-console.log(" Soma de "+n+" + "+y+" = "+soma);
+console.log(" Soma de "+n+" + "+y+" = "+soma);  // Retorno : 48 
 
 var sub = n - y ;
 
@@ -26,7 +26,7 @@ var mod = n % 2  ;
 
 console.log(" Resto da divisão de "+n+" / 2 é  = "+mod);
 
-// porcentagem 
+ // porcentagem
 
 var porc = ( x / y ) * 100 ; 
 
@@ -34,23 +34,31 @@ var i = 10;
 
 var k = 10;
 
-// incrementos 
+// Incrementos
 
-i++;
+i++;  // Retorna : 11
 
-// Retorna : 11
+// Decremento 
 
-k--;
-
-// Retorna : 9
-
+k--; // Retorna : 9
 
 // += ( Soma se for número e se for String concatena os caracteres  ) 
 
 var d = 20 ;
 
-var d += 10 ;
+var d += 10 ; // Retorno :30 e o mesmo que d = d + 10 
 
 // Retorno : 30 
 
+var e = 40;
+
+var e *= 10 ; // Retorno :400 e o mesmo que e = e * 10 
+
+point[1].x - points[0].x   // => 1: operando mais complicados também funcionam
+
 ```
+
+
+
+> [!note] <strong> Refêrencia : </strong> <br>
+> Livro - O guia definitivo de JavaSccript 

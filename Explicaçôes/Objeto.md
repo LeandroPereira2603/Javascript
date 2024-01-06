@@ -1,12 +1,38 @@
 # Objeto 
 
+<p> O tipo de dados mais importante de JavaScript é o objeto. </p>
+
+<p> Um objeto é uma coleçção de pares nome/valor ou uma string para mapa de valores : 
+
+```javascript 
+
+var book = {                 // Objetos são colocados entre chaves.
+   topic: "JavaScript",     // A propriedade "topic" tem o valor "JavaScript",
+   fat: true               // A chave marca o fim do objeto .   
+};
+
+// Acesse as propriedades de um objeto com . ou [] : 
+
+book.topic                   // => "JavaScript"
+booc["fat"]                 // => true: outro modo de acessar valores de propriedade.
+book.author ="Flanagan";   // Crie novas propriedades por meio de atribuição.
+book.contents = {};      // {} é um objeto vazio sem qualquer propriedade.
+
+var data = {        // Um objeto com 2 propriedades 
+  
+   trial1: [[1,2], [3,4]],    // Um objeto com 2 propriedades 
+   trial2: [[2,3], [[2,5]]],   // O valor de cada propriedade é um array.
+
+};
 
 
 
+```
 
-<!--
+> [!note] <strong> Refêrencia : </strong> <br>
+> Livro - O guia definitivo de JavaSccript 
 
-## Função para retornar a chave do objeto
+<!--Função para retornar a chave do objeto
 
 **Exemplo** : Objeto butterfly
 
