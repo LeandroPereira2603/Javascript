@@ -1,6 +1,5 @@
 # Javascript 
 <p> Aqui terá todos os meus reposiórios criados com a linguagem javascript. </p>
- 
 
 
 <strong> Legenda :</strong> sobre prática , desenvolvimento , estudo .
