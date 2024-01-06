@@ -20,7 +20,18 @@
 
 <p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa , como usuário desejar  . </p> 
 
-## Código 
+## Sobre o Código 
+
+1 - Metódos utilizados : 
+
+- **Meth.pow()** : para calcular o número elevado ao quadrado .
+- **toFixed()** : para limitar a quantidade de casas decimais .
+
+2 - Esteuturas utilizados : 
+
+- for : para repetir o processo de cálcular novamente .
+- if : desvio condicional para continuar ou sair do programa , e para caso restritiva .
+-
 
 ```javascript 
 
