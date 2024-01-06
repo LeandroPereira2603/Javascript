@@ -2,7 +2,7 @@
 
 <strong>Level : 4 </strong> :star: :star: :star: :star:
 
-**Sovled** : Not
+**Sovled** : ✓
 
 <p> The formula to calculate the area of a circumference is defined as A = π . R2. Considering to this problem that π = 3.14159: </p>
 
@@ -46,19 +46,10 @@ var lines = input.split('\n');
  * Escreva a sua solução aqui
  * Code your solution here
  * Escriba su solución aquí
- *the Calculate of circuference of a circle  is : π x R² 
  */
 
-var r = parseFloat(lines.split());
+var r = parseFloat(lines.shift());
 
-var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4))));
-
-//other : 
-
-var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4).shift()));
-
-//other : 
-
-var a = ('A = '+Math.pi()*Math.pow(r,2).toFixed(4).shift());
+var a = ('A = '+3.141592653589793*Math.pow(r,2).toFixed(4));
 
 ```

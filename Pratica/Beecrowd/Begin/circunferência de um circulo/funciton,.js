@@ -44,40 +44,8 @@ var r = parseFloat(prompt("Digite um valor "));
 
 var a = ('A = '+3.141592653589793*Math.pow(r,2).toFixed(4));
 
-//var a = ('A = '+3.141592653589793*(r*r));
+
 
 
 console.log(a);
 
-
-
-
-/*
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-
-/**
- * Escreva a sua solução aqui
- * Code your solution here
- * Escriba su solución aquí
- *the Calculate of circuference of a circle  is : π x R² 
- */
-
- /*
-
-var r = parseFloat(lines.split());
-
-var a = ('A = '+3.141592653589793*Math.pow(r,2).toFixed(4).shift());
-
-
-var a = ('A = '+(3.14159*(r.toFixed(4)*r.toFixed(4))));
-
-//other : 
-
-var a = ('A = '+(3.14159*Math.pow(r,2).toFixed(4).shift()));
-
-//other : 
-
-
-
-*/
