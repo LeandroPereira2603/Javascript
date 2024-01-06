@@ -18,20 +18,18 @@ console.log(i);
 
 }
 
-
 for(var i = 0;i<10;i++){
     console.log(i);
 }
-
 
 for(var i = 0,j=10;i<10;i++,j--){
     console.log(i*j);
 }
 
-
 for(var p in 0){
     console.log(p);
 }
+
 ```
 
 <p> Ele vai verificar primeiro a condição para sair do laço de repetição e imprimir as informações </p>
