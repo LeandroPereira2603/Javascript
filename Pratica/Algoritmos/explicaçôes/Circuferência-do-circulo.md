@@ -7,7 +7,7 @@
 
 <p> <strong>Fórmula da área :</strong> π * R² </p>
 
-<p> para saber o comprimento do circulo , basta multiplicar o PI "π" por 2 e multiplica pelo raio . </p>
+<p> para saber o comprimento do circulo , basta multiplicar o PI = 3.14159 π por 2 e multiplica pelo raio . </p>
 
 <p> <strong>Fórmula do comprimento :</strong> π x 2 x R </p>
 
