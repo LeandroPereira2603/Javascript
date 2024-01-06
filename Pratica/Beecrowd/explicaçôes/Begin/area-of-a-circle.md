@@ -52,4 +52,10 @@ var r = parseFloat(lines.shift());
 
 var a = ('A = '+3.141592653589793*Math.pow(r,2).toFixed(4));
 
+/*
+
+or
+
+var a = ('A = '+Math.PI*Math.pow(r,2).toFixed(4));
+
 ```
