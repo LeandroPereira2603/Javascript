@@ -1,6 +1,6 @@
 ## Função
 
-<p> Uma função é um bloco de código Javascript nomeado e parametrizaddo que voce define uma vez e , então , pode chamar repetidamente. 
+<p> Uma função é um bloco de código Javascript nomeado e parametrizado  que voce define uma vez e , então , pode chamar repetidamente. 
 
 ### Função com parâmetro vázio :
 
