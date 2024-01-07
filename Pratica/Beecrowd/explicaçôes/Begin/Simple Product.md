@@ -27,6 +27,3 @@ var prod = a * b ;
 console.log("PROD = "+prod);
 
 ```
-
-> [!WARNING]
-> passa a limpo depois 
