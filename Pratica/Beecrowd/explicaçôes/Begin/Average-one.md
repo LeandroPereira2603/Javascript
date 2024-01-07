@@ -34,7 +34,23 @@ console.log ('MEDIA = '+media);
 
 Resumo ;
 
-Este algoritmo e para encontrar a média das notas dos alunos ,colocando um exemplo com a nota 3.5 e outra nota 7.5  a nota e avaliada de 0 á 10 , fazer a média das duas notas correspondente .
+Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,colocando um exemplo de peso  da grade  A 3.5 e o peso da grade B 7.5  , a nota e avaliada de 0 á 10 , fazer a média ponderada  das duas notas correspondente .
+
+
+3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 / 2 ) ;
+
+média ponderada o que é : 
+
+quando a várias conjuntos de notas iguais que se repetem várias vezes se  transforman em (peso) quando a varios conjuntos de pesos multiplicando pela a nota e dividir para saber a média ponderada , que é para saber a média dos pssos ,por exemplo acima a situação grade escolar ,  que se repetem .
+
+
+>[!Warning]
+> tem dois jeitos para determinados de média
+> média aritmética 
+> média ponderada ( pesos )
+
+
+
 
 
 
