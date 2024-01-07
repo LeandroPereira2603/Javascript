@@ -50,9 +50,9 @@ var lines = input.split('\n');
 
 var r = parseFloat(lines.shift('\n'));
 
-var a = 3.14159*Math.pow(r,2).toFixed(4);
+var a = 3.14159*Math.pow(r,2);
 
-console.log('A = '+a);
+console.log('A = '+a.toFixed(4));
 
 /*
 
