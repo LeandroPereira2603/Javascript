@@ -25,10 +25,9 @@ var x = null ;                   // Tipo nenhum valor
 var x = undefined .              // Tipo Undefined é como null 
 
 ```
-<p> Declaração de variável serve para que o interpretador "navegador" ,
-reconheça e atribuir algo a ela , para que saiba que valor estamos armazenando na variável .</p>
+
 
 > [!NOTE]
-> <strong> Rêferencias : </strong>
+> <strong> Rêferencia: </strong>
 > * Livro : O guia definitivo do javascript
-> * Google 
+
