@@ -36,10 +36,10 @@
 
 ## Regras de sintaxe 
 
-* Obrigatório colocar ponto e virgula 
+* Obrigatório colocar ponto e virgula .
 * A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura .
-* Para comentário de linha e usado barras duplas  // 
-* Para comentário de várias linhas e usado barra com asterisco /* */
+* Para comentário de linha e usado barras duplas  // .
+* Para comentário de várias linhas e usado barra com asterisco /* */. 
 
 
 
