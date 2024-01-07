@@ -42,10 +42,12 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var A = parseInt(lines.shift());
-var B = parseInt(lines.shift());
+var a = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
 
-var SOMA  = ' SOMA = '+(A+B); 
+var soma = a+b;
+
+console.log('SOMA = '+soma);
 
 
 ```
