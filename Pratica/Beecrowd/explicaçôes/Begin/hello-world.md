@@ -20,15 +20,6 @@ You must print the message Hello World! and then the endline as shown below.</p>
 
 ```javascript
 
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-
-/**
- * Escreva a sua solução aqui
- * Code your solution here
- * Escriba su solución aquí
- */
-
 console.log("Hello World!");
 
 ```
