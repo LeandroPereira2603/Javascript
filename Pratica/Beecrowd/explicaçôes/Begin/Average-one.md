@@ -23,7 +23,7 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 
 
-var media = 3.5 * a + 7.5 * b (3.5 + 7.5 /2);
+var media = 3.5 * a + 7.5 * b / (3.5 + 7.5 /2);
 
 console.log ('MEDIA = '+media);
 
