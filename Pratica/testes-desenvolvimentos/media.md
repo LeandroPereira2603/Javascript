@@ -1,5 +1,10 @@
 ```javascript
 
+# Média 
+
+<p> A média das notas , de duas provas do aluno ,as notas sendo informada pelo usúario .</p>
+<p> Imprimindo a informação se está aprovado ou não. </p>
+
 // Média aritmética 
 
 var n = parseInt(prompt("Digte a primeira nota do aluno :"));
