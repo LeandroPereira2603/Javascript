@@ -31,3 +31,4 @@ reconheça e atribuir algo a ela , para que saiba que valor estamos armazenando 
 > [!NOTE]
 > <strong> Rêferencia : </strong>
 > * Livro : O guia definitivo do javascript
+> * Google 
