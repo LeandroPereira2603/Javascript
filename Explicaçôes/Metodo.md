@@ -1,5 +1,6 @@
 
-## Metodos de aritmética 
+
+## Metodos integrado a linguagem  de aritmética 
 
 ### 1 - toFixed()
 
@@ -42,3 +43,42 @@ Math.pow(x,2) ;
 // Irá retorna = 25 
 
 ```
+## Exemplo de utilização de métodos 
+
+<p> Quando combinamos funçôes com objetos , obtemos métodos : </p>
+
+```javascript
+
+// Quando funçôes recebem as propriedades de um objeto, as 
+// chamamos de "métodos". Todos os objetos de Javascript tem métodos:
+
+var a = [] ;             // Cria um array vazio .
+a.push(1,2,3);           // O método push() adiciona elementos de um array .
+a.reverse();             // Outro método: inverte a ordem dos elementos .
+
+// Também podemos definir nossos próprios métodos . A palavra-chave "this" se refere ao
+// objeto no qual o método é definido: neste caso, o array de pontos anterior . 
+
+point.dist = function(){              // Defone um método para calcular a distância .
+
+    var p1 = this[0];                 // Primeiro elemento do array que . chamamos .  
+    var p2 = this[1];                 // Segundo elemento do objeto "this" .
+    var a = p2.x-p1.x;                // Diferença em coordenadas X .
+    var b = p2.y-p1.y;                // Diferença em coordenadas Y .
+    return Math.sqrt(a*a + b*b);     // Math.sqrt() calcula a raiz quadrada, oteorema de pítagoras .
+};
+
+points.dist();         // 1,414: distância entre nossos 2 pontos .
+
+
+
+```
+
+
+
+
+
+> [!NOTE]
+> <strong> Rêferencia: </strong>
+> * Livro : O guia definitivo do javascript
+> * Site : [W3Schools](https://www.w3schools.com/)
