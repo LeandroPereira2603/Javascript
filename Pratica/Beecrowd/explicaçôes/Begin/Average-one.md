@@ -41,7 +41,8 @@ Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,coloca
 
 média ponderada o que é : 
 
-quando a várias conjuntos de notas iguais que se repetem várias vezes se  transforman em (peso) quando a varios conjuntos de pesos multiplicando pela a nota e dividir para saber a média ponderada , que é para saber a média dos pssos ,por exemplo acima a situação grade escolar ,  que se repetem .
+quando a várias conjuntos de notas iguais que se repetem várias vezes se  transforman em (peso) quando a varios conjuntos de pesos multiplicando pela a nota e dividir para saber a média ponderada .
+que é para saber a média dos pssos ,por exemplo acima a situação grade escolar ,  que se repetem .
 
 
 >[!Warning]
