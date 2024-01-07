@@ -12,8 +12,8 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 5 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
-| Exercicio em andamento |  🕗  |  1 |
-| Exercicio concluido | ✔ | 9 |
+| Exercicio em andamento |  🕗  |  0 |
+| Exercicio concluido | ✔ | 10 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
 
@@ -121,7 +121,7 @@
 * ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
 * ✔  [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
 * ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
-* 🕗 [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
+* ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
 
 
 **Algoritmo** predileto :
