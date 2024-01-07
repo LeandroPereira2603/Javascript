@@ -29,7 +29,7 @@ console.log ('MEDIA = '+media.toFixed(5));
 
 ```
 >[!NOTE]
-> <steong>About :</steong> <br>  
+> <steong>About :</steong> 
 > Problem resolution in english and in portuguese (llp)
 
 **Resumo :**
