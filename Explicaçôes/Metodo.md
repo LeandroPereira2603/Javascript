@@ -12,13 +12,13 @@ var x = 13.23232;
 
 x.toFixed(2);
 
-// Vai retorna com duas casas decimais : 13.23 
+// Vai retorna com duas casas decimais : 13.23 .
 
 ```
 
 ### 2 - Math.random()
 
-<p> Serve para gerar número aleatório </p>
+<p> Serve para gerar número aleatório .</p>
 
 ```javascript
 
@@ -31,7 +31,7 @@ y = Math.random(0,100).toFixed(2)*100;
 ```
 ### 3 - Math.pow( )
 
-<p> Serve para elevar a potência do número </p>
+<p> Serve para elevar a potência do número .</p>
 
 ```javascript
 
