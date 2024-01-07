@@ -21,8 +21,8 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 
-a = a ;
-b = b ; 
+a = a * 3.5;
+b = b * 7.5; 
 
 var media = a + b / 10 ;
 
