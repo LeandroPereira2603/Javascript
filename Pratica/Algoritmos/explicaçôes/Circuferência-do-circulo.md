@@ -43,7 +43,7 @@ for(i=0;i<=9;){
  " 2 - cálculo da circuferência do circulo em m.\n "+
  " 3 - cálculo do comprimento do circulo em cm.\n"+
  " 4 - cálculo do comprimento do circulo em m.\n"+
-"Qualquer outro júmero irá sair do programa\n"));
+"Qualquer outro número irá sair do programa\n"));
 
     if(escolha == 1 || escolha == 2 || escolha == 3 || escolha == 4){
 
