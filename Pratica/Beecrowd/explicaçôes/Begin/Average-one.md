@@ -32,7 +32,7 @@ console.log ('MEDIA = '+media.toFixed(5));
 > <steong>About :</steong> <br>  
 > Problem resolution in english and in portuguese (llp)
 
-Resumo ;
+**Resumo :**
 
 Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,colocando um exemplo de peso  da grade  A 3.5 e o peso da grade B 7.5  , a nota e avaliada de 0 á 10 , fazer a média ponderada  das duas notas correspondente .
 
