@@ -106,6 +106,7 @@
 * ✔ [ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
 * ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
 
+
 ###  lógica :
 * [ ]
 
@@ -119,6 +120,7 @@
 * ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
 * ✔  [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
 * ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
+* 🕗 []()
 
 
 **Algoritmo** predileto :
