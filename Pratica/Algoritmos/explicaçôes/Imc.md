@@ -66,7 +66,7 @@ else {
 
 ### Exemplo com função 
 
-<p> o peso e altura ja programado para o resultado , com objeto criado pessoa .  </p>
+<p> O peso e altura ja programado para o resultado , com objeto criado pessoa .  </p>
 
 ```javascript 
 
