@@ -39,7 +39,7 @@ Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,coloca
 This algoritm and for found the avarege of note of student's , a example : with the weight of grade A 3.5 , the with weight grade 7.5 , the note and avaliable of zero the ten , make the averange of two notes corresponding .
 
 
-3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 ) ;
+3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 )) ;
 
 
 
