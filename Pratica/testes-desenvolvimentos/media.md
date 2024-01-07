@@ -2,9 +2,10 @@
 
 # Média 
 
-* Cálculo da média de duas notas do aluno ,
-* As notas de entrada são informada pelo usúario 
-* Imprimindo a informação se está aprovado ou não.
+* As notas de entrada são informada pelo usúario.
+* Criar fórmula para a media e imprime o resultado  . 
+* Verificar se a média e igual ou maior que 5 .
+* Imprime se o aluno está aprovado ou não .
 
 ```javascript
 
