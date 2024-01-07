@@ -61,8 +61,6 @@ console.log('MEDIA = '+media.toFixed(1));
 
 ```
 
-> [!Warning]
-> 
 
 
 
