@@ -6,6 +6,8 @@
 
 ### if simples 
 
+<p> If simples e uma estrutura para desvio para uma condição .</p>
+
 ```javascript 
 
 var x = 10;
@@ -25,7 +27,9 @@ else {
 
 ### If composto
 
-<p> Algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade ja definido programado .  </p>
+<p> If composto e a estrutura para várias condiçõea </p>
+
+<p> Exemplo : algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade ja definido programado .  </p>
 
 ```Javascript 
 
