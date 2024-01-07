@@ -12,8 +12,8 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 
 |Input Samples	|Output Samples|
 |:--:|:--:|
-|5.0  7.1 | MEDIA = 6.43182 |
-| 0.0 7.1 | MEDIA = 4.84091 |
+| 5.0  7.1  | MEDIA = 6.43182 |
+| 0.0  7.1  | MEDIA = 4.84091 |
 | 10.0 10.0 | MEDIA = 10.00000 |
 
 ```javascript 
@@ -21,9 +21,12 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 
-a = a * 3.7 ;
-b = b * 7.5 ; 
+a = a ;
+b = b ; 
 
+var media = a + b / 10 ;
+
+console.log (" MEDIA = "+media);
 
 ```
 
