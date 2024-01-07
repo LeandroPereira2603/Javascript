@@ -1,9 +1,6 @@
 ## Revisão de novos conteudo
 
-> [!NOTE]
-> Agora e so testar no console do navegador 
-> Salva  o arquivo .js 
-> e importar no arquivo html 
+
 
 ```javascript 
 
@@ -89,4 +86,9 @@ else {
 
 
 ```
-
+> [!NOTE]
+> Agora e so testar no console do navegador 
+> Salva  o arquivo .js 
+> e importar no arquivo html 
+> para ver se tem algum erro de sintaxe 
+> e depois salvar no github indexando no link.
