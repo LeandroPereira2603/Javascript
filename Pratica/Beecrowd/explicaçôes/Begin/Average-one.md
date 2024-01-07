@@ -34,7 +34,7 @@ console.log ('MEDIA = '+media);
 
 Resumo ;
 
-Este algoritmo e para encontrar a média das notas dos alunos ,colocando um exemplo com a nota 3.5 e outra nota 7.5  a nota e de 0 á 10 , fazer a média das duas notas correspondente .
+Este algoritmo e para encontrar a média das notas dos alunos ,colocando um exemplo com a nota 3.5 e outra nota 7.5  a nota e avaliada de 0 á 10 , fazer a média das duas notas correspondente .
 
 
 
