@@ -34,7 +34,7 @@
 
 **3 - Organização do código:**
 
-- De forma indentada de acordo com a hierarquia da estrutura colocada uma dentro da outra .
+- Escolha de organização de forma indentada , ou seja , de acordo com a hierarquia da estrutura colocada uma dentro da outra .
 
 ```javascript 
 
