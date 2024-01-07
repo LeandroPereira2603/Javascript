@@ -5,7 +5,7 @@ var b = parseInt(lines.shift('\n');
 
 var prod = a * b ;
 
-console.log("Prod = "+prod);
+console.log("PROD = "+prod);
 
 ```
 
