@@ -56,7 +56,9 @@
 *
 *
 
-## 
+## Manutenção 
+
+### código claro e bem documentado , informando em detalhes principais , para deixar a leitura dos outros programadores , mais fácil e objetiva , economizando o tempo, para manutenção de blocoa de códigoa especificos .
 
 
 Exemplo :
