@@ -2,7 +2,7 @@
 
 <p> O tipo de dados mais importante de JavaScript é o objeto. </p>
 
-<p> Um objeto é uma coleçção de pares nome/valor ou uma string para mapa de valores : 
+<p> Um objeto é uma coleção de pares nome/valor ou uma string para mapa de valores : 
 
 ```javascript 
 
