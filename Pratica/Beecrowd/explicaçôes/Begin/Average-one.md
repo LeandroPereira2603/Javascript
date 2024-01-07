@@ -22,20 +22,21 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 
+a = a * 3.5;
+b = b * 7.5;
 
-var media = a + b/10;
+var media = a + b / 10.0;
 
-console.log (" MEDIA = "+media);
+console.log ('MEDIA = '+media);
 
 ```
 >[!NOTE]
 > Sobre a encontrar a solução
 > About the solution 
 
+Resumo ;
 
-
-
-
+Este algoritmo e para encontrar a média das notas dos alunos ,colocando um exemplo com a nota 3.5 e outra nota 7.5  a nota e de 0 á 10 , fazer a média das duas notas correspondente .
 
 
 
