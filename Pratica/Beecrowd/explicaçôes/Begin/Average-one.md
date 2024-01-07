@@ -32,15 +32,17 @@ var media = (3.5 * a + 7.5 * b) / (3.5 + 7.5);
 console.log ('MEDIA = '+media.toFixed(5));
 
 ```
+<!--
 
 **Resumo :**
 <p>
-Este algoritmo e para encontrar a média ponderada da grade curricular das notas dos estudantes referente ao peso de duas salas (grade) , O peso da grade (sala) A = 3.5 , ou seja vários alunos tiram a nota 3.5 e o peso da grade (sala) B = 7.5, ou seja vários alunos tiraram 7.5 ,</p>
+Este algoritmo e para encontrar a média ponderada da grade curricular das notas dos estudantes referente ao peso de duas notas  , O peso da grade (sala) A = 3.5 , ou seja vários alunos tiram a nota 3.5 e o peso da grade  B = 7.5, ou seja vários alunos tiraram 7.5 </p>
 <p>
-As notas dos alunos de entrada inseridas é avaliada de 0 á 10 com um um digito decimal , e o algoritmo fazera o cálulo com os pessos A = 3.5 e B = 7.5 ,que e de acordo com os números informada correspondente ao sistema programado inserida no input da tabela acima : .</p>
+As notas dos alunos de entrada é avaliada de 0 á 10 com um um digito decimal , e o algoritmo fazera o cálulo com os pessos A = 3.5 e B = 7.5 ,que e de acordo com os números informada correspondente ao sistema programado , inseridas no input no exemplo tabela acima : .</p>
 
 
 
 
 3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 ) ;
 
+-->
