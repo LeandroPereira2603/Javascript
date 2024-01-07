@@ -28,9 +28,6 @@ var media = (3.5 * a + 7.5 * b) / (3.5 + 7.5);
 console.log ('MEDIA = '+media.toFixed(5));
 
 ```
->[!NOTE]
-> <steong>About :</steong> <br>
-> * Problem resolution in english and in portuguese (llp)
 
 **Resumo :**
 
@@ -43,7 +40,7 @@ This algoritm and for found the avarege of note of student's , a example : with 
 
 
 
->[!Warning]
+>[!NOTE]
 > Tem dois jeitos para calcular a média
 > * média aritmética 
 > * média ponderada ( pesos )
