@@ -60,7 +60,7 @@
 
 ### código claro e bem documentado : 
 
-<p> informando em detalhes principais , para deixar a leitura dos outros programadores , mais fácil e objetiva , economizando o tempo, para manutenção de blocoa de códigoa especificos . </p>
+<p> informando em detalhes principais , para deixar a leitura dos outros programadores mais fácil e objetiva , assim fazendo economizar tempo, para a manutenção de blocos de códigos especificos . </p>
 
 
 Exemplo :
