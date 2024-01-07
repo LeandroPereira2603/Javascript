@@ -48,9 +48,11 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var r = parseFloat(lines.shift());
+var r = parseFloat(lines.shift('\n'));
 
-var a = ('A = '+3.141592653589793*Math.pow(r,2).toFixed(4));
+var a = 3.14159*Math.pow(r,2).toFixed(4);
+
+console.log('A = '+a);
 
 /*
 
