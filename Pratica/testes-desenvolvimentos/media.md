@@ -1,6 +1,6 @@
 ```javascript
 
-\\ Média aritmética 
+// Média aritmética 
 
 var n = parseInt(prompt("Digte a primeira nota do aluno :"));
 
@@ -21,8 +21,11 @@ else{
 }
 
 
-\\ ponderado
+// ponderado
 
 
 
 ```
+
+>[!warning] 
+> fazer a média ponderada detalhado 
