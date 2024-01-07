@@ -50,9 +50,9 @@
 
 # 📚 Tópicos de estudo
 
-## :book: Minhas anotações  ( LLP ) :
+## :book: Minhas anotações  :
 
-<p> Aqui tera todas as meus resumos da linguagem de programação javascript . </p>
+<p> Aqui tera todas as meus resumos da linguagem de programação javascript , com complementoa de referências de livros e conteúdo de cursos . </p>
 
 ### Sobre :
 
