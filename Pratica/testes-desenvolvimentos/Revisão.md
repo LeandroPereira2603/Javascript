@@ -3,7 +3,7 @@
 ```javascript 
 
 
-\\ Pode atribuir uma função na variável , esta modalidade eu nem sabia que daria pra fazer , pois uma função ja tem sua estrutura e bloco , para ser declarada quando e chamada na função , no javascript da pra fazer isto .
+// Pode atribuir uma função na variável , esta modalidade eu nem sabia que daria pra fazer , pois uma função ja tem sua estrutura e bloco , para ser declarada quando e chamada na função , no javascript da pra fazer isto .
 
 var butterfly = function cor () {
 
@@ -17,7 +17,7 @@ var butterfly = function cor () {
 
 function imprimir(t){
 
-\\ += sinal de atribuição somatoria que vai causar a concatenação das duas strings .
+// += sinal de atribuição somatoria que vai causar a concatenação das duas strings .
 
  var t += " and too is very beautiful ";
  
@@ -42,7 +42,7 @@ imprimir(butterfly());
 
  
 
-   \\ tirei o incremento da estrutura for para ser chamada dentro do desvio condicional if para se caso for a opção não que e o número (2) ele vai fazer o incremento ,  fazendo sair do laço de repetição , e imprimir a informação saiu do programa .
+   // tirei o incremento da estrutura for para ser chamada dentro do desvio condicional if para se caso for a opção não que e o número (2) ele vai fazer o incremento ,  fazendo sair do laço de repetição , e imprimir a informação saiu do programa .
 
 
    for (var i = 0 ; i<2 ; ) {
@@ -62,7 +62,7 @@ imprimir(butterfly());
 
      function imprimir(t){
 
-    \\ += sinal de atribuição somatoria que vai    causar          a concatenação das duas strings .
+    // += sinal de atribuição somatoria que vai    causar          a concatenação das duas strings .
  
          var t += " and too is very beautiful ";
  
