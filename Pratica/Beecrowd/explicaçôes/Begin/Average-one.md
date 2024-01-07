@@ -38,11 +38,3 @@ This algoritm and for found the avarege of note of student's , a example : with 
 
 3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 ) ;
 
-
-
->[!NOTE]
-> Tem dois jeitos para calcular a média
-> * média aritmética : A media das notas do alunos . 
-> * média ponderada ( pesos ) : a media de pesos de notas das salas , grade  . ( ponderado ) .
-
-
