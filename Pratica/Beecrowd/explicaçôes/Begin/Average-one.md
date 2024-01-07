@@ -23,26 +23,24 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 
 
-var media = 3.5 * a + 7.5 * b / (3.5 + 7.5 /2);
+var media = 3.5 * a + 7.5 * b / (3.5 + 7.5);
 
 console.log ('MEDIA = '+media);
 
 ```
 >[!NOTE]
-> Sobre a encontrar a solução
-> About the solution 
+> **About : ** <br>  
+> Problem resolution in english and in portuguese (llp)
 
 Resumo ;
 
 Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,colocando um exemplo de peso  da grade  A 3.5 e o peso da grade B 7.5  , a nota e avaliada de 0 á 10 , fazer a média ponderada  das duas notas correspondente .
 
+This algoritm and for found the avarege of note of student's , a example : with the weight of grade A 3.5 , the with weight grade 7.5 , the note and avaliable of zero the ten , make the averange of two notes corresponding .
 
-3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 / 2 ) ;
 
-média ponderada o que é : 
+3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 ) ;
 
-quando a várias conjuntos de notas iguais que se repetem várias vezes se  transforman em (peso) quando a varios conjuntos de pesos multiplicando pela a nota e dividir para saber a média ponderada .
-que é para saber a média dos pssos ,por exemplo acima a situação grade escolar ,  que se repetem .
 
 
 >[!Warning]
@@ -50,8 +48,10 @@ que é para saber a média dos pssos ,por exemplo acima a situação grade escol
 > média aritmética 
 > média ponderada ( pesos )
 
+**Cálculo : Fórmula media**
 
-
+* A media das notas do alunos . 
+* E a media de pesos de notas das salas , grade  . ( ponderado ) .
 
 
 
