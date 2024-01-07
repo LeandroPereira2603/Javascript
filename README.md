@@ -118,6 +118,7 @@
 * ✔ [ Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
 * ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
 * ✔ [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
+* 🕗 [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
 
 
 **Algoritmo** predileto :
