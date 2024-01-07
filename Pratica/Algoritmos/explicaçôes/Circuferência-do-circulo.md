@@ -31,7 +31,10 @@
 
 - **for** : para repetir o processo de cálcular novamente .
 - **if encadeado** : desvio condicional para continuar ou sair do programa , e para caso restritiva .
--
+
+**3 - Organização do código:**
+
+- De forma indentada de acordo com a hierarquia da estrutura colocada uma dentro da outra .
 
 ```javascript 
 
