@@ -1,8 +1,8 @@
 ## Revisão de novos conteudo
 
-> [!warning]
+> [!NOTE]
 > Agora e so testar no console do navegador 
-> Salva do o arquivo .js 
+> Salva  o arquivo .js 
 > e importar no arquivo html 
 
 ```javascript 
