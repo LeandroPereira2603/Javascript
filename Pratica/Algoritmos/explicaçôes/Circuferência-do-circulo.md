@@ -40,10 +40,10 @@ for(i=0;i<=9;){
  var escolha = parseInt(prompt(""+ 
  " Escolha opção de 1 á 4 :\n"+
  " 1 - cálculo da circuferência do circulo em cm.\n"+
- " 2 - cálculo da circuferência do circulo em m.\n "+
+ " 2 - cálculo da circuferência do circulo em m.\n"+
  " 3 - cálculo do comprimento do circulo em cm.\n"+
  " 4 - cálculo do comprimento do circulo em m.\n"+
-"Qualquer outro número irá sair do programa\n"));
+ "Qualquer outro número irá sair do programa\n"));
 
     if(escolha == 1 || escolha == 2 || escolha == 3 || escolha == 4){
 
