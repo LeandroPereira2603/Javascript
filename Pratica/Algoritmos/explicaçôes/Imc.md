@@ -2,9 +2,8 @@
 
 ## Sobre a fórmula 
 
-<p> <strong>Fórmula</strong> : kg / ( altura x altura ) </p>
-<p> ou </p>
-<p> <strong>Fórmula </strong> : kg / (altura²) </p>
+* <strong>Fórmula</strong> : kg / ( altura x altura ) 
+* <strong>Fórmula </strong> : kg / (altura²)
 
 ## A tabela I.M.C
 |Peso (kg) | IMC |
