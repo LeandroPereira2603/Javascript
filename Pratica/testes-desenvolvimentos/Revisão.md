@@ -1,4 +1,9 @@
-## Revisão de conteudo 
+## Revisão de novos conteudo
+
+> [!warning]
+> Agora e so testar no console do navegador 
+> Salva do o arquivo .js 
+> e importar no arquivo html 
 
 ```javascript 
 
