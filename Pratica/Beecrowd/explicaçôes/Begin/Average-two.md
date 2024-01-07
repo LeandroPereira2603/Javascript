@@ -20,6 +20,7 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 
 
 | Input Samples	| Output Samples|
+|:--:|:--:|
 | 5.0  6.0  7.0  |  MEDIA = 6.3
 | 5.0  10.0 10.0 |  MEDIA = 9.0
 | 10.0 10.0 5.0 | MEDIA = 7.5 |
