@@ -39,10 +39,12 @@ var input = require('fs').readFileSync('/dev/stdin','utf8');
 
 var lines = input.split('\n');
 
-var a = parseInt(lines.shift());
-var b = parseInt(lines.shift());
+var a = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
 
-var x = ('X = '+(a+b));
+var x = a+b;
+
+console.log("X = "+x);
 
 
 ```
