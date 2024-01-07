@@ -128,6 +128,7 @@ for(i=0;i<=9;){
                     break;
 
                 }
+
                 else{
 
                     i = i + 10;
@@ -159,6 +160,7 @@ for(i=0;i<=9;){
                     break;
 
                 }
+
                 else{
 
                     i = i + 10;
