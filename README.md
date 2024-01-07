@@ -12,7 +12,7 @@
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 5 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
-| Exercicio em andamento |  🕗  |  0 |
+| Exercicio em andamento |  🕗  |  1 |
 | Exercicio concluido | ✔ | 9 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
