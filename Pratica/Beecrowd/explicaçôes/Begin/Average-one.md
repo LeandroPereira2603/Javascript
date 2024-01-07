@@ -17,7 +17,11 @@ Print the message "MEDIA"(average in Portuguese) and the student's average accor
 | 0.0  7.1  | MEDIA = 4.84091 |
 | 10.0 10.0 | MEDIA = 10.00000 |
 
-```javascript 
+```javascript
+
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
 
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
