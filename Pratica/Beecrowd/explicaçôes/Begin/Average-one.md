@@ -44,7 +44,7 @@ This algoritm and for found the avarege of note of student's , a example : with 
 
 
 >[!Warning]
-> tem dois jeitos para determinados de média
+> tem dois jeitos para calcular a média
 > média aritmética 
 > média ponderada ( pesos )
 
