@@ -28,6 +28,16 @@ var media = a + b/10;
 console.log (" MEDIA = "+media);
 
 ```
+>[!NOTE]
+> Sobre a encontrar a solução
+> About the solution 
+
+
+
+
+
+
+
 
 > [!WARNING] 
 > PASSAR A LIMPO DEPOIS
