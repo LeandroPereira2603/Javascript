@@ -1,6 +1,6 @@
 
 # Average 
-**Solved :** not 
+**Solved :** ✓
 
 <p> Read two floating points' values of double precision A and B, corresponding to two student's grades. After this, calculate the student's average, considering that grade A has weight 3.5 and B has weight 7.5. Each grade can be from zero to ten, always with one digit after the decimal point. Don’t forget to print the end of line after the result, otherwise you will receive “Presentation Error”. Don’t forget the space before and after the equal sign.</p>
 
@@ -25,7 +25,7 @@ var b = parseFloat(lines.shift('\n'));
 
 var media = (3.5 * a + 7.5 * b) / (3.5 + 7.5);
 
-console.log ('MEDIA = '+media.toFixed(5);
+console.log ('MEDIA = '+media.toFixed(5));
 
 ```
 >[!NOTE]
@@ -39,7 +39,7 @@ Este algoritmo e para encontrar a média ponderada das notas dos alunos  ,coloca
 This algoritm and for found the avarege of note of student's , a example : with the weight of grade A 3.5 , the with weight grade 7.5 , the note and avaliable of zero the ten , make the averange of two notes corresponding .
 
 
-3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 )) ;
+3.5 (peso) * input (nota) + 7.5 (peso) * input (nota) / ( 3.5 + 7.5 ) ;
 
 
 
