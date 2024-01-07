@@ -73,7 +73,7 @@
 * [ Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
 * [ array](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Array.md)
 
-### Complementos da Linguagem JavaScript :
+### Complementos especificos da Linguagem JavaScript :
 
 *  [ Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
 *  [ Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
