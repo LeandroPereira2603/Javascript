@@ -30,7 +30,7 @@
 **2 - Estruturas utilizados :**
 
 - **for** : para repetir o processo de cálcular novamente .
-- **if** : desvio condicional para continuar ou sair do programa , e para caso restritiva .
+- **if composto** : desvio condicional para continuar ou sair do programa , e para caso restritiva .
 -
 
 ```javascript 
