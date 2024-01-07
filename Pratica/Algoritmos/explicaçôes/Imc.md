@@ -21,6 +21,16 @@
 
 ### Sobre o código 
 
+**Métodos :**
+
+* toFixed() - Para deixar com duas casas decimais.
+
+**Estruturas :**
+
+* if composto - para determinar várias condições em ordem crescente .
+
+
+
 ```javascript
 
 var kg = parseFloat(prompt("Digite qual é o seu peso : "));
