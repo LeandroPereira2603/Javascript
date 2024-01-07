@@ -7,7 +7,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 3 |
+| Em desenvolvimento    |  🟡  | 4 |
 | Projeto concluído    |  💻  | 0 |
 | Repositório Favorito | ⭐ | 0  |
 | Código Fonte - local do repositório | ☕ | 5 | 
@@ -62,7 +62,7 @@
 ### Sintaxe da Linguagem javascript :
 
 * [ Declaração de variáveis](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Declara%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
-* [ Estrutura de dados]()
+* 🟡 [ Estrutura de dados](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
 * [ Operadores Aritiméticos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores-aritmetico.md)
 * [ Operadores Relacionais](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20relacionais.md)
 * [ Operadores Lógicos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Operadores%20de%20l%C3%B3gica.md)
