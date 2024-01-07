@@ -2,8 +2,8 @@
 
 # Média 
 
-<p> A média das notas , de duas provas do aluno ,as notas sendo informada pelo usúario .</p>
-<p> Imprimindo a informação se está aprovado ou não. </p>
+ * A média das notas de duas provas do aluno ,as notas sendo informada pelo usúario 
+* Imprimindo a informação se está aprovado ou não.
 
 ```javascript
 
