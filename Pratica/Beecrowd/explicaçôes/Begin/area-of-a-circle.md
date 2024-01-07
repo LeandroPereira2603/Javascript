@@ -58,7 +58,7 @@ console.log('A = '+a.toFixed(4));
 
 or
 
-var a = ('A = '+Math.PI*Math.pow(r,2).toFixed(4));
+var a = ('A='+Math.PI*Math.pow(r,2).toFixed(4));
 */
 
 ```
