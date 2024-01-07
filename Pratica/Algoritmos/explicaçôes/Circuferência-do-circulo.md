@@ -89,9 +89,11 @@ for(i=0;i<=9;){
                     break;
 
                 }
+
                 else{
 
                     i = i + 15;
+
                     break;
                 }
             
