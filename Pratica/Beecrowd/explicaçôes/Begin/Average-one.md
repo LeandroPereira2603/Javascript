@@ -44,16 +44,12 @@ This algoritm and for found the avarege of note of student's , a example : with 
 
 
 >[!Warning]
-> tem dois jeitos para calcular a média
+> Tem dois jeitos para calcular a média
 > * média aritmética 
 > * média ponderada ( pesos )
 
-**Cálculo : media**
+**Exemplo : **
 
 * A media das notas do alunos . 
 * E a media de pesos de notas das salas , grade  . ( ponderado ) .
 
-
-
-> [!WARNING] 
-> Em solução
