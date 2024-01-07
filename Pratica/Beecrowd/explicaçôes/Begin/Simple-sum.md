@@ -22,7 +22,7 @@ escreva o valor desta variavél .
 
 <p> Print the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error" </p>
 
-<!-- Imprima a mensagem "SOMA" com toda o capital das letras com um espaço em branco antes e depois o sinal de igual seguindo o correspondende para o valor a soma de A e B . Like todo o problema, não esqueça para imprimir a fim da linha , otherwise voce vai receber "Apresentação de erro" 
+<!-- Imprima a mensagem "SOMA" com toda o capital das letras com um espaço em branco antes e depois o sinal de igual seguindo o correspondende para o valor a soma de A e B . Like todo o problema, não esqueça para imprimir a fim da linha , otherwise voce vai receber "Apresentação de erro" -->
 
 
 | Input Samples |  Output Samples |
