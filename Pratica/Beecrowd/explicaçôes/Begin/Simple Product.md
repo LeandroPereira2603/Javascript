@@ -1,3 +1,6 @@
+
+Solved : ✓
+
 ```javascript 
 
 var a = parseInt(lines.shift('\n');
