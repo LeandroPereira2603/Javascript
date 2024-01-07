@@ -31,15 +31,16 @@ imprimir(butterfly());
 
 
 // return : "the butterfly have wings blue and too is very beautiful ! "
-
+```
 
 ## Vamos piorar mais a situação 
 
+```javascript
 
 // Colocar estas duas funções dentro do for e do desvio condicional 
 
 
-```javascript 
+ 
 
    \\ tirei o incremento da estrutura for para ser chamada dentro do desvio condicional if para se caso for a opção não que e o número (2) ele vai fazer o incremento ,  fazendo sair do laço de repetição , e imprimir a informação saiu do programa .
 
