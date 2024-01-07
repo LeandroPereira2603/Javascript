@@ -3,7 +3,7 @@
 # Média 
 
 * As notas de entrada são informada pelo usúario.
-* Criar fórmula para a media e imprime o resultado  . 
+* Criar fórmula para a média e imprime o resultado do cálculo . 
 * Verificar se a média e igual ou maior que 5 .
 * Imprime se o aluno está aprovado ou não .
 
