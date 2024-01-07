@@ -29,8 +29,8 @@ console.log ('MEDIA = '+media.toFixed(5));
 
 ```
 >[!NOTE]
-> <steong>About :</steong> 
-> Problem resolution in english and in portuguese (llp)
+> <steong>About :</steong> <br>
+> * Problem resolution in english and in portuguese (llp)
 
 **Resumo :**
 
