@@ -38,7 +38,7 @@
 for(i=0;i<=9;){
 
  var escolha = parseInt(prompt(""+ 
- " Escolha opção de 2 á 4 :\n"+
+ " Escolha opção de 1 á 4 :\n"+
  " 1 - cálculo da circuferência do circulo em cm.\n"+
  " 2 - cálculo da circuferência do circulo em m.\n "+
  " 3 - cálculo do comprimento do circulo em cm.\n"+
