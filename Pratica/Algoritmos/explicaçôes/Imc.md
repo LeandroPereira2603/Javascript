@@ -15,7 +15,7 @@
 
 ## Sobre o algoritmo 
 
-<p>Algoritmo que calcule o I.M.C  , sendo informada pelo usúario o peso e altura, mostrando o grau que esta no resultado de acordo com a tabela abaixo .</p>
+<p>Algoritmo que calcule o I.M.C  , sendo informada pelo usúario o peso e altura, mostrando o grau que esta no resultado de acordo com a tabela  .</p>
 
 <p>O Usuário vai digitar o número , para o peso e altura , o sistema irá calcular e informar qual é o grau que esta de acordo com a medida da tabela do imc . </p>
 
