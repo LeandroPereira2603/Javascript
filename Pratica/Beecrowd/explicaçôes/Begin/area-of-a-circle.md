@@ -52,7 +52,7 @@ var r = parseFloat(lines.shift('\n'));
 
 var a = 3.14159*Math.pow(r,2);
 
-console.log('A = '+a.toFixed(4));
+console.log('A='+a.toFixed(4));
 
 /*
 
