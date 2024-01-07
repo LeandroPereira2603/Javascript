@@ -13,7 +13,7 @@
 | Código Fonte - local do repositório | ☕ | 5 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 | Exercicio em andamento |  🕗  |  1 |
-| Exercicio concluido | ✔ | 7 |
+| Exercicio concluido | ✔ | 8 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
 
@@ -116,7 +116,7 @@
 * ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
 * ✔ [Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
-* 🕗 [Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
+* ✔ [Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
 
 
 **Algoritmo** predileto :
