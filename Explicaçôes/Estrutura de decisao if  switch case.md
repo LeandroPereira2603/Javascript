@@ -6,7 +6,7 @@
 
 ### if simples 
 
-<p> If simples e uma estrutura de desvio condicional com uma condição .</p>
+<p> É uma estrutura de desvio condicional com uma condição .</p>
 
 ```javascript 
 
@@ -27,7 +27,7 @@ else {
 
 ### If composto
 
-<p> If composto e uma estrutura condicional com  várias condiçõea </p>
+<p> É uma estrutura condicional com várias condiçõea </p>
 
 <p> Exemplo : algoritmo que informa qual e a classificação que a pessoa está , exemplo :  criança , adolescente , adulto ou idoso , sendo que a idade ja definido programado .  </p>
 
