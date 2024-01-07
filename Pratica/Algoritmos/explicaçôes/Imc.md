@@ -23,11 +23,11 @@
 
 **Método :**
 
-* toFixed() - Para deixar com duas casas decimais.
+* **toFixed()** - Para deixar com duas casas decimais.
 
 **Estrutura :**
 
-* if composto - para determinar várias condições em ordem crescente .
+* **if composto** - Para determinar várias condições em ordem crescente .
 
 
 
