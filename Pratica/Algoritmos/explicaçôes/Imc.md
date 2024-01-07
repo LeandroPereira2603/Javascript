@@ -29,6 +29,9 @@
 
 * **if composto** - Para determinar várias condições em ordem crescente .
 
+**Organização do código :**
+
+* escolha de organização sem indentação 
 
 
 ```javascript
