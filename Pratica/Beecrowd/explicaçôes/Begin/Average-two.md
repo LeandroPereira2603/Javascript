@@ -19,8 +19,24 @@ The input file contains 3 values of floating points (double) with one digit afte
 Print the message "MEDIA"(average in Portuguese) and the student's average according to the following example, with a blank space before and after the equal signal. </p>
 
 
+
 | Input Samples	| Output Samples|
 |:--:|:--:|
 | 5.0  6.0  7.0  |  MEDIA = 6.3
 | 5.0  10.0 10.0 |  MEDIA = 9.0
 | 10.0 10.0 5.0 | MEDIA = 7.5 |
+
+```javascript
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
+
+```
+
