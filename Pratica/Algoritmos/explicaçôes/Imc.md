@@ -21,11 +21,11 @@
 
 ### Sobre o código 
 
-**Métodos :**
+**Método :**
 
 * toFixed() - Para deixar com duas casas decimais.
 
-**Estruturas :**
+**Estrutura :**
 
 * if composto - para determinar várias condições em ordem crescente .
 
