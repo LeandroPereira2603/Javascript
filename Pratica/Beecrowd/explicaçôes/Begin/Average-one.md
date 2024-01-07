@@ -39,4 +39,4 @@ Este algoritmo e para encontrar a média das notas dos alunos ,colocando um exem
 
 
 > [!WARNING] 
-> PASSAR A LIMPO DEPOIS
+> Em solução
