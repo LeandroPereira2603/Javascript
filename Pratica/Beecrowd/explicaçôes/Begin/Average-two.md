@@ -55,7 +55,7 @@ var a = parseFloat(lines.shif(`\n`));
 var b = parseFloat(lines.shift(`\n`));
 var c = parseFloat(lines.shift('\n'));
 
-var media = ( a* 2 + b * 3 c * 5 ) / ( 2 + 3 + 5 );
+var media = ( a * 2 + b * 3 + c * 5 ) / ( 2 + 3 + 5 );
 
 console.log(`MEDIA = '+media.toFixed(1));
 
