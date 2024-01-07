@@ -29,9 +29,11 @@ var data = {        // Um objeto com 2 propriedades
 
 ```
 
-> [!Note] - <strong> Refêrencia : </strong> <br>
+
+> [!Note] <strong> Refêrencia : </strong> <br>
 > Livro - O guia definitivo de JavaSccript 
 >
+
 
 <!--Função para retornar a chave do objeto
 
