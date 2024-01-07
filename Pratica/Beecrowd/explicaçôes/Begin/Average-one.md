@@ -48,7 +48,7 @@ This algoritm and for found the avarege of note of student's , a example : with 
 > * média aritmética 
 > * média ponderada ( pesos )
 
-**Exemplo : **
+**Exemplo :**
 
 * A media das notas do alunos . 
 * E a media de pesos de notas das salas , grade  . ( ponderado ) .
