@@ -51,7 +51,7 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var a = parseFloat(lines.shiff('\n'));
+var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
