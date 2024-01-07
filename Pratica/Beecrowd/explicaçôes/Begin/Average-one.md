@@ -42,11 +42,7 @@ This algoritm and for found the avarege of note of student's , a example : with 
 
 >[!NOTE]
 > Tem dois jeitos para calcular a média
-> * média aritmética 
-> * média ponderada ( pesos )
+> * média aritmética : A media das notas do alunos . 
+> * média ponderada ( pesos ) : a media de pesos de notas das salas , grade  . ( ponderado ) .
 
-**Exemplo :**
-
-* A media das notas do alunos . 
-* E a media de pesos de notas das salas , grade  . ( ponderado ) .
 
