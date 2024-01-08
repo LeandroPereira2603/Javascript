@@ -29,8 +29,8 @@
 > de um método ,e só o nome não consegue definir
 > o que se trata para onde vai o destino do valor ,
 > então neste caso coloca o sufixo 
-> ou pre-fixo , por exemplo variável _lastName_para  
-> _lastName-addr_  .
+> ou pre-fixo , por exemplo variável _lastName_ 
+> para _lastName-addr_  .
 
 
 ## Organização do código
