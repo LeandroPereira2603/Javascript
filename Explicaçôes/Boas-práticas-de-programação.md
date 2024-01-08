@@ -1,12 +1,13 @@
 # Boas práticas de programação 
 
-## Ciclo essêncial : 
+## Ideal : 
 
 * Refaturar sempre o código , do inicio ao fim antes de finalizar e entregar o projeto .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
 * Deixar com menos linhas possiveis.
-
-
+* Função no máximo com 20 linhas .
+* Criar função no máximo com 3 parâmetros .
+* Endentação decrescente de cima para baixo .
 
 ## Legibilidade de criação de nomes
 
