@@ -4,16 +4,16 @@
 
 <strong> Legenda :</strong> sobre prática , desenvolvimento , estudo .
 
-|Descrição | Logotipo   | Total |
+|Descrição | Logotipo   |
 |:--: |:--:|:--:|
-| Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 5 |
-| Projeto concluído    |  💻  | 0 |
-| Repositório Favorito | ⭐ | 0  |
-| Código Fonte - local do repositório | ☕ | 5 | 
-| Desenvolvimento para outro idioma | 🗺️ | 1 |
-| Exercicio em andamento |  🕗  |  0 |
-| Exercicio concluido | ✔ | 11 |
+| Abandonado | 🔴 | 
+| Em desenvolvimento    |  🟡  | 
+| Projeto concluído    |  💻  | 
+| Repositório Favorito | ⭐ | 
+| Código Fonte - local do repositório | ☕ | 
+| Desenvolvimento para outro idioma | 🗺️ |
+| Exercicio em andamento |  🕗  |  
+| Exercicio concluido | ✔ | 
 
 <p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
 
@@ -36,7 +36,7 @@
 
 1 - Tópicos de estudo 
 
- - 1.1 - Minhas anotaçôes ( LLP )
+ - 1.1 - Minhas anotaçôes 
 
 
 2 - Prática 
