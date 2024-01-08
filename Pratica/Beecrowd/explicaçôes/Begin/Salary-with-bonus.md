@@ -1,6 +1,6 @@
 # Salary with bonus 
 
-**Level:** :star: :star:
+**Level :** :star: :star:
 
 **Solved:** Not 
 
