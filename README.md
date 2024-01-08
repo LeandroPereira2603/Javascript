@@ -13,7 +13,7 @@
 | Código Fonte - local do repositório | ☕ | 5 | 
 | Desenvolvimento para outro idioma | 🗺️ | 1 |
 | Exercicio em andamento |  🕗  |  0 |
-| Exercicio concluido | ✔ | 10 |
+| Exercicio concluido | ✔ | 11 |
 
 <p> <strong> Legenda : </strong> sobre os arquivos de extensão . </p>
 
