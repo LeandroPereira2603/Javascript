@@ -1,5 +1,6 @@
 # Boas práticas de programação 
 
+* Quanto menos linhas de códigos melhor .
 
 ## Legibilidade do código 
 
