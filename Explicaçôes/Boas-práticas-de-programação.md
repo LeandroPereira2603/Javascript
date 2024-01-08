@@ -1,10 +1,10 @@
 # Boas práticas de programação 
 
-## Ciclo essêncial do programador : 
+## Ciclo essêncial : 
 
-* Refaturar o código .
+* Refaturar sempre o código possivel , antes de finalizar e entregar o projeto .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
-* Quanto menos linhas melhor .
+* Deixar com menos linhas possiveis.
 
 
 
