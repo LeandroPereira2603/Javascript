@@ -91,14 +91,15 @@ for(i=0;i<=9;){
 
                     break;
 
-                }
+                } // if simples
 
                 else{
 
                     i = i + 15;
 
                     break;
-                }
+
+                } // else
             
             
             case 2 :
@@ -130,14 +131,14 @@ for(i=0;i<=9;){
 
                     break;
 
-                }
+                } // if simples
 
                 else{
 
                     i = i + 10;
 
                     break;
-                }
+                } // else 
     
              case 3 :
         
@@ -162,14 +163,14 @@ for(i=0;i<=9;){
 
                     break;
 
-                }
+                } // if simples
 
                 else{
 
                     i = i + 10;
 
                     break;
-                }
+                } // esle
 
             case 4 :
 
@@ -193,25 +194,28 @@ for(i=0;i<=9;){
 
                     break;
 
-                }
+                } // if simples
 
                 else{
 
                     i = i + 10;
 
                     break;
-                }
-         }
 
-    }
+                } // Else
+
+         } // switch
+
+    } // if composto
 
     else{
 
          console.log("Digitou número "+escolha+" :\n");
 
-    }
+    } // else
 
     console.log(" Saiu do programa !!");
-}
+
+} // for
 
 ```
