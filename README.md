@@ -134,6 +134,7 @@
 * ✔ [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
 * ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
 * ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
+* ✔ [ Difference ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Difference.md)
 
 
 **Algoritmo** predileto :
