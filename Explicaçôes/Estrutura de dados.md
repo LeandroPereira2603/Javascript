@@ -8,13 +8,15 @@
 <!-->
 O conjunto de tipos na linguagem JavaScript consiste em primitive values e objects.
 Valores primitivos (dados imutáveis representados diretamente no nível mais baixo do idioma)
-tipo Boolean
-Tipo Null
-Tipo Undefined
-Tipo Number
-tipo BigInt
-tipo String
-Tipo Symbol
+
+* tipo Boolean
+* Tipo Null
+* Tipo Undefined
+* Tipo Number
+* tipo BigInt
+* tipo String
+* Tipo Symbol
+
 Objetos (coleções de propriedades) -->
 
 ### valores primitivos
