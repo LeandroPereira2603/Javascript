@@ -48,6 +48,21 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var name = lines.shift('\n');
+var one = parseFloat(lines.shift('\n');
+var Two = parseFloat(linea.shitf('\n');
+
+consol.log("TOTAL = R$ '+((two/15)+one).toFixed(2));
+
+
+//for the solved 
+//solution
+ 
+//15 porcent of values of variable 
+//Two and variavle sum with the value One and print 
+
+//15 % do valor da variavel two e soma com      
+//variable one e  imprimir 
 
 
 ```
