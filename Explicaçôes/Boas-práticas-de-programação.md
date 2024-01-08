@@ -1,6 +1,6 @@
 # Boas práticas de programação 
 
-## Ciclo essêncial : 
+## Ciclo essêncial do programador : 
 
 * Refaturar o código .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
