@@ -9,9 +9,8 @@
 
 **Input**
 
-,p>
+<p>
 The input file contains 4 integer values.</p>
-
 
 
 **Output**
@@ -28,6 +27,21 @@ Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, accordi
 
 ```javascript
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
+var a = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
+var c = parseInt(lines.shift('\n'));
+var d = parseInt(lines.shift('\n'));
+
+console.log('DIFERENCA = '+(a * b) - (c * d));
 
 
 ```
