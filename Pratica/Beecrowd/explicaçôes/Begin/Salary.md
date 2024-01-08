@@ -15,7 +15,7 @@ Don’t forget to print the line's end after the result, otherwise you will rece
 <p>
 Don’t forget the space before and after the equal signal and after the U$. </p>
 
-<!-- Não esqueça de imprimir o fim da linha dwpois o resultado , de outra forma vai receber " Apresentação de erro ".
+<!-- Não esqueça de imprimir o fim da linha depois do resultado , de outra forma vai receber " Apresentação de erro ".
 
 Não esqueça o espaço antes e depois o sinal da virgula e depois o U$ 
 -->
@@ -26,7 +26,7 @@ Não esqueça o espaço antes e depois o sinal da virgula e depois o U$
 <p>
 The input file contains 2 integer numbers and 1 value of floating point, representing the number, worked hours amount and the amount the employee receives per worked hour. </p>
 
-<!-- A entrada do arquivo contém 2 números inteiros e 1 valor de ponto flutuante ,representando o número , quantia de horas trabalhados  e a quantia dos funcionários recebidos por hora trabalhado . -->
+<!-- A entrada do arquivo contém 2 números inteiros e 1 valor de ponto flutuante ,representando o número ,a quantia de horas trabalhados  e a quantia dos funcionários recebidos por horas trabalhados. -->
 
 
 **Output**
@@ -62,7 +62,24 @@ var amount = parseInt(lines.shift('\n'));
 var hour = parseFloat(lines.shift('\n').toFixed(2));
 
 console.log('NUMBER = '+number);
-console.log('SALARY = '+
+console.log('SALARY = '+amount * hour+' , U$');
+
+// fórmula 
+
+Quantidade de funcionario
+A quantia de funcionarios ganho por mês
+Quantia por horas trabalhados ( Float )
+
+amount * hour 
+
+(100 * 5.50 ) = 550.00 U$
+
+number 25 = 25 ; 
+
+✓
+
+
+
 
 
 ```
