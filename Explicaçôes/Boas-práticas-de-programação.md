@@ -21,7 +21,7 @@
 
 ### Variável : 
 
-<p> ----- </p>
+<p> exemplos : nome , idade , hora , data , cor , altura , id , etc .... </p>
 
 > [!Warning] 
 > Colocar o pré-fixo ou sufixo no último caso ,
