@@ -40,4 +40,12 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var number = parseInt(lines.shift('\n'));
+var hour = parseInt(lines.shift('\n'));
+var salary = parseFloat(lines.shift('\n'));
+
+console.log('NUMBER = '+number);
+console.log('SALARY = '+
+
+
 ```
