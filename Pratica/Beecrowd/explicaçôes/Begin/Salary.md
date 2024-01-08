@@ -2,7 +2,7 @@
 
 **Level:** :star: :star:
 
-**Solved:** not
+**Solved:** ✓
 
 <p>
 Write a program that reads an employee's number, his/her worked hours number in a month and the amount he received per hour. Print the employee's number and salary that he/she will receive at end of the month, with two decimal places. </p>
@@ -59,27 +59,10 @@ var lines = input.split('\n');
 
 var number = parseInt(lines.shift('\n'));
 var amount = parseInt(lines.shift('\n'));
-var hour = parseFloat(lines.shift('\n').toFixed(2));
+var hour = parseFloat(lines.shift('\n'));
 
 console.log('NUMBER = '+number);
-console.log('SALARY = '+amount * hour+' , U$');
-
-// fórmula 
-
-Quantidade de funcionario
-A quantia de funcionarios ganho por mês
-Quantia por horas trabalhados ( Float )
-
-amount * hour 
-
-(100 * 5.50 ) = 550.00 U$
-
-number 25 = 25 ; 
-
-✓
-
-
-
+console.log('SALARY = U$ '+(amount * hour).toFixed(2));
 
 
 ```
