@@ -99,7 +99,7 @@
 
 ### Exemplos de comandos :
 *  [  Site : Hello world - comando alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
-*  *[ Site : Aparecida Nutricionista ( Alura ) - comando createElement() ](https://leandropereira2603.github.io/site-aparecida-nutricionista/)
+* 🟡 [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
 ### Exercicios 
 
