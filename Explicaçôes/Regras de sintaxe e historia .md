@@ -34,7 +34,6 @@
  * Usa API baixa para trabalhar com texto , arrays , datas e expressôes regulares , mas não inclui funcionalidade alguma de entrada e saída. 
  * interpretador da linguagem são todos os navegadores da web ( Firefox , Opera , Safari , Google chrome etc ...).
 
-
 # Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula .
@@ -42,25 +41,6 @@
 * Para comentário de linha e usado barras duplas  // .
 * Para comentário de várias linhas e usado barra com asterisco /* */. 
 
-# Boas práticas de programação 
-
-## Nomenclatura da variáveis 
-
-*
-*
-*
-
-## Organização de código 
-
-*
-*
-*
-
-## Manutenção 
-
-### código claro e bem documentado : 
-
-<p> informando em detalhes principais , para deixar a leitura dos outros programadores mais fácil e objetiva , assim fazendo economizar tempo, para a manutenção de blocos de códigos especificos . </p>
 
 
 Exemplo :
@@ -70,7 +50,6 @@ Exemplo :
 console.log('Hello , world !!!');
 
 ```
-
 
 > [!NOTE]
 > <strong>Rêferencia : </strong> 
