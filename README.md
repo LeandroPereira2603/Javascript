@@ -77,10 +77,10 @@
 
 ### Complementos especificos da Linguagem JavaScript :
 
-*  [ Objeto](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
-*  [ Métodos](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
+*  [ Objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
+*  [ Métodos ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
 * 🟡 [ String : manipulando caracteres]
-+ 🟡 [ importação de bibliotecas] 
++ 🟡 [ importação de bibliotecas ] 
 
 ### Manipulação de elementos DOM ( Document Object Model ) :
 
@@ -97,7 +97,15 @@
 
 ## Sites ( Git hub : pages )
 
-*  [  Site : Hello world - comando alert  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+### Exemplos de comandos :
+*  [  Site : Hello world - comando alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+*  *[ Site : Aparecida Nutricionista ( Alura ) - comando createElement() ](https://leandropereira2603.github.io/site-aparecida-nutricionista/)
+
+### Exercicios 
+
+#### Cálculos
+
+  
 
 ## Algoritmos ( Geral ) 
  
@@ -122,7 +130,7 @@
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
 * ✔ [ Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
 * ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
-* ✔  [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
+* ✔ [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
 * ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
 * ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
 
