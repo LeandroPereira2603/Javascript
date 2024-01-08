@@ -3,7 +3,7 @@
 ## Essêncial : 
 
 * Refaturar o código .
-* Deixar os nomes das variáveis pronunciaveis .
+* Deixar os nomes das variáveis o máximo possivel pronunciaveis .
 
 
 
