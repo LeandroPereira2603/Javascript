@@ -34,12 +34,12 @@
 
 ### Índice
 
-* 1 - Tópicos de estudo 
+* Tópicos de estudo 
 
    * Minhas anotaçôes 
 
 
-* 2 - Prática 
+* Prática 
 
    * Sites ( Git hub : pages )
    * Algoritmos ( Geral ) 
