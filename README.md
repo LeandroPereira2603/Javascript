@@ -95,6 +95,8 @@
 
 # 💻 Prática 
 
+<p> Todos os contéudos de práticas ,feito em linguagem javascript .</p>
+
 ## :computer: Sites : Git hub - pages 
 
 ### Exemplos de comandos :
