@@ -4,6 +4,7 @@
 
 * Refaturar o código .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
+* Quanto menos linhas melhor .
 
 
 
