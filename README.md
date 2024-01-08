@@ -36,14 +36,14 @@
 
 * 1 - Tópicos de estudo 
 
-   * 1.1 - Minhas anotaçôes 
+   * Minhas anotaçôes 
 
 
 * 2 - Prática 
 
-   * 2.1 Sites ( Git hub : pages )
-   * 2.2 Algoritmos ( Geral ) 
-   * 2.3 Beecrowd ( Geral )
+   * Sites ( Git hub : pages )
+   * Algoritmos ( Geral ) 
+   * Beecrowd ( Geral )
 
 
 
