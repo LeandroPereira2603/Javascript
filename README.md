@@ -95,7 +95,7 @@
 
 # 💻 Prática 
 
-## Sites ( Git hub : pages )
+## Prática ( Sites : Git hub - pages )
 
 ### Exemplos de comandos :
 *  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
@@ -107,7 +107,7 @@
 * 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
 
-## Algoritmos ( Prática : Geral ) 
+## Prática  ( Algoritmos - gerais  ) 
  
 ### Cálculos :
 
@@ -119,7 +119,7 @@
 ###  Lógica :
 * [ ]
 
-## Beecrowd ( Exercicios )
+## Prática ( Beecrowd :.Exercicios gerais  )
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
