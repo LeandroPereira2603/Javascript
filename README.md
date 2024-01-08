@@ -119,7 +119,7 @@
 ###  Lógica :
 * [ ]
 
-## Prática ( Beecrowd :.Exercicios gerais  )
+## Prática ( Beecrowd : Exercicios gerais  )
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
