@@ -22,8 +22,8 @@ Print the number and the employee's salary, according to the given example, with
 | Input Samples |	Output Samples |
 |:--:|:--:|
 | 25 <br> 100 <br> 5.50 | NUMBER = 25 <br> SALARY = U$ 550.00 |
-|1 200 20.50 | NUMBER = 1 SALARY = U$ 4100.00
-| 6 145 15.55 |NUMBER = 6 SALARY = U$ 2254.75 |
+|1 <br> 200 <br> 20.50 | NUMBER = 1 <br> SALARY = U$ 4100.00
+| 6 <br> 145 <br> 15.55 |NUMBER = 6 <br> SALARY = U$ 2254.75 |
 
 ```javascript
 
