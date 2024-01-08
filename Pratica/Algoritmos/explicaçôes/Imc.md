@@ -31,7 +31,7 @@
 
 **Organização do código :**
 
-* escolha de organização sem indentação 
+* escolha de organização sem indentação , mas de forma decrecente de cima para baixo .
 
 
 ```javascript
