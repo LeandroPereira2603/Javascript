@@ -5,7 +5,7 @@
 <strong> Legenda :</strong> sobre prática , desenvolvimento , estudo .
 
 |Descrição | Logotipo   |
-|:--: |:--:|:--:|
+|:--: |:--:|
 | Abandonado | 🔴 | 
 | Em desenvolvimento    |  🟡  | 
 | Projeto concluído    |  💻  | 
