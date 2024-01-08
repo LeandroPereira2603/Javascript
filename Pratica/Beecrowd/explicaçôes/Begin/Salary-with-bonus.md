@@ -33,7 +33,7 @@ Print the seller's total salary, according to the given example.
 | Input Samples | 	Output Samples |
 |:--|:--|
 | JOAO <br> 500.00 <br> 1230.30 |TOTAL = R$ 684.54
-| PEDRO <br> 700.00 <br> 0.00 | TOTAL = R$ 700.00 |
+| PEDRO <br> 700.00 <br> 0.00 |TOTAL = R$ 700.00 |
 | MANGOJATA <br >1700.00 <br>1230.50 |TOTAL = R$ 1884.58 |
 
 ```javascript 
