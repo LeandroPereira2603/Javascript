@@ -1,8 +1,10 @@
 # Boas práticas de programação 
 
-* Refaturar o código 
+## Nomenclatura significados 
 
-## Nomenclatura 
+* Refaturar o código
+
+## Legibilidade de criação de nomes
 
 <p> Quanto mais légivel for os nomes declarados , mais fácil fica para fazer a manutenção do código. </p>
 
