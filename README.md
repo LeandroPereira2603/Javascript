@@ -102,7 +102,7 @@
 * 🟡 [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
 
-### Cálculos 
+### Cálculos :
 
 * 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
@@ -123,7 +123,7 @@
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
-### Begin 
+### Begin :
 
 * ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
