@@ -224,4 +224,4 @@ for(i=0;i<=9;){
 
 > [!Note]
 > **Referência:** <br>
-> * **(LLP)**- Leandro Luiz Pereira 
+> * **(LLP)** - Leandro Luiz Pereira
