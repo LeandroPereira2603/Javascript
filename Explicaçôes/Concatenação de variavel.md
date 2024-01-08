@@ -19,7 +19,6 @@ console.log(somaConc); // Irá retorna : 2040 .
 
 console.log(" Caminhando para  "+
             " ser Developer JR : "+
-            " iniciando ."+
             " em progresso : |#---------| ");
 
 // Neste trecho de código , concatenando as  strings , dando para fazer a indentação pulando a linha , deixando o visual melhor  , quando é uma mensagem muito extensa .
