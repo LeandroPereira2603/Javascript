@@ -41,9 +41,9 @@
 
 * Prática 
 
-   * Sites ( Git hub : pages )
-   * Algoritmos ( Geral ) 
-   * Beecrowd ( Geral )
+   * Sites : Git hub - pages 
+   * Algoritmos : Gerais
+   * Beecrowd : Exercicioa erais 
 
 
 
@@ -95,7 +95,7 @@
 
 # 💻 Prática 
 
-## Prática ( Sites : Git hub - pages )
+## :computer: Sites : Git hub - pages 
 
 ### Exemplos de comandos :
 *  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
@@ -107,7 +107,7 @@
 * 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
 
-## Prática  ( Algoritmos - gerais  ) 
+## :computer: Algoritmos : Gerais  
  
 ### Cálculos :
 
@@ -119,7 +119,7 @@
 ###  Lógica :
 * [ ]
 
-## Prática ( Beecrowd : Exercicios gerais  )
+## :computer: Beecrowd : Exercicios gerais  
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
