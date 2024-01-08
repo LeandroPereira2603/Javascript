@@ -221,3 +221,7 @@ for(i=0;i<=9;){
 } // for
 
 ```
+
+> [!Note]
+> * Referência <br>
+> (LLP) 
