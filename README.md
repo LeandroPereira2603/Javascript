@@ -114,7 +114,7 @@
 
 ## Beecrowd 
 
-<p> **Beecrowd** é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
+<p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
 ### Begin 
 
