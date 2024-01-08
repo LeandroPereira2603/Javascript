@@ -23,7 +23,7 @@
 
 <p> ----- </p>
 
->[Warning] 
+> [!Warning] 
 > Colocar o pré-fixos ou sufixos no últimos casos ,
 > por exemplo for uma única variável dentro 
 > de um método ,e só o nome não consegue definir
