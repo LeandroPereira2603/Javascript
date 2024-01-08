@@ -1,5 +1,7 @@
 # Boas práticas de programação 
 
+* Refaturar o código 
+
 ## Nomenclatura 
 
 <p> Quanto mais légivel for os nomes declarados , mais fácil fica para fazer a manutenção do código. </p>
