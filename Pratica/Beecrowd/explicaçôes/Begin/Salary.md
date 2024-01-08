@@ -1,6 +1,6 @@
 # Salary 
 
-**level:** :star: :star:
+**Level:** :star: :star:
 
 **Solved:** not
 
