@@ -1,7 +1,7 @@
 # Boas práticas de programação 
 
 
-## 1 - Legibilidade do código 
+## Legibilidade do código 
 
 ### Nomenclatura :
 
@@ -15,6 +15,6 @@
 
 <p> A melhor forma de criar o nome para definir o método , e declarando no verbo infinitivo , exemplo  inserir , criar , excluir , calcular. enviar , etc... </p>
 
-## 2 - Organização do código 
+## Organização do código 
 
 ### Tipos de organizações :
