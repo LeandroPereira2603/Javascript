@@ -1,8 +1,11 @@
 # Boas práticas de programação 
 
-## Sobre 
+## Essêncial : 
 
-* Refaturar o código
+* Refaturar o código .
+* Deixar os nomes das variáveis pronunciaveis .
+
+
 
 ## Legibilidade de criação de nomes
 
@@ -10,7 +13,7 @@
 
 ### Classe :
  
-<p> A melhor forma de definir o nome da classe e declarando no substantivo, exemplo : Borboleta , Casa , Cachorro , Pessoa e etc ... </p>
+<p> A melhor forma de definir o nome da classe , e declarando no substantivo, exemplo : Borboleta , Casa , Cachorro , Pessoa e etc ... </p>
 
 ### Método :
 
@@ -20,6 +23,13 @@
 
 <p> ----- </p>
 
+>[Warning] 
+> Colocar o pré-fixos ou sufixos no últimos casos ,
+> por exemplo for uma única variável dentro 
+> de um método ,e só o nome não consegue definir
+> o que se trata de fato o destino do valor , ai  l
+> colocar sufixos e pre-fixo ,  exemplo _addresa_  
+> para _lastName-addr_ .
 
 
 ## Organização do código
