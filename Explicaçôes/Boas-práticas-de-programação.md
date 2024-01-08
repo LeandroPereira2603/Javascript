@@ -24,12 +24,13 @@
 <p> ----- </p>
 
 > [!Warning] 
-> Colocar o pré-fixos ou sufixos no últimos casos ,
+> Colocar o pré-fixo ou sufixo no último caso ,
 > por exemplo for uma única variável dentro 
 > de um método ,e só o nome não consegue definir
-> o que se trata de fato o destino do valor , ai  l
-> colocar sufixos e pre-fixo ,  exemplo _addresa_  
-> para _lastName-addr_ .
+> o que se trata para onde e o destino do valor ,  
+> então neste caso coloca sufixo ou pre-fixo ,  
+> exemplo variável _lastName_  
+> para _lastName-addr_  .
 
 
 ## Organização do código
