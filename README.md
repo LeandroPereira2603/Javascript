@@ -101,14 +101,13 @@
 *  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 * 🟡 [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
-### Exercicios 
 
-#### Cálculos 
+### Cálculos 
 
 * 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
 
-## Algoritmos ( Geral ) 
+## Algoritmos ( Prática : Geral ) 
  
 ### Cálculos :
 
@@ -117,11 +116,10 @@
 * ✔ [ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
 * ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
 
-
 ###  Lógica :
 * [ ]
 
-## Beecrowd 
+## Beecrowd ( Exercicios )
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
