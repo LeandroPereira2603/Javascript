@@ -50,7 +50,7 @@ var lines = input.split('\n');
 
 var name = lines.shift('\n');
 var one = parseFloat(lines.shift('\n'));
-var Two = parseFloat(linea.shitf('\n'));
+var two = parseFloat(linea.shitf('\n'));
 
 console.log('TOTAL = R$ '+((two/15)+one).toFixed(2));
 
