@@ -36,7 +36,7 @@
 
 * Tópicos de estudo 
 
-   * Minhas anotaçôes 
+   * Anotaçôes 
 
 
 * Prática 
@@ -50,7 +50,7 @@
 
 # 📚 Tópicos de estudo
 
-## :book: Minhas anotações  :
+## :book: Anotações  :
 
 <p> Aqui tera todas as meus resumos da linguagem de programação javascript , com complementoa de referências de livros e conteúdo de cursos . </p>
 
