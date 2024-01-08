@@ -17,7 +17,7 @@ console.log(somaConc); // Irá retorna : 2040 .
 
 // Concatenação de Strings 
 
-console.log(" Caminhando para a "+
+console.log(" Caminhando para  "+
             " ser Developer JR : "+
             " iniciando ."+
             " em progresso : |#---------| ");
