@@ -22,7 +22,7 @@
 | Para melhor visualização e detalhe do código | arquivo.md|
 | Para execusão do javascript | arquivo.js |
 
-#### Convençôes usadas para anotaçôes do repositório :
+### Convençôes usadas para anotaçôes do repositório :
 
 <p> Utilizo o seguinte parâmetro para o repositório . </p>
 
