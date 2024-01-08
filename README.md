@@ -118,7 +118,7 @@
 * ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
 
 
-###  lógica :
+###  Lógica :
 * [ ]
 
 ## Beecrowd 
