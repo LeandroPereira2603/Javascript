@@ -1,6 +1,6 @@
 # Boas práticas de programação 
 
-## Nomenclatura significados 
+## Sobre 
 
 * Refaturar o código
 
