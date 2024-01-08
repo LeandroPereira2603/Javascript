@@ -1,8 +1,8 @@
 # Difference 
 
-**Level:**
+**Level:** :star:
 
-**Solved;** not
+**Solved;** ✓
 
 
 <p> Read four integer values named A, B, C and D. Calculate and print the difference of product A and B by the product of C and D (A * B - C * D). </p>
@@ -41,7 +41,7 @@ var b = parseInt(lines.shift('\n'));
 var c = parseInt(lines.shift('\n'));
 var d = parseInt(lines.shift('\n'));
 
-console.log('DIFERENCA = '+(a * b) - (c * d));
+console.log('DIFERENCA = '+((a * b) - (c * d)));
 
 
 ```
