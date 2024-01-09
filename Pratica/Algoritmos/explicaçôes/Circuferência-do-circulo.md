@@ -34,7 +34,7 @@
 
 **3 - Organização do código:**
 
-- Escolha de organização de forma endentada e mono-espaçada , ou seja , de acordo com a hierarquia da estrutura colocada uma dentro da outra , sendo decrecente de cima para baixo  .
+- Escolha de organização de forma indentada e mono-espaçada , ou seja , de acordo com a hierarquia da estrutura colocada uma dentro da outra , sendo decrecente de cima para baixo  .
 
 ```javascript 
 
