@@ -19,7 +19,7 @@
 
 <p>O Usuário vai digitar o número , para o peso e altura , o sistema irá calcular e informar qual é o grau que esta de acordo com a medida da tabela do imc . </p>
 
-### Sobre o código 
+### Sobre o código :
 
 1 - **Método :**
 
@@ -77,9 +77,9 @@ else {
 
 ```
 
-# outro exemplo 
+## outro exemplo 
 
-## Sobre o código : 
+### Sobre o código : 
 
 1 - * *Entrada de valores :**
 
