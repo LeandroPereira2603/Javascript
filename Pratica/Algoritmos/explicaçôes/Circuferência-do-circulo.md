@@ -25,7 +25,7 @@
 
 var r = 50 ;
 var pi = 3.14159 ;
-var area = pi ( r * r ) ;
+var area = pi * ( r * r ) ;
 
 console.log("A área total do circulo é "+area.toFixed(4)+" cm² ");
 
