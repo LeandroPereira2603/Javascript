@@ -62,7 +62,9 @@ var n = parseInt(prompt("Digite o número que vai definir o inicio de conjunto d
    tabuadaDefinida(2,5+1);
 ```
 
-### 2 - Conjunto de tabuada 
+## 2 - Conjunto de tabuada 
+
+### Sobre a execusão do algoritmo 
 
 <p> O úsuario vai digitar o número que vai estabelecer o final do conjunto de tabuada , exemplo : digitou 5 , o sistema irá calcular e mostrar o conjunto de tabuadas do 0 até o 5 , mostrando a multiplicação do 0 até o 10 </p>
 
