@@ -164,3 +164,8 @@ calculoImc(pesoLeandro ,altLeandro)  ;
 
 
 ```
+
+> [!NOTE] 
+> **Autor:**
+> (LLP) - Leandro Luiz Pereira
+>
