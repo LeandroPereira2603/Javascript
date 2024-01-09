@@ -172,7 +172,7 @@ for(i=0;i<=9;){
 
                     break;
 
-                } // esle
+                } // else
 
             case 4 :
 
