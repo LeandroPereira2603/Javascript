@@ -4,7 +4,7 @@
 
 <p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
 
-### Sobre os algoritmos :
+### Indice dos algoritmos :
 
 1 - **Conjunto de tabuada** <br>
 Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
@@ -19,7 +19,9 @@ Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <
 4 - **Tabuada** <br>
 Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
-### 1 - Conjunto de tabuada 
+## 1 - Conjunto de tabuada 
+
+### Sobre a execusão do algoritmo 
 
 <p> O úsuario vai digitar o número de inicio e fim , exemplo : 5 , 14  , o sistema irá calcular e mostrar a tabuada completa , da tabuada 5 até a tabuada 14 , mostrando as multiplicações do 0 até o 10 de cada tabuada .</p>
 
@@ -81,7 +83,10 @@ var c = parseInt(prompt("Digite o número máximo de tabuadas que deseja visuali
 ```
 
 
-### 3 - Tabuada
+## 3 - Tabuada
+
+
+### Sobre a execusão do algoritmo 
 
 <p> O úsuario ira digitar um número, exemplo : 7 , o sistema irá calcular e mostrar a tabuada do 7 , da multiplicação do 0 até o 10 , </p>
 
@@ -100,7 +105,9 @@ var c = parseInt(prompt("Digite o número da tabuada  deseja visualizar "));
 
 ```
 
-### 4 - Tabuada
+## 4 - Tabuada
+
+### Sobre a execusão do algoritmo 
 
 <p> Exemplo o usuário digitou 3 e 20 , vai mostrar a tabuada do 3 com sequência de multiplicaçôes do 0 ao 20 </P>
 
