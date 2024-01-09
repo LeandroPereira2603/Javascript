@@ -4,7 +4,7 @@
 
 <p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
 
-### Indice dos algoritmos :
+### Sobre os algoritmos :
 
 1 - **Conjunto de tabuada** <br>
 Determina a escolha do conjunto de tabuadas, definida pelo úsuario de inicio e fim, e também mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
