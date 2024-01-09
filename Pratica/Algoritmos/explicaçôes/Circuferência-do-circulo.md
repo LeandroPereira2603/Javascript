@@ -223,5 +223,5 @@ for(i=0;i<=9;){
 ```
 
 > [!Note]
-> **Referência:** <br>
+> **Autor:** <br>
 > * **(LLP)** - Leandro Luiz Pereira
