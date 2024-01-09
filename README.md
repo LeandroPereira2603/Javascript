@@ -126,7 +126,8 @@
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
 
 ### 1 - Begin :
- **Basic problems** for anyones who has just started to program .. 
+ 
+**Basic problems** for anyones who has just started to program .. 
 
 * ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
 * ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
@@ -139,7 +140,7 @@
 * ✔ [ Salary](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
 
 ### 2 - AD-HOC 
-**Simulation** , **problems** , **dates** , **games** and **general** **ad-hoc** .
+**Simulation** , problems , dates, games and general , ad-hoc  .
 
 * 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Ad-hoc/to-carry-or-not-to-carry.md)
 
