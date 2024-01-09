@@ -30,7 +30,8 @@
 > Colocar o pré-fixo ou sufixo no último caso ,
 > por exemplo for uma única variável dentro 
 > de uma esteutura ,só que o nome não consegue
-> definir o que se trata para onde vai o destino do > valor , então neste caso coloca o sufixo ou 
+> definir o que se trata para onde vai o destino do 
+> valor , então neste caso coloca o sufixo ou 
 > pre-fixo , por exemplo variável _lastName_ para
 > _lastName-addr_ .
 
