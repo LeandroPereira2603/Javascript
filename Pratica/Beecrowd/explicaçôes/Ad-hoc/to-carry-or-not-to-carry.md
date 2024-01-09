@@ -4,7 +4,7 @@
 
 **Solved:** not
 
-<img background-color: black; src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1026.png">
+<img style="background-color: black;" src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1026.png">
 
 Look at, Mofiz worked hard throughout his Digital Logic course, but when he was asked to implement a 32 bit adder for the laboratory exam, he did some mistake in the design part. After scavenging the design for half an hour, he found his flaw!! He was doing bitwise addition but his carry bit always had zero output. Thus,
 
