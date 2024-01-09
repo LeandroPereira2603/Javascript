@@ -15,6 +15,27 @@
 > <strong>Atenção : </strong>
 > O modelo da circuferência e plana não é tridimensional como a esfera .
 
+# Exemplo de código simplificado 
+
+## Fórmulas dos cálculos : 
+
+<p> As fórmulas dos cálculos ,serão baseadas na medida do raio de 50 cm , para saber a sua área total e seu comprimento total do circulo </p>
+
+```javascript 
+
+var r = 50 ;
+var pi = 3.14159 ;
+var area = pi ( r * r ) ;
+
+console.log("A área total do circulo é "+area.toFixed(4)+" cm² ");
+
+var comp = pi * 2 * r ; 
+
+console.log(" O comprimento total do circulo é "+comp.toFixed(4)+ cm ");
+
+```
+
+# Exemplo de código mais estruturado
 
 ## Sobre a execusão do algoritmo 
 
