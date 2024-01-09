@@ -57,11 +57,14 @@ var lines = input.split('\n');
 
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
-var exit = [ a , b ] ;
-var exitTwo = [b,exit[a];
 
+var exit = a - b ;
 
-console.log('');
+console.log(exit);
+
+var exitTwo = a + b ;
+
+console.log(exitTwo);
 
 
 
