@@ -7,7 +7,7 @@
 ### Indice dos algoritmos :
 
 1 - **Conjunto de tabuada** <br>
-Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
+Determina a escolha do conjunto de tabuadas, definida pelo úsuario de inicio e fim, e também mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
 <br>
 
 2 - **Conjunto de tabuada** <br>
