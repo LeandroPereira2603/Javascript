@@ -244,5 +244,5 @@ for(i=0;i<=9;){
 ```
 
 > [!Note]
-> **Autor:** <br>
+> **Autor :** <br>
 > * **(LLP)** - Leandro Luiz Pereira
