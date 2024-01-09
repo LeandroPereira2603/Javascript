@@ -8,10 +8,14 @@
 
 1 - **Conjunto de tabuada** <br>
 Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
+<br>
+
 2 - **Conjunto de tabuada** <br>
- Determina o conjunto de tabuada do 0 até o número definido pelo úsuario. 
+ Determina o conjunto de tabuada do 0 até o número definido pelo úsuario. <br>
+
 3 - **Tabuada** <br>
-Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <br> <br>
+Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <br>
+
 4 - **Tabuada** <br>
 Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
