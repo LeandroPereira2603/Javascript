@@ -23,15 +23,15 @@
 
 1 - **Método :**
 
-* **toFixed()** - Para deixar com duas casas decimais.
+ **toFixed()** - Para deixar com duas casas decimais.
 
 2 - **Estrutura :**
 
-* **if composto** - Para determinar várias condições em ordem crescente .
+ **if composto** - Para determinar várias condições em ordem crescente .
 
 3 - **Organização do código :**
 
-* escolha de organização sem indentação mono-espaçada , mas de forma decrecente de cima para baixo .
+ escolha de organização sem indentação mono-espaçada , mas de forma decrecente de cima para baixo .
 
 
 ```javascript
