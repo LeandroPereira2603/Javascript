@@ -17,9 +17,9 @@
 
 ## Exemplo de código simplificado 
 
-### cálculos em cm: 
+### Sobre a execusão do algoritmo :
 
-<p> As fórmulas dos cálculos ,serão baseadas na medida do raio de 50 cm , para saber a sua área total e seu comprimento total do circulo </p>
+<p> Com a medida do raio de 50 cm armazenada na variàvel r, com a fórmulas criada na variavel area e comp , calcula e imprime a sua área e seu comprimento total do circulo ao usuàrio .</p>
 
 ```javascript 
 
