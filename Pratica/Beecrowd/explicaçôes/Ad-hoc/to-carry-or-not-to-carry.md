@@ -18,7 +18,7 @@ Look at, Mofiz worked hard throughout his Digital Logic course, but when he was 
 
  4  = 00000000 00000000 00000000 00000100 <br>
 +6  = 00000000 00000000 00000000 00000110 <br>
-    ---------------------------------------- <br>
+.   . ---------------------------------------- <br>
  2  = 00000000 00000000 00000000 00000010 <br>
 
 <p> It’s a good thing that he finally found his mistake, but it was too late. Considering his effort throughout the course, the instructor gave him one more chance. Mofiz had to write an efficient program that would take 2 unsigned 32 bit decimal numbers as input, and produce an unsigned 32 bit decimal number as the output adding in the same way as his circuit does.
