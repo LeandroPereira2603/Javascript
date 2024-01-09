@@ -31,7 +31,7 @@
 
 3 - **Organização do código :**
 
-* escolha de organização sem indentação , mas de forma decrecente de cima para baixo .
+* escolha de organização sem indentação mono-espaçada , mas de forma decrecente de cima para baixo .
 
 
 ```javascript
@@ -96,7 +96,7 @@ else {
 
 4 - **Organização do código :**
 
-* escolha de organização sem indentação , mas de forma decrecente de cima para baixo .
+* escolha de organização sem indentação mono-espaçada, mas de forma decrecente de cima para baixo .
 
 
 ```javascript 
