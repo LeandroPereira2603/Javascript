@@ -24,19 +24,19 @@ Look at, Mofiz worked hard throughout his Digital Logic course, but when he was 
 <p> It’s a good thing that he finally found his mistake, but it was too late. Considering his effort throughout the course, the instructor gave him one more chance. Mofiz had to write an efficient program that would take 2 unsigned 32 bit decimal numbers as input, and produce an unsigned 32 bit decimal number as the output adding in the same way as his circuit does.
 </p>
 
-<!-- É algo bom que ele finalmente encontrou este rro , mas e era também tarde . Considerando este esforço muito tempo o cursor. o instrutor deu a ele um e mais chances .Mofiz para escrever um número decimal com a entrada , e produze um sem sinal de 32 bit número decimal com outra saida adicionados em da mesma maneira com o circuito dele faz .
+<!-- É algo bom que ele finalmente encontrou este rro , mas e era também tarde . Considerando este esforço muito tempo o cursor. o instrutor deu a ele um e mais chances .Mofiz para escrever um número decimal com a entrada , e produze um sem sinal de 32 bit número decimal com outra saida adicionados em da mesma maneira com o circuito dele faz . -->
 
 **Input**
 
 In each input line there will be a pair of integer separated by a single space. Input ends at EOF.
 
-<!-- em cada linha de saida ele vai ser um par de inteiros separado de um espaço sozinho . fim de saidas para EOF.
+<!-- em cada linha de saida ele vai ser um par de inteiros separado de um espaço sozinho . fim de saidas para EOF. -->
 
 **Output**
 
 <p> For each input line, the program must provide an output's line: the value after adding the two numbers in the "Mofiz way". </p>
 
-<!-- para cada linha de saida , o programa deve prover uma outra linha de saida : o valor depois adiciona os dois números em o " maneira Mofiz " 
+<!-- para cada linha de saida , o programa deve prover uma outra linha de saida : o valor depois adiciona os dois números em o " maneira Mofiz " -->
 
 |Input Sample	|Output Sample|
 |:--|:--|
