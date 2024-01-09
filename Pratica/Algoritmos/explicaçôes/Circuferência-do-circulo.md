@@ -31,7 +31,7 @@ console.log("A área total do circulo é "+area.toFixed(4)+" cm² ");
 
 var comp = pi * 2 * r ; 
 
-console.log(" O comprimento total do circulo é "+comp.toFixed(4)+ cm ");
+console.log(" O comprimento total do circulo é "+comp.toFixed(4)+" cm ");
 
 ```
 
