@@ -53,5 +53,14 @@ var lines = input.split('\n');
  * Code your solution here
  * Escriba su solución aquí
  */
+
+
+var a = ['',''].lines.shift('\n');
+var b = ['',''].lines.shift('\n');
+
+console.log('');
+
+
+
 ```
 
