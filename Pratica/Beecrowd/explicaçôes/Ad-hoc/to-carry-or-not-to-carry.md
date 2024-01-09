@@ -4,7 +4,7 @@
 
 **Level :** :star: :star: :star: :star: :star:
 
-**Solved:** not
+**Solved:** ❌
 
 <div align="center"; >
 <img  src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1026.png">
