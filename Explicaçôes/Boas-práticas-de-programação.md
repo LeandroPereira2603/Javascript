@@ -1,6 +1,6 @@
 # Boas práticas de programação 
 
-## Ideal : 
+## Pontos cruciais : 
 
 * Refaturar sempre o código , do inicio ao fim . antes de finalizar e entregar o projeto .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
