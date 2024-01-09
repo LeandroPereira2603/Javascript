@@ -2,13 +2,13 @@
 
 ## Ideal : 
 
-* Refaturar sempre o código , do inicio ao fim. antes de finalizar e entregar o projeto .
+* Refaturar sempre o código , do inicio ao fim . antes de finalizar e entregar o projeto .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
-* Deixar com menos linhas possiveis.
+* Deixar com menos linhas possiveis .
 * Criar função no máximo com 20 linhas .
 * Criar função no máximo com 3 parâmetros .
 * Evitar importar biblioteca de terceiros .
-   * E melhor dependender de algo que voce controle do que pegar algo que acabe controlando voce (Livro : clean code ) 
+   * E melhor dependender de algo que voce controle do que pegar algo que acabe controlando voce (Livro : clean code ) .
 
 ## Legibilidade de criação de nomes
 
