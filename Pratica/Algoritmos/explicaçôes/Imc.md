@@ -79,7 +79,7 @@ else {
 
 ### Exemplo com função 
 
-<p> O peso e altura ja programado para o resultado , com objeto criado pessoa .  </p>
+<p> O peso e altura ja com valor armazenado na variàvel para o resultado .  </p>
 
 ```javascript 
 
