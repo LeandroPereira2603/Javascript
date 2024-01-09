@@ -17,7 +17,7 @@
 
 ## Exemplo de código simplificado 
 
-### Fórmulas dos cálculos : 
+### cálculos em cm: 
 
 <p> As fórmulas dos cálculos ,serão baseadas na medida do raio de 50 cm , para saber a sua área total e seu comprimento total do circulo </p>
 
