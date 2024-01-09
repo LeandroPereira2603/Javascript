@@ -55,8 +55,37 @@ var lines = input.split('\n');
  */
 
 
-var a = parseFloat(lines.shift('\n'));
-var b = parseFloat(lines.shift('\n'));
+var a = parseInt(lines.shift('\n'));
+var empt = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
+
+if(empt == undefined){
+
+result = console.log(a-b);
+
+return result;
+
+}
+
+else {
+
+console.log("Náo foi encontrado nenum valor ") ;
+
+}
+
+if ( empt == null ){
+
+result = console.log(a+b);
+
+return result;
+
+}
+
+else {
+
+console.log("Náo foi encontrado um valor ") ;
+
+}
 
 
 
