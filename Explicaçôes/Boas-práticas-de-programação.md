@@ -2,7 +2,7 @@
 
 ## Ideal : 
 
-* Refaturar sempre o código , do inicio ao fim antes de finalizar e entregar o projeto .
+* Refaturar sempre o código , do inicio ao fim. antes de finalizar e entregar o projeto .
 * Deixar os nomes das variáveis o máximo possivel pronunciaveis .
 * Deixar com menos linhas possiveis.
 * Criar função no máximo com 20 linhas .
