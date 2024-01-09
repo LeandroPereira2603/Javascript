@@ -43,7 +43,7 @@ Colocar informações importantes , evitar de colocar comentários com algo que 
 
 ## Organização do código
 
-### Tipos  :
-
 * Endentação decrescente de cima para baixo .
 * Metódos em ordem decrescente quando e ligada á outro método .
+
+<p> Seguir o padrão de organização estabelecida da empresa , mas sempre sugerindo melhorias de deixar os códigos menos poluido e organizado .
