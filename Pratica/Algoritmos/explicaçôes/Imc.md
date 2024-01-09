@@ -33,7 +33,6 @@
 
  escolha de organização sem indentação mono-espaçada , mas de forma decrecente de cima para baixo .
 
-
 ```javascript
 
 var kg = parseFloat(prompt("Digite qual é o seu peso : "));
