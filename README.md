@@ -139,7 +139,7 @@
 
 ### 2 - AD-HOC 
 
-* []()
+* 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Ad-hoc/to-carry-or-not-to-carry.md)
 
 
 **Algoritmo** predileto :
