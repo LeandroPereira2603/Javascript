@@ -83,20 +83,21 @@ else {
 
 1 - * **Entrada de valores :**
 
-* O valor da entrada ja armazenada na variavel.
+O valor da entrada ja armazenada na variavel.
 
 2 - **Método :**
 
-* **toFixed()** - Para deixar com duas casas decimais.
+ **toFixed()** - Para deixar com duas casas decimais.
 
 3 - **Estrutura :**
 
-* **if composto** - Para determinar várias condições em ordem crescente .
-* **Function** - com parâmetro , para declarar vàrias vezes for preciso de calcular o imc  para saber o valores diferentes e comparar .
+**if composto** - Para determinar várias condições em ordem crescente .
+
+**Function** - com parâmetro , para declarar vàrias vezes for preciso de calcular o imc  para saber o valores diferentes e comparar .
 
 4 - **Organização do código :**
 
-* escolha de organização sem indentação mono-espaçada, mas de forma decrecente de cima para baixo .
+escolha de organização sem indentação mono-espaçada, mas de forma decrecente de cima para baixo .
 
 
 ```javascript 
