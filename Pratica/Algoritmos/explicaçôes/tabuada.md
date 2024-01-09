@@ -6,10 +6,13 @@
 
 ### Sobre os algoritmos :
 
-1 - **Conjunto de tabuad** Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
+1 - **Conjunto de tabuad** 
+Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . 
 2 - **Conjunto de tabuada** Determina o conjunto de tabuada do 0 até o número definido pelo úsuario. 
-3 - **Tabuada** Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <br> <br>
-4 - **Tabuada** Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
+3 - **Tabuada** 
+Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <br> <br>
+4 - **Tabuada** 
+Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
 ### 1 - Conjunto de tabuada 
 
