@@ -21,15 +21,15 @@
 
 ### Sobre o código 
 
-**Método :**
+1 - **Método :**
 
 * **toFixed()** - Para deixar com duas casas decimais.
 
-**Estrutura :**
+2 - **Estrutura :**
 
 * **if composto** - Para determinar várias condições em ordem crescente .
 
-**Organização do código :**
+3 - **Organização do código :**
 
 * escolha de organização sem indentação , mas de forma decrecente de cima para baixo .
 
