@@ -77,11 +77,11 @@ else {
 
 ```
 
-## outro exemplo 
+## Outro exemplo 
 
 ### Sobre o código : 
 
-1 - * *Entrada de valores :**
+1 - * **Entrada de valores :**
 
 * O valor da entrada ja armazenada na variavel.
 
