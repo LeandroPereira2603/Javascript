@@ -9,10 +9,10 @@
 * Criar função no máximo com 3 parâmetros .
 * Evitar importar biblioteca de terceiros .
    * > [!WARNING]
->  E melhor dependender de algo que 
-> voce controle do que pegar algo
-> que acabe controlando voce
->  (Livro : clean code ) .
+     >  E melhor dependender de algo que 
+     > voce controle do que pegar algo
+     > que acabe controlando voce
+     >  (Livro : clean code ) .
 
 ## Legibilidade de criação de nomes
 
