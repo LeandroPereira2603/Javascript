@@ -6,9 +6,9 @@
 
 ### Sobre os algoritmos :
 
-1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 .
-2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario.
-3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario.
+1 - Determina a escolha do conjunto de tabuadas, defindas pelo úsuario de inicio e fim, e mostra a tabuada definida ja programado da tabuada 2 ao 5 . <br>
+2 - Determina o conjunto de tabuada do 0 até o número definido pelo úsuario. <br>
+3 - Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <br>
 4 - Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
 ### 1 - Conjunto de tabuada 
