@@ -2,7 +2,7 @@
 
 <!-- Carregar ou não carregar -->
 
-**Level:** :star: :star: :star: :star: :star:
+**Level :** :star: :star: :star: :star: :star:
 
 **Solved:** not
 
