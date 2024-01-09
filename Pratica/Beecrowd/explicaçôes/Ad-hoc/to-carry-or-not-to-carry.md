@@ -56,10 +56,10 @@ var lines = input.split('\n');
 
 
 var a = parseInt(lines.shift('\n'));
-var empt = parseInt(lines.shift('\n'));
+var sinlge = parseInt(lines.shift('\n'));
 var b = parseInt(lines.shift('\n'));
 
-if(empt == undefined){
+if(single == '-'){
 
 result = console.log(a-b);
 
@@ -67,13 +67,7 @@ return result;
 
 }
 
-else {
-
-console.log("Náo foi encontrado nenum valor ") ;
-
-}
-
-if ( empt == null ){
+else if ( single == '+' ){
 
 result = console.log(a+b);
 
@@ -83,12 +77,20 @@ return result;
 
 else {
 
-console.log("Náo foi encontrado um valor ") ;
+console.log(" File Not to carry !") ;
+
+// Arquivo náo carregdo ! 
 
 }
 
 
-
-
 ```
 
+
+# try solved  
+ 
+## EOF and problem 
+
+He will to get all information of variable and compared with the operator minus and more , after to maker the calculate , show the result of file , end of file ( EOF ) for to make the read of files externo.
+
+in relation the problem the file of 16 bit 
