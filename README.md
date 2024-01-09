@@ -43,7 +43,7 @@
 
    * Sites : Git hub - pages 
    * Algoritmos : Gerais
-   * Beecrowd : Exercicioa gerais 
+   * Beecrowd : Exercicios gerais 
 
 
 
