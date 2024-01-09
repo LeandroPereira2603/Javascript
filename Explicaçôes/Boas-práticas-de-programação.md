@@ -32,9 +32,18 @@
 > pre-fixo , por exemplo variável _lastName_ para
 > _lastName-addr_ .
 
+## Comentários 
+
+Colocar informações importantes , evitar de colocar comentários com algo que ja está esclarecida pelo nome declarado do código .
+
+* Informativo 
+* Direitos autorais 
+* Fazer (To do)
+
 
 ## Organização do código
 
 ### Tipos  :
 
 * Endentação decrescente de cima para baixo .
+* Metódos em ordem decrescente quando e ligada á outro método .
