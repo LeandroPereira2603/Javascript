@@ -1,6 +1,6 @@
-# Algoritmo
 
-## Tabuada 
+
+# Tabuada 
 
 <p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
 
