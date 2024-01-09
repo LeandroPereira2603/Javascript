@@ -77,9 +77,27 @@ else {
 
 ```
 
-### Exemplo com função 
+# outro exemplo 
 
-<p> O peso e altura ja com valor armazenado na variàvel para o resultado .  </p>
+## Sobre o código : 
+
+1 - * *Entrada de valores :**
+
+* O valor da entrada ja armazenada na variavel.
+
+2 - **Método :**
+
+* **toFixed()** - Para deixar com duas casas decimais.
+
+3 - **Estrutura :**
+
+* **if composto** - Para determinar várias condições em ordem crescente .
+* **Function** - com parâmetro , para declarar vàrias vezes for preciso de calcular o imc  para saber o valores diferentes e comparar .
+
+4 - **Organização do código :**
+
+* escolha de organização sem indentação , mas de forma decrecente de cima para baixo .
+
 
 ```javascript 
 
