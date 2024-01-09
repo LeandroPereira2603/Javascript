@@ -15,9 +15,9 @@
 > <strong>Atenção : </strong>
 > O modelo da circuferência e plana não é tridimensional como a esfera .
 
-# Exemplo de código simplificado 
+## Exemplo de código simplificado 
 
-## Fórmulas dos cálculos : 
+### Fórmulas dos cálculos : 
 
 <p> As fórmulas dos cálculos ,serão baseadas na medida do raio de 50 cm , para saber a sua área total e seu comprimento total do circulo </p>
 
@@ -35,9 +35,9 @@ console.log(" O comprimento total do circulo é "+comp.toFixed(4)+ cm ");
 
 ```
 
-# Exemplo de código mais estruturado
+## Exemplo de código mais estruturado
 
-## Sobre a execusão do algoritmo 
+### Sobre a execusão do algoritmo 
 
 <p> Este algoritmo tem opção de 4 procedimentos de cálculos diferentes de circuferência do circulo , que é escolhida  pelo usuário , o número do raio  e determinada  também pelo usuário , para o algoritmo cálcular e mostrar o resultado da fórmula ,  tendo a opção de repetir o processo do cálculo várias vezes quiser ou de sair do programa , como usuário desejar . </p> 
 
