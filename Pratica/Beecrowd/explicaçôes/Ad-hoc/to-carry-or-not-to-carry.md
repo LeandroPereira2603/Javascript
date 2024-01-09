@@ -4,7 +4,7 @@
 
 **Solved:** not
 
-<div align-center
+<div align-center >
 <img  src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1026.png">
 </div>
 
