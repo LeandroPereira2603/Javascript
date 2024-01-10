@@ -19,7 +19,7 @@
 
 ### Sobre a execusão do algoritmo :
 
-<p> Com a medida do raio de 50 cm armazenada na variàvel r, com a fórmulas criada na variavel area e comp , calcula e imprime a sua área e seu comprimento total do circulo ao usuàrio .</p>
+<p> Com a medida do raio de 50 cm armazenada na variàvel r, com a fórmulas criada na variavel area e comp , calcula e imprime a sua área e seu comprimento total do círculo ao usuário .</p>
 
 ```javascript 
 
@@ -31,7 +31,7 @@ console.log("A área total do circulo é "+area.toFixed(4)+" cm² ");
 
 var comp = pi * 2 * r ; 
 
-console.log(" O comprimento total do circulo é "+comp.toFixed(4)+" cm ");
+console.log(" O comprimento total do círculo é "+comp.toFixed(4)+" cm ");
 
 ```
 
