@@ -27,7 +27,7 @@
 <strong> Orientação a objeto </strong> : POO Programação orientada a objetos é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos </p>
 <strong> Alto nivel  </strong> : Significa que a linguagem , esta mais próxima da nossa , fica mais fácil de programar com a sintaxe .
 
-<p><strong>Javascript e uma linguagem </strong> multiparadigma </p>
+<p>Javascript e uma linguagem <strong> multiparadigma </strong></p>
 </p>
 
 #### Paradigmas :
@@ -48,7 +48,7 @@
 # Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula .
-<p>A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura . 
+* A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura . 
 * Para comentário de linha e usado barras duplas  // .
 * Para comentário de várias linhas e usado barra com asterisco /* */. 
 
