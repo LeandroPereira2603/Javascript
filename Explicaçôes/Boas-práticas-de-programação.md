@@ -23,7 +23,7 @@
 
 ### Método :
 
-<p> A melhor forma de criar o nome para definir o método , e declarando no verbo infinitivo , exemplo :  inserir , criar , excluir , calcular. enviar , etc... </p>
+<p> A melhor forma de criar o nome para definir o método ,  e declarando no verbo infinitivo , exemplo :  inserir , criar , excluir , calcular. enviar , etc... o recomendado é colocar os métodos construtores com leta maiuscula. </p>
 
 ### Variável : 
 
