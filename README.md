@@ -98,7 +98,7 @@
 
 #### Paradigmas :
 
-* Orintação objeto
+* Orintado objeto
 * imperativa 
 * Funcional
 
