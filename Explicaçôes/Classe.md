@@ -31,8 +31,8 @@ class Insect {
 
 
 
-const = Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
-const = Insect mariposa = new Insect("Mariposa";0.7;1.1");
+const Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
+const Insect mariposa = new Insect("Mariposa";0.7;1.1");
 
 console.log(borboleta.nome);
 console.log(borboleta.altura);
