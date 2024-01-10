@@ -142,7 +142,8 @@
 * ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
 * ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
 * ✔ [ Difference ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Difference.md)
-* ✔ [ Salary](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
+* ✔ [ Salary ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
+* ✔ [ Salary-bonus ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary-with-bonus.md)
 
 ### 2 - AD-HOC 
 **Simulation** , problems , dates, games and general , ad-hoc  .
