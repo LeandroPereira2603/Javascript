@@ -15,8 +15,8 @@
 | se (4 != “4”) |  false|
 | se (true !== “true”) | true|
 | se (4 !== “4”) |  true|
-| se (true !== true)  false|
-| se (4 !== 4)  false|
+| se (true !== true) | false|
+| se (4 !== 4)  |false|
 
 ## Na prática 
 
