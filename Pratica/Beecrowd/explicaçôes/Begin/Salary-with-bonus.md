@@ -2,7 +2,7 @@
 
 **Level :** :star: :star:
 
-**Solved:** Not 
+**Solved:** ✓
 
 
 <p>
@@ -38,7 +38,6 @@ Print the seller's total salary, according to the given example.
 
 ```javascript 
 
-
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
@@ -52,21 +51,7 @@ var nome = lines.shift('\n');
 var one = parseFloat(lines.shift('\n'));
 var two = parseFloat(lines.shift('\n'));
 
-
 console.log('TOTAL = R$ '+((two/100*15)+one).toFixed(2));
-
-//console.log('TOTAL = R$ '+
-//((two/100*15)+one).toFixed(2));
-
-
-//for the solved 
-//solution
- 
-//15 porcent of values of variable 
-//Two and variavle sum with the value One and print 
-
-//15 % do valor da variavel two e soma com      
-//variable one e  imprimir 
 
 
 ```
