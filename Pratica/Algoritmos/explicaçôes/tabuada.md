@@ -132,7 +132,7 @@ var result = t * i ;
 ```
 
 
-## Todos os exemplos de cálculos de tabuada em um aó algoritmo 
+## Todos os exemplos de cálculos de tabuada em um só algoritmo 
  
 ### Switch case 
 
