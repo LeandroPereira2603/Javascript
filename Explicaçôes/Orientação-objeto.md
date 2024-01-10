@@ -35,3 +35,8 @@ console.log(p.r());                   // retorna : 1,414
 
 
 ```
+
+
+> [!NOTE]
+> <STRONG> referência : </STRONG> <BR>
+> Livro : O guia definitivo de javascript 
