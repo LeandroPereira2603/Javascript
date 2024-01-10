@@ -20,7 +20,7 @@
 
 ## Na prática 
 
-<p> O operador relacional ( === ) .</p>
+<p> O operador relacional ( === ) restritiva abstrata onde vai fazer a comparação dos tipos enão dos valores . </p>
 
 ```javascript 
 
