@@ -32,7 +32,7 @@
 * Para mostrar o significado da sigla que está abreviada .
 * Para colocar o meu nome como autor de toda a documentação ( LLP )  .
   
- <p> O uso da tipografia _italica_ :</P>
+ <p> O uso da tipografia </p> _italica_ :
 
 * para citar nomes de variáveis 
 * linha de código.
