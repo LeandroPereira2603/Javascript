@@ -36,14 +36,16 @@
 * Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável )
 * Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis. )
 
-
-### Pontos cruciais da linguagem Javascript .
-
+**Pontos Cruciais :**  
 
  * Javascript é a linguagem de programação para Web.
+
  * A sintaxe da linguagem é derivada da linguagem Java .
+
  * É completamente diferente da programação Java .
+
  * Usa API baixa para trabalhar com texto , arrays , datas e expressôes regulares , mas não inclui funcionalidade alguma de entrada e saída. 
+
  * interpretador da linguagem são todos os navegadores da web ( Firefox , Opera , Safari , Google chrome etc ...).
 
 
