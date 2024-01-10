@@ -1,7 +1,7 @@
 
 # Set timeout 
 
-<p> função _setTimeout()_ serve para determinar o tempo a executar a função </P>
+<p>  _setTimeout()_ é uma função em JavaScript que permite atrasar a execução de um trecho de código por um determinado período de tempo </P>
 
 ```javascript
 
