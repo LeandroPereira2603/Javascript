@@ -18,6 +18,7 @@
 |Orientado a objeto | Sim |
 |Multiplataforma | Sim |
 |Alto nível | sim |
+|Multiparadigma | sim |
 
 ### Significado de cada descrição : 
 
@@ -25,6 +26,17 @@
 <strong>Multiplataforma </strong> : O código roda em todos os sistemas operacionais ou seja em vários dispositivos diferentes . </p> 
 <strong> Orientação a objeto </strong> : POO Programação orientada a objetos é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos </p>
 <strong> Alto nivel  </strong> : Significa que a linguagem , esta mais próxima da nossa , fica mais fácil de programar com a sintaxe .
+
+<p>Javascript e uma linguagem <strong> multiparadigma </p>
+</p>
+
+#### Paradigmas :
+
+* Orintado objeto
+* imperativa 
+* Funcional
+
+
 
 ### Pontos cruciais da linguagem Javascript
 
