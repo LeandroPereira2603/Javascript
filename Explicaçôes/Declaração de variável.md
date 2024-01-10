@@ -1,10 +1,6 @@
 
 ## Declaração de variável 
 
-<p> As variáveis são declaradas com a palavra-chave var . </p>
-
-
-
 **Exemplo** :
 
 ```javascript 
