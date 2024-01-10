@@ -93,7 +93,7 @@
 ### Matérias 
 
 * 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
-* 🟡 [POO ( Programação orientado a objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
+* 🟡 [POO ( Programação orientado a objeto) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
 
 
 # 💻 Prática 
