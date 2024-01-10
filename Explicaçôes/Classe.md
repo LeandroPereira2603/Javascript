@@ -21,7 +21,7 @@ class Insect {
 
 // Instanciando o objeto da classe do método construtor .
 
-Insect borboleta = new Insect ("Borboleta";0.8;1;blue");
+Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
 Insect mariposa = new Insect("Mariposa";0.7;1.1");
 
 console.log(borboleta.nome);
