@@ -20,15 +20,12 @@
 
 ## Na prática 
 
-<p> (===) compara os tipos primitivos .</p>
-
 ```javascript 
 
 var n = 30;
-
 var nome = "Leandro";
 
-if (n === nome) {
+if (n === nome) {               // compara os tipos primitivos 
 
  console.log("Verdadeiro");
 
