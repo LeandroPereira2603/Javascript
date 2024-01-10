@@ -62,7 +62,7 @@
 ### Sobre :
 
 * [ Fontes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
-* [ Regras de sintaxe | História da linguagem ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
+* [ História da linguagem | Regras de sintaxe   ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
 * 🟡 [ Boas práticas de programação ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Boas-pr%C3%A1ticas-de-programa%C3%A7%C3%A3o.md)
 
 ### Sintaxe da Linguagem javascript :
