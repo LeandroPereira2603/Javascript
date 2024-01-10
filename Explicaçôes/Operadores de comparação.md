@@ -3,20 +3,21 @@
 
  Os operadores de comparaçôes ( == , === , != , !== )
 
-```javascript
 
-if (true == “true”) //retorna true
-if (10 == “10”) //retorna true
-if (true == true) //retorna true
-if (10 == 10) //retorna true
-if (true != “true”) //retorna false
-if (4 != “4”) //retorna false
-if (true !== “true”) //retorna true
-if (4 !== “4”) //retorna true
-if (true !== true) //retorna false
-if (4 !== 4) //retorna false
+| lógica | retorno |
+| :--:|:--:|
+|if (true == “true”) |//retorna true|
+|if (10 == “10”) | //retorna true|
+|if (true == true)| //retorna true|
+|if (10 == 10) | //retorna true|
+| if (true != “true”) | //retorna false|
+| if (4 != “4”) | //retorna false|
+| if (true !== “true”) | //retorna true|
+| if (4 !== “4”) | //retorna true|
+| if (true !== true) //retorna false|
+| if (4 !== 4) //retorna false|
 
-```
+
 
 <p> (===) compara os tipos primitivos .</p>
 
