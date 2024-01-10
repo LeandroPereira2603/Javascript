@@ -3,19 +3,20 @@
 
  Os operadores de comparaçôes ( == , === , != , !== )
 
+<P> Exemplo de lógica de comparação : </P>
 
-| lógica | retorno |
+| Lógica | Retorno |
 | :--:|:--:|
-|if (true == “true”) |//retorna true|
-|if (10 == “10”) | //retorna true|
-|if (true == true)| //retorna true|
-|if (10 == 10) | //retorna true|
-| if (true != “true”) | //retorna false|
-| if (4 != “4”) | //retorna false|
-| if (true !== “true”) | //retorna true|
-| if (4 !== “4”) | //retorna true|
-| if (true !== true) //retorna false|
-| if (4 !== 4) //retorna false|
+| se (true == “true”) | true|
+| se (10 == “10”) | true|
+| se (true == true)|  true|
+| se (10 == 10) |  true|
+| se (true != “true”) | false|
+| se (4 != “4”) |  false|
+| se (true !== “true”) | true|
+| se (4 !== “4”) |  true|
+| se (true !== true)  false|
+| se (4 !== 4)  false|
 
 
 
