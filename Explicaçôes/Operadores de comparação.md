@@ -6,7 +6,7 @@
 ## Exemplo de lógica de comparação 
 
 | Lógica | Retorno |
-| :--:|:--:|
+| :--|:--:|
 | se (true == “true”) | true|
 | se (10 == “10”) | true|
 | se (true == true)|  true|
