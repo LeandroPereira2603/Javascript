@@ -32,9 +32,9 @@
 
 #### Paradigmas :
 
-* Programação orintado objeto
-* Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável )
-* Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis. )
+1. Programação orintado objeto
+1. Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável )
+1. Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis. )
 
 **Pontos Cruciais :**  
 
