@@ -17,22 +17,34 @@ class Insect {
  
   }
 
+  apresentarInsect(){
+
+   return ' Especie : '+this.especie+'\n'+
+          ' Altura  : '+this.altura+'\n'+
+          ’ Peso : '+this.peso+'\n'+
+          ' cor : '+thia.cor+:\n'; 
+  }  
+
+  
+
 }
 
 // Instanciando o objeto da classe do método construtor .
 
-Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
-Insect mariposa = new Insect("Mariposa";0.7;1.1");
+const = Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
+const = Insect mariposa = new Insect("Mariposa";0.7;1.1");
 
 console.log(borboleta.nome);
 console.log(borboleta.altura);
 console.log(borboleta.peso);
-console.log(borboleta.cor)!
+console.log(borboleta.cor);
+console.log(apresentarInsect());
 
 console.log(mariposa.nome);
 console.log(mariposa.altura);
 console.log(mariposa.peso);
 console.log(mariposa.cor);
+console.log(apresentarInsect());
 
 
 ```
