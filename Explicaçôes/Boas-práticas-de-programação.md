@@ -15,7 +15,7 @@
 
 ## Legibilidade de criação de nomes
 
-<p> Quanto mais légivel for os nomes declarados , mais fácil fica para fazer a manutenção do código. </p>
+<p> Quanto mais legível for os nomes declarados , mais fácil fica para fazer a manutenção do código. </p>
 
 ### Classe :
  
@@ -32,7 +32,7 @@
 > [!Warning] 
 > Colocar o pré-fixo ou sufixo no último caso ,
 > por exemplo for uma única variável dentro 
-> de uma esteutura ,só que o nome não consegue
+> de uma estrutura , só que o nome não consegue
 > definir o que se trata para onde vai o destino do 
 > valor , então neste caso coloca o sufixo ou 
 > pre-fixo , por exemplo variável _lastName_ para
