@@ -1,9 +1,9 @@
 
-## Operadores de comparação
+# Operadores de comparação
 
  Os operadores de comparaçôes ( == , === , != , !== )
 
-<P> Exemplo de lógica de comparação : </P>
+## Exemplo de lógica de comparação 
 
 | Lógica | Retorno |
 | :--:|:--:|
@@ -18,7 +18,7 @@
 | se (true !== true)  false|
 | se (4 !== 4)  false|
 
-
+## Na prática 
 
 <p> (===) compara os tipos primitivos .</p>
 
