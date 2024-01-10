@@ -80,7 +80,7 @@
 * [ array](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Array.md)
 
 
-### Complementos especificos da Linguagem JavaScript :
+### Elementos especificos da Linguagem JavaScript :
 
 *  [ Objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
 *  [ Métodos ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
@@ -94,9 +94,18 @@
 * [ createElement]
 * [ create object]
 
+### Javascript e uma linguagem multiparadigmas 
+
+#### Paradigmas :
+
+* Orintação objeto
+* imperativa 
+* Funcional
+
 ### Matérias 
 
 * 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
+* [POO ( Programação orientado a objeto ]
 
 
 # 💻 Prática 
