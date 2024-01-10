@@ -19,6 +19,7 @@
 |Multiplataforma | Sim |
 |Alto nível | sim |
 |Multiparadigma | sim |
+|Interpretador | v8 |
 
 ### Significado de cada descrição : 
 
