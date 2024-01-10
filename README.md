@@ -90,7 +90,7 @@
 * [ createElement]
 * [ create object]
 
-### Javascript e uma linguagem multiparadigmas 
+### Javascript e uma linguagem multiparadigma
 
 #### Paradigmas :
 
