@@ -32,7 +32,7 @@ var lines = input.split('\n');
  */
 
 var a = parseInt(lines.shift('\n');
-var b = parseInt(limes.shift('\n');
+var b = parseInt(lines.shift('\n');
 var c = parseFloat(lines.shift('\n');
 
 
