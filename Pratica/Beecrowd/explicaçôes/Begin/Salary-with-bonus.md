@@ -56,7 +56,7 @@ var two = parseFloat(lines.shift('\n'));
 console.log('TOTAL = R$ '+((two/15+one)).toFixed(2));
 
 //console.log('TOTAL = R$ '+
-//((two15)+one).toFixed(2));
+//((two/100*15)+one).toFixed(2));
 
 
 //for the solved 
