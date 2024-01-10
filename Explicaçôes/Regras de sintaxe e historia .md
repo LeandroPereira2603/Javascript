@@ -38,14 +38,16 @@
 
 
 
-### Pontos cruciais da linguagem Javascript
+### Pontos cruciais da linguagem Javascript .
 
+<p>
  * Javascript é a linguagem de programação para Web.
  * A sintaxe da linguagem é derivada da linguagem Java .
  * É completamente diferente da programação Java .
  * Usa API baixa para trabalhar com texto , arrays , datas e expressôes regulares , mas não inclui funcionalidade alguma de entrada e saída. 
  * interpretador da linguagem são todos os navegadores da web ( Firefox , Opera , Safari , Google chrome etc ...).
 
+</p>
 # Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula .
