@@ -40,6 +40,7 @@ var data = [[3],[3]].lines.shift('\n');
 
 data.push[[ a , b , c ] ,[ a , b , c ]];
 
+
 console.log("Valor a pagar : R$ "+data.toFixed(2));
 
 
