@@ -90,6 +90,10 @@
 * [ createElement]
 * [ create object]
 
+## Funçôes globas e métodos :
+
+* [setTimeout()](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/setTimeout.md)
+
 ### Matérias 
 
 * 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
