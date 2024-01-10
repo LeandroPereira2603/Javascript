@@ -2,8 +2,7 @@
 # História
 
 ## Surgimento da linguagem : 
-<p> O Javascript foi criada na Netscape na fase inicial da Web , licensiada pela Sun Microsystems (agora pela Oracle) , usada para descrever a implementação da linguagem pelo Netscape ( agora Mozilla ). Netscape enviou a linguagem para a ECMA - European Computer Manufacturer's Association - para padronização e , devido a questôescrelacionadas á marca registrada, a versão padronizada manteve o nome "ECMAScript". </p>
-
+<p> O Javascript foi criada na Netscape na fase inicial da Web , licenciada pela Sun Microsystems (agora pela Oracle) , usada para descrever a implementação da linguagem pelo Netscape ( agora Mozilla ). Netscape enviou a linguagem para a ECMA - European Computer Manufacturer's Association - para padronização e , devido a questôes   relacionadas á marca registrada, a versão padronizada manteve o nome "ECMAScript". </p>
 
 # Sobre o JavaScript : 
 
@@ -32,8 +31,8 @@
 
 #### Paradigmas :
 
-1. Programação orintado objeto </p>
-1. Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável ) 
+1. Programação orientado objeto </p>
+1. Programação imperativa ( Modelo de ação computacional , de comandos que mudam o estado da variável ) 
 1.  Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis.)
 
 **Pontos Cruciais :**  
@@ -48,7 +47,7 @@
 # Regras de sintaxe 
 
 * Obrigatório colocar ponto e virgula .
-* A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura . 
+* A endentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } , que vai determina o inicio e o fim de um bloco de instrução de estrutura . 
 * Para comentário de linha e usado barras duplas  // .
 * Para comentário de várias linhas e usado barra com asterisco /* */. 
 
@@ -62,5 +61,5 @@ console.log('Hello , world !!!');
 ```
 
 > [!NOTE]
-> <strong>Rêferencia : </strong> 
+> <strong>Referência : </strong> 
 > * Livro - O guia definitivo do javascript
