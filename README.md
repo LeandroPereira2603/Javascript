@@ -106,23 +106,23 @@
 ## :computer: Sites : Git hub - pages 
 
 ### Exemplos de comandos :
-*  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
-* 🟡 [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
+1.  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+1. 🟡 [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
 
 ### Cálculos :
 
-* 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
+1. 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
 
 ## :computer: Algoritmos : Gerais  
  
 ### Cálculos :
 
-* ✔ [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md)  ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js) 
-* ✔ [  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
-* ✔ [ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
-* ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
+1. ✔ [ Tabuada.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/tabuada.md)  ☕  [ Tabuada.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Tabuada/function.js) 
+1. ✔ [  Metódo-de-butterfly.md  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Metodo-butterfly.md) ☕ [ Metódo-de-butterfly.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Metodo-butterfly/function.js)🗺️ ( EUA : English )
+1. ✔ [ Imc.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Imc.md) ☕ [ Imc.js](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/IMC/funtion.js)
+1. ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
 
 ###  Lógica :
 * [ ]
