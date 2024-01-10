@@ -61,5 +61,5 @@ console.log('Hello , world !!!');
 ```
 
 > [!NOTE]
-> <strong>Referencia : </strong> 
+> <strong>Referência : </strong> 
 > * Livro - O guia definitivo do javascript
