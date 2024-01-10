@@ -31,6 +31,16 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var a = parseInt(lines.shift('\n');
+var b = parseInt(limes.shift('\n');
+var c = parseFloat(lines.shift('\n');
+
+
+var data = [[3],[3]].lines.shift('\n');
+
+data.push[[ a , b , c ] ,[ a , b , c ]];
+
+
 
 
 ```
