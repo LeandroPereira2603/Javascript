@@ -1,5 +1,7 @@
 
+# Set timeout 
 
+<p> função _setTimeout()_ serve para determinar o tempo a executar a função </P>
 
 ```javascript
 
