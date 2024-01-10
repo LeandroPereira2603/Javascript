@@ -29,7 +29,7 @@ class Insect {
 
 }
 
-// Instanciando o objeto da classe do método construtor .
+
 
 const = Insect borboleta = new Insect ("Borboleta";0.8;1;"blue");
 const = Insect mariposa = new Insect("Mariposa";0.7;1.1");
