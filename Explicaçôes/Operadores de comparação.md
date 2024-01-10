@@ -1,32 +1,33 @@
 
-## Operadores de comparação
+# Operadores de comparação
 
  Os operadores de comparaçôes ( == , === , != , !== )
 
-```javascript
+## Exemplo de lógica de comparação 
 
-if (true == “true”) //retorna true
-if (10 == “10”) //retorna true
-if (true == true) //retorna true
-if (10 == 10) //retorna true
-if (true != “true”) //retorna false
-if (4 != “4”) //retorna false
-if (true !== “true”) //retorna true
-if (4 !== “4”) //retorna true
-if (true !== true) //retorna false
-if (4 !== 4) //retorna false
+| Lógica | Retorno |
+| :--|:--:|
+| if (true == “true”) | true|
+| if (10 == “10”) | true|
+| if (true == true)|  true|
+| if (10 == 10) |  true|
+| if (true != “true”) | false|
+| if (4 != “4”) |  false|
+| if (true !== “true”) | true|
+| if (4 !== “4”) |  true|
+| if (true !== true) | false|
+| if (4 !== 4)  |false|
 
-```
+## Na prática 
 
-<p> (===) compara os tipos primitivos .</p>
+<p> O operador relacional ( === ) .</p>
 
 ```javascript 
 
 var n = 30;
-
 var nome = "Leandro";
 
-if (n === nome) {
+if (n === nome) {               // Compara os tipos primitivos 
 
  console.log("Verdadeiro");
 
