@@ -87,10 +87,6 @@
 * 🟡 [ String : manipulando caracteres]
 + 🟡 [ importação de bibliotecas ]
 
-### Matérias 
-
-* 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
-
 ### Manipulação de elementos DOM ( Document Object Model ) :
 
 * [ querySelector e querySelectorAll]
@@ -98,8 +94,9 @@
 * [ createElement]
 * [ create object]
 
+### Matérias 
 
-
+* 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
 
 
 # 💻 Prática 
