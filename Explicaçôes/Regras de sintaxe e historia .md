@@ -32,29 +32,25 @@
 
 #### Paradigmas :
 
-<p> 1 -  Programação orintado objeto </p>
-<p> 2 -   Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável ) </p>
-<p> 3 -  Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis.)</p>
+1. Programação orintado objeto </p>
+1. Programação imperativa ( Modelo de ação computacional ,de comandos que mudam o estado da variável ) 
+1.  Programação Funcional ( Modelo de funções de matématica que evita o estado de dados imutavéis.)
 
 **Pontos Cruciais :**  
 
- <p>Javascript é a linguagem de programação para Web. </p>
-
-  <p> A sintaxe da linguagem é derivada da linguagem Java . </p>
-
- <p> É completamente diferente da programação Java . </p>
-
- <p>   Usa API baixa para trabalhar com texto , arrays , datas e expressôes regulares , mas não inclui funcionalidade alguma de entrada e saída. </p>
-
- <p>  interpretador da linguagem são todos os navegadores da web ( Firefox , Opera , Safari , Google chrome etc ...). </p>
+ * Javascript é a linguagem de programação para Web. 
+  * A sintaxe da linguagem é derivada da linguagem Java . 
+ * É completamente diferente da programação Java .
+ *  Usa API baixa para trabalhar com texto , arrays , datas e expressôes regulares , mas não inclui funcionalidade alguma de entrada e saída. 
+ * interpretador da linguagem são todos os navegadores da web ( Firefox , Opera , Safari , Google chrome etc ...). </p>
 
 
 # Regras de sintaxe 
 
-<p> Obrigatório colocar ponto e virgula .</p>
-<p>A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura . </p>
-<p> Para comentário de linha e usado barras duplas  // .</p.
-<p>Para comentário de várias linhas e usado barra com asterisco /* */. </p>
+* Obrigatório colocar ponto e virgula .
+<p>A indentação não interfere ao rodar o código, em javascript é definida com chaves de colchetes { } ,que vai determina o inicio e o fim de um bloco de instrução de estrutura . 
+* Para comentário de linha e usado barras duplas  // .
+* Para comentário de várias linhas e usado barra com asterisco /* */. 
 
 
 Exemplo :
