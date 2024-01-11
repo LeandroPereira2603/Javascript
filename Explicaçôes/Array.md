@@ -27,7 +27,7 @@ var points = [       // Um array com 2 elementos.
 
 ## Matriz - Floresta
 
-| Elemento | índice 0 ( nome ) | índice 1 ( qtd )|
+| Elemento | índice 0  | índice 1 |
 |:--:|:--:|:--:|
 |Vetor 0 - insetoUm   | Borboleta | 10 |
 |Vetor 1 - insetoDois | Mariposa | 20 |
