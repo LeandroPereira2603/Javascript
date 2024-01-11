@@ -2,7 +2,7 @@
 
 **Level:** :star: :star:
 
-**Solved:** not
+**Solved:** ✓
 
 Make a program that calculates and shows the volume of a sphere being provided the value of its radius (R) . The formula to calculate the volume is: (4/3) * pi * R3. Consider (assign) for pi the value 3.14159.
 
@@ -37,14 +37,14 @@ var lines = input.split('\n');
 
 var r = parseFloat(lines.shift('\n'));
 
-console.log("VOLUME = "+((4/3) * Math.PI * Math.pow(r,3)).toFixed(3));
+console.log("VOLUME = "+((4/3) * 3.14159 * Math.pow(r,3)).toFixed(3));
 
 
 /*
 
 var r = parseFloat(lines[0]);
 
-console.log("VOLUME = "+((Math.PI/4) * (Math.pow(r,3)/3)).toFixed(3));
+console.log("VOLUME = "+((4/3) * 3.14159 * Math.pow(r,3)).toFixed(3));
 
 */
 
