@@ -55,13 +55,32 @@ data.push(lineTwo);
 
 // Calcule the values 
 
-result = data[0,1] + data[1,1] + data [1,2] * 
+result = (data[0,1] * data[0,2]) + (data[1,1] * data[1,2]);
 
 // imprimindo imformações do resultado 
 
 // print information the result .
 
 console.log("Valor a pagar : R$ "+result.toFixed(2));
+
+
+
+/*
+
+// ou 
+
+var a , b = parseInt(lines.shift('\n');
+var c = parseFloat(lines.shift('\n');
+var d = 
+var e = 
+var f = 
+
+var data = (b * c) +( e * f);
+
+console.log
+
+
+*/
 
 
 ```
