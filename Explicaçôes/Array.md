@@ -25,7 +25,7 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz 
 
-## Floresta
+## Matriz - Floresta
 
 | Elemento | índice 0 | índice 1 |
 |:--:|:--:|:--:|
