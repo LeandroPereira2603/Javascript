@@ -51,9 +51,9 @@ var insetoTres  =  ["Formiga",5];
 
 // Inserindo os três elementos arrays dentro do array floresta , com o método push(), assim se tornando uma matriz .
 
-floresta.push[indiceOne];
-floresta.push[indiceDois];
-floresta.push[indiceTres];
+floresta.push[insetoUm];
+floresta.push[insetoDois];
+floresta.push[insetoTres];
 
 // Para imprimir as informaçõs da matriz , com dois exemplos : 
 
