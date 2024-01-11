@@ -36,11 +36,15 @@ var lines = input.split('\n');
 var a = parseInt(lines.shift('\n'));
 var b = parseInt(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
+var d = parseInt(lines.shift('\n'));
+var e = parseInt(lines.shift('\n'));
+var f = parseFloat(lines.shift('\n'));
+
 
 var data = [];
 
 var lineOne = [a,b,c];
-var lineTwo = [a,b,c];
+var lineTwo = [d,e,f];
 
 data.push(lineOne);
 data.push(lineTwo);
@@ -59,8 +63,7 @@ console.log("Valor a pagar : R$ "+(data[0][1] * data[0][2]) + (data[1][1] * data
 
 var a = parseInt(lines.shift('\n'));
 var b = parseInt(lines.shift('\n'));
-var c = parseFloat(lines.shift('\n'));
-var d = parseInt(lines.shift('\n'));
+var d = par
 var e = parseInt(lines.shift('\n'));
 var f = parseFloat(lines.shift('\n'));
 
