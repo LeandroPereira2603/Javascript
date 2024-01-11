@@ -31,19 +31,37 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var data = [];
+
 var a = parseInt(lines.shift('\n');
 var b = parseInt(lines.shift('\n');
 var c = parseFloat(lines.shift('\n');
 
+// elemento vetor 0 lineOne , elemento vetor 1 lineTwo cada um com três índices 0,1,2 .
 
-var data = [[3],[3]].lines.shift('\n');
+// Elemento array 0 lineOne , element Array 1 lineTwo each a with three index 0,1,2.
 
-data.push[[ a , b , c ] ,[ a , b , c ]];
+var lineOne = [a,b,c];
+var lineTwo = [a,b,c];
 
+// Inserindo os valores no vetor data, formando uma matriz .
 
-console.log("Valor a pagar : R$ "+data.toFixed(2));
+// Insert the values in array data , 
 
+data.push(lineOne);
+data.push(lineTwo);
 
+// calculando os valores dentro de uma matriz .
+
+// Calcule the values 
+
+result = data[0,1] + data[1,1] + data [1,2] * 
+
+// imprimindo imformações do resultado 
+
+// print information the result .
+
+console.log("Valor a pagar : R$ "+result.toFixed(2));
 
 
 ```
