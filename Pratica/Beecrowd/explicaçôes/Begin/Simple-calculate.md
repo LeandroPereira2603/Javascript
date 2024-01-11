@@ -33,9 +33,9 @@ var lines = input.split('\n');
 
 var data = [];
 
-var a = parseInt(lines.shift('\n');
-var b = parseInt(lines.shift('\n');
-var c = parseFloat(lines.shift('\n');
+var a = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
+var c = parseFloat(lines.shift('\n'));
 
 // elemento vetor 0 lineOne , elemento vetor 1 lineTwo cada um com três índices 0,1,2 .
 
@@ -55,13 +55,18 @@ data.push(lineTwo);
 
 // Calcule the values 
 
-result = (data[0,1] * data[0,2]) + (data[1,1] * data[1,2]);
+//var result = (data[0,1] * data[0,2]) + (data[1,1]
+// * data[1,2]);
 
 // imprimindo imformações do resultado 
 
 // print information the result .
 
-console.log("Valor a pagar : R$ "+result.toFixed(2));
+//console.log("Valor a pagar : 
+//R$ "+result.toFixed(2));
+
+console.log("Valor a pagar : R$ "+((data[0,1] * data[0,2]) + (data[1,1] * data[1,2])).toFixed(2));
+
 
 
 
