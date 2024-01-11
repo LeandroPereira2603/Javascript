@@ -40,6 +40,9 @@ var r = parseFloat(lines.shift('\n'));
 console.log("VOLUME = "+((4/3) * 3.14159 * Math.pow(r,3)).toFixed(3));
 
 
+```
+
+<!-- 
 /*
 
 var r = parseFloat(lines[0]);
@@ -48,8 +51,7 @@ console.log("VOLUME = "+((4/3) * 3.14159 * Math.pow(r,3)).toFixed(3));
 
 */
 
-
-```
+-->
 
 * Math.PI - 3.14159.
 * Math.pow - eleva a potência .
