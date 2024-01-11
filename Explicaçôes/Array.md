@@ -27,7 +27,7 @@ var points = [       // Um array com 2 elementos.
 
 var insect = []; // array 
 
-// Pode ser chamada assim também .
+// Pode ser declarada, assim também .
 
 var insect = new Array [] ; // Istânciando o objeto array a variável insect , se tornando o array .
 
