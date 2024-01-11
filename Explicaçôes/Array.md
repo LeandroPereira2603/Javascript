@@ -45,7 +45,7 @@ var floresta = new Array [] ; // Istânciando o objeto da classe array na variá
 
 // Inserindo valores nos arrays .
 
-var insetoUm   =  ["Borboleta",10];
+var insetoUm    =  ["Borboleta",10];
 var insetoDois  =  ["Mariposa",20];
 var insetoTres  =  ["Formiga",5];
 
