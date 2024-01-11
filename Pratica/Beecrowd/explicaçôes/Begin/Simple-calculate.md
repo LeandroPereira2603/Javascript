@@ -32,8 +32,8 @@ var lines = input.split('\n');
  */
 
 
-var product_1 = lines[0].split('');
-var product_2 = lines[1].split('');
+var product_1 = lines[0].split(' ');
+var product_2 = lines[1].split(' ');
 
 var product_1_code = Number(product_1[0]);
 var product_1_quantity = Number(product_1[1]);
