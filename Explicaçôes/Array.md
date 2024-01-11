@@ -60,5 +60,5 @@ console.log("O elemento do índice 2 e 1 , 2 e 2 : "+insect[2][1]+","+insect[2][
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
-> * livro : O guia definito de javascript 
+> * Livro : O guia definito de javascript 
 > * Youtube : canal CFBcursos
