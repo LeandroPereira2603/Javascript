@@ -14,12 +14,23 @@ The output must be a message "VOLUME" like the following example with a space be
 
 
 |Input Samples	|Output Samples|
+|:--:|:--:|
 | 3 |VOLUME = 113.097 |
 15 |VOLUME = 14137.155 | 
 | 1523 | VOLUME = 14797486501.627 |
 
 
 ```javascript 
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
 
 
 
