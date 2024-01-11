@@ -39,7 +39,7 @@ var indiceOne   =  ["Butterfly",0.8];
 var indiceDois  =  ["Mariposa",0.7];
 var indiceTres  =  ["Formiga",0.3];
 
-// Inserindo os três arrays dentro do array Insect com o método push(), assim se torna uma matriz .
+// Inserindo os três elementos arrays dentro do array Insect , com o método push(), assim se tornando uma matriz .
 
 insect.push[indiceOne];
 insect.push[indiceDois];
