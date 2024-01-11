@@ -1,4 +1,4 @@
-# Javascript 
+no# Javascript 
 <p> Aqui terá todos os meus reposiórios criados com a linguagem javascript. </p>
 
 
@@ -148,7 +148,7 @@
 1. ✔ [ Salary ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
 1. ✔ [ Salary-bonus ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary-with-bonus.md)
 1. 🕗 [ Calculate-simples ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-calculate.md)
-1. ✔[Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSphere.md)
+1. ✔ [ Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSphere.md)
 
 ### 2 - AD-HOC 
 **Simulation** , problems , dates, games and general , ad-hoc  .
