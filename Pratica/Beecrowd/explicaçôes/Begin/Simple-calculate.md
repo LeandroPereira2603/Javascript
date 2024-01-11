@@ -55,8 +55,8 @@ data.push(lineTwo);
 
 // Calcule the values 
 
-//var result = (data[0,1] * data[0,2]) + (data[1,1]
-// * data[1,2]);
+//var result = (data[0],[1] * data[0],[2]) + 
+//(data[1],[1] * data[1],[2]);
 
 // imprimindo imformações do resultado 
 
@@ -65,7 +65,7 @@ data.push(lineTwo);
 //console.log("Valor a pagar : 
 //R$ "+result.toFixed(2));
 
-console.log("Valor a pagar : R$ "+((data[0,1] * data[0,2]) + (data[1,1] * data[1,2])).toFixed(2));
+console.log("Valor a pagar : R$ "+((data[0],[1] * data[0],[2]) + (data[1],[1] * data[1],[2])).toFixed(2));
 
 
 
