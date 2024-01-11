@@ -41,7 +41,7 @@ var floresta = []; // array
 
 // Pode ser declarada, assim também .
 
-var floresta = new Array [] ; // Istânciando o objeto da classe array na variável floresta .
+var floresta = new Array; // Istânciando o objeto da classe array na variável floresta .
 
 // Inserindo valores nos arrays , o índice 0 para nome e o índice 1 para quantidade .
 
@@ -51,19 +51,19 @@ var insetoTres  =  ["Formiga",5];
 
 // Inserindo os três elementos arrays dentro do array floresta , com o método push(), assim se tornando uma matriz .
 
-floresta.push[insetoUm];
-floresta.push[insetoDois];
-floresta.push[insetoTres];
+floresta.push(insetoUm);
+floresta.push(insetoDois);
+floresta.push(insetoTres);
 
 // Para imprimir as informaçõs da matriz , com dois exemplos : 
 
-document.write(" O elemento 0 do índice 0 e 1 : "+floresta[0][0]+" , "+floresta[0][1]+" <br> ");
-document.write(" O elemento 1 do índice 0 e 1 : "+floresta[1][0]+" , "+floresta[1][1]+" <br> ");
-document.write(" O elemento 2 do índice 0 e 1 : "+floresta[2][0]+" , "+floresta[2][1]+" <br> ");
+document.write(" O elemento 0 do índice 0 e 1 : "+floresta[0],[0]+" , "+floresta[0],[1]+" <br> ");
+document.write(" O elemento 1 do índice 0 e 1 : "+floresta[1],[0]+" , "+floresta[1],[1]+" <br> ");
+document.write(" O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+" , "+floresta[2],[1]+" <br> ");
 
-console.log("O elemento 0 do indice 0 e 1 : "+floresta[0][0]+","+floresta[0][1]+"\n");
-console.log("O elemento 1 do índice 0 e 1 : "+floresta[1][0]+","+floresta[1][1]+"\n");
-console.log("O elemento 2 do índice 0 e 1 : "+floresta[2][0]+","+floresta[2][1]+"\n");
+console.log("O elemento 0 do indice 0 e 1 : "+floresta[0],[0]+","+floresta[0],[1]+"\n");
+console.log("O elemento 1 do índice 0 e 1 : "+floresta[1],[0]+","+floresta[1],[1]+"\n");
+console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[1]+"\n");
 
 ```
 
