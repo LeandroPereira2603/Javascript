@@ -43,7 +43,7 @@ var floresta = []; // array
 
 var floresta = new Array [] ; // Istânciando o objeto da classe array na variável insect .
 
-// Inserindo valores nos arrays .
+// Inserindo valores nos arrays , o índice 0 para nome e o índice 1 para quantidade .
 
 var insetoUm    =  ["Borboleta",10];
 var insetoDois  =  ["Mariposa",20];
