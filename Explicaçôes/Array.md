@@ -30,16 +30,16 @@ var insect = []; // array
 
 // Pode ser declarada, assim também .
 
-var insect = new Array [] ; // Istânciando o objeto array a variável insect , se tornando o array .
+var insect = new Array [] ; // Istânciando o objeto da classe array na variável insect .
 
 
-// Inserindo elementos no índices no array , se tornando matriz .
+// Inserindo valores nos arrays .
 
 var indiceOne   =  ["Butterfly",0.8];
 var indiceDois  =  ["Mariposa",0.7];
 var indiceTres  =  ["Formiga",0.3];
 
-// Inserindo elementos dos valores no array com o método push() .
+// Inserindo os três arrays dentro do array Insect com o método push(), assim se torna uma matriz .
 
 insect.push[indiceOne];
 insect.push[indiceDois];
