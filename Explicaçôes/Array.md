@@ -49,7 +49,7 @@ insect.push[indiceTres];
 
 document.write(" O elemento 0 do índice 0 e 1 : "+insect[0][0]+" , "+insect[0][1]+" <br> ");
 document.write(" O elemento 1 do índice 0 e 1 : "+insect[1][0]+" , "+insect[1][1]+" <br> ");
-document.write(" O elemento 2 do índice 2 e 1 : "+insect[2][0]+" , "+insect[2][1]+" <br> ");
+document.write(" O elemento 2 do índice 0 e 1 : "+insect[2][0]+" , "+insect[2][1]+" <br> ");
 
 console.log("O elemento 0 do indice 0 e 1 : "+insect[0][0]+","+insect[0][1]+"\n");
 console.log("O elemento 1 do índice 0 e 1 : "+insect[1][0]+","+insect[1][1]+"\n");
