@@ -29,7 +29,7 @@ var points = [       // Um array com 2 elementos.
 
 | Elemento | índice 0 | índice 1 |
 |:--:|:--:|:--:|
-|Array 0 - insetoUm  | Borboleta | 10 |
+|Array 0 - insetoUm   | Borboleta | 10 |
 |Array 1 - insetoDois | Mariposa | 20 |
 |Array 2 - insetoTres | Formiga | 5 |
 
