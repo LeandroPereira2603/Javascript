@@ -35,15 +35,15 @@ var lines = input.split('\n');
 var product_1 = lines[0].split('');
 var product_2= lines[1].split('');
 
-var product_code = Number(product_1[0]);
-var product_qtd = Number(product_1[1]);
-var product_value = Number(product_1[2]);
+var product_1_code = Number(product_1[0]);
+var product_1_quantity= Number(product_1[1]);
+var product_1_price = Number(product_1[2]);
 
-var product_two_code= Number(product_2[0]);
-var product_two_qtd = Number(product_2[1]);
-var product_two_value = Number(product_2[2]);
+var product_2_code= Number(product_2[0]);
+var product_2_quantity = Number(product_2[1]);
+var product_2_price = Number(product_2[2]);
 
-var tot = (product_qtd * product_value) + (product_two_qtd * product_two_value );
+var tot = (product_1_quantity * product_1_price) + (product_2_qtd * product_2_value );
 
 console.log("Valor a pagar : R$ "+tot.toFixed(2));
 
