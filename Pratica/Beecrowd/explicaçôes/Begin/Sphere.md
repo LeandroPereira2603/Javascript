@@ -37,9 +37,12 @@ var lines = input.split('\n');
 
 var r = parseFloat(lines.shift('\n'));
 
-var total = (4/3) * 3.14159 * (r*r*r);
+console.log("Volume = "+((4/3) * Math.PI * Math.pow(r,3)).toFixed(3));
 
-console.log("Volume = "+(4/3).toFixed(3) * 3.14159.toFixed(3) * (r*r*r).toFixed(3));
 
 
 ```
+
+* Math.PI - 3.14159.
+* Math.pow - eleva a potência .
+* toFixed - números de casas decimais .
