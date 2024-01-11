@@ -25,35 +25,45 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz 
 
+## Matriz floresta
+
+|Elemento | índice 1 | índice 2 |
+|:--:|:--:|:--:|
+|insetoUm| Borboleta | 10 |
+|insetoDois| Mariposa | 20 |
+|insetoTres | Formiga | 5 |
+
+### em prática 
+
 ```javascript 
 
-var insect = []; // array 
+var floresta = []; // array 
 
 // Pode ser declarada, assim também .
 
-var insect = new Array [] ; // Istânciando o objeto da classe array na variável insect .
+var floresta = new Array [] ; // Istânciando o objeto da classe array na variável insect .
 
 // Inserindo valores nos arrays .
 
-var indiceOne   =  ["Butterfly",0.8];
-var indiceDois  =  ["Mariposa",0.7];
-var indiceTres  =  ["Ant",0.3];
+var insetoUm   =  ["Borboleta",10];
+var insetoDois  =  ["Mariposa",20];
+var insetoTres  =  ["Formiga",5];
 
-// Inserindo os três elementos arrays dentro do array Insect , com o método push(), assim se tornando uma matriz .
+// Inserindo os três elementos arrays dentro do array floresta , com o método push(), assim se tornando uma matriz .
 
-insect.push[indiceOne];
-insect.push[indiceDois];
-insect.push[indiceTres];
+floresta.push[indiceOne];
+floresta.push[indiceDois];
+floresta.push[indiceTres];
 
 // Para imprimir as informaçõs da matriz , com dois exemplos : 
 
-document.write(" O elemento 0 do índice 0 e 1 : "+insect[0][0]+" , "+insect[0][1]+" <br> ");
-document.write(" O elemento 1 do índice 0 e 1 : "+insect[1][0]+" , "+insect[1][1]+" <br> ");
-document.write(" O elemento 2 do índice 0 e 1 : "+insect[2][0]+" , "+insect[2][1]+" <br> ");
+document.write(" O elemento 0 do índice 0 e 1 : "+floresta[0][0]+" , "+floresta[0][1]+" <br> ");
+document.write(" O elemento 1 do índice 0 e 1 : "+floresta[1][0]+" , "+floresta[1][1]+" <br> ");
+document.write(" O elemento 2 do índice 0 e 1 : "+floresta[2][0]+" , "+floresta[2][1]+" <br> ");
 
-console.log("O elemento 0 do indice 0 e 1 : "+insect[0][0]+","+insect[0][1]+"\n");
-console.log("O elemento 1 do índice 0 e 1 : "+insect[1][0]+","+insect[1][1]+"\n");
-console.log("O elemento 2 do índice 0 e 1 : "+insect[2][0]+","+insect[2][1]+"\n");
+console.log("O elemento 0 do indice 0 e 1 : "+floresta[0][0]+","+floresta[0][1]+"\n");
+console.log("O elemento 1 do índice 0 e 1 : "+floresta[1][0]+","+floresta[1][1]+"\n");
+console.log("O elemento 2 do índice 0 e 1 : "+floresta[2][0]+","+floresta[2][1]+"\n");
 
 ```
 
