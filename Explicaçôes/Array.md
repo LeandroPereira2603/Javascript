@@ -25,13 +25,13 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz 
 
-### Floresta
+## Floresta
 
-| Elementos | índice 0 | índice 1 |
+| Elemento | índice 0 | índice 1 |
 |:--:|:--:|:--:|
-|array - insetoUm  | Borboleta | 10 |
-|array - insetoDois | Mariposa | 20 |
-|array - insetoTres | Formiga | 5 |
+|Array - insetoUm  | Borboleta | 10 |
+|Array - insetoDois | Mariposa | 20 |
+|Array - insetoTres | Formiga | 5 |
 
 ### Colocando em prática :
 
@@ -66,7 +66,6 @@ console.log("O elemento 1 do índice 0 e 1 : "+floresta[1][0]+","+floresta[1][1]
 console.log("O elemento 2 do índice 0 e 1 : "+floresta[2][0]+","+floresta[2][1]+"\n");
 
 ```
-
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
