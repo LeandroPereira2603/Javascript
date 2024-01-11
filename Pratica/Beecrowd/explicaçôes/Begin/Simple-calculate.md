@@ -31,23 +31,11 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var data = [] ;
 
-var a = parseInt(lines.shift('\n'));
-var b = parseInt(lines.shift('\n'));
-var c = parseFloat(lines.shift('\n'));
-var d = parseInt(lines.shift('\n'));
-var e = parseInt(lines.shift('\n'));
-var f = parseFloat(lines.shift('\n'));
+var product_one = line[0].lines.shift('\n');
+var product_two = line[1].lines.shift('\n');
 
-var lineOne = [a,b,c];
-var lineTwo = [d,e,f];
-
-data.push(lineOne);
-data.push(lineTwo);
-
-
-console.log("Valor a pagar : R$ "+data[0][1] * data[0][2] + data[1][1] * data[1][2]);
+console.log("Valor a pagar : "+product_one[1] * product_one[2] + product_two[1] * pproduct_two[2]) ;
 
 
 
