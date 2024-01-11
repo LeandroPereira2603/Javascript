@@ -1,4 +1,4 @@
-se# Array
+# Array
 
 ```javascript
 
