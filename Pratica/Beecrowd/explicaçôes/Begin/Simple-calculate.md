@@ -32,40 +32,22 @@ var lines = input.split('\n');
  */
 
 
-
 var product_1 = lines[0].split('');
-var product_2= lines[1].split('');
-
-var product_1_code = parseInt(product_1[0]);
-var product_1_quantity= parseInt(product_1[1]);
-var product_1_price = parseFloat(product_1[2]);
-
-var product_2_code= parseInt(product_2[0]);
-var product_2_quantity = parseInt(product_2[1]);
-var product_2_price = parseFloat(product_2[2]);
-
-var tot = (product_1_quantity * product_1_price) + (product_2_quantity * product_2_price );
-
-console.log("Valor a pagar : R$ "+tot.toFixed(2)
-
-/*
-
-var product_1 = lines[0].split('');
-var product_2= lines[1].split('');
+var product_2 = lines[1].split('');
 
 var product_1_code = Number(product_1[0]);
-var product_1_quantity= Number(product_1[1]);
+var product_1_quantity = Number(product_1[1]);
 var product_1_price = Number(product_1[2]);
 
-var product_2_code= Number(product_2[0]);
+var product_2_code = Number(product_2[0]);
 var product_2_quantity = Number(product_2[1]);
 var product_2_price = Number(product_2[2]);
 
-var tot = (product_1_quantity * product_1_price) + (product_2_quantity * product_2_price );
+var total = (product_1_quantity * product_1_price) + (product_2_quantity * product_2_price );
 
-console.log("Valor a pagar : R$ "+tot.toFixed(2));
+console.log("Valor a pagar: R$ "+total.toFixed(2));
 
-*/
+
 
 
 
