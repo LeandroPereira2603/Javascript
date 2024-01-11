@@ -31,8 +31,10 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var r = parseFloat(lines.shift('\n'));
 
 
+console.log("Volume = "+(4/3) * 3.14159 * (r*r*r));
 
 
 ```
