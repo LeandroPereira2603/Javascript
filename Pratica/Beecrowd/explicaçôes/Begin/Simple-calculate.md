@@ -31,41 +31,23 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var data = [];
+
 
 var a = parseInt(lines.shift('\n'));
 var b = parseInt(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
-// elemento vetor 0 lineOne , elemento vetor 1 lineTwo cada um com três índices 0,1,2 .
-
-// Elemento array 0 lineOne , element Array 1 lineTwo each a with three index 0,1,2.
+var data = [];
 
 var lineOne = [a,b,c];
 var lineTwo = [a,b,c];
 
-// Inserindo os valores no vetor data, formando uma matriz .
-
-// Insert the values in array data , 
-
 data.push(lineOne);
 data.push(lineTwo);
 
-// calculando os valores dentro de uma matriz .
 
-// Calcule the values 
+console.log("Valor a pagar : R$ "+(data[0][1] * data[0][2]) + (data[1][1] * data[1][2]));
 
-//var result = (data[0],[1] * data[0],[2]) + 
-//(data[1],[1] * data[1],[2]);
-
-// imprimindo imformações do resultado 
-
-// print information the result .
-
-//console.log("Valor a pagar : 
-//R$ "+result.toFixed(2));
-
-console.log("Valor a pagar : R$ "+((data[0],[1] * data[0],[2]) + (data[1],[1] * data[1],[2])).toFixed(2));
 
 
 
@@ -74,16 +56,21 @@ console.log("Valor a pagar : R$ "+((data[0],[1] * data[0],[2]) + (data[1],[1] * 
 
 // ou 
 
-var a , b = parseInt(lines.shift('\n');
-var c = parseFloat(lines.shift('\n');
-var d = 
-var e = 
-var f = 
 
-var data = (b * c) +( e * f);
+var a = parseInt(lines.shift('\n'));
+var b = parseInt(lines.shift('\n'));
+var c = parseFloat(lines.shift('\n'));
+var d = parseInt(lines.shift('\n'));
+var e = parseInt(lines.shift('\n'));
+var f = parseFloat(lines.shift('\n'));
 
-console.log
 
+var lineOne = [a,b,c];
+var lineTwo = [d,e,f];
+
+var data = (lineOne[1] * lineOne[2]) +(lineTwo[1] * lineTwo[2]);
+
+console.log("Valor a pagar : R$ "+data);
 
 */
 
