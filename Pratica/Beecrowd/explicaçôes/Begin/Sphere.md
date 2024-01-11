@@ -39,7 +39,7 @@ var r = parseFloat(lines.shift('\n'));
 
 var total = (4/3) * 3.14159 * (r*r*r);
 
-console.log("Volume = "+total.toFixed(3));
+console.log("Volume = "+(4/3).toFixed(3) * 3.14159.toFixed(3) * (r*r*r).toFixed(3));
 
 
 ```
