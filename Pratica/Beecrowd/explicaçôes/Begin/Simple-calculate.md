@@ -31,7 +31,7 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-
+var data = [] ;
 
 var a = parseInt(lines.shift('\n'));
 var b = parseInt(lines.shift('\n'));
@@ -40,9 +40,6 @@ var d = parseInt(lines.shift('\n'));
 var e = parseInt(lines.shift('\n'));
 var f = parseFloat(lines.shift('\n'));
 
-
-var data = [];
-
 var lineOne = [a,b,c];
 var lineTwo = [d,e,f];
 
@@ -50,32 +47,11 @@ data.push(lineOne);
 data.push(lineTwo);
 
 
-console.log("Valor a pagar : R$ "+(data[0][1] * data[0][2]) + (data[1][1] * data[1][2]));
+console.log("Valor a pagar : R$ "+data[0][1] * data[0][2] + data[1][1] * data[1][2]);
 
 
 
-
-
-/*
-
-// ou 
-
-
-var a = parseInt(lines.shift('\n'));
-var b = parseInt(lines.shift('\n'));
-var d = par
-var e = parseInt(lines.shift('\n'));
-var f = parseFloat(lines.shift('\n'));
-
-
-var lineOne = [a,b,c];
-var lineTwo = [d,e,f];
-
-var data = (lineOne[1] * lineOne[2]) +(lineTwo[1] * lineTwo[2]);
-
-console.log("Valor a pagar : R$ "+data);
-
-*/
+/* O cálculo está certo , só falta fazer a leitura */
 
 
 ```
