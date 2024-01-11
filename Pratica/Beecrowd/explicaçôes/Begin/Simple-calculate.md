@@ -31,9 +31,8 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-
-const product_1 = lines[0].split(' ');
-const product_2 = lines[1].split(' ');
+const product_1 = lines[0].split('');
+const product_2 = lines[1].split('');
 
 const product_1_code = Number(product_1[0]);
 const product_1_quantity = Number(product_1[1]);
