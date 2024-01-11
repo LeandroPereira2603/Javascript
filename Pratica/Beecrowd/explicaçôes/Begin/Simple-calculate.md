@@ -32,18 +32,16 @@ var lines = input.split('\n');
  */
 
 
-var product_one = lines[0].lines.split('');
-var product_two = lines[1].lines.split('');
+var product_1 = lines[0].split('');
+var product_2= lines[1].split('');
 
-var product_code = Number(lines[0]);
-var product_qtd = Number(lines[1]);
-var product_value = Number(lines[2]);
+var product_code = Number(product_1[0]);
+var product_qtd = Number(product_1[1]);
+var product_value = Number(product_1[2]);
 
-var product_two_code= Number(lines[0]);
-var product_two_qtd = Number(lines[1]);
-var product_two_value = Number(lines[2]);
-
-console.log("Valor a pagar : "+product_one[1] * product_one[2] + product_two[1] * pproduct_two[2]) ;
+var product_two_code= Number(product_2[0]);
+var product_two_qtd = Number(product_2[1]);
+var product_two_value = Number(product_2[2]);
 
 var tot = (product_qtd * product_value) + (product_two_qtd * product_two_value );
 
