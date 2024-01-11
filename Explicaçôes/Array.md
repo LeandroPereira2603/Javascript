@@ -25,15 +25,15 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz 
 
-## Matriz floresta
+### Floresta
 
-|Elemento | índice 1 | índice 2 |
+| Elementos | índice 0 | índice 1 |
 |:--:|:--:|:--:|
-|insetoUm| Borboleta | 10 |
-|insetoDois| Mariposa | 20 |
-|insetoTres | Formiga | 5 |
+|array - insetoUm  | Borboleta | 10 |
+|array - insetoDois | Mariposa | 20 |
+|array - insetoTres | Formiga | 5 |
 
-### em prática 
+### Colocando em prática :
 
 ```javascript 
 
