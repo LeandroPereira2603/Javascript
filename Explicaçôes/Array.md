@@ -3,6 +3,7 @@
 ```javascript
 
 // JavaScript também aceita arrays (listas indexadas numericamente) de valores.
+
 var primes =[2, 3, 5, 7];  // Um array de 4 valores, delimitados com [ e ].
 primes[0];                // => 4: quantidade de elementos no array.
 primes[4] = 9;           // Adiciona um novo elemento por meio de atribuição.
@@ -57,4 +58,7 @@ console.log("O elemento do índice 2 e 1 , 2 e 2 : "+insect[2][1]+","+insect[2][
 ```
 
 
-
+> [!NOTE]
+> <strong> Referêrencia : </strong> <br>
+> livro : O guia definito de javascript 
+> Youtube : canal CFBcursos
