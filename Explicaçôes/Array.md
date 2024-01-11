@@ -12,6 +12,7 @@ var empty = [];        // [] é um array vazio, sem qualquer elemento.
 empty.lenght.;        // => o
 
 // Os arrays e objetos podem conter outros arrays e objetos:
+
 var points = [       // Um array com 2 elementos.
      
      {x:0, y:0},     // Um array com 2 elementos. 
