@@ -32,14 +32,25 @@ var lines = input.split('\n');
  */
 
 
-var product_one = line[0].lines.shift('\n');
-var product_two = line[1].lines.shift('\n');
+var product_one = lines[0].lines.split('');
+var product_two = lines[1].lines.split('');
+
+var product_code = Number(lines[0]);
+var product_qtd = Number(lines[1]);
+var product_value = Number(lines[2]);
+
+var product_two_code= Number(lines[0]);
+var product_two_qtd = Number(lines[1]);
+var product_two_value = Number(lines[2]);
 
 console.log("Valor a pagar : "+product_one[1] * product_one[2] + product_two[1] * pproduct_two[2]) ;
 
+var tot = (product_qtd * product_value) + (product_two_qtd * product_two_value );
+
+console.log("Valor a pagar : R$ "+tot.toFixed(2));
 
 
-/* O cálculo está certo , só falta fazer a leitura */
+
 
 
 ```
