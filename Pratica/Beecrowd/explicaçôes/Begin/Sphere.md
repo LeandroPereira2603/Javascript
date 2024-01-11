@@ -42,7 +42,7 @@ console.log("VOLUME = "+((4/3) * Math.PI * Math.pow(r,3)).toFixed(3));
 
 /*
 
-var r = parseFloat(lines.shift('\n'));
+var r = parseFloat(lines[0]);
 
 console.log("VOLUME = "+((Math.PI/4) * (Math.pow(r,3)/3)).toFixed(3));
 
