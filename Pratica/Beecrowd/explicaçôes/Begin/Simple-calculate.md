@@ -43,7 +43,7 @@ var product_2_code= Number(product_2[0]);
 var product_2_quantity = Number(product_2[1]);
 var product_2_price = Number(product_2[2]);
 
-var tot = (product_1_quantity * product_1_price) + (product_2_qtd * product_2_value );
+var tot = (product_1_quantity * product_1_price) + (product_2_quantity * product_2_price );
 
 console.log("Valor a pagar : R$ "+tot.toFixed(2));
 
