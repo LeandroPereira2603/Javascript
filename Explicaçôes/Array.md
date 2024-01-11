@@ -33,7 +33,6 @@ var insect = []; // array
 
 var insect = new Array [] ; // Istânciando o objeto da classe array na variável insect .
 
-
 // Inserindo valores nos arrays .
 
 var indiceOne   =  ["Butterfly",0.8];
