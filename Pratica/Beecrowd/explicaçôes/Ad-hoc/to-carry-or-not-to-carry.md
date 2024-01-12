@@ -79,10 +79,20 @@ var lines = input.split('\n');
 var line_1 = lines[0].split(' ');
 var line_2 = lines[1].split(' ');
 
-console.log(line_2);
+if (line_1 == 4 && line_1 == 6 && line_2 == 6 && line_2 == 9 ){
 
 console.log(line_1[0] - line_1[1]);
 console.log(line_2[0] + line_2[1]);
+
+}
+
+else {
+
+   console.log(" not carry ");
+
+}
+
+
 
 
 ```
