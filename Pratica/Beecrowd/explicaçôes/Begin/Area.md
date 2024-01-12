@@ -61,6 +61,21 @@ console.log("TRIANGULO: "+rectangles[
 
 '''javascript 
 
+var input='3.0\n4.0\n5.2';
+var lines = input.split('\n');
+
+var a = parseFloat(lines.shift('\n'));
+var b = parseFloat(lines.shift('\n'));
+var c = parseFloat(lines.shift('\n'));
+
+
+var Data = [4] ; 
+
+rectangles[0] = [a,b,c];
+radius[1] = [a,b,c];
+trapezium[2] = [a,b,c];
+square[3] = [a,b,c];
+rectangle[4] = [a,b,c];
 
 
 ```
