@@ -20,7 +20,7 @@ Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <
 Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
 5 - **Tabuada** <br>
-Mostra um conjunto de tábuada do 0 até o três , com a quantidade de multiplicações , do 0 até o 10 .
+Mostra um conjunto de tábuada do 0 até o três , com a quantidade de multiplicações , do 0 até o 10 com arrays.
 
 ## 1 - Conjunto de tabuada 
 
