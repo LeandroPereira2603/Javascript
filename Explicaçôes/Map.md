@@ -1,7 +1,6 @@
 # Map 
 
-E um método para mapeamento de elemento de array , e parecido com _foreach()_ , mas não é a mesma coisa .
-
+E um método para mapeamento de elemento de array , e parecido com _foreach()_ .
 ```javascript 
 
 var numeros = [3,6,9,12];
