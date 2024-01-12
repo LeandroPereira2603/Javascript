@@ -6,7 +6,7 @@
 
 // JavaScript também aceita arrays (listas indexadas numericamente) de valores.
 
-var primes =[2, 3, 5, 7];  // Um array de 4 valores, delimitados com [ e ].
+var primes = [2, 3, 5, 7];  // Um array de 4 valores, delimitados com [ e ].
 primes[0];                // => 4: quantidade de elementos no array.
 primes[4] = 9;           // Adiciona um novo elemento por meio de atribuição.
 primes[4] = 11;         // Ou altera um elemnto existente por meio de atribuição.
