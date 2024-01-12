@@ -25,6 +25,7 @@ The output file must contain 5 lines of data. Each line corresponds to one of th
 |3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br>  TRAPEZIO: 18.200  <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 <br> |
 | 12.7 10.4 15.2  |<br> TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br>  QUADRADO: 108.160 <br> RETANGULO: 132.080 |
 
+## Code for beecrowd : 
 
 ```javascript 
 
@@ -54,6 +55,12 @@ rectangle[4] = [a,b,c];
 console.log("TRIANGULO: "+rectangles[
 
 
+```
+## Code for VsCode 
+
+
+'''javascript 
+
+
 
 ```
-
