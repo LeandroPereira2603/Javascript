@@ -22,14 +22,11 @@ Print the greatest of these three values followed by a space and the message “
 
 ```javascript 
 
-a = parseInt(lines.shift('\n'));
-b = parseInt(lines.shift('\n'));
-c = parseInt(lines.shift('\n'));
+[a,b,c] = lines[0].split(' ').map(Number);
 
 abcMaior =  (a + b + c (a - b - c ))/2 ;
 
 console.log(""+abcMaior+" eh maior ");
-
 
 
 ```
