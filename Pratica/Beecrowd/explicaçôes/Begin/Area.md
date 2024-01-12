@@ -56,10 +56,11 @@ console.log("TRIANGULO: "+rectangles[
 
 
 ```
+
 ## Code for VsCode :
 
 
-'''javascript 
+```javascript 
 
 var input='3.0\n4.0\n5.2';
 var lines = input.split('\n');
