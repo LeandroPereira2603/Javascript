@@ -1,6 +1,10 @@
 
 # Area 
 
+**Level:** :star: :star:
+
+**Solved:** not
+
 Make a program that reads three floating point values: A, B and C. Then, calculate and show:
 a) the area of the rectangled triangle that has base A and height C.
 b) the area of the radius's circle C. (pi = 3.14159)
@@ -20,3 +24,36 @@ The output file must contain 5 lines of data. Each line corresponds to one of th
 |:--:|:--|
 |3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br>  TRAPEZIO: 18.200  <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 <br> |
 | 12.7 10.4 15.2  |<br> TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br>  QUADRADO: 108.160 <br> RETANGULO: 132.080 |
+
+
+```javascript 
+
+
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
+var a = parseFloat(lines.shift('\n'));
+var b = parseFloat(lines.shift('\n'));
+var c = parseFloat(lines.shift('\n'));
+
+
+var Data = [4] ; 
+
+rectangles[0] = [a,b,c];
+radius[1] = [a,b,c];
+trapezium[2] = [a,b,c];
+square[3] = [a,b,c];
+rectangle[4] = [a,b,c];
+
+console.log("TRIANGULO: "+rectangles[
+
+
+
+```
+
