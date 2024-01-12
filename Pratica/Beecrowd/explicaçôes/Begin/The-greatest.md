@@ -34,13 +34,13 @@ console.log(""+a+" eh maior ");
 
 else if ( b > a && b > c){
 
-console.log(""+a+" eh maior ");
+console.log(""+b+" eh maior ");
 
 }
 
 else if ( c > a && c > b ){
 
-console.log(""+a+" eh maior ");
+console.log(""+c+" eh maior ");
 }
 
 
