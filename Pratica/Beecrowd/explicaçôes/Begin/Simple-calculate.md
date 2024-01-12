@@ -60,7 +60,6 @@ var lines = input.split('\n');
 const product_1 = lines[0].split(' ');
 const product_2 = lines[1].split(' ');
 
-
 const product_1_code = product_1[0];
 const product_1_quality = product_1[1];
 const product_1_price = product_1[2];
