@@ -26,22 +26,9 @@ a = parseInt(lines.shift('\n'));
 b = parseInt(lines.shift('\n'));
 c = parseInt(lines.shift('\n'));
 
-if( a > b && a > c ) {
+abcMaior =  a + b + c (a - b - c )/2 ;
 
-console.log(""+a+" eh maior ");
-
-}
-
-else if ( b > a && b > c){
-
-console.log(""+b+" eh maior ");
-
-}
-
-else if ( c > a && c > b ){
-
-console.log(""+c+" eh maior ");
-}
+console.log(""+abcMaior+" eh maior ");
 
 
 
