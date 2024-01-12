@@ -35,7 +35,7 @@ var points = [       // Um array com 2 elementos.
 |Vetor 1 - insetoDois | Mariposa | 20 |
 |Vetor 2 - insetoTres | Formiga | 5 |
 
-### sobre o código :
+### Sobre o código :
 
 * Matriz Bidimensional 
 * Metódo _push()_
