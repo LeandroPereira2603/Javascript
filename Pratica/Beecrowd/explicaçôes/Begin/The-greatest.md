@@ -26,7 +26,7 @@ Print the greatest of these three values followed by a space and the message “
 
 a = parseFloat(lines.shift(' '));
 b = parseFloat(lines.shift(' '));
-c = parseFloat(Lines.shift(' '));
+c = parseFloat(lines.shift(' '));
 
 abMaior =  (a + b + Math.abs(a - b ))/2 ;
 
