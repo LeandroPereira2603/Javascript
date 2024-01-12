@@ -56,7 +56,7 @@ console.log("TRIANGULO: "+rectangles[
 
 
 ```
-## Code for VsCode 
+## Code for VsCode :
 
 
 '''javascript 
