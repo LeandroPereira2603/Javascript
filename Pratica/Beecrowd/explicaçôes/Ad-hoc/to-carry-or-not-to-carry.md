@@ -54,8 +54,10 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
- var line_1 = lines[0].split(' ');
- var line_2 = lines[1].split(' ');
+var line_1 = lines[0].split(' ');
+var line_2 = lines[1].split(' ');
+
+console.log(line_2);
 
 console.log(line_1[0] - line_1[1]);
 console.log(line_2[0] + line_2[1]);
