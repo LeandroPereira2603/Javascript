@@ -24,11 +24,11 @@ Print the greatest of these three values followed by a space and the message “
 
 ```javascript 
 
-[a,b,c] = line[0].shift(' ').map(Number);
+var [a,b,c] = line[0].shift(' ').map(Number);
 
-abMaior =  (a + b + Math.abs(a - b ))/2 ;
+var abMaior =  (a + b + Math.abs(a - b ))/2 ;
 
-abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
+var abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
 
   
 console.log(abcMaior+" eh o maior ");
