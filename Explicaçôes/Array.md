@@ -73,6 +73,7 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 
 ```
 
+<!--
 ## Tridimensional 
 
 ### Sobre o código : 
@@ -134,7 +135,11 @@ for (var j = 0;3<j;j++){
 
 ```
 
+
 * Matriz ( Multidimensional )
+
+
+-->
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
