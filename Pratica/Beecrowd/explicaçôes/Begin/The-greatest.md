@@ -20,6 +20,8 @@ Print the greatest of these three values followed by a space and the message “
 |7 14 106 | 106 eh o maior |
 | 217 14 6 | 217 eh o maior |
 
+## Code for beecrowd
+
 ```javascript 
 
 [a,b,c] = lines[0].split(' ').map(Number);
@@ -27,6 +29,20 @@ Print the greatest of these three values followed by a space and the message “
 abcMaior =  (a + b + c Math.abs(a - b - c ))/2 ;
 
 console.log(""+abcMaior+" eh maior ");
+
+
+```
+
+
+## Code in VsCode
+
+
+'''javascript
+
+
+[a,b,c] = lines[0].split(' ').map(Number);
+
+abc =  (a + b + c + Math.abs(a - b - c ))/2 ;
 
 
 ```
