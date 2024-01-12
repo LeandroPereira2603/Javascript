@@ -27,7 +27,7 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz (Bidimensional)
 
-## Floresta
+## Floresta 
 
 | Elemento | índice 0  | índice 1 |
 |:--:|:--:|:--:|
@@ -35,7 +35,10 @@ var points = [       // Um array com 2 elementos.
 |Vetor 1 - insetoDois | Mariposa | 20 |
 |Vetor 2 - insetoTres | Formiga | 5 |
 
-### Colocando em prática :
+### sobre o código :
+
+* Matriz Bidimensional 
+* Metódo _push()_
 
 ```javascript 
 
