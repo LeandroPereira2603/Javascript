@@ -44,6 +44,8 @@ In each input line there will be a pair of integer separated by a single space. 
 | 6 9 | 15 |
 
 
+## Code for beecrowd
+
 ```javascript
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
@@ -54,34 +56,43 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var line_1 = lines[0].split(' ');
+var line_2 = lines[1].split(' ');
 
-var a = parseInt(lines.shift('\n'));
-var sinlge = parseInt(lines.shift('\n'));
-var b = parseInt(lines.shift('\n'));
+console.log(line_2);
 
-if(single == '-'){
+console.log(line_1[0] - line_1[1]);
+console.log(line_2[0] + line_2[1]);
 
-result = console.log(a-b);
 
-return result;
+```
 
-}
 
-else if ( single == '+' ){
+## Code no VsCode
 
-result = console.log(a+b);
 
-return result;
+```javascript 
+
+var input ='4 6\n 6 9';
+var lines = input.split('\n');
+
+var line_1 = lines[0].split(' ');
+var line_2 = lines[1].split(' ');
+
+if (line_1 == 4 && line_1 == 6 && line_2 == 6 && line_2 == 9 ){
+
+console.log(line_1[0] - line_1[1]);
+console.log(line_2[0] + line_2[1]);
 
 }
 
 else {
 
-console.log(" File Not to carry !") ;
-
-// Arquivo náo carregdo ! 
+   console.log(" not carry ");
 
 }
+
+
 
 
 ```

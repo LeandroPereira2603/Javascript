@@ -19,6 +19,9 @@ Mostra uma tabuada completa , definida pelo número escolhido pelo o úsuario. <
 4 - **Tabuada** <br>
 Mostra uma tabuada com a quantidade maxima de multiplicaçôes, que é o número definida pelo usuário .
 
+5 - **Tabuada** <br>
+Mostra um conjunto de tábuada do 0 até o três , com a quantidade de multiplicações , do 0 até o 10 com arrays.
+
 ## 1 - Conjunto de tabuada 
 
 ### Sobre a execusão do algoritmo 
@@ -131,6 +134,29 @@ var result = t * i ;
 
 ```
 
+## 5 - Tabuada com array 
+
+### Sobre a execusão do algoritmo .
+
+<p> Com dois elementos (vezes , tabuada) e cada elemento tem quantidade de índices diferentes , sendo que da tabuada tem 4 índices do 0 até o 3 , o de vezes tem 11 índices de 0 á 10 </p>
+
+```javascript 
+
+var vezes = [0,1,2,3,4,5,6,7,8,9,10] ;
+var tabuada = [0,1,2,3];
+var j = 0;
+console.log('\n');
+for (var k = 0;k<3;k++){
+j++;
+for (var i=0;i < 11; i ++){
+   var calc = tabuada[j] * vezes[i];
+   console.log(" "+tabuada[j]+" x "+vezes[i]+" = "+calc);
+  }
+ console.log('\n');
+}
+
+```
+
 
 ## Todos os exemplos de cálculos de tabuada em um só algoritmo 
  
@@ -140,7 +166,7 @@ var result = t * i ;
 
 ```javascript
 
-var escolha = parseInt(prompt("escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo multiplcaçôes")) ; 
+var escolha = parseInt(prompt("Escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo , 5 - tabuada definida - multiplcação")) ; 
 
 switch(escolha) { 
 
@@ -227,13 +253,31 @@ switch(escolha) {
 
     }
     break;
+    
+   case 5 : 
+     var vezes = [0,1,2,3,4,5,6,7,8,9,10] ;
+     var tabuada = [0,1,2,3];
+     var j = 0;
+     console.log('\n');
+   for (var k = 0;k<3;k++){
+   j++;
+   for (var i=0;i < 11; i ++){
+    var calc = tabuada[j] * vezes[i];
+    console.log(" "+tabuada[j]+" x "+vezes[i]+" =       "+calc);
+
+    }
+
+      console.log('\n');
+   }
+
+   break;
+      
         
   default :
 
     console.log("Erro este caminho não existe ") ;
 
 }
-
 
 
 ```

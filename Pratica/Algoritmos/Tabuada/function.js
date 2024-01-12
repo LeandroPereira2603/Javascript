@@ -1,7 +1,7 @@
 
 /* Algoritmo que da para escolher tipos de saida de calculos de tabuadas diferentes  */
 
-var escolha = parseInt(prompt("Escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo multiplicaçôes ")) ; 
+var escolha = parseInt(prompt("Escolha o algoriitmo de tabuada que deseja visualiar : 1 - conjunto de tabuada  definida , 2 - conjunto de tabuada  ,3 - uma tabuada , 4 - tabuada definindo multiplicaçôes , 5 - tabuada definida  ")) ; 
 
 switch(escolha) { 
 
@@ -93,6 +93,21 @@ switch(escolha) {
     }
 
    break;
+   
+   case 5 : 
+
+      var vezes = [0,1,2,3,4,5,6,7,8,9,10] ;
+      var tabuada = [0,1,2,3];
+      var j = 0;
+     console.log('\n');
+   for (var k = 0;k<3;k++){
+     j++;
+   for (var i=0;i < 11; i ++){
+       var calc = tabuada[j] * vezes[i];
+      console.log(" "+tabuada[j]+" x "+vezes[i]+" =    "+calc);
+      }
+       console.log('\n');
+     }
         
    default :
     console.log("Erro este caminho não existe ") ;

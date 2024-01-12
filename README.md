@@ -32,7 +32,7 @@
 * Para mostrar o significado da sigla que está abreviada .
 * Para colocar o meu nome como autor de toda a documentação ( LLP )  .
   
- <p> O uso da tipografia italica :</P>
+ <p> O uso da tipografia italica : </p>
 
 * para citar nomes de variáveis 
 * linha de código.
@@ -52,8 +52,6 @@
    * Beecrowd : Exercicios gerais 
 
 
-
-
 # 📚 Tópicos de estudo
 
 ## :book: Anotações  :
@@ -63,7 +61,7 @@
 ### Sobre :
 
 * [ Fontes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/fontes.md)
-* [ História da linguagem | Sobre a linhuagem | Regras de sintaxe   ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
+* [ História da linguagem | Sobre a linguagem | Regras de sintaxe   ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Regras%20de%20sintaxe%20e%20historia%20.md)
 * [ Boas práticas de programação ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Boas-pr%C3%A1ticas-de-programa%C3%A7%C3%A3o.md)
 
 ### Sintaxe da Linguagem javascript :
@@ -80,6 +78,7 @@
 * [ Estrutura de repetição ( for, while, do while, forEach )](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
 * [ Array - Matriz](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Array.md)
 * [ Objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
+* 🟡 [ Map ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FMap.md)
 * [ Métodos ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
 * 🟡 [ String : manipulando caracteres]
 + 🟡 [ importação de bibliotecas ]
@@ -147,8 +146,11 @@
 1. ✔ [ Difference ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Difference.md)
 1. ✔ [ Salary ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
 1. ✔ [ Salary-bonus ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary-with-bonus.md)
-1. 🕗 [ Calculate-simples ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-calculate.md)
-
+1. ✔ [ Calculate-simples ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-calculate.md)
+1. ✔ [ Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSphere.md)
+1. ✔ [ Area](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FArea.md)
+1. ✔ [ The greatest ]( https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FThe-greatest.md )
+1. 🕗 [ Consumption ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FConsumption.md)
 ### 2 - AD-HOC 
 **Simulation** , problems , dates, games and general , ad-hoc  .
 
