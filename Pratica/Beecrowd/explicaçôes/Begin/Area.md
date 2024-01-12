@@ -44,16 +44,6 @@ var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
 
-var Data = [4] ; 
-
-rectangles[0] = [a,b,c];
-radius[1] = [a,b,c];
-trapezium[2] = [a,b,c];
-square[3] = [a,b,c];
-rectangle[4] = [a,b,c];
-
-console.log("TRIANGULO: "+rectangles[
-
 
 ```
 
@@ -69,14 +59,21 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
+var data = [5] ; 
+var rectangle = [] ;
+var radius = [];
+var trapezium = [];
+var square = []
+var rectangle = [];
+rectangle.push(a,b,c);
+radius.push(a,b,c);
+trapezium.push(a,b,c);
+square.push(a,b,c);
+rectangle.push(a,b,c);
 
-var Data = [4] ; 
+data.push(rectangle,radius,trapezium,square,rectangle);
 
-rectangles[0] = [a,b,c];
-radius[1] = [a,b,c];
-trapezium[2] = [a,b,c];
-square[3] = [a,b,c];
-rectangle[4] = [a,b,c];
+console.log(data[0][2]);
 
 
 ```
