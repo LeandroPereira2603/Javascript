@@ -24,11 +24,11 @@ Print the greatest of these three values followed by a space and the message “
 
 ```javascript 
 
-[a,b,c] = lines[0].split(' ').map(Number);
+[a,b,c] = lines[0].split(' ');
 
 abcMaior =  (a + b + c Math.abs(a - b - c ))/2 ;
 
-console.log(""+abcMaior+" eh maior ");
+console.log(" "+abcMaior+" eh maior ");
 
 
 ```
