@@ -1,5 +1,7 @@
 # Map 
 
+E um método para mapeamento de elemento de arrays , e parecido com _foreach()_ , mas não é a mesma coisa .
+
 ```javascript 
 
 var numeros = [3,6,9,12];
@@ -10,3 +12,7 @@ potencia = numeros.map(n=>Math.pow(n,3));
 console.log(potencia);
 
 ```
+
+> [!NOTE]
+> <strong> Referência </strong> 
+> * (LLP) - Leandro Luiz Pereira 
