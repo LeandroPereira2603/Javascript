@@ -45,7 +45,7 @@ const product_2_price = product_2[2];
 
 const total = (product_1_quality * product_1_price)+(product_2_quality * product_2_price);
 
-console.log("VALORES A PAGAR: R$ "+total.toFixed(2));
+console.log("VALOR A PAGAR: R$ "+total.toFixed(2));
 
 
 ```
@@ -70,7 +70,7 @@ const product_2_price = product_2[2];
 
 const total = (product_1_quality * product_1_price)+(product_2_quality * product_2_price);
 
-console.log("VALORES A PAGAR: R$ "+total.toFixed(2));
+console.log("VALOR A PAGAR: R$ "+total.toFixed(2));
 
 ```
 ## Problem solved 
