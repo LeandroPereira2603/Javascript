@@ -40,9 +40,15 @@ console.log(""+abcMaior+" eh maior ");
 ```javascript
 
 
+input = '7 14 106';
+lines = input.split('\n');
+
 [a,b,c] = lines[0].split(' ').map(Number);
 
 abc =  (a + b + c + Math.abs(a - b - c ))/2 ;
+
+console.log(""+abc+" eh maior ");
+
 
 
 ```
