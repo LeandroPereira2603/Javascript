@@ -79,7 +79,7 @@ console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
 
-## style different in VsCode , with same result  :
+## Style different in VsCode , with same result  :
 
 
 ```javascript 
