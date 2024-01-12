@@ -113,11 +113,9 @@ for (var j = 0; 3<j;j++){
   for (var k = 0;3<k;k++){
     for (var i =0; 3<i;i++){
       console.log(tridimensional_profu[j][k][i]);
-    }
-  }
-  
+     }
+   } 
 }
-
 
 ```
 
