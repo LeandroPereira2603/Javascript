@@ -2,7 +2,7 @@
 
 **Level:** :star: :star: :star:
 
-**Solved:** not
+**Solved:** ✓
 
 Make a program that reads 3 integer values and present the greatest one followed by the message "eh o maior". Use the following formula:
 
@@ -26,7 +26,7 @@ Print the greatest of these three values followed by a space and the message “
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 
-var [a,b,c] = input.split(' ').map((item) => parseInt(item));
+var [a,b,c] = input.split(' ').map((item) => parseInt((item)));
 
 var abMaior =  ( a + b + Math.abs(a - b))/2 ;
 
