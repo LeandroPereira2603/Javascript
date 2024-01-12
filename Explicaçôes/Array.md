@@ -39,7 +39,7 @@ var points = [       // Um array com 2 elementos.
 
 ### Sobre o código :
 
-* Metódo : _push()_
+* Metódo _push()_ : Para inserir um novo índice ao elemento .
 
 ```javascript 
 
@@ -77,7 +77,7 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 
 ### Sobre o código : 
 
-* Estrutura : _for()_ -  encadeado 
+* Estrutura _for()_ encadeado  : Para leitura de cada índice dos elementos .
 
 ```javascript 
 
@@ -117,7 +117,6 @@ for (var j = 0; 3<j;j++){
 
 
 ```
-
 
 * Matriz ( Multidimensional )
 
