@@ -22,9 +22,27 @@ Print the greatest of these three values followed by a space and the message “
 
 ```javascript 
 
+a = parseInt(lines.shift('\n'));
+b = parseInt(lines.shift('\n'));
+c = parseInt(limes.shift('\n'));
 
+if( a > b ) {
 
+console.log(""+a+" eh maior ");
 
+}
+
+else if( b > c ) {
+
+consoleog(""+b+" eh maior ");
+
+}
+
+else if ( c > a ) {
+
+console.log(""+c+" eh maior ");
+
+}
 
 
 ```
