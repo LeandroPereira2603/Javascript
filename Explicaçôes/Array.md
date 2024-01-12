@@ -27,7 +27,7 @@ var points = [       // Um array com 2 elementos.
 
 # Matriz 
 
-## Floresta 
+## Tabela : Floresta 
 
 | Elemento | índice 0  | índice 1 |
 |:--:|:--:|:--:|
@@ -74,7 +74,7 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 ### Sobre o código : 
 
 * Matriz ( Tridimensional )
-* for encadeado 
+* _for()_ encadeado 
 
 ```javascript 
 
