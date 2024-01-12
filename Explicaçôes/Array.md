@@ -74,6 +74,47 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 
 * Matriz ( Tridimensional )
 
+```javascript 
+
+unidimensional_lin= [];
+item = [];
+item_2 = []
+item.push(1,4,5);
+item_2.push(2,4,7);
+
+unidimensional_lin.push(item,item_2);
+
+
+console.log(unidimensional_lin[0][0]);
+
+
+bidimensional_coluna = [];
+
+ite = [];
+ite_2 = []
+ite.push("63","837","377");
+ite_2.push(738,738,899);
+
+bidimensional_coluna.push(ite,ite_2);
+
+tridimensional_profu= [];
+
+tridimensional_profu.push(unidimensional_lin,bidimensional_coluna);
+
+console.log(tridimensional_profu);
+
+for (var j = 0; 3<j;j++){
+  for (var k = 0;3<k;k++){
+    for (var i =0; 3<i;i++){
+      console.log(tridimensional_profu[j][k][i]);
+    }
+  }
+  
+}
+
+
+```
+
 
 * Matriz ( Multidimensional )
 
