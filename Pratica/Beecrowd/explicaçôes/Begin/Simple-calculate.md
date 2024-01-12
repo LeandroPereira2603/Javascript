@@ -20,6 +20,8 @@ The output file must be a message like the following example where "Valor a paga
 |13 2 15.30 <br> 161 4 5.20|VALOR A PAGAR: R$ 51.40
 |1 1 15.10 <br> 2 1 15.10 |VALOR A PAGAR: R$ 30.20 |
 
+## Code for beecrowd 
+
 ```javascript 
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
@@ -67,7 +69,7 @@ console.log("Valor a pagar: R$ "+total.toFixed(2));
 
 ```
 
-
+## Code in VsCode : 
 
 ```javascript 
 
