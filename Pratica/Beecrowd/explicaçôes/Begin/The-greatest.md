@@ -26,23 +26,23 @@ a = parseInt(lines.shift('\n'));
 b = parseInt(lines.shift('\n'));
 c = parseInt(lines.shift('\n'));
 
-if( a > b ) {
+if( a > b && a > c ) {
 
 console.log(""+a+" eh maior ");
 
 }
 
-else if( b > c ) {
+else if ( b > a && b > c){
 
-consoleog(""+b+" eh maior ");
-
-}
-
-else if ( c > a ) {
-
-console.log(""+c+" eh maior ");
+console.log(""+a+" eh maior ");
 
 }
+
+elseif ( c > a && c > b ){
+
+console.log(""+a+" eh maior ");
+}
+
 
 
 ```
