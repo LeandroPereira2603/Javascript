@@ -124,3 +124,4 @@ for (var j = 0; 3<j;j++){
 > <strong> Referêrencias : </strong> <br>
 > * Livro : O guia definito de javascript 
 > * Youtube : canal CFBcursos
+> * (LLP) Leandro Luiz Pereira 
