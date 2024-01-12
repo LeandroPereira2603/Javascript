@@ -2,7 +2,6 @@
 
 Make a program that reads 3 integer values and present the greatest one followed by the message "eh o maior". Use the following formula:
 
-<img src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1013.png " >
 
 **Input**
 
