@@ -71,8 +71,10 @@ console.log("O elemento 1 do índice 0 e 1 : "+floresta[1],[0]+","+floresta[1],[
 console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[1]+"\n");
 
 ```
+### Sobre o código : 
 
 * Matriz ( Tridimensional )
+* for encadeado 
 
 ```javascript 
 
