@@ -9,7 +9,7 @@ primes[0];                // => 4: quantidade de elementos no array.
 primes[4] = 9;           // Adiciona um novo elemento por meio de atribuição.
 primes[4] = 11;         // Ou altera um elemnto existente por meio de atribuição.
 var empty = [];        // [] é um array vazio, sem qualquer elemento.
-empty.lenght.;        // => o
+empty.lenght;        // => o
 
 // Os arrays e objetos podem conter outros arrays e objetos:
 
