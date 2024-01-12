@@ -55,7 +55,32 @@ console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
 
-## Code test in VsCode :
+
+## Code in VsCode 
+
+```javascript 
+
+
+var input='12.7 10.4 15.2';
+var lines = input.split('\n');
+
+var [a,b,c] = lines[0].split(' ').map(Number);
+
+var triangle_result = a * c / 2;
+var radius_result = 3.14159 * Math.pow(c,2);
+var trapezium_result = (a + b) * c / 2;
+var square_result = Math.pow(b,2);
+var rectangle_result = a * b;
+
+console.log("TRIANGULO: "+triangle_result.toFixed(3));
+console.log("CIRCULO: "+radius_result.toFixed(3));
+console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
+console.log("QUADRADO: "+square_result.toFixed(3));
+console.log("RETANGULO: "+rectangle_result.toFixed(3));
+
+```
+
+## Code different in VsCode , with same result  :
 
 
 ```javascript 
