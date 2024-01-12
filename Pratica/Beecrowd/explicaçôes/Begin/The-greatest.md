@@ -24,7 +24,9 @@ Print the greatest of these three values followed by a space and the message “
 
 ```javascript 
 
-[a,b,c] = lines[0].split(' ').map(Number);
+a = parseFloat(lines.shift(' '));
+b = parseFloat(lines.shift(' '));
+c = parseFloat(Lines.shift(' '));
 
 abMaior =  (a + b + Math.abs(a - b ))/2 ;
 
