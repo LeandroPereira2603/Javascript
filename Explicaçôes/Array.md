@@ -39,7 +39,6 @@ var points = [       // Um array com 2 elementos.
 
 ### Sobre o código :
 
-* Matriz Bidimensional 
 * Metódo : _push()_
 
 ```javascript 
@@ -78,7 +77,6 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 
 ### Sobre o código : 
 
-* Matriz ( Tridimensional )
 * Estrutura : _for()_ -  encadeado 
 
 ```javascript 
