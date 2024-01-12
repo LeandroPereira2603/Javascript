@@ -37,7 +37,7 @@ console.log(""+abcMaior+" eh maior ");
 ## Code in VsCode
 
 
-'''javascript
+```javascript
 
 
 [a,b,c] = lines[0].split(' ').map(Number);
