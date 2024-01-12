@@ -27,14 +27,15 @@ Print the greatest of these three values followed by a space and the message “
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 
 
-var [a,b,c] = input.split(' ').map(item  =>(parseInt(item));
+var [a,b,c] = input.split(' ').map((item) => parseInt(item));
 
-var abMaior =  (a + b + Math.abs(a - b ))/2 ;
+var abMaior =  ( a + b + Math.abs(a - b))/2 ;
 
 var abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
 
-  
 console.log(abcMaior+" eh o maior ");
+
+
 
 
 ```
@@ -47,16 +48,15 @@ console.log(abcMaior+" eh o maior ");
 
 
 var input = '7 14 106';
-var lines = input.split('\n');
 
-var [a,b,c] = lines[0].split(' ').map(Number);
+var [a,b,c] = input.split(' ').map((item) => parseInt(item));
 
-var abMaior =  (a + b + Math.abs(a - b ))/2 ;
+var abMaior =  ( a + b + Math.abs(a - b))/2 ;
 
 var abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
 
-  
 console.log(abcMaior+" eh o maior ");
+
 
 
 
