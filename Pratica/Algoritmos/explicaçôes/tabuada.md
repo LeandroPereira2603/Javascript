@@ -131,6 +131,27 @@ var result = t * i ;
 
 ```
 
+## Tabuada com array 
+
+<p> Com dois elementos vezes , tabuada  e cada elemento tem quantidade de índices diferentes  o da tabuada tem 4 índice 0 á 3 , o de vezes tem 11 índices de 0 á 10 </p>
+
+```javascript 
+
+var vezes = [0,1,2,3,4,5,6,7,8,9,10] ;
+var tabuada = [0,1,2,3];
+var j = 0;
+console.log('\n');
+for (var k = 0;k<3;k++){
+j++;
+for (var i=0;i < 11; i ++){
+   var calc = tabuada[j] * vezes[i];
+   console.log(" "+tabuada[j]+" x "+vezes[i]+" = "+calc);
+  }
+ console.log('\n');
+}
+
+```
+
 
 ## Todos os exemplos de cálculos de tabuada em um só algoritmo 
  
