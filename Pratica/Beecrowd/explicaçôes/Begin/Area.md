@@ -39,17 +39,19 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+/*
 var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
-var c = parseFloat(lines.shift('\n'));
+var c = parseFloat(lines.shift('\n'))
+*/
+
+var [a,b,c] = lines[0].split(' ').map(Number);
 
 var triangle_result = a * c / 2;
 var radius_result = 3.14159 * Math.pow(c,2);
 var trapezium_result = (a + b) * c / 2;
 var square_result = Math.pow(b,2);
 var rectangle_result = a * b;
-
-console.log("TRIANGULO: "+triangle_result.toFixed(3)+"\nCIRCULO: "+radius_result.toFixed(3)+"\nTRAPEZIO: "+trapezium_result.toFixed(3)+"\nQUADRADO: "+square_result.toFixed(3)+"\nRETANGULO: "+rectangle_result.toFixed(3));
 
 console.log("TRIANGULO: "+triangle_result.toFixed(3));
 console.log("CIRCULO: "+radius_result.toFixed(3));
