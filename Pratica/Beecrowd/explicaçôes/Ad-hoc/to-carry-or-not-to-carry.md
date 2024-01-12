@@ -54,34 +54,14 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+ var line_1 = lines[0].split(' ');
+ var line_2 = lines[1].split(' ');
 
-var a = parseInt(lines.shift('\n'));
-var sinlge = parseInt(lines.shift('\n'));
-var b = parseInt(lines.shift('\n'));
+console.log(line_1[0] - line_1[1]);
+console.log(line_2[0] + line_2[1]);
 
-if(single == '-'){
 
-result = console.log(a-b);
 
-return result;
-
-}
-
-else if ( single == '+' ){
-
-result = console.log(a+b);
-
-return result;
-
-}
-
-else {
-
-console.log(" File Not to carry !") ;
-
-// Arquivo náo carregdo ! 
-
-}
 
 
 ```
