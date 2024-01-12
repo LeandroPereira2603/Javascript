@@ -59,7 +59,6 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
-var data = [5] ; 
 var rectangle = [] ;
 var radius = [];
 var trapezium = [];
@@ -71,9 +70,15 @@ trapezium.push(a,b,c);
 square.push(a,b,c);
 rectangle.push(a,b,c);
 
-data.push(rectangle,radius,trapezium,square,rectangle);
+var rectangle_result = rectangle[0] * rectangle[2] / 2;
 
-console.log(data[0][2]);
+console.log(rectangle_result.toFixed(3));
+
+var radius_result = 3.14159 * Math.pow(rectangle[2],2);
+
+console.log(radius_result.toFixed(3));
+
+
 
 
 ```
