@@ -3,7 +3,7 @@
 
 **Level:** :star: :star:
 
-**Solved:** not
+**Solved:** ✓
 
 Make a program that reads three floating point values: A, B and C. Then, calculate and show:
 a) the area of the rectangled triangle that has base A and height C.
