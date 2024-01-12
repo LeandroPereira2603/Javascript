@@ -43,7 +43,29 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
+var triangle = [] ;
+var radius = [];
+var trapezium = [];
+var square = []
+var rectangle = [];
 
+triangle.push(a,b,c);
+radius.push(a,b,c);
+trapezium.push(a,b,c);
+square.push(a,b,c);
+rectangle.push(a,b,c);
+
+var triangle_result = triangle[0] * triangle[2] / 2;
+var radius_result = 3.14159 * Math.pow(rectangle[2],2);
+var trapezium_result = (trapezium[0] + trapezium[1]) *trapezium[2]/2;
+var square_result = Math.pow(square[1],2);
+var rectangle_result = rectangle[0] * rectangle[1];
+
+console.log("TRIANGULO: "+triangle_result.toFixed(3));
+console.log("CIRCULO: "+radius_result.toFixed(3));
+console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
+console.log("QUADRADO: "+square_result.toFixed(3));
+console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
 
@@ -59,26 +81,28 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
-var rectangle = [] ;
+var triangle = [] ;
 var radius = [];
 var trapezium = [];
 var square = []
 var rectangle = [];
-rectangle.push(a,b,c);
+
+triangle.push(a,b,c);
 radius.push(a,b,c);
 trapezium.push(a,b,c);
 square.push(a,b,c);
 rectangle.push(a,b,c);
 
-var rectangle_result = rectangle[0] * rectangle[2] / 2;
-
-console.log(rectangle_result.toFixed(3));
-
+var triangle_result = triangle[0] * triangle[2] / 2;
 var radius_result = 3.14159 * Math.pow(rectangle[2],2);
+var trapezium_result = (trapezium[0] + trapezium[1]) *trapezium[2]/2;
+var square_result = Math.pow(square[1],2);
+var rectangle_result = rectangle[0] * rectangle[1];
 
-console.log(radius_result.toFixed(3));
-
-
-
+console.log("TRIANGULO: "+triangle_result.toFixed(3));
+console.log("CIRCULO: "+radius_result.toFixed(3));
+console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
+console.log("QUADRADO: "+square_result.toFixed(3));
+console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
