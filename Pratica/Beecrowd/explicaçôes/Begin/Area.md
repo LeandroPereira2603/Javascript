@@ -49,12 +49,19 @@ var trapezium_result = (a + b) * c / 2;
 var square_result = Math.pow(b,2);
 var rectangle_result = a * b;
 
+*/
 console.log("TRIANGULO: "+triangle_result.toFixed(3));
 console.log("CIRCULO: "+radius_result.toFixed(3));
 console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
 console.log("QUADRADO: "+square_result.toFixed(3));
 console.log("RETANGULO: "+rectangle_result.toFixed(3));
+*/
 
+console.log("TRIANGULO: "+triangle_result.toFixed(3));
+console.log("CIRCULO: "+radius_result.toFixed(3));
+console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
+console.log("QUADRADO: "+square_result.toFixed(3));
+console.log("RETANGULO: "+rectangle_result.toFixed(3));
 ```
 
 ## Code for VsCode :
