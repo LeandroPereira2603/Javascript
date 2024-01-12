@@ -150,7 +150,7 @@
 1. ✔ [ Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSphere.md)
 1. ✔ [ Area](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FArea.md)
 1. ✔ [ The greatest ]( https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FThe-greatest.md )
-
+1. 🕗 [ Consumption ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FConsumption.md)
 ### 2 - AD-HOC 
 **Simulation** , problems , dates, games and general , ad-hoc  .
 
