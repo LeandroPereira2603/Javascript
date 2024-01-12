@@ -1,5 +1,7 @@
 # Array
 
+// Array e um elemento unidimensional que possue vários índices .
+
 ```javascript
 
 // JavaScript também aceita arrays (listas indexadas numericamente) de valores.
@@ -23,7 +25,7 @@ var points = [       // Um array com 2 elementos.
 
 ```
 
-# Matriz 
+# Matriz (Bidimensional)
 
 ## Matriz - Floresta
 
@@ -66,6 +68,8 @@ console.log("O elemento 1 do índice 0 e 1 : "+floresta[1],[0]+","+floresta[1],[
 console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[1]+"\n");
 
 ```
+
+# Matriz ( Multidimensional )
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
