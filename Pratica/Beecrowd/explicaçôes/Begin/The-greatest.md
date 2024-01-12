@@ -2,6 +2,8 @@
 
 Make a program that reads 3 integer values and present the greatest one followed by the message "eh o maior". Use the following formula:
 
+<img src="https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1013.png ></img>
+
 **Input**
 
 The input file contains 3 integer values.
@@ -16,6 +18,8 @@ Print the greatest of these three values followed by a space and the message “
 | 217 14 6 | 217 eh o maior |
 
 ```javascript 
+
+
 
 
 
