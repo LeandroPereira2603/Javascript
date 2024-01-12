@@ -109,9 +109,9 @@ tridimensional_profu.push(unidimensional_lin,bidimensional_coluna);
 
 console.log(tridimensional_profu);
 
-for (var j = 0; 3<j;j++){
-  for (var k = 0;3<k;k++){
-    for (var i =0; 3<i;i++){
+for (var j = 0; 2<j;j++){
+  for (var k = 0;1<k;k++){
+    for (var i =0; 1<i;i++){
       console.log(tridimensional_profu[j][k][i]);
      }
    } 
