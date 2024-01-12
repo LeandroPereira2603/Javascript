@@ -34,9 +34,6 @@ var abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
 
 console.log(abcMaior+" eh o maior");
 
-
-
-
 ```
 
 
@@ -55,8 +52,5 @@ var abMaior =  ( a + b + Math.abs(a - b))/2 ;
 var abcMaior = ( abMaior + c + Math.abs(abMaior- c))/2;
 
 console.log(abcMaior+" eh o maior");
-
-
-
 
 ```
