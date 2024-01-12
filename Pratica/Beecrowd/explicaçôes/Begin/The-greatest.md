@@ -24,7 +24,7 @@ Print the greatest of these three values followed by a space and the message “
 
 [a,b,c] = lines[0].split(' ').map(Number);
 
-abcMaior =  (a + b + c (a - b - c ))/2 ;
+abcMaior =  (a + b + c Math.abs(a - b - c ))/2 ;
 
 console.log(""+abcMaior+" eh maior ");
 
