@@ -38,7 +38,7 @@ console.log(""+a+" eh maior ");
 
 }
 
-elseif ( c > a && c > b ){
+else if ( c > a && c > b ){
 
 console.log(""+a+" eh maior ");
 }
