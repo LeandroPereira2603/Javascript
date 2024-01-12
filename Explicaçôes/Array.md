@@ -86,7 +86,7 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 
 unidimensional_lin= [];
 item = [];
-item_2 = []
+item_2 = [];
 item.push(1,4,5);
 item_2.push(2,4,7);
 
@@ -95,7 +95,7 @@ unidimensional_lin.push(item,item_2);
 bidimensional_coluna = [];
 
 ite = [];
-ite_2 = []
+ite_2 = [];
 ite.push("63","837","377");
 ite_2.push(738,738,899);
 
@@ -104,7 +104,7 @@ bidimensional_coluna.push(ite,ite_2);
 tridimensional_profu = [];
 
 it = [];
-it_2 = []
+it_2 = [];
 it.push("633","8327","3772");
 it_2.push(7388,7382,1839);
 
