@@ -43,23 +43,11 @@ var a = parseFloat(lines.shift('\n'));
 var b = parseFloat(lines.shift('\n'));
 var c = parseFloat(lines.shift('\n'));
 
-var triangle = [] ;
-var radius = [];
-var trapezium = [];
-var square = []
-var rectangle = [];
-
-triangle.push(a,b,c);
-radius.push(a,b,c);
-trapezium.push(a,b,c);
-square.push(a,b,c);
-rectangle.push(a,b,c);
-
-var triangle_result = triangle[0] * triangle[2] / 2;
-var radius_result = 3.14159 * Math.pow(rectangle[2],2);
-var trapezium_result = (trapezium[0] + trapezium[1]) *trapezium[2]/2;
-var square_result = Math.pow(square[1],2);
-var rectangle_result = rectangle[0] * rectangle[1];
+var triangle_result = a * c / 2;
+var radius_result = 3.14159 * Math.pow(c,2);
+var trapezium_result = (a + b) * c / 2;
+var square_result = Math.pow(b,2);
+var rectangle_result = a * b;
 
 console.log("TRIANGULO: "+triangle_result.toFixed(3));
 console.log("CIRCULO: "+radius_result.toFixed(3));
