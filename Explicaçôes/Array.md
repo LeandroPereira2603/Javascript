@@ -1,6 +1,6 @@
 # Array
 
-// Array e um elemento unidimensional que possue vários índices .
+<p> Array e um elemento unidimensional que possue vários índices .</p>
 
 ```javascript
 
