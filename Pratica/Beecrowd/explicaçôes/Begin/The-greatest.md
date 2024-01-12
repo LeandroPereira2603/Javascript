@@ -45,9 +45,23 @@ lines = input.split('\n');
 
 [a,b,c] = lines[0].split(' ').map(Number);
 
-abc =  (a + b + c + Math.abs(a - b - c ))/2 ;
+ab =  (a + b + Math.abs(a - b ))/2 ;
 
-console.log(""+abc+" eh maior ");
+bc = (b + c + Math.abs(b - c))/2;
+
+
+if ( ab > bc){
+  
+  console.log(" "+ab+" eh maior ");
+  
+}
+
+else{
+  
+   console.log(" "+bc+" eh maior ");
+  
+}
+
 
 
 
