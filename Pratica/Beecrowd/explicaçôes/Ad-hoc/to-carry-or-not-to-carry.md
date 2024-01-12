@@ -77,7 +77,6 @@ console.log(line_2[0] + line_2[1]);
 var input ='4 6\n 6 9';
 var lines = input.split('\n');
 
-
 var line_1 = lines[0].split(' ');
 var line_2 = lines[1].split(' ');
 
