@@ -103,7 +103,7 @@ ite_2.push(738,738,899);
 
 bidimensional_coluna.push(ite,ite_2);
 
-tridimensional_profu= [];
+tridimensional_profu = [];
 
 tridimensional_profu.push(unidimensional_lin,bidimensional_coluna);
 
