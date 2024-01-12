@@ -44,6 +44,8 @@ In each input line there will be a pair of integer separated by a single space. 
 | 6 9 | 15 |
 
 
+## Code for beecrowd
+
 ```javascript
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
@@ -67,6 +69,25 @@ console.log(line_2[0] + line_2[1]);
 
 
 ```
+
+## Code no VsCode
+
+```javascript 
+
+var input ='4 6\n 6 9';
+var lines = input.split('\n');
+
+
+var line_1 = lines[0].split(' ');
+var line_2 = lines[1].split(' ');
+
+console.log(line_2);
+
+console.log(line_1[0] - line_1[1]);
+console.log(line_2[0] + line_2[1]);
+
+
+'''
 
 
 # try solved  
