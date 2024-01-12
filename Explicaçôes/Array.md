@@ -76,8 +76,6 @@ console.log("O elemento 2 do índice 0 e 1 : "+floresta[2],[0]+","+floresta[2],[
 * Matriz ( Tridimensional )
 * for encadeado 
 
-<img src="https://photos.app.goo.gl/uuM9pvjdpdJhV5rR9"></img>
-
 ```javascript 
 
 unidimensional_lin= [];
