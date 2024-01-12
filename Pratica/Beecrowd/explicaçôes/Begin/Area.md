@@ -39,12 +39,6 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-/*
-var a = parseFloat(lines.shift('\n'));
-var b = parseFloat(lines.shift('\n'));
-var c = parseFloat(lines.shift('\n'))
-*/
-
 var [a,b,c] = lines[0].split(' ').map(Number);
 
 var triangle_result = a * c / 2;
@@ -61,7 +55,7 @@ console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
 
-## Code for VsCode :
+## Code test in VsCode :
 
 
 ```javascript 
