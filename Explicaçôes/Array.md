@@ -86,9 +86,7 @@ item_2.push(2,4,7);
 
 unidimensional_lin.push(item,item_2);
 
-
 console.log(unidimensional_lin[0][0]);
-
 
 bidimensional_coluna = [];
 
