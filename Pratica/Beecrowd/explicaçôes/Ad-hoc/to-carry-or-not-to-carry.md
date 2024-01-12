@@ -65,12 +65,11 @@ console.log(line_1[0] - line_1[1]);
 console.log(line_2[0] + line_2[1]);
 
 
-
-
-
 ```
 
+
 ## Code no VsCode
+
 
 ```javascript 
 
@@ -86,7 +85,7 @@ console.log(line_1[0] - line_1[1]);
 console.log(line_2[0] + line_2[1]);
 
 
-'''
+```
 
 
 # try solved  
