@@ -51,13 +51,12 @@ var rectangle_result = a * b;
 
 console.log("TRIANGULO: "+triangle_result.toFixed(3)+"\nCIRCULO: "+radius_result.toFixed(3)+"\nTRAPEZIO: "+trapezium_result.toFixed(3)+"\nQUADRADO: "+square_result.toFixed(3)+"\nRETANGULO: "+rectangle_result.toFixed(3));
 
-*/
 console.log("TRIANGULO: "+triangle_result.toFixed(3));
 console.log("CIRCULO: "+radius_result.toFixed(3));
 console.log("TRAPEZIO: "+trapezium_result.toFixed(3));
 console.log("QUADRADO: "+square_result.toFixed(3));
 console.log("RETANGULO: "+rectangle_result.toFixed(3));
-*/
+
 ```
 
 ## Code for VsCode :
