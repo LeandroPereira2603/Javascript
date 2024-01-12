@@ -26,7 +26,6 @@ Print the greatest of these three values followed by a space and the message “
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 
-
 var [a,b,c] = input.split(' ').map((item) => parseInt(item));
 
 var abMaior =  ( a + b + Math.abs(a - b))/2 ;
