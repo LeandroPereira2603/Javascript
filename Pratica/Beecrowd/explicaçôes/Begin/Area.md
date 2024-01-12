@@ -17,6 +17,6 @@ The input file contains three double values with one digit after the decimal poi
 The output file must contain 5 lines of data. Each line corresponds to one of the areas described above, always with a corresponding message (in Portuguese) and one space between the two points and the value. The value calculated must be presented with 3 digits after the decimal point.
 
 |Input Samples |	Output Samples|
-|:--:|:--:|
+|:--:|:--|
 |3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br>  TRAPEZIO: 18.200  <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 <br> |
 | 12.7 10.4 15.2  |<br> TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br>  QUADRADO: 108.160 <br> RETANGULO: 132.080 |
