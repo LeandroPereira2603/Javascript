@@ -52,13 +52,13 @@ bc = (b + c + Math.abs(b - c))/2;
 
 if ( ab > bc){
   
-  console.log(" "+ab+" eh maior ");
+  console.log(""+ab+" eh o maior ");
   
 }
 
 else{
   
-   console.log(" "+bc+" eh maior ");
+   console.log(""+bc+" eh o  maior ");
   
 }
 
