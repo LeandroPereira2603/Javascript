@@ -60,7 +60,6 @@ console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```javascript 
 
-
 var input='12.7 10.4 15.2';
 var lines = input.split('\n');
 
@@ -80,7 +79,7 @@ console.log("RETANGULO: "+rectangle_result.toFixed(3));
 
 ```
 
-## Code different in VsCode , with same result  :
+## style different in VsCode , with same result  :
 
 
 ```javascript 
