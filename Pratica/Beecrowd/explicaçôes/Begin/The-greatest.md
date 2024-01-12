@@ -26,7 +26,7 @@ a = parseInt(lines.shift('\n'));
 b = parseInt(lines.shift('\n'));
 c = parseInt(lines.shift('\n'));
 
-abcMaior =  a + b + c (a - b - c )/2 ;
+abcMaior =  (a + b + c (a - b - c ))/2 ;
 
 console.log(""+abcMaior+" eh maior ");
 
