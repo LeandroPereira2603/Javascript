@@ -48,7 +48,7 @@ console.log(abcMaior+" eh o maior");
 
 var input = '7 14 106';
 
-var [a,b,c] = input.split(' ').map((item) => parseInt(item));
+var [a,b,c] = input.split(' ').map((item) => parseInt((item)));
 
 var abMaior =  ( a + b + Math.abs(a - b))/2 ;
 
