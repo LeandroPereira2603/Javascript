@@ -92,8 +92,6 @@ item_2.push(2,4,7);
 
 unidimensional_lin.push(item,item_2);
 
-console.log(unidimensional_lin[0][0]);
-
 bidimensional_coluna = [];
 
 ite = [];
@@ -105,17 +103,34 @@ bidimensional_coluna.push(ite,ite_2);
 
 tridimensional_profu = [];
 
-tridimensional_profu.push(unidimensional_lin,bidimensional_coluna);
+it = [];
+it_2 = []
+it.push("633","8327","3772");
+it_2.push(7388,7382,1839);
 
-console.log(tridimensional_profu);
+tridimensional_profu.push(it,it_2)
 
-for (var j = 0; 2<j;j++){
-  for (var k = 0;1<k;k++){
-    for (var i =0; 1<i;i++){
-      console.log(tridimensional_profu[j][k][i]);
+cubo = [];
+
+cubo.push(unidimensional_lin, bidimensional_coluna,tridimensional_profu);
+
+console.log(cubo[1][1][0]);
+
+console.log(cubo);
+
+/* resolvendo 
+for (var s = 0; 2 < s ;s++){
+  console.log(cubo[s]);
+}
+
+for (var j = 0;3<j;j++){
+  for (var k = 0;2<k;k++){
+    for (var i = 0;2<i;i++){
+      console.log(cubo[j][k][i]);
      }
    } 
 }
+*/
 
 ```
 
