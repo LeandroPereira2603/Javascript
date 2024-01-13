@@ -154,6 +154,7 @@
 1. ✔ [ Distance-beteween-two-points](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FDistande-beetween-two-points.md)
 1. ✔ [ Distance](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FDistance.md)
 1. ✔ [ Fuel-spent ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FFuel-spent.md)
+1. [ Bank notes  ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FBank-notes.md)
 
 ### 2 - AD-HOC 
 
