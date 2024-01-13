@@ -24,7 +24,7 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 
 ```javascript 
 
-var input = '576';
+vvar input = '576';
 var lines = input.split('\n');
 
 var valor_total = lines[0];
@@ -41,31 +41,32 @@ return result ;
 
 }
 
+console.log(qtdNotas(valor_total,notasDisponiveis[0]));
+
 function qtdValor(valor,notas){
 
   listasNotas.map(nota => {
   const  quantidade = qtdNotas(valor,nota);
   valor = valor - quantidade * nota ;
-  return {nota ,quantidade}
+  return {nota ,quantidade};
 
 });
 
  return listasNotas;
 }
 
+console.log(qtdValor(valor_total,notasDisponiveis[0]))
+
 function notasNecessarias (valor, notas ){
   const notas_necessarias = qtdNotas(valor,notas);
 
-   notasDisponiveis.foreach((quantidade,notas) => {
+   notasDisponiveis.forEach(({quantidade,notas}) => {
 
     console.log("'+quantidade+' nota(s) de R$ "+notas);
 
-   });
+   })
 }
 
 console.log(notasNecessarias(valor_total,notasDisponiveis));
-
-
-
 
 ```
