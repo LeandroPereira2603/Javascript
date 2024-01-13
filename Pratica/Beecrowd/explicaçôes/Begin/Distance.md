@@ -1,5 +1,11 @@
 # Distance
 
+**Level:** :star:
+
+**Solved:** ✓
+
+**🎯:** First try 
+
 
 Two cars (X and Y) leave in the same direction. The car X leaves with a constant speed of 60 km/h and the car Y leaves with a constant speed of 90 km / h.
 
@@ -30,6 +36,8 @@ Print the necessary time followed by the message "minutos" that means minutes in
 | 110 | 220 minutos |
 | 7 | 14 minutos |
 
+## For beecrowd
+
 ```javascript 
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
@@ -41,9 +49,22 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var minutes = parseInt(lines.shift('\n');
+var minutes = parseInt(lines.shift('\n'));
 
-console.log("+minutes*2+" minutos");
+console.log(minutes*2+" minutos");
 
 
+```
+
+## In VsCode 
+
+```javascript 
+
+var input = '30';
+var lines = input.split('\n');
+
+var minutes = parseInt(lines.shift('\n'));
+
+console.log(minutes*2+" minutos");
+ 
 ```
