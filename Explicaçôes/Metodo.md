@@ -3,6 +3,18 @@
 
 ```javascript
 
+var vet = [];
+
+vet.push(30,25,68,26,38);
+
+ver.forEach(({item,item_2}) => {
+
+  var result = console.log(" "+item+" , "+item_2+" );
+
+});
+
+ return result;
+
 ```
 
 
