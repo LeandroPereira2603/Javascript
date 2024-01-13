@@ -25,6 +25,55 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 
 ```javascript 
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
+
+var valor_total = lines[0];
+
+const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
+
+function quantidadeNota (valor , nota) {
+
+  var result = Math.floor((valor/nota));
+
+return result ;
+
+}
+
+function quantidadesPorNotas(valor,notas){
+  
+  const listaNota = notas.map(nota => {
+  const  quantidade = quantidadeNota(valor,nota);
+  valor = valor - quantidade * nota ;
+  return {nota,quantidade}
+
+});
+
+ return listaNota;
+}
+
+function MostrarNotasNecessarias (valor, notas ){
+  const notasNecessarias = quantidadesPorNotas(valor,notas);
+
+console.log(valor_total);  
+
+ notasNecessarias.forEach(({quantidade,nota}) => {
+    
+    console.log(quantidade+' nota(s) de R$ '+nota+',00');
+
+   });
+}
+  MostrarNotasNecessarias(valor_total,notasDisponiveis);
+
+
+
 ```
 
 # In VsCode ✓
