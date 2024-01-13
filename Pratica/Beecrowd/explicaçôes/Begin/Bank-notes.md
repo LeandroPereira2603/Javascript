@@ -68,5 +68,4 @@ console.log(notasNecessarias(valor_total,notasDisponiveis));
 
 
 
-
 ```
