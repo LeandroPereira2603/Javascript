@@ -38,7 +38,7 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-[hour,km] = lines[0].split(' ').map((item) => parseInt(item));
+var [hour,km] = lines[0].split(' ').map((item) => parseInt(item));
 
 var media = hour * km / 12 ;
 
