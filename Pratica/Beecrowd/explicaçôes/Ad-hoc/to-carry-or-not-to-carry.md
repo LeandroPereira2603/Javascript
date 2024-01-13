@@ -56,13 +56,16 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var line_1 = lines[0].split(' ');
-var line_2 = lines[1].split(' ');
+var [x,y] = lines[0].split(' ').map((item) => parseInt(item));
 
-console.log(line_2);
+var EOF = ''+x+' '+y+'\n'+x+' '+y+'';
 
-console.log(line_1[0] - line_1[1]);
-console.log(line_2[0] + line_2[1]);
+var mofiz  = EOF.split('\n');
+
+mofiz.shift('+','-');
+
+console.log(mofiz[0]);
+console.log(mofiz[1);
 
 
 ```
