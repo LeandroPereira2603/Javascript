@@ -32,13 +32,22 @@ const total_de_notas = [100, 50, 20, 10, 5, 2 ,1];
 
 function qtdNotas (valor , notas) {
 
-var result = Math.floor((valor/nota));
+  var result = Math.floor((valor/nota));
 
 return result ;
 
 }
 
-qtdNotas(valor_total, notas);
+function qtdValor(valor,notas){
 
+ const listasNotas.map(nota => {
+  const  quantidade = qtdNotas(valor,nota);
+  const valor = valor - quantidade * nota ;
+  return {nota ,quantidade}
+
+})
+
+ return listasNotas;
+}
 
 ```
