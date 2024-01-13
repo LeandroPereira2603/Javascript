@@ -58,7 +58,7 @@ console.log(valor_total);
 
  notasNecessarias.forEach(({quantidade,nota}) => {
     
-    console.log(quantidade+' nota(s) de R$ '+nota.toFixed(2)+',00 ');
+    console.log(quantidade+' nota(s) de R$ '+nota+',00 ');
 
    });
 }
