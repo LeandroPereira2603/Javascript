@@ -26,7 +26,7 @@ vet.forEach((item) => {
 | 26 |
 | 38 |
 
-# Metodos integrado a linguagem Javascript 
+# Metodos gerais 
 
 ### 1 - toFixed()
 
@@ -105,3 +105,4 @@ points.dist();         // 1,414: distância entre nossos 2 pontos .
 > <strong> Rêferencias: </strong>
 > * Livro : O guia definitivo do javascript
 > * Site : [W3Schools](https://www.w3schools.com/)
+> * (LLP) : Leandro Luiz Pereira 
