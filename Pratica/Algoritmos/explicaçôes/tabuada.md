@@ -2,7 +2,7 @@
 
 # Tabuada 
 
-<p> Colocando vários tipos de algoritmo de retorno de cálculos de tabuada , determinando   a verificação da escolha do úsuario ou já estabelecido programado .</p> 
+<p> Colocando vários tipos de algoritmo de retorno de cálculos de diferentes de tabuada , com valores de entrada determinada pelo o úsuario e também  com valores de entrada programado . </p> 
 
 ### Sobre os algoritmos :
 
