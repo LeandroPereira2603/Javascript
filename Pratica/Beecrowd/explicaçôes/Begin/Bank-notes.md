@@ -78,9 +78,12 @@ console.log(valor_total);
 
 # In VsCode 
 
+<p> improving the resolution of the requested exercise, printing the three test outputs, </p>
+
 ```javascript 
 
-var input = '576';
+var input = '576\n11257\n503';
+
 var lines = input.split('\n');
 
 var valor_total = lines[0];
@@ -105,8 +108,29 @@ function quantidadesPorNotas(valor,notas){
 });
 
  return listaNota;
+
 }
 
+// example : not used the method lines.lenght()
+
+for (var i =0; i<3;i++){
+  
+  if(i==1){
+   var valor_total = lines[1];
+  }
+
+  else if(i==2){
+   var valor_total = lines[2];
+  }
+
+  else if(i==3){
+ var valor_total = lines[3];
+  }
+
+  else {
+    var valor_total = lines[0];
+  }
+  
 function MostrarNotasNecessarias (valor, notas ){
   const notasNecessarias = quantidadesPorNotas(valor,notas);
 
@@ -119,6 +143,10 @@ console.log(valor_total);
    });
 }
   MostrarNotasNecessarias(valor_total,notasDisponiveis);
+  
+  console.log('\n');
+  
+}
 
 
 ```
