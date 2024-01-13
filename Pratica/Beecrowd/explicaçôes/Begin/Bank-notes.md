@@ -76,7 +76,7 @@ console.log(valor_total);
 
 ```
 
-# In VsCode ✓
+# In VsCode 
 
 ```javascript 
 
