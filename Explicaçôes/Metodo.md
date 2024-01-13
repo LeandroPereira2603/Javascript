@@ -16,6 +16,7 @@ vet.forEach((item) => {
 });
 
  return result;
+
 ```
 | Saída |
 |:--|
