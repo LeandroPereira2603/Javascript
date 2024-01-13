@@ -20,3 +20,10 @@ Print the necessary time followed by the message "minutos" that means minutes in
 |30| 60 minutos |
 |110 | 220 minutos |
 | 7 | 14 minutos |
+
+```javascript 
+
+
+
+
+```
