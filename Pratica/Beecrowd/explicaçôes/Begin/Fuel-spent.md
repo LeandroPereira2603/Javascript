@@ -15,3 +15,12 @@ Print how many liters would be needed to do this trip, with three digits after t
 | 10 <br> 85 | 70.833 |
 | 2 <br> 92 | 15.333 |
 | 22 <br> 67 | 122.833|
+
+```javascript
+
+
+
+
+
+
+```
