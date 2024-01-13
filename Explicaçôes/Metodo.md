@@ -26,7 +26,7 @@ vet.forEach((item) => {
 | 26 |
 | 38 |
 
-# Metodos integrado a linguagem  de aritmética 
+# Metodos integrado a linguagem Javascript 
 
 ### 1 - toFixed()
 
