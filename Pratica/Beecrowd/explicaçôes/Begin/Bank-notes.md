@@ -65,12 +65,11 @@ console.log(valor_total);
 
  notasNecessarias.forEach(({quantidade,nota}) => {
     
-    console.log(quantidade+' nota(s) de R$ '+nota+',00 ');
+    console.log(quantidade+' nota(s) de R$ '+nota+',00');
 
    });
 }
-
-   MostrarNotasNecessarias(valor_total,notasDisponiveis);
+  MostrarNotasNecessarias(valor_total,notasDisponiveis);
 
 
 ```
