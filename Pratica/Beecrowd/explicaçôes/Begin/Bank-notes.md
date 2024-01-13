@@ -60,7 +60,7 @@ function notasNecessarias (valor, notas ){
    }
 }
 
-console.log(notasNecessarias(valor_total,notasDisponiveis));
+console.log(notasNecessarias(valor_total,notas_necessarias));
 
 
 
