@@ -1,6 +1,6 @@
 # Bank Notes 
 
-**Level**: :star: :star:
+**Level**: :star: :star: :star: :star:
 
 **Solved:** Not 
 
