@@ -24,49 +24,43 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 
 ```javascript 
 
-vvar input = '576';
+vvarvar input = '150';
 var lines = input.split('\n');
 
 var valor_total = lines[0];
 
-console.log(valor_total);
-
 const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
 
-function qtdNotas (valor , notas) {
+function quantidadeNota (valor , nota) {
 
-  var result = Math.floor((valor/notas));
+  var result = Math.floor((valor/nota));
 
 return result ;
 
 }
 
-console.log(qtdNotas(valor_total,notasDisponiveis[0]));
-
-function qtdValor(valor,notas){
-
-  notasDisponiveis.map(nota => {
-  const  quantidade = qtdNotas(valor,nota);
+function quantidadesPorNotas(valor,notas){
+  
+  const listaNota = notas.map(nota => {
+  const  quantidade = quantidadeNota(valor,nota);
   valor = valor - quantidade * nota ;
-  return {nota ,quantidade};
+  return {nota ,quantidade}
 
 });
 
- return listasNotas;
+ return listaNota;
 }
 
-console.log(qtdValor(valor_total,notasDisponiveis[0]))
+function MostrarNotasNecessarias (valor, notas ){
+  const notasNecessarias = quantidadesPorNotas(valor,notas);
 
-function notasNecessarias (valor, notas ){
-  const notas_necessarias = qtdNotas(valor,notas);
+   notasNecessarias.forEach(({quantidade,nota}) => {
 
-   notasDisponiveis.forEach(({quantidade,notas}) => {
-
-    console.log("'+quantidade+' nota(s) de R$ "+notas);
+    console.log(quantidade+' nota(s) de R$ '+nota);
 
    })
 }
 
-console.log(notasNecessarias(valor_total,notasDisponiveis));
+console.log(MostrarNotasNecessarias(valor_total,notasDisponiveis));
 
 ```
