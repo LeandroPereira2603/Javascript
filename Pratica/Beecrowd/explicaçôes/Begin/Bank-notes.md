@@ -27,9 +27,21 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 var input = '576';
 var line= input.split('\n');
 
+const  valor_total = lines[0];
+
 var n = parseInt(line.shift('\n')+n<1000000));
 
 console.log(n);
+
+function qtdNotas (valor , notas ) {
+
+ var result = Math.floor((valor/nota));
+
+return result ;
+
+}
+
+qtdNotas(valor_total, notas);
 
 
 
