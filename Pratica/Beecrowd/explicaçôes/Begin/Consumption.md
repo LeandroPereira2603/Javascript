@@ -26,6 +26,15 @@ Present a value that represents the average consumption of a car with 3 digits a
 
 ```javascript 
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
 var x = parseInt(lines.shift('\n');
 var y = parseFloat(lines.shift('\n');
 
@@ -36,15 +45,6 @@ console.log((x/y).toFixed(3)+' km/l');
 ### In VsCode :
 
 ```javascript 
-
-var input = require('fs').readFileSync('/dev/stdin', 'utf8');
-var lines = input.split('\n');
-
-/**
- * Escreva a sua solução aqui
- * Code your solution here
- * Escriba su solución aquí
- */
 
 input = '2254\n124.4'
 lines = input.split('\n');
