@@ -53,7 +53,7 @@ console.log(media);
 input = '10 85';
 lines = input.split('\n');
 
-[hour,km] = lines[0].split(' ').map((item) => parseInt(item));
+var [hour,km] = lines[0].split(' ').map((item) => parseInt(item));
 
 var media = hour * km / 12 ;
 
