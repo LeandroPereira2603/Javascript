@@ -1,6 +1,8 @@
 # Consuptiom
 
-**Solved:** not 
+**Solved:** ✓ 
+
+**🎯First try** : ✓
 
 **Level:** :star:
 
@@ -20,14 +22,15 @@ Present a value that represents the average consumption of a car with 3 digits a
 | 2254 <br> 124.4 | 18.119 km/l |
 | 4554 <br> 464.6 | 9.802 km/l |
 
+### for beecrowd :
 
 ```javascript 
 
 var x = parseInt(lines.shift('\n');
 var y = parseFloat(lines.shift('\n');
 
-console.log((x/y).to fixed(3));
-
-
+console.log((x/y).toFixed(3)+' km/l');
 
 ```
+
+### in VsCode 
