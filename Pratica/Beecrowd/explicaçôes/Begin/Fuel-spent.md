@@ -25,6 +25,8 @@ Imprima como muitos litros vai precisar para esta estrada , com três dígitos d
 | 2 <br> 92  | 15.333 |
 | 22 <br> 67 | 122.833|
 
+## In beecrowd 
+
 ```javascript
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
@@ -36,19 +38,29 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-[hour,km] = lines.split(' ').map((item) => parseInt(item));
+
+[hour,km] = lines[0].split(' ').map((item) => parseInt(item));
+
+var media = hour * km / 12 ;
 
 
-var média = hour * km / 60 ;
+console.log(media);
 
 
 ```
 
+## In VsCode
+
+```javascript 
+
+input = '10 85';
+lines = input.split('\n');
+
+[hour,km] = lines[0].split(' ').map((item) => parseInt(item));
+
+var media = hour * km / 12 ;
 
 
-
-
-
-
+console.log(media);
 
 ```
