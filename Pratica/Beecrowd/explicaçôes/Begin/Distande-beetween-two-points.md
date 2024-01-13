@@ -33,5 +33,10 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
+var [x1,x2] = lines[0].split(' ').map(Number);
+var [y1,y2] = lines[1].split(' ').map(Number);
+
+var distance = Math.squad();
+
 
 ```
