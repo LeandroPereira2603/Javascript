@@ -79,7 +79,7 @@
 * [ Array - Matriz](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Array.md)
 * [ Objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
 * 🟡 [ Map ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FMap.md)
-* [ Métodos ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
+* [ Métodos ( forEach, Math, etc..) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
 * 🟡 [ String : manipulando caracteres]
 + 🟡 [ importação de bibliotecas ]
 
