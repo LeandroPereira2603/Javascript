@@ -45,7 +45,7 @@ console.log(qtdNotas(valor_total,notasDisponiveis[0]));
 
 function qtdValor(valor,notas){
 
-  listasNotas.map(nota => {
+  notasDisponiveis.map(nota => {
   const  quantidade = qtdNotas(valor,nota);
   valor = valor - quantidade * nota ;
   return {nota ,quantidade};
