@@ -28,7 +28,7 @@ var input = '576';
 var line= input.split('\n');
 
 const  valor_total = lines[0];
-const total_de_notas = [100, 50, 20, 10, 5, 2 ,1];
+const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
 
 function qtdNotas (valor , notas) {
 
@@ -41,9 +41,9 @@ return result ;
 function notasNecessarias (valor, notas ){
   const notas_necessarias = qtdNotas(valor,notas);
 
-  notasDisponíveis.foreach ((listaNotas) => {
+  notasDisponíveis.foreach((quantidade,notas) => {
 
-    console.log("'+listasNotas.quantidade+' nota(s) de R$ 100,00 ");
+    console.log("'+quantidade+' nota(s) de R$ "+notas+ ");
 
    }
 }
