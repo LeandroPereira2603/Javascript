@@ -25,14 +25,17 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 ```javascript 
 
 var input = '576';
-var line= input.split('\n');
+var lines = input.split('\n');
 
-const  valor_total = lines[0];
+var valor_total = lines[0];
+
+console.log(valor_total);
+
 const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
 
 function qtdNotas (valor , notas) {
 
-  var result = Math.floor((valor/nota));
+  var result = Math.floor((valor/notas));
 
 return result ;
 
@@ -40,12 +43,12 @@ return result ;
 
 function qtdValor(valor,notas){
 
- const listasNotas.map(nota => {
+  listasNotas.map(nota => {
   const  quantidade = qtdNotas(valor,nota);
   valor = valor - quantidade * nota ;
   return {nota ,quantidade}
 
-})
+});
 
  return listasNotas;
 }
@@ -53,14 +56,16 @@ function qtdValor(valor,notas){
 function notasNecessarias (valor, notas ){
   const notas_necessarias = qtdNotas(valor,notas);
 
-  notasDisponíveis.foreach((quantidade,notas) => {
+   notasDisponiveis.foreach((quantidade,notas) => {
 
-    console.log("'+quantidade+' nota(s) de R$ "+notas+ ");
+    console.log("'+quantidade+' nota(s) de R$ "+notas);
 
-   }
+   });
 }
 
-console.log(notasNecessarias(valor_total,notas_necessarias));
+console.log(notasNecessarias(valor_total,notasDisponiveis));
+
+
 
 
 
