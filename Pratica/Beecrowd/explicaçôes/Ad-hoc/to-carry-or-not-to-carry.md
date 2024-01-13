@@ -62,10 +62,10 @@ var EOF = ''+x+' '+y+'\n'+x+' '+y+'';
 
 var mofiz  = EOF.split('\n');
 
-mofiz.shift('+','-');
+mofiz.shift('-','+');
 
 console.log(mofiz[0]);
-console.log(mofiz[1);
+console.log(mofiz[1]);
 
 
 ```
