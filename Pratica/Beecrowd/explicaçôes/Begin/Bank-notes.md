@@ -38,11 +38,21 @@ return result ;
 
 }
 
+function notasNecessarias (valor, notas ){
+  const notas_necessarias = qtdNotas(valor,notas);
+
+  notasDisponíveis.foreach ((listaNotas) => {
+
+    console.log("'+listasNotas.quantidade+' nota(s) de R$ 100,00 ");
+
+   }
+}
+
 function qtdValor(valor,notas){
 
  const listasNotas.map(nota => {
   const  quantidade = qtdNotas(valor,nota);
-  const valor = valor - quantidade * nota ;
+  valor = valor - quantidade * nota ;
   return {nota ,quantidade}
 
 })
