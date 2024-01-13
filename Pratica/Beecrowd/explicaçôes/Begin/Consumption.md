@@ -33,7 +33,7 @@ console.log((x/y).toFixed(3)+' km/l');
 
 ```
 
-### In VsCode 
+### In VsCode :
 
 ```javascript 
 
