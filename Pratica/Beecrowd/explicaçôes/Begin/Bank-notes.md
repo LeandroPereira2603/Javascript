@@ -27,7 +27,7 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 
 ```
 
-# In VsCode
+# In VsCode ✓
 
 ```javascript 
 
