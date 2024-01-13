@@ -40,3 +40,20 @@ var distance = Math.squad();
 
 
 ```
+
+### In VsCode 
+
+```javascript 
+
+input = '1.0 7.0\n5.0 9.0';
+lines = input.split('\n');
+
+var [x1,x2] = lines[0].split(' ').map((item) => parseFloat(item));
+var [y1,y2] = lines[1].split(' ').map((item) => parseFloat(item));
+
+
+var distance = Math.sqrt((Math.pow(x2-x1,2))+(Math.pow(y2-y1,2)));
+
+console.log(distance.toFixed(4));
+
+```
