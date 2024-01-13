@@ -27,7 +27,7 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 var input = '150';
 var lines = input.split('\n');
 
-var valor_total = lines[0].map(item => parseFloat(item));
+var valor_total = lines[0];
 
 const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
 
@@ -58,7 +58,7 @@ console.log(valor_total);
 
  notasNecessarias.forEach(({quantidade,nota}) => {
     
-    console.log(quantidade+' nota(s) de R$ '+nota.toFixed(2));
+    console.log(quantidade+' nota(s) de R$ '+nota.toFixed(2)+',00 ');
 
    });
 }
