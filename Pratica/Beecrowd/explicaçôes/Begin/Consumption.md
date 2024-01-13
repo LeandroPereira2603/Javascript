@@ -26,4 +26,8 @@ Present a value that represents the average consumption of a car with 3 digits a
 var x = parseInt(lines.shift('\n');
 var y = parseFloat(lines.shift('\n');
 
+console.log((x/y).to fixed(3));
+
+
+
 ```
