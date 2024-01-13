@@ -35,11 +35,12 @@ var lines = input.split('\n');
  * Escriba su solución aquí
  */
 
-var [x1,x2] = lines[0].split(' ').map(Number);
-var [y1,y2] = lines[1].split(' ').map(Number);
+var [x1,y1] = lines[0].split(' ').map((item) => parseFloat(item));
+var [x2,y2] = lines[1].split(' ').map((item) => parseFloat(item));
 
-var distance = Math.squad();
+var distance = Math.sqrt((Math.pow(x2-x1,2))+(Math.pow(y2-y1,2)));
 
+console.log(distance.toFixed(4));
 
 ```
 
@@ -47,12 +48,11 @@ var distance = Math.squad();
 
 ```javascript 
 
-input = '1.0 7.0\n5.0 9.0';
+input = '-2.5 0.4\n12.1 7.3';
 lines = input.split('\n');
 
-var [x1,x2] = lines[0].split(' ').map((item) => parseFloat(item));
-var [y1,y2] = lines[1].split(' ').map((item) => parseFloat(item));
-
+var [x1,y1] = lines[0].split(' ').map((item) => parseFloat(item));
+var [x2,y2] = lines[1].split(' ').map((item) => parseFloat(item));
 
 var distance = Math.sqrt((Math.pow(x2-x1,2))+(Math.pow(y2-y1,2)));
 
