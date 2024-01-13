@@ -28,22 +28,17 @@ var input = '576';
 var line= input.split('\n');
 
 const  valor_total = lines[0];
+const total_de_notas = [100, 50, 20, 10, 5, 2 ,1];
 
-var n = parseInt(line.shift('\n')+n<1000000));
+function qtdNotas (valor , notas) {
 
-console.log(n);
-
-function qtdNotas (valor , notas ) {
-
- var result = Math.floor((valor/nota));
+var result = Math.floor((valor/nota));
 
 return result ;
 
 }
 
 qtdNotas(valor_total, notas);
-
-
 
 
 ```
