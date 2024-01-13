@@ -38,16 +38,6 @@ return result ;
 
 }
 
-function notasNecessarias (valor, notas ){
-  const notas_necessarias = qtdNotas(valor,notas);
-
-  notasDisponíveis.foreach((quantidade,notas) => {
-
-    console.log("'+quantidade+' nota(s) de R$ "+notas+ ");
-
-   }
-}
-
 function qtdValor(valor,notas){
 
  const listasNotas.map(nota => {
@@ -59,5 +49,19 @@ function qtdValor(valor,notas){
 
  return listasNotas;
 }
+
+function notasNecessarias (valor, notas ){
+  const notas_necessarias = qtdNotas(valor,notas);
+
+  notasDisponíveis.foreach((quantidade,notas) => {
+
+    console.log("'+quantidade+' nota(s) de R$ "+notas+ ");
+
+   }
+}
+
+console.log(notasNecessarias(valor_total,notasDisponiveis));
+
+
 
 ```
