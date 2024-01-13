@@ -1,7 +1,7 @@
 
 # Método forEach
 
- Vai imprimir cada índice do elemento array _vet[]_ separadamente   
+ Vai imprimir cada índice do elemento array _vet[]_ separadamente.
 
 ```javascript
 
