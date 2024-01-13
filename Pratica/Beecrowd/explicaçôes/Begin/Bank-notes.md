@@ -80,7 +80,7 @@ console.log(valor_total);
 
 ```javascript 
 
-var input = '150';
+var input = '576';
 var lines = input.split('\n');
 
 var valor_total = lines[0];
