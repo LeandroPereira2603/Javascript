@@ -151,7 +151,10 @@
 1. ✔ [ Area](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FArea.md)
 1. ✔ [ The greatest ]( https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FThe-greatest.md )
 1. ✔ [ Consumption ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FConsumption.md)
+1. 🕗 [ Distance-beteween-two-points](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FDistande-beetween-two-points.md)
+
 ### 2 - AD-HOC 
+
 **Simulation** , problems , dates, games and general , ad-hoc  .
 
 1. 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Ad-hoc/to-carry-or-not-to-carry.md)
