@@ -1,5 +1,9 @@
 
-# Método _forEach()_
+# Método forEach
+
+```javascript
+
+```
 
 
 # Metodos integrado a linguagem  de aritmética 
