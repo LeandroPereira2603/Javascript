@@ -34,3 +34,15 @@ console.log((x/y).toFixed(3)+' km/l');
 ```
 
 ### in VsCode 
+
+```javascript 
+
+input = '2254\n124.4'
+lines = input.split('\n');
+
+var x = parseInt(lines.shift('\n'));
+var y = parseFloat(lines.shift('\n'))
+
+console.log((x/y).toFixed(3));
+
+```
