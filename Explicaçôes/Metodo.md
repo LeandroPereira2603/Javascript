@@ -1,6 +1,8 @@
 
+# Método _forEach()_
 
-## Metodos integrado a linguagem  de aritmética 
+
+# Metodos integrado a linguagem  de aritmética 
 
 ### 1 - toFixed()
 
@@ -73,9 +75,6 @@ points.dist();         // 1,414: distância entre nossos 2 pontos .
 
 
 ```
-
-
-
 
 
 > [!NOTE]
