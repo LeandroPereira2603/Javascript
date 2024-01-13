@@ -42,7 +42,7 @@ var [hour,km] = lines[0].split(' ').map((item) => parseInt(item));
 
 var media = hour * km / 12 ;
 
-console.log(media);
+console.log(media.toFixed(3));
 
 ```
 
@@ -57,6 +57,6 @@ var [hour,km] = lines[0].split(' ').map((item) => parseInt(item));
 
 var media = hour * km / 12 ;
 
-console.log(media);
+console.log(media.toFixed(3);
 
 ```
