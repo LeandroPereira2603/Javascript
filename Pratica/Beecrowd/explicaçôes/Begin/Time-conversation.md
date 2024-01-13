@@ -11,6 +11,7 @@ The input file contains an integer N.
 Print the read time in the input file (seconds) converted in hours:minutes:seconds like the following example.
 
 |Input Sample	|Output Sample|
+|:--:|:--:|
 |556 | 0:9:16 |
 |1 | 0:0:1 |
 | 140153 | 38:55:53 |
