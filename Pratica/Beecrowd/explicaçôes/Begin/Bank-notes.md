@@ -54,8 +54,10 @@ function quantidadesPorNotas(valor,notas){
 function MostrarNotasNecessarias (valor, notas ){
   const notasNecessarias = quantidadesPorNotas(valor,notas);
 
-   notasNecessarias.forEach(({quantidade,nota}) => {
+console.log(valor_total);  
 
+ notasNecessarias.forEach(({quantidade,nota}) => {
+    
     console.log(quantidade+' nota(s) de R$ '+nota.toFixed(2));
 
    });
