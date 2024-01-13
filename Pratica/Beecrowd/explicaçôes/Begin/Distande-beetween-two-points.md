@@ -22,6 +22,8 @@ Calculate and print the distance value using the provided formula, with 4 digits
 |-2.5 0.4 <br> 12.1 7.3|16.1484 |
 | 2.5 -0.4 <br> -12.2 7.0 | 16.4575 |
 
+### For beecrowd
+
 ```javascript 
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
