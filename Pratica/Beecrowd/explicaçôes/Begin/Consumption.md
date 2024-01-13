@@ -37,6 +37,15 @@ console.log((x/y).toFixed(3)+' km/l');
 
 ```javascript 
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+
+/**
+ * Escreva a sua solução aqui
+ * Code your solution here
+ * Escriba su solución aquí
+ */
+
 input = '2254\n124.4'
 lines = input.split('\n');
 
