@@ -22,7 +22,7 @@ Present a value that represents the average consumption of a car with 3 digits a
 | 2254 <br> 124.4 | 18.119 km/l |
 | 4554 <br> 464.6 | 9.802 km/l |
 
-### for beecrowd :
+### For beecrowd :
 
 ```javascript 
 
@@ -33,7 +33,7 @@ console.log((x/y).toFixed(3)+' km/l');
 
 ```
 
-### in VsCode 
+### In VsCode 
 
 ```javascript 
 
