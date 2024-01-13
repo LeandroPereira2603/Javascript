@@ -1,22 +1,29 @@
 
 # Método forEach
 
+<p> Vai imprimir cada índice do elemento array _vet[]_ separadamente   </p> 
+
 ```javascript
 
 var vet = [];
 
 vet.push(30,25,68,26,38);
 
-ver.forEach(({item,item_2}) => {
+vet.forEach((item) => {
 
-  var result = console.log(" "+item+" , "+item_2+" );
+  var result = console.log(" "+item+" ");
 
 });
 
  return result;
-
 ```
-
+| saída |
+|:--|
+| 30 |
+| 25 |
+| 68 |
+| 26 |
+| 38 |
 
 # Metodos integrado a linguagem  de aritmética 
 
