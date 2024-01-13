@@ -16,8 +16,16 @@ Print the read number and the minimum quantity of each necessary banknotes in Po
 | 11257 | 11257 <br> 112 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 0 nota(s) de R$ 1,00 |
 | 503 | 503 <br> 5 nota(s) de R$ 100,00 <br> 0 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 0 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 1 nota(s) de R$ 1,00 <br> | 
 
+# In VsCode
+
 ```javascript 
 
+var input = '576';
+var line= input.split('\n');
+
+var n = parseInt(line.shift('\n')+n<1000000));
+
+console.log(n);
 
 
 
