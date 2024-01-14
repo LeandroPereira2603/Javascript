@@ -80,7 +80,7 @@ console.log(valor_total);
 
 # In VsCode 
 
-<p> improving the resolution of the requested exercise, printing the three test outputs, </p>
+1. improving the resolution of the requested exercise, printing the three test outputs, 
 
 ```javascript 
 
@@ -153,7 +153,7 @@ console.log(valor_total);
 
 ```
 
-<p> improving the resolution of the requested exercise, printing the three test outputs,with forEach </p>
+2. improving the resolution of the requested exercise, printing the three test outputs,with forEach 
 
 ```javascript 
 
