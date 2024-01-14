@@ -78,9 +78,7 @@ console.log(valor_total);
 
 ```
 
-### Output
-
-| Input Sample |	Output Sample |
+| Input |	Output  |
 |:--:|:--|
 | 576 | 576 <br> 5 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 1 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 0 nota(s) de R$ 2,00 <br> 1 nota(s) de R$ 1,00|
 
@@ -158,9 +156,8 @@ console.log(valor_total);
 
 ```
 
-### Output
 
-| Input Sample |	Output Sample |
+| Input |	Output|
 |:--:|:--|
 | 576 | 576 <br> 5 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 1 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 0 nota(s) de R$ 2,00 <br> 1 nota(s) de R$ 1,00|
 | 11257 | 11257 <br> 112 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 0 nota(s) de R$ 1,00 |
@@ -227,9 +224,7 @@ console.log(valor_total);
 
 ```
 
-### Output
-
-| Input Sample |	Output Sample |
+| Input  |	Output|
 |:--:|:--|
 | 576 | 576 <br> 5 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 1 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 0 nota(s) de R$ 2,00 <br> 1 nota(s) de R$ 1,00|
 | 11257 | 11257 <br> 112 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 0 nota(s) de R$ 1,00 |
