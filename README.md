@@ -78,6 +78,7 @@
 * [ Estrutura de repetição ( for, while, do while)](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura-for-while-do-while.md)
 * [ Array - Matriz](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Array.md)
 * [ Objeto ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Objeto.md)
+* [ For-each ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FFor-each.md)
 * 🟡 [ Map ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FMap.md)
 * [ Métodos ( forEach, Math, etc..) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
 * 🟡 [ String : manipulando caracteres]
