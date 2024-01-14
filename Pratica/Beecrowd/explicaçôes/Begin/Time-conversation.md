@@ -18,6 +18,13 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 
 ```javascript 
 
+x = [].lines.shift('\n').map((item) => parseInt(item);
+
+ x.push(x[0] * 60);
+
+x.push(x[1] * 60 ) ;
+
+console.log(" "+x[0]+":"+x[1]+":"+x[2]+" ");
 
 
 ```
