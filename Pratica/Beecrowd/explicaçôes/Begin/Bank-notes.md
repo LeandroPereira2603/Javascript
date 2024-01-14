@@ -156,7 +156,6 @@ console.log(valor_total);
   
 }
 
-
 ```
 
 ### Output
