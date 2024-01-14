@@ -198,7 +198,7 @@ console.log(valor_total);
    });
 }
 
-\\ example with forEach()
+// example with forEach()
 
  lines.forEach((item) => {
    
