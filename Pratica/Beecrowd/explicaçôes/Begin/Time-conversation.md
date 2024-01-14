@@ -16,15 +16,39 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 |1 | 0:0:1 |
 | 140153 | 38:55:53 |
 
+## In VsCode 
+
 ```javascript 
 
-x = [].lines.shift('\n').map((item) => parseInt(item);
+input = '513';
+lines = input.split('\n');
 
- x.push(x[0] * 60);
+totalSegundos = lines[0];
 
-x.push(x[1] * 60 );
+function conversorSegundos(segundos,tipo){
+ const conversao = {
+   
+  hora : 3600,
+  minuto : 60,
+  segundo : 1
+ 
+}
 
-console.log(" "+x[0]+":"+x[1]+":"+x[2]+" ");
+  const quantidade = (Math.floor(segundos / conversao[tipo]));
+  const restoSegundos = (segundos % conversao[tipo]);
+  return (quantidade, restoSegundos);
+
+}
+
+function formatarHora (segundos){
+  const horas = conversorSegundos(segundos,'hora');
+  const minutos = conversorSegundos(horas.restoSegundos,'minuto');
+  
+  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);
+  
+}
+
+console.log(formatarHora(totalSegundos));
 
 
 ```
