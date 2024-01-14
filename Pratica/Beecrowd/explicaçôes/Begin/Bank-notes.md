@@ -152,3 +152,63 @@ console.log(valor_total);
 
 
 ```
+
+<p> improving the resolution of the requested exercise, printing the three test outputs,with forEach </p>
+
+```javascript 
+
+var input = '576\n11257\n503';
+
+var lines = input.split('\n');
+
+var valor_total = lines[0];
+
+const notasDisponiveis = [100, 50, 20, 10, 5, 2 ,1];
+
+function quantidadeNota (valor , nota) {
+
+  var result = Math.floor((valor/nota));
+
+return result ;
+
+}
+
+function quantidadesPorNotas(valor,notas){
+  
+  const listaNota = notas.map(nota => {
+  const  quantidade = quantidadeNota(valor,nota);
+  valor = valor - quantidade * nota ;
+  return {nota ,quantidade}
+
+});
+
+ return listaNota;
+
+}
+
+function MostrarNotasNecessarias (valor, notas ){
+  const notasNecessarias = quantidadesPorNotas(valor,notas);
+
+console.log(valor_total);  
+
+ notasNecessarias.forEach(({quantidade,nota}) => {
+    
+    console.log(quantidade+' nota(s) de R$ '+nota+',00');
+
+   });
+}
+
+\\ example with forEach()
+
+ lines.forEach((item) => {
+   
+ 
+ MostrarNotasNecessarias(item,notasDisponiveis);
+  
+  console.log('\n');
+  
+  
+});
+
+
+```
