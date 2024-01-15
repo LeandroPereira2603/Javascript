@@ -49,7 +49,7 @@ console.log(formatarHora(totalSegundos));
 
 }
 
-\\ beecrowd not accept create object in variable ..
+// beecrowd not accept create object in variable ..
 
 ```
 
