@@ -7,7 +7,7 @@
 <p> jQuery é uma função global _jQuery()_ com o simbo global _$()_ , que é um atalho para ela , define o espaço de nomes global .</p> 
 
 
-### Importando o jQuery : 
+## Importando o jQuery : 
 
 ```javascript
 
@@ -16,7 +16,7 @@
 ```
 
 
-### Código jQuery exemplo : 
+## Código jQuery exemplo : 
 
 <p> elemento div </p> 
 
