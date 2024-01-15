@@ -85,7 +85,8 @@
 
 ### Bibliotecas : 
 
-* 🟡 [ jQuery ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FjQuery.md
+* 🟡 [ jQuery ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FjQuery.md)
+
 ### Manipulação de elementos DOM ( Document Object Model)
 
 * [ querySelector e querySelectorAll]
