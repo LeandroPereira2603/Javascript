@@ -51,7 +51,7 @@ console.log(formatarHora(totalSegundos));
 
 }
 
-
+```
 
 ## In VsCode 
 
