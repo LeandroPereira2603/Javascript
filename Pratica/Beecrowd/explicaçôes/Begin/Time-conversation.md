@@ -20,7 +20,7 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 |1 | 0:0:1 |
 | 140153 | 38:55:53 |
 
-## For beecrowd
+## For beecrowd ❌
 
 ```javascript
 
