@@ -18,7 +18,7 @@
 
 ### Código jQuery exemplo : 
 
-<p> pegando todos os elementos div </p> 
+<p> elemento div </p> 
 
 ```javascript 
 
