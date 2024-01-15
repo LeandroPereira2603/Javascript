@@ -16,11 +16,48 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 |1 | 0:0:1 |
 | 140153 | 38:55:53 |
 
+## For beecrowd
+
+```javascript
+
+
+
+totalSegundos = lines[0];
+
+function conversorSegundos(segundos,tipo){
+ const conversao = {
+   
+  hora : 3600,
+  minuto : 60,
+  segundo : 1
+ 
+}
+
+  const quantidade = (Math.floor(segundos / conversao[tipo]));
+  const restoSegundos = (segundos % conversao[tipo]);
+  return ({quantidade, restoSegundos});
+
+}
+
+function formatarHora (segundos){
+  const horas = conversorSegundos(segundos,'hora');
+  const minutos = conversorSegundos(horas.restoSegundos,'minuto');
+  
+  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);
+  
+}
+
+console.log(formatarHora(totalSegundos));
+
+}
+
+
+
 ## In VsCode 
 
 ```javascript 
 
-input = '513';
+input = '556';
 lines = input.split('\n');
 
 totalSegundos = lines[0];
@@ -36,7 +73,23 @@ function conversorSegundos(segundos,tipo){
 
   const quantidade = (Math.floor(segundos / conversao[tipo]));
   const restoSegundos = (segundos % conversao[tipo]);
-  return (quantidade, restoSegundos);
+  return ({quantidade, input = '556';
+lines = input.split('\n');
+
+totalSegundos = lines[0];
+
+function conversorSegundos(segundos,tipo){
+ const conversao = {
+   
+  hora : 3600,
+  minuto : 60,
+  segundo : 1
+ 
+}
+
+  const quantidade = (Math.floor(segundos / conversao[tipo]));
+  const restoSegundos = (segundos % conversao[tipo]);
+  return ({quantidade, restoSegundos});
 
 }
 
@@ -49,6 +102,12 @@ function formatarHora (segundos){
 }
 
 console.log(formatarHora(totalSegundos));
+  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);
+  
+}
+
+console.log(formatarHora(totalSegundos));
+
 
 
 ```
