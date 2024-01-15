@@ -9,7 +9,7 @@
 
 ### Importando o jQuery : 
 
-``javascript
+```javascript
 
 <script src="jquery-1.4.2.min.js" > </script>
 
