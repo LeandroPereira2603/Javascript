@@ -63,37 +63,30 @@ lines = input.split('\n');
 totalSegundos = lines[0];
 
 function conversorSegundos(segundos,tipo){
- const conversao = {
-   
-  hora : 3600,
-  minuto : 60,
-  segundo : 1
  
+var conversao  ;
+
+switch  (tipo) {
+  case 'hora':
+    var conversao = 3600;
+    break;
+  case 'mimuto':
+    var conversao = 60;
+  case 'segundo':
+    var conversao = 1;
+  
+  default:
+    
 }
 
-  const quantidade = (Math.floor(segundos / conversao[tipo]));
-  const restoSegundos = (segundos % conversao[tipo]);
-  return ({quantidade, input = '556';
-lines = input.split('\n');
-
-totalSegundos = lines[0];
-
-function conversorSegundos(segundos,tipo){
- const conversao = {
-   
-  hora : 3600,
-  minuto : 60,
-  segundo : 1
- 
-}
-
-  const quantidade = (Math.floor(segundos / conversao[tipo]));
-  const restoSegundos = (segundos % conversao[tipo]);
-  return ({quantidade, restoSegundos});
+  const quantidade = (Math.floor(segundos / tipo));
+  const restoSegundos = (segundos % tipo);
+  return (quantidade,restoSegundos);
 
 }
 
 function formatarHora (segundos){
+  
   const horas = conversorSegundos(segundos,'hora');
   const minutos = conversorSegundos(horas.restoSegundos,'minuto');
   
@@ -101,13 +94,7 @@ function formatarHora (segundos){
   
 }
 
-console.log(formatarHora(totalSegundos));
-  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);
-  
-}
 
 console.log(formatarHora(totalSegundos));
-
-
 
 ```
