@@ -1,6 +1,6 @@
 # jQuery 
 
-## Fundamentos do jQuery
+## Fundamentos do jQuery :
 
 <p> É muito fácil indentificar um jQuery no documento script .</p>
 
