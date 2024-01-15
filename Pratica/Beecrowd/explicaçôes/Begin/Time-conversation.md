@@ -57,7 +57,7 @@ console.log(formatarHora(totalSegundos));
 
 ```
 
-## In VsCode 
+## In VsCode ✓
 
 ```javascript 
 
@@ -68,24 +68,18 @@ totalSegundos = lines[0];
 
 function conversorSegundos(segundos,tipo){
  
-var conversao  ;
-
-switch  (tipo) {
-  case 'hora':
-    var conversao = 3600;
-    break;
-  case 'mimuto':
-    var conversao = 60;
-  case 'segundo':
-    var conversao = 1;
-  
-  default:
-    
+const conversao = {
+   
+  hora : 3600,
+  minuto : 60,
+  segundo : 1
+ 
 }
 
-  const quantidade = (Math.floor(segundos / tipo));
-  const restoSegundos = (segundos % tipo);
-  return (quantidade,restoSegundos);
+
+  const quantidade = (Math.floor(segundos / conversao[tipo]));
+  const restoSegundos = (segundos % conversao[tipo]);
+  return ({quantidade,restoSegundos});
 
 }
 
@@ -100,5 +94,4 @@ function formatarHora (segundos){
 
 
 console.log(formatarHora(totalSegundos));
-
 ```
