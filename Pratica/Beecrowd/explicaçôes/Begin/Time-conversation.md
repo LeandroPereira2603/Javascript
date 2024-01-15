@@ -20,8 +20,6 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 
 ```javascript
 
-
-
 totalSegundos = lines[0];
 
 function conversorSegundos(segundos,tipo){
@@ -50,6 +48,8 @@ function formatarHora (segundos){
 console.log(formatarHora(totalSegundos));
 
 }
+
+\\ beecrowd not accept create object in variable ..
 
 ```
 
