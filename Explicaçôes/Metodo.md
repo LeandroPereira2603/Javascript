@@ -42,6 +42,22 @@ Math.pow(x,2) ;
 // Irá retorna = 25 
 
 ```
+### 4 - Math.floor()
+
+<p> Transforma o númerp decimal em inteiro .</p>
+
+```javascript 
+
+var x = 10.47848;
+Math.floor(x)
+
+// Retorna : 10
+
+```
+
+
+
+
 ## Exemplo de utilização de métodos 
 
 <p> Quando combinamos funçôes com objetos , obtemos métodos : </p>
