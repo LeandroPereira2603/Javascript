@@ -88,10 +88,10 @@
 * 🟡 [ jQuery ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FjQuery.md)
 
 ### Manipulação de elementos DOM ( Document Object Model)
-* [ Canva](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Canvas.md)
-* [ querySelector e querySelectorAll]
+* 🟡 [ Canva](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Canvas.md)
+* 🟡 [ querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/querySelector-querySeletor-All.md)
 * [ addEventListener]
-* [ createElement](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Elemento-DOM-create.md)
+* 🟡 [ createElement](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Elemento-DOM-create.md)
 * [ create object]
 
 ## Funçôes globais e métodos :
