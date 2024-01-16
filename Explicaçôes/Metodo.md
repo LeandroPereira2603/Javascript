@@ -1,7 +1,7 @@
 
 # Metodos gerais 
 
-### 1 - toFixed()
+### 1 - toFixed( )
 
 <p> Serve para defenir a quantidade de casas decimais .</p>
 
@@ -15,7 +15,7 @@ x.toFixed(2);
 
 ```
 
-### 2 - Math.random()
+### 2 - Math.random( )
 
 <p> Serve para gerar número aleatório .</p>
 
@@ -54,8 +54,6 @@ Math.floor(x)
 // Retorna : 10
 
 ```
-
-
 
 
 ## Exemplo de utilização de métodos 
