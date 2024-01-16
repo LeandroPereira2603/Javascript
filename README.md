@@ -91,7 +91,7 @@
 
 * [ querySelector e querySelectorAll]
 * [ addEventListener]
-* [ createElement]
+* [ createElement](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Elemento-DOM-create.md)
 * [ create object]
 
 ## Funçôes globais e métodos :
