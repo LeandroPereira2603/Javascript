@@ -24,6 +24,10 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 
 ```javascript
 
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+
+var lines = input.split('\n');
+
 var totalSegundos  = lines[0];
 
 var qtdHora = totalSegundos / 3600 ;
