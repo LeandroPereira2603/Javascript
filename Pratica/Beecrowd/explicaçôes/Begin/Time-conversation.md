@@ -14,7 +14,7 @@ The input file contains an integer N.
 
 Print the read time in the input file (seconds) converted in hours:minutes:seconds like the following example.
 
-|Input Sample	|Output Sample|
+| Input Sample	| Output Sample |
 |:--:|:--:|
 |556 | 0:9:16 |
 |1 | 0:0:1 |
@@ -27,26 +27,23 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 totalSegundos = lines[0];
 
 function conversorSegundos(segundos,tipo){
- const conversao = {
-   
+ const conversao = { 
   hora : 3600,
   minuto : 60,
   segundo : 1
- 
 }
 
-  const quantidade = (Math.floor(segundos / conversao[tipo]));
-  const restoSegundos = (segundos % conversao[tipo]);
-  return ({quantidade, restoSegundos});
+const quantidade = (Math.floor(segundos / conversao[tipo]));
+const restoSegundos = (segundos % conversao[tipo]);
+return ({quantidade, restoSegundos});
 
 }
 
 function formatarHora (segundos){
+
   const horas = conversorSegundos(segundos,'hora');
-  const minutos = conversorSegundos(horas.restoSegundos,'minuto');
-  
-  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);
-  
+  const minutos = conversorSegundos(horas.restoSegundos,'minuto');  
+  return (" "+horas.quantidade+":"+minutos.quantidade+":"+minutos.restoSegundos);  
 }
 
 console.log(formatarHora(totalSegundos));
@@ -73,10 +70,8 @@ const conversao = {
   hora : 3600,
   minuto : 60,
   segundo : 1
- 
+
 }
-
-
   const quantidade = (Math.floor(segundos / conversao[tipo]));
   const restoSegundos = (segundos % conversao[tipo]);
   return ({quantidade,restoSegundos});
@@ -92,6 +87,6 @@ function formatarHora (segundos){
   
 }
 
-
 console.log(formatarHora(totalSegundos));
+
 ```
