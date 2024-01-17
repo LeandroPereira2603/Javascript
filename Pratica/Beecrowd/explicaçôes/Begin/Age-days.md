@@ -18,3 +18,11 @@ Print the output, like the following example.
 |400 | 1 ano(s) <br> 1 mes(es) <br> 5 dia(s) |
 | 800 | 2 ano(s) <br> 2 mes(es) <br> 10 dia(s) |
 | 30 |0 ano(s) <br> 1 mes(es) <br> 0 dia(s) |
+
+
+```javascript 
+
+
+
+
+```
