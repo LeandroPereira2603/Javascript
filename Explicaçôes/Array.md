@@ -138,8 +138,49 @@ for (var j = 0;3<j;j++){
 
 * Matriz ( Multidimensional )
 
+```javascript 
 
--->
+//Matriz multidimensional 
+
+var inseto = [];
+var animal = [];
+var peixe = [];
+
+inseto.push("Formiga", "marrom", 90);
+animal.push("Cavalo", "branco",80);
+peixe.push("Golfinho","branco",52);
+
+var floresta = [];
+
+floresta.push(inseto,animal,peixe);
+
+var floresta_dois = [];
+
+var inseto_dois = [];
+var animal_dois = [];
+var peixe_dois = [];
+
+inseto_dois.push("Largata", "marrom", 10);
+animal_dois.push("Girafa", "branco",190);
+peixe_dois.push("Peixe","branco",52);
+
+var floresta_dois = [];
+
+floresta_dois.push(inseto_dois,animal_dois,peixe_dois);
+
+var florestas = [];
+
+florestas.push(floresta,floresta_dois);
+
+console.log(florestas);
+
+ // vetor : 1 floresta , 2 categoria , 3 caracteristica.
+ 
+console.log(florestas[1][2][2]);
+
+
+
+```
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
