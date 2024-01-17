@@ -19,17 +19,34 @@ Print the output, like the following example.
 | 800 | 2 ano(s) <br> 2 mes(es) <br> 10 dia(s) |
 | 30 |0 ano(s) <br> 1 mes(es) <br> 0 dia(s) |
 
+## For beecrowd
 
 ```javascript 
 
+
+
+```
+
+## In VsCode
+
+```javascript 
+
+input = '0';
+lines = input.split('\n');
+
+var totdays = lines[0];
+
 var totyear = totdays / 360 ;
-totdays = totaldays % 360;
+totdays = totdays % 360;
 
 var totmonth = totdays / 30;
 var totdays = totdays % 30;
 
 var totdays = totdays;
 
-console.log(Math.floor(totyear)+":"+Math.floor(totmonth)+:"Math.floor(totdays));
+console.log(Math.floor(totyear)+" ano(s)\n"+Math.floor(totmonth)+" mes(es)\n"+Math.floor(totdays)+" dia(s)");
+
+
+console.log(Math.floor(totyear)+":"+Math.floor(totmonth)+":"+Math.floor(totdays));
 
 ```
