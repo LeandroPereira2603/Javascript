@@ -24,9 +24,6 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 
 ```javascript
 
-input = '905';
-lines = input.split('\n');
-
 var totalSegundos  = lines[0];
 
 var qtdHora = totalSegundos / 3600 ;
@@ -37,7 +34,7 @@ var totalSegundos = totalSegundos % 60;
 
 var qtdSegundos = totalSegundos;
 
-console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
+console.log(Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+Math.floor(totalSegundos));
 
 ```
 
