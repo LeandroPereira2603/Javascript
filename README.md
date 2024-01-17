@@ -171,6 +171,19 @@
 1. 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Ad-hoc/to-carry-or-not-to-carry.md)
 
 
+### 3 - Strings 
+
+Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
+
+1. 🕗 []()
+
+### 4 - Data structures and libraes 
+
+Queue,stack,sort,map,set...
+
+1. 🕗 []()
+
+
 **Algoritmo** predileto :
 
 ```javascript
