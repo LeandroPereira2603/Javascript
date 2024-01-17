@@ -24,41 +24,20 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 
 ```javascript
 
-totalSegundos = lines[0];
+input = '905';
+lines = input.split('\n');
 
-function conversorSegundos(segundos,tipo){
- /*const conversao = {*/
-   
-   
-  switch (tipo) {
-    case 'hora':
-      time = 3600;
-      break;
-    case 'minuto':
-      time = 60;
-      break;
-    case 'segundo':
-      time = 1;
-      break;
-    default:
-      // code
-  }
+var totalSegundos  = lines[0];
 
-  const quantidade = (Math.floor(segundos / time));
-  const restoSegundos = (segundos % time);
-  return {quantidade, restoSegundos};
+var qtdHora = totalSegundos / 3600 ;
+totalSegundos = totalSegundos % 3600;
 
-}
+var qtdMinutos = totalSegundos / 60;
+var totalSegundos = totalSegundos % 60;
 
-function formatarHora (segundos){
-  const horas = conversorSegundos(segundos,'hora');
-  const minutos = conversorSegundos(horas.restoSegundos,'minuto');
-  
-  return ("+horas.quantidade+':'+minutos.quantidade+':'+minutos.restoSegundos);
-}
-console.log(formatarHora(totalSegundos));
+var qtdSegundos = totalSegundos;
 
-// beecrowd not accept create object in variable ..
+console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
 
 ```
 
@@ -81,13 +60,44 @@ const conversao = {
 
 }
   const quantidade = (Math.floor(segundos / conversao[tipo]));
-  const restoSegundos = (segundos % conversao[tipo]);
-  return {quantidade,restoSegundos};
+  input = '905';
+lines = input.split('\n');
 
-}
 
-function formatarHora (segundos){
-  
+var totalSegundos  = lines[0];
+
+var qtdHora = totalSegundos / 3600 ;
+totalSegundos = totalSegundos % 3600;
+
+var qtdMinutos = totalSegundos / 60;
+var totalSegundos = totalSegundos % 60;
+
+var qtdSegundos = totalSegundos;
+
+console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
+totalSegundos = totalSegundos % 3600;
+
+var qtdMinutos = totalSegundos / 60;
+var totalSegundos = totalSegundos % 60;
+
+var qtdSegundos = totalSegundos;
+
+console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
+totalSegundos = totalSegundos % 3600;
+
+var qtdMinutos = totalSegundos / 60;
+var totalSegundos = totalSegundos % 60;
+
+var qtdSegundos = totalSegundos;
+
+console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
+
+var qtdMinutos = totalSegundos / 60;
+var totalSegundos = totalSegundos % 60;
+
+var qtdSegundos = totalSegundos;
+
+console.log(" "+Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+totalSegundos);
   const horas = conversorSegundos(segundos,'hora');
   const minutos = conversorSegundos(horas.restoSegundos,'minuto');
   
