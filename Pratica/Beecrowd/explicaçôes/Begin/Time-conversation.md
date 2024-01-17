@@ -20,7 +20,7 @@ Print the read time in the input file (seconds) converted in hours:minutes:secon
 |1 | 0:0:1 |
 | 140153 | 38:55:53 |
 
-## For beecrowd ❌
+## For beecrowd 
 
 ```javascript
 
@@ -42,7 +42,7 @@ console.log(Math.floor(qtdHora)+":"+Math.floor(qtdMinutos)+":"+Math.floor(totalS
 
 ```
 
-## In VsCode ✓
+## In VsCode 
 
 ```javascript 
 
