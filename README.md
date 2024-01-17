@@ -161,6 +161,7 @@
 1. ✔  [ Bank Notes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FBank-notes.md)
 1. ✔  [ Time conversation ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FTime-conversation.md)
 1. 🕗 [ Age-days](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FAge-days.md)
+1. 🕗 [ Bank-note-coin](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FBank-notes-coin.md)
 
 ### 2 - AD-HOC 
 
