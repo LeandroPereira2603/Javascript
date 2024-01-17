@@ -32,13 +32,13 @@ function conversorSegundos(segundos,tipo){
    
   switch (tipo) {
     case 'hora':
-      var time = 3600;
+      time = 3600;
       break;
     case 'minuto':
-      var time = 60;
+      time = 60;
       break;
     case 'segundo':
-      var time = 1;
+      time = 1;
       break;
     default:
       // code
@@ -54,7 +54,7 @@ function formatarHora (segundos){
   const horas = conversorSegundos(segundos,'hora');
   const minutos = conversorSegundos(horas.restoSegundos,'minuto');
   
-  return ''+horas.quantidade+':'+minutos.quantidade+':'+minutos.restoSegundos
+  return ("+horas.quantidade+':'+minutos.quantidade+':'+minutos.restoSegundos);
 }
 console.log(formatarHora(totalSegundos));
 
@@ -82,7 +82,7 @@ const conversao = {
 }
   const quantidade = (Math.floor(segundos / conversao[tipo]));
   const restoSegundos = (segundos % conversao[tipo]);
-  return ({quantidade,restoSegundos});
+  return {quantidade,restoSegundos};
 
 }
 
