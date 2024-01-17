@@ -175,7 +175,7 @@
 
 Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
 
-1. 🕗 []()
+1. 🕗 [ Encryption](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2F3-Strings%2FEncryption.md)
 
 ### 4 - Data structures and libraes 
 
