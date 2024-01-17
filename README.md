@@ -181,7 +181,7 @@ Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
 
 Queue,stack,sort,map,set...
 
-1. 🕗 []()
+1. 🕗 [ Tda-rarional ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2F4-Data-Steuctures%2FTda-rational.md)
 
 
 **Algoritmo** predileto :
