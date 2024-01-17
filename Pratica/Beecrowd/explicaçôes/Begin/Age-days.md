@@ -22,7 +22,14 @@ Print the output, like the following example.
 
 ```javascript 
 
+var totyear = totdays / 360 ;
+totdays = totaldays % 360;
 
+var totmonth = totdays / 30;
+var totdays = totdays % 30;
 
+var totdays = totdays;
+
+console.log(Math.floor(totyear)+":"+Math.floor(totmonth)+:"Math.floor(totdays));
 
 ```
