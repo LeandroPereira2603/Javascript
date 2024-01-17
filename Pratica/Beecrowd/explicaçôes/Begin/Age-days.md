@@ -1,5 +1,9 @@
 # Age days 
 
+**Solved:** not
+
+**Level:** :star: :star:
+
 
 Read an integer value corresponding to a person's age (in days) and print it in years, months and days, followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
 
@@ -34,11 +38,13 @@ Print the output, like the following example.
 input = '0';
 lines = input.split('\n');
 var totdays = lines[0];
-var totyear = totdays / 360 ;
-totdays = totdays % 360;
+var totyear = totdays / 365;
+totdays = totdays % 365;
+
 var totmonth = totdays / 30;
 var totdays = totdays % 30;
 var totdays = totdays;
+
 console.log(Math.floor(totyear)+" ano(s)\n"+Math.floor(totmonth)+" mes(es)\n"+Math.floor(totdays)+" dia(s)");
 console.log(Math.floor(totyear)+":"+Math.floor(totmonth)+":"+Math.floor(totdays));
 
