@@ -140,48 +140,48 @@
  
 **Basic problems** for anyones who has just started to program .. 
 
-1. ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/hello-world.md)
-1. ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/extremely-basic.md)
-1. ✔ [ Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/area-of-a-circle.md)
-1. ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-sum.md)
-1. ✔ [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple%20Product.md)
-1. ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-one.md)
-1. ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Average-two.md)
-1. ✔ [ Difference ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Difference.md)
-1. ✔ [ Salary ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary.md)
-1. ✔ [ Salary-bonus ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Salary-with-bonus.md)
-1. ✔ [ Calculate-simples ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Begin/Simple-calculate.md)
-1. ✔ [ Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSphere.md)
-1. ✔ [ Area](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FArea.md)
-1. ✔ [ The greatest ]( https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FThe-greatest.md )
-1. ✔ [ Consumption ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FConsumption.md)
-1. ✔ [ Distance-beteween-two-points](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FDistande-beetween-two-points.md)
-1. ✔ [ Distance](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FDistance.md)
-1. ✔ [ Fuel-spent ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FFuel-spent.md)
-1. ✔  [ Bank Notes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FBank-notes.md)
-1. ✔  [ Time conversation ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FTime-conversation.md)
-1. 🕗 [ Age-days](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FAge-days.md)
-1. 🕗 [ Bank-note-coin](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FBank-notes-coin.md)
-1. 🕗 [ Select test](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2FBegin%2FSelect-test.md)
+1. ✔ [ Hello-world.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/hello-world.md)
+1. ✔ [ Extremely-basic.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/extremely-basic.md)
+1. ✔ [ Area-of-a-circle.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/area-of-a-circle.md)
+1. ✔ [ Simple-sum.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Simple-sum.md)
+1. ✔ [ Simple-product.md](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Simple%20Product.md)
+1. ✔ [ Average ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Average-one.md)
+1. ✔ [ Average Two ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Average-two.md)
+1. ✔ [ Difference ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Difference.md)
+1. ✔ [ Salary ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Salary.md)
+1. ✔ [ Salary-bonus ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Salary-with-bonus.md)
+1. ✔ [ Calculate-simples ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/1-Begin/Simple-calculate.md)
+1. ✔ [ Sphere](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FSphere.md)
+1. ✔ [ Area](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FArea.md)
+1. ✔ [ The greatest ]( https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FThe-greatest.md )
+1. ✔ [ Consumption ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FConsumption.md)
+1. ✔ [ Distance-beteween-two-points](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FDistande-beetween-two-points.md)
+1. ✔ [ Distance](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FDistance.md)
+1. ✔ [ Fuel-spent ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FFuel-spent.md)
+1. ✔  [ Bank Notes ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FBank-notes.md)
+1. ✔  [ Time conversation ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FTime-conversation.md)
+1. 🕗 [ Age-days](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FAge-days.md)
+1. 🕗 [ Bank-note-coin]()
+1. 🕗 [ Select test](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2Fexplica%C3%A7%C3%B4es%2F1-Begin%2FSelect-test.md)
 
 ### 2 - AD-HOC)
 
 **Simulation** , problems , dates, games and general , ad-hoc  .
 
-1. 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/Ad-hoc/to-carry-or-not-to-carry.md)
+1. 🕗 [to-carry-or-not-to-carry](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Beecrowd/explica%C3%A7%C3%B4es/2-Ad-hoc/to-carry-or-not-to-carry.md)
 
 
 ### 3 - Strings 
 
 Palindromes, Frequency, Ad-Hoc, LCS, String Manipulation...
 
-1. 🕗 [ Encryption](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2F3-Strings%2FEncryption.md)
+1. 🕗 [ Encryption]()
 
 ### 4 - Data structures and libraes 
 
 Queue,stack,sort,map,set...
 
-1. 🕗 [ Tda-rarional ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FBeecrowd%2F4-Data-Steuctures%2FTda-rational.md)
+1. 🕗 [ Tda-rarional ]()
 
 
 **Algoritmo** predileto :
