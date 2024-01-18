@@ -111,8 +111,8 @@
 ## :computer: Sites : Git hub - pages 
 
 ### Exemplos gerais de ações :
-1.  [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
-1.  [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
+1. [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+1. [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
 
 ### Cálculos :
