@@ -179,7 +179,6 @@ console.log(florestas);
 console.log(florestas[1][2][2]);
 
 
-
 ```
 
 > [!NOTE]
