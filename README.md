@@ -101,7 +101,7 @@
 ## :book: Matérias 
 
 * 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
-* 🟡 [POO ( Programação orientado a objeto) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
+* 🟡 [ POO ( Programação orientado a objeto) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
 
 
 # 💻 Prática 
@@ -117,7 +117,7 @@
 
 ### Cálculos :
 
-1. 🟡 [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
+1.  [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
 
 ## :computer: Algoritmos : Gerais  
