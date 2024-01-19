@@ -132,6 +132,9 @@
 ###  Lógica :
 * [ ]
 
+### Estrutura de dados :
+* [Bubble sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md);
+
 ## :computer: Beecrowd : Exercicios gerais  
 
 <p> <strong>Beecrowd</strong> é uma plataforma exclusivo para programadores , iniciante ao avaçado , para resolver problemas em categorias em gerais . </p>
