@@ -42,7 +42,7 @@ ECMAScript tem dois tipos numéricos integrados: Number e BigInt — junto com o
 
 O tipo Number é um valor IEEE 754 de formato binário de 64 bits de precisão dupla. É capaz de armazenar números de ponto flutuante positivos entre 2^-1074 (Number.MIN_VALUE) e 2^1024 (Number.MAX_VALUE), bem como números de ponto flutuante negativos entre -(2^-1074) e -(2^1024), mas só pode armazenar com segurança inteiros no intervalo -(2^53 − 1) (Number.MIN_SAFE_INTEGER) para 2^53 − 1 (Number.MAX_SAFE_INTEGER). -->
 
-<p>Árvore : estrutura de dados.</p>
+# Tipos : estrutura de dados
 
 ### Pilha 
 
