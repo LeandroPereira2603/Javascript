@@ -1,6 +1,6 @@
 # Estrututura de dados 
 
-#Tipos : estrutura de dados
+# Tipos : estrutura de dados
 
 ### Pilha 
 
@@ -8,7 +8,7 @@
 
 ### Diferenças 
 
-#Tipos : organização de dados 
+# Tipos : organização de dados 
 
 * Bubble Sort
 * Select Sort 
