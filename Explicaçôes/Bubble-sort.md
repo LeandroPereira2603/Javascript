@@ -5,6 +5,8 @@
 
  <p> Para a implementação serão usados dois laços Bubble . </p>
 
+### Exemplo 1 :
+
 ```javascript
 
  var vet = [23,34,234,324,353,34];
@@ -25,6 +27,7 @@
  console.log(bubbleSort_1(vet));
 
 ```
+### Exemplo 2 :
 
 ```javascript
 
@@ -47,7 +50,7 @@
  console.log(bubbleSort_2(vet));
 
 ```
-
+### Exemplo 3 :
 
 ```javascript 
 

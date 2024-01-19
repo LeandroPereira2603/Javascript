@@ -111,7 +111,7 @@
 ## :computer: Sites : Git hub - pages 
 
 ### Exemplos gerais de ações :
-1. [  Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
+1. [ Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
 1. [ Site : Aparecida Nutricionista ( Alura ) - comando createElement() para cadastro ](https://leandropereira2603.github.io/site-aparecida-nutricionista/) ☕ [Repostório : Aparecida Nutricionista ](https://github.com/LeandroPereira2603/site-aparecida-nutricionista)
 
 
@@ -131,6 +131,10 @@
 
 ###  Lógica :
 * [ ]
+
+### Estrutura de dados :
+
+* 🟡 [Bubble sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md) ☕ [ Bubble sort](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Bubble-sort/function.js)
 
 ## :computer: Beecrowd : Exercicios gerais  
 
