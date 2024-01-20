@@ -62,11 +62,6 @@ Para a implementação serão usados dois laços Bubble . </p>
  console.log(bubbleSort_3(vet));
 
 
-
-
-
-
-
  const arr = [8, 20,-2,4,-6];
 
  function bubbleSort(arr){
