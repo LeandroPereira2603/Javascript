@@ -71,11 +71,11 @@
         }
 
         last--;
-    }while (swap)
+
+    } while (swap)
     return items;
  }
 
  console.log(bubbleSort_3(vet));
-
 
  ```
