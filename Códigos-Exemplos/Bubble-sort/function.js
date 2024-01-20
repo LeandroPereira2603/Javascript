@@ -62,12 +62,21 @@ Para a implementação serão usados dois laços Bubble . </p>
  console.log(bubbleSort_3(vet));
 
 
+
+
+
+
+
+ const arr = [8, 20,-2,4,-6];
+
  function bubbleSort(arr){
+
     let swapped ;
+
     do {
         swapped = false;
     for(let i = 0;i <arr.lenght - 1; i++){
-        if(arr[i] > arr[i+1]){
+        if(arr[i] > arr[i+1]) {
             let temp = arr[i]
             arr[i] = arr[i+1]
             arr[1+1] = temp ;
@@ -79,9 +88,5 @@ Para a implementação serão usados dois laços Bubble . </p>
 
 }
 
- const arr = [8, 20,-2,4,-6];
- console.log(bubbleSort(arr));
- console.log(arr); // [-6,-2,4,6,20]
-
-
+console.log(bubbleSort(arr));
 
