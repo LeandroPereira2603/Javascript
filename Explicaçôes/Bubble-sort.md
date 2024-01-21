@@ -59,5 +59,5 @@ console.log("\nNúmeros totais de indices : "+vet.length);
 ```
 
 > [!note]
-> **Refêrencia** <br>
+> **Refêrencia :** <br>
 > (LLP) Leandro Luiz Pereira
