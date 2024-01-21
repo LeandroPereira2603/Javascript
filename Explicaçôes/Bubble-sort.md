@@ -12,7 +12,7 @@ Vai organizar um conjunto de índices de array , podendo colocar de forma cresce
 
 ### Métodos utilizados :
 
-* length = Retorna a quantidade total do array.
+* **length** = Retorna a quantidade total do array.
 
 ```javascript
 
