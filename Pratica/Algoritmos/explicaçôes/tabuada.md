@@ -283,7 +283,7 @@ switch(escolha) {
 ```
 
 > [!NOTE] 
-> **Autor**  <br>
+> **Ref~erencia:**  <br>
 > (LLP) Leandro Luiz Pereira 
 >
 
