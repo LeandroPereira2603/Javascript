@@ -1,6 +1,6 @@
 # Bubble Sort
 
-Vai organizar um conjunto de índices de array , podendo colocar de forma crescente ou decrescente 
+Vai organizar um conjunto de números dos índices do array , podendo colocar de forma crescente ou decrescente .
 
 ## Sobre o código :
 
