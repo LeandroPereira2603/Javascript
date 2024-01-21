@@ -1,6 +1,18 @@
 # Bubble Sort
 
+Vai organizar um conjunto de índices de array , podendo colocar de forma crescente ou decrescente 
 
+## Sobre o código
+
+### Estruturas utilizadas : 
+
+* for i = vai repetir 6 vezes que e a quantidade total do array 
+* if = vai comparar dois em dois e trocar os indices .
+* for j = vai repetir o processo do (for i) 6 vezes que e a quantidade total do array .
+
+### Métodos utilizados :
+
+* length = retorna a quantidade total do array.
 
 ```javascript
 
