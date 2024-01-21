@@ -183,6 +183,6 @@ console.log(florestas[1][2][2]);
 
 > [!NOTE]
 > <strong> Referêrencias : </strong> <br>
-> * Livro : O guia definito de javascript 
-> * Youtube : canal CFBcursos
-> * (LLP) Leandro Luiz Pereira 
+> * **Livro :** O guia definito de javascript 
+> * **Youtube :** canal CFBcursos
+> * **(LLP)** Leandro Luiz Pereira 
