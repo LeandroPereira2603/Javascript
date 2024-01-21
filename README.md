@@ -108,7 +108,7 @@
 
 <p> Todos os contéudos de práticas ,feito em linguagem javascript .</p>
 
-## :computer: Sites : Git hub - pages 
+## :computer: Sites : Git Hub - pages 
 
 ### Exemplos gerais de ações :
 1. [ Site : Hello world - comando de mensagem  alert()  ](https://leandropereira2603.github.io/Hello-World-Javascript/)  ☕ [Repositório : Hello world ](https://github.com/LeandroPereira2603/Hello-World-Javascript)
