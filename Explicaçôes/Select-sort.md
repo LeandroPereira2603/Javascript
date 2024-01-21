@@ -9,9 +9,9 @@ Vai selecionar um indice e comparar com os demais indices e trocar .
 
 ### Estruturas utilizadas : 
 
-* for ( i ) = Vai fazer 5 interaçôes do for j .
-* for ( j ) = vai comparar  os indices , com if (simples) e guardar o número na variável  .
-* if ( simples ) = Vai verificar se  o indice menor e diferente do i da contagem do for .
+* **for ( i )** = Vai fazer 5 interaçôes do for j .
+* **for ( j )** = vai comparar  os indices , com if (simples) e guardar o número na variável  .
+* **if ( simples )** = Vai verificar se  o indice menor e diferente do i da contagem do for .
   
 ```javascript 
 
