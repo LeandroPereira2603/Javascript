@@ -57,6 +57,15 @@ console.log(vet);
 console.log("\nNúmeros totais de indices : "+vet.length);
 
 ```
+### Saída 
+
+Números colocado nos índices : 
+
+| índice | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Números | 378 | 67 | 2377 | 10 | 8 | 7 |
+
+
 
 > [!note]
 > **Refêrencia :** <br>
