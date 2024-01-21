@@ -57,22 +57,22 @@ console.log(vet);
 console.log("\nNúmeros totais de indices : "+vet.length);
 
 ```
-### Saída 
+## Saída 
 
-Números colocado nos índices : 
+### Números colocado nos índices : 
 
 | índice | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Número | 378 | 67 | 2377 | 10 | 8 | 7 |
 
-Números crescente (Bubble Sort) : 
+### Números crescente (Bubble Sort) : 
 
 | índice | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Número | 7 | 8 | 10 | 67 | 387 | 2377 |
 
 
-Números decrescente (Bubble Sort) : 
+### Números decrescente (Bubble Sort) : 
 
 | índice | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
