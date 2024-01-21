@@ -62,6 +62,6 @@ Números de ordem crescente ( Select Sort )  :
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Número |34|34|45|54|98|2433 |
 
-> [! Note ]
+> [!Note]
 > **Refêrencia** : <br>
-> canal youtube : Eduardo Mendes 
+> Canal youtube : Eduardo Mendes 
