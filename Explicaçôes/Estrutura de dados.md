@@ -11,6 +11,7 @@
 # Tipos : organização de dados 
 
 * Bubble Sort - Para organização dos índices crescente e decrescente .
-* Select Sort 
+* Select Sort
+* Order select 
 
 
