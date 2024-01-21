@@ -1,6 +1,7 @@
 
 
 var arr =  [];
+
 arr.push(2433,34,45,34,54,98);
 
 console.log(arr);
@@ -19,7 +20,9 @@ for (let i = 0; i < vetor.length - 1; i++){
 
 
 if ( i != menor){
+
     [vetor[i], vetor[menor]] = [vetor[menor], vetor[i]];
+    
 }
 
 }
