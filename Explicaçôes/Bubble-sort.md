@@ -79,7 +79,11 @@ Números de forma decrescente (Bubble Sort) :
 | Número | 2377 | 387 | 67 | 10 | 8 | 7 |
 
 
+**Obs** : A melhor forma de aprender , e cópia um código e distrinchar linha por linha , e entender e criar do zero  , foi um método que deu certo para aprender Bubble Sort .
+
 
 > [!note]
 > **Refêrencia :** <br>
 > (LLP) Leandro Luiz Pereira
+
+
