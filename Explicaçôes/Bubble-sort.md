@@ -6,9 +6,9 @@ Vai organizar um conjunto de índices de array , podendo colocar de forma cresce
 
 ### Estruturas utilizadas : 
 
-* for i = Vai repetir 6 vezes.
-* if = vai comparar dois em dois e trocar os indices .
-* for j = Vai repetir o processo do (for i) 6 vezes .
+* **for i** = Vai repetir 6 vezes.
+* **if** = vai comparar dois em dois e trocar os indices .
+* **for j** = Vai repetir o processo do (for i) 6 vezes .
 
 ### Métodos utilizados :
 
