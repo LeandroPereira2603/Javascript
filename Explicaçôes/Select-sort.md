@@ -5,9 +5,9 @@
 
 Vai selecionar um indice e comparar com os demais indices e trocar .
 
-### Sobre o código :
+## Sobre o código :
 
-Estruturas utilizadas : 
+### Estruturas utilizadas : 
 
 * for ( i ) = Vai fazer 5 interaçôes do for j .
 * for ( j ) = vai comparar  os indices com if (simples) e guardar o número na variável .
@@ -56,7 +56,7 @@ Números do array :
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Número |2433|34|45|34|54|98 |
 
-Números de ordem crescent ( Select Sort )  : 
+Números de ordem crescente ( Select Sort )  : 
 
 | índice | 0 | 1 | 2 | 3 | 4 | 5 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
