@@ -2,11 +2,11 @@
 
 # Tipos : estrutura de dados
 
-### Pilha 
+* Pilha 
 
-### Listas
+* Listas
 
-### Diferenças 
+* Diferenças 
 
 # Tipos : organização de dados 
 
