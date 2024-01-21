@@ -119,7 +119,7 @@
 
 1.  [ Site : que cálcula o IMC ](https://leandropereira2603.github.io/site-imc/) ☕ [ Site : que cálcula o IMC ](https://github.com/LeandroPereira2603/site-imc)
 
-### Livro : O guia definitivo ( Javascript ) 
+### Livro : O guia definitivo ( Javascript ) :
 
 1. 🟡 [ Site : calculadora de emprestimo ]() ☕ [Site : calculadora de emprestimo]()
 
