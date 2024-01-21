@@ -30,6 +30,7 @@ if ( i != menor){
 }
 
 }
+return vetor ;
 
 }
 

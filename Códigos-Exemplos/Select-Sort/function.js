@@ -22,10 +22,12 @@ for (let i = 0; i < vetor.length - 1; i++){
 if ( i != menor){
 
     [vetor[i], vetor[menor]] = [vetor[menor], vetor[i]];
-    
+
 }
 
 }
+
+return vetor ; 
 
 }
 
