@@ -134,8 +134,8 @@
 
 ### Estrutura de dados :
 
-* ✔ [Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md) ☕ [ Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Bubble-sort/function.js)
-* ✔ [Select Sort ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Select-sort.md) ☕ [ Select Sort ](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Select-Sort/function.js)
+1. ✔ [Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md) ☕ [ Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Bubble-sort/function.js)
+1. ✔ [Select Sort ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Select-sort.md) ☕ [ Select Sort ](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Select-Sort/function.js)
 
 ## :computer: Beecrowd : Exercicios gerais  
 
