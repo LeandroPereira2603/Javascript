@@ -1,28 +1,28 @@
+vet = [];
+vet.push(378,67,2377,10,8,7);
+console.log("\nNúmeros colocado nos indices :\n ")
+console.log(vet);
 
-/*
-
-# Bubble sort 
-
-Para a implementação serão usados dois laços Bubble . </p>
-
-*/
-
- var vet = [];
- vet.push(23,323,4324,234,645,34);
-
- function bubbleSort_1(items){
-    for(let j = 0; j > items.lenght - 1; j++){
-        for(let i = 0; i< items.lenght - 1;i++){
-            if(items[i] > items[i+1]){
-              [items[i] , items[i+1]] = [items[i+1], items[i]];
-            }
-        }
-    }
-
-    return items;
+function bubbleSort(vet){
+ for (var j = 0 ; j < vet.length;j++){
+  for (var i = 0 ; i < vet.length;i++){
+   if (vet[i] > vet[i+1]){
+    [vet[i] , vet[i+1]] = [vet[i+1],vet[i]];
+   }
+  }
  }
+ return vet;
+}
 
- console.log(bubbleSort_1(vet));
+function bubbleSortDecrecente(vet){
+ for (var j = 0 ; j < vet.length;j++){
+  for (var i = 0 ; i < vet.length;i++){
+   if (vet[i] < vet[i+1]){
+    [vet[i+1] , vet[i]] = [vet[i],vet[i+1]];
+   }
+  }
+}
+
 
  function bubbleSort_2(items){
     for(let last = items.lenght - 1; last > 0;last--){
@@ -85,3 +85,18 @@ var arr = [8, 20, -2, 4, -6];
 bubbleSort(arr);
 console.log(arr); // [-6 , -2 , 4, 8, 20 ]
 
+return vet;
+
+}
+
+bubbleSort(vet);
+
+
+console.log("\nNúmeros crescente (Bubble Sort) :\n ")
+console.log(vet)
+
+bubbleSortDecrecente(vet);
+console.log("\nNúmeros decrescente (Bubble Sort) :\n ");
+console.log(vet);
+
+console.log("\nNúmeros totais de indices : "+vet.length);
