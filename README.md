@@ -135,6 +135,7 @@
 ### Estrutura de dados :
 
 * ✔ [Bubble sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md) ☕ [ Bubble sort](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Bubble-sort/function.js)
+* ✔ [Select Sort ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Select-sort.md) ☕ [ Select Sort ] ()
 
 ## :computer: Beecrowd : Exercicios gerais  
 
