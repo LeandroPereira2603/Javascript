@@ -1,6 +1,7 @@
 # Bubble Sort
 
 
+
 ```javascript
 
 vet = [];
@@ -41,5 +42,5 @@ console.log("\nNúmeros totais de indices : "+vet.length);
 ```
 
 > [!note]
-> **Refêrencia**
+> **Refêrencia** <br>
 > (LLP) Leandro Luiz Pereira
