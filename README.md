@@ -121,7 +121,7 @@
 
 ### Livro : O guia definitivo ( Javascript ) :
 
-1. 🟡 [ Site : calculadora de emprestimo ]() ☕ [Site : calculadora de emprestimo]()
+1. 🟡 [ Site : calculadora de emprestimo ]() ☕ [Site : calculadora de emprestimo](https://github.com/LeandroPereira2603/site-calculadora-emprestimo)
 
 
 ## :computer: Algoritmos : Gerais  
