@@ -10,7 +10,7 @@
 
 # Tipos : organização de dados 
 
-* Bubble Sort
+* Bubble Sort - Para organização dos índices crescente e decrescente .
 * Select Sort 
 
 
