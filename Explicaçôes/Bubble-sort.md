@@ -2,17 +2,17 @@
 
 Vai organizar um conjunto de índices de array , podendo colocar de forma crescente ou decrescente 
 
-## Sobre o código
+## Sobre o código :
 
 ### Estruturas utilizadas : 
 
-* for i = vai repetir 6 vezes que e a quantidade total do array 
+* for i = Vai repetir 6 vezes.
 * if = vai comparar dois em dois e trocar os indices .
-* for j = vai repetir o processo do (for i) 6 vezes que e a quantidade total do array .
+* for j = Vai repetir o processo do (for i) 6 vezes .
 
 ### Métodos utilizados :
 
-* length = retorna a quantidade total do array.
+* length = Retorna a quantidade total do array.
 
 ```javascript
 
@@ -22,33 +22,38 @@ console.log("\nNúmeros colocado nos indices :\n ")
 console.log(vet);
 
 function bubbleSort(vet){
-for (var j = 0 ; j < vet.length;j++){
-   for (var i = 0 ; i < vet.length;i++){
+ for (var j = 0 ; j < vet.length;j++){
+  for (var i = 0 ; i < vet.length;i++){
    if (vet[i] > vet[i+1]){
     [vet[i] , vet[i+1]] = [vet[i+1],vet[i]];
-     }
    }
-}
-return vet;
+  }
+ }
+ return vet;
 }
 
 function bubbleSortDecrecente(vet){
-for (var j = 0 ; j < vet.length;j++){
-   for (var i = 0 ; i < vet.length;i++){
+ for (var j = 0 ; j < vet.length;j++){
+  for (var i = 0 ; i < vet.length;i++){
    if (vet[i] < vet[i+1]){
     [vet[i+1] , vet[i]] = [vet[i],vet[i+1]];
-     }
    }
+  }
 }
+
 return vet;
+
 }
 
 bubbleSort(vet);
+
 console.log("\nNúmeros crescente (Bubble Sort) :\n ")
 console.log(vet)
+
 bubbleSortDecrecente(vet);
 console.log("\nNúmeros decrescente (Bubble Sort) :\n ");
 console.log(vet);
+
 console.log("\nNúmeros totais de indices : "+vet.length);
 
 ```
