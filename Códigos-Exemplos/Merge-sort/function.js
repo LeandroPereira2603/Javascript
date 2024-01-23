@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 function mergeeSort(vetor,inicio, fim){
     if (inicio < fim) {
         let meio = Math.floor((inicio + fim ) / 2);
