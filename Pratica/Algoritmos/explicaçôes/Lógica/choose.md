@@ -7,7 +7,7 @@
 // Complete full name 
 
 var firstName = prompt("what's your first name ?");
-var middleName = prompt('What's your middle name ?');
+var middleName = prompt("What's your middle name ?");
 var lastName = prompt("What's your last name ?");
 var fullName = [];
 
