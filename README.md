@@ -134,7 +134,7 @@
 1. ✔ [ Circuferência do circulo.md ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/explica%C3%A7%C3%B4es/Circufer%C3%AAncia-do-circulo.md) ☕  [ Circuferência do circulo.js ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica/Algoritmos/Circuferencia%20do%20circulo/function.js)
 
 ###  Lógica :
-1. [ Choose ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FAlgoritmos%2Fexplica%C3%A7%C3%B4es%2FL%C3%B3gica%2Fchoose.md)
+1. ✔ [ Choose ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FAlgoritmos%2Fexplica%C3%A7%C3%B4es%2FL%C3%B3gica%2Fchoose.md)
 
 ### Estrutura de dados :
 
