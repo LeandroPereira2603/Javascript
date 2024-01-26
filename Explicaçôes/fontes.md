@@ -3,7 +3,7 @@
 
 ## 📚 Livros
 * JavaScript : O guia definitivo , de David Flanagan <br>
-  de David Flanagan , parei na pág 32 .
+  de David Flanagan , parei na pág 34 .
 
 ## 🔍pesquisas
 * [wikipédia](https://pt.wikipedia.org/)
