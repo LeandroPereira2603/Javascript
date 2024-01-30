@@ -45,13 +45,15 @@ console.log(" O comprimento total do círculo é "+comp.toFixed(4)+" cm ");
 
 **1 - Metódos utilizados :** 
 
- **Meth.pow()** : para calcular o número elevado ao quadrado . <br>
-**toFixed()** : para limitar a quantidade de casas decimais .
+ * **Meth.pow()** : para calcular o número elevado ao quadrado . 
+
+* **toFixed()** : para limitar a quantidade de casas decimais .
 
 **2 - Estruturas utilizados :**
 
-**for** : para repetir o processo de cálcular novamente .
-**if encadeado** : desvio condicional para continuar ou sair do programa , e para caso restritiva .
+* **for** : para repetir o processo de cálcular novamente .
+
+* **if encadeado** : desvio condicional para continuar ou sair do programa , e para caso restritiva .
 
 **3 - Organização do código:**
 
