@@ -135,6 +135,8 @@
 
 ###  Lógica :
 
+1. [ Nota aluno ] (https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FAlgoritmos%2Flogica%2Fnota-aluno.md)
+
 ### Estrutura de dados :
 
 1. ✔ [Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Bubble-sort.md) ☕ [ Bubble Sort](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Bubble-sort/function.js)
