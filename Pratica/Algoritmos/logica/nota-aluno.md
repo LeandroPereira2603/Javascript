@@ -1,4 +1,4 @@
-# Calculo de média de Notas  
+# Calculo de média .
 
 Algoritmo que calcula a média e a porcentagem de notas , e mostra vários resultados aleatórios .
 
