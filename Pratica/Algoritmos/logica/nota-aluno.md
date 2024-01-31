@@ -9,7 +9,7 @@ Algoritmo que calcula a média e a porcentagem de notas , e mostra vários resul
 * Math.random () : insere um número aleatório 
 * toFixed() : Formata os números decimais .
 
-### Estruturas : 
+### Estrutura : 
 
 * for (i) :  Repete os números dos resultados .
 
