@@ -135,7 +135,7 @@
 
 ###  Lógica :
 
-1. ✔ [ Nota aluno ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FAlgoritmos%2Flogica%2Fnota-aluno.md)
+1. ✔ [ Cálculo de média de notas ](https://github.com/LeandroPereira2603/Javascript/blob/main/Pratica%2FAlgoritmos%2Flogica%2Fnota-aluno.md)
 
 ### Estrutura de dados :
 
