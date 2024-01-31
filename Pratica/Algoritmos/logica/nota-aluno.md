@@ -2,7 +2,7 @@
 
 Algoritmo que calcula a média e a porcentagem de notas , e mostra vários resultados aleatórios .
 
-## Sobre o código : 
+## Sobre o código 
 
 ### Métodos :
 
