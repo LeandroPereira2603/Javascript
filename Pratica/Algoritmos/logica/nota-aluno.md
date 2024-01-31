@@ -1,3 +1,6 @@
+```javascript
+
+
 // Lógica de programação : nota do aluno 
 
 function qtd (x){
@@ -61,6 +64,9 @@ else {
 var qtdRandom = Math.random(0,10)*10;
 console.log("Quantdade aleatorio :"+qtdRandom.toFixed(0));
 qtd(qtdRandom);
+
+
+```
 
 
 
