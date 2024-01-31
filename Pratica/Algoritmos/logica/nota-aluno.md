@@ -1,4 +1,17 @@
-## Nota aluno 
+# Nota aluno 
+
+Algoritmo que calcula a média e a porcentagem de notas , e mostra vários resultados aleatórios .
+
+## Sobre o código : 
+
+### Métodos :
+
+* Math.random () : insere um número aleatório 
+* toFixed() : Formata os números decimais .
+
+### Estruturas : 
+
+* for (i) :  Repete os números dos resultados .
 
 
 
