@@ -2,7 +2,7 @@
 
 # Tipos : estrutura de dados
 
-* Pilha 
+* **Pilha** - Para remover o último elemento da pilha . 
 
 * Listas
 
