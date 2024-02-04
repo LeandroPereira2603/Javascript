@@ -3,7 +3,7 @@
 
 # Pilha 
 
-A estrutura de dados de pilha , serve para tirar o último elemento índice da pilha , sendo que o último colocado e o primeiro a sair .
+A estrutura de dados de pilha , serve para tirar o último elemento do índice dko array , sendo que o último que e colocado e o primeiro a ser retirado .
 
 ### Exemplo 1 :
 
