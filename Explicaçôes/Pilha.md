@@ -3,7 +3,7 @@
 
 # Pilha 
 
-A estrutura de dados pilha , serve para tirar o último elemento da pilha ,sendo que o primeiro que e colocado no índice e o primeiro que vai sair .
+A estrutura de dados pilha , serve para tirar o último elemento índice da pilha , sendo que o último colocado e o primeiro a sair .
 
 ### Exemplo 1 :
 
