@@ -70,7 +70,7 @@ listar();
 
 ### Exemplo 2 : 
 
-com POO ( programação orientado a objeto) criando classe e objeto .
+com POO ( programação orientado a objeto) criando exemplo de pilha com  classe e objeto .
 
 
 ```javascript 
