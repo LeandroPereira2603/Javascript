@@ -7,6 +7,8 @@ A estrutura de dados de pilha , serve para tirar o último elemento do índice d
 
 ### Exemplo 1 :
 
+O algoritmo vai empilhar criando índices aleatório do array de 0 á 6 ,e remover o último índice da pilha .
+
 
 ```javascript
 
