@@ -85,9 +85,9 @@ nomes.listar();
 ``` 
 
 > [!NOTE]
-> Refêrencias : <br>
-> Canal : CODE MEO 
-> (LLP) Leandro Luiz Pereira 
+> **Refêrencias :** <br>
+> **Canal :** CODE MEO <br>
+> **(LLP) :** Leandro Luiz Pereira 
 
 
 
