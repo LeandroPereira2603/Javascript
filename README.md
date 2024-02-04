@@ -6,8 +6,6 @@
 
 |Descrição | Logotipo   |
 |:--: |:--:|
-| Abandonado | 🔴 | 
-| Em desenvolvimento    |  🟡  | 
 | Projeto concluído    |  💻  | 
 | Repositório Favorito | ⭐ | 
 | Código Fonte - local do repositório | ☕ | 
@@ -81,17 +79,16 @@
 * [ For-each ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FFor-each.md)
 * [ Map ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FMap.md)
 * [ Métodos ( Math, etc..) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Metodo.md)
-* 🟡 [ String : manipulando caracteres]
 
 ### Bibliotecas : 
 
-* 🟡 [ jQuery ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FjQuery.md)
+*  [ jQuery ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es%2FjQuery.md)
 
 ### Manipulação de elementos DOM ( Document Object Model)
-* 🟡 [ Canva](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Canvas.md)
-* 🟡 [ querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/querySelector-querySeletor-All.md)
+*  [ Canva](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Canvas.md)
+*  [ querySelector e querySelectorAll](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/querySelector-querySeletor-All.md)
 * [ addEventListener]
-* 🟡 [ createElement](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Elemento-DOM-create.md)
+*  [ createElement](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Elemento-DOM-create.md)
 * [ create object]
 
 ## Funçôes globais e métodos :
@@ -100,8 +97,8 @@
 
 ## :book: Matérias 
 
-* 🟡 [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
-* 🟡 [ POO ( Programação orientado a objeto) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
+*  [ Estrutura de dados ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Estrutura%20de%20dados.md)
+*  [ POO ( Programação orientado a objeto) ](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Orienta%C3%A7%C3%A3o-objeto.md)
 
 
 # 💻 Prática 
@@ -121,7 +118,7 @@
 
 ### Livro : O guia definitivo ( Javascript ) :
 
-1. 🟡 [ Site : calculadora de emprestimo ](https://leandropereira2603.github.io/site-calculadora-emprestimo/) ☕ [Site : calculadora de emprestimo](https://github.com/LeandroPereira2603/site-calculadora-emprestimo)
+1.  [ Site : calculadora de emprestimo ](https://leandropereira2603.github.io/site-calculadora-emprestimo/) ☕ [Site : calculadora de emprestimo](https://github.com/LeandroPereira2603/site-calculadora-emprestimo)
 
 
 ## :computer: Algoritmos : Gerais  
