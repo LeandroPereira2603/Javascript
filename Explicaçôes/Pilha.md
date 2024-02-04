@@ -5,6 +5,68 @@
 
 A estrutura de dados pilha , serve para tirar o último elemento da pilha ,sendo que o primeiro que e colocado no índice e o primeiro que vai sair .
 
+### Exemplo 1 :
+
+
+```javascript
+
+var array = [];
+
+function push (indice){
+  array.push(indice);
+}
+
+function pop(){
+  array.pop();
+}
+
+function peek(){
+  return  array[array.lenght-1];
+}
+
+function clear(){
+  array = [];
+}
+
+function listar(){
+  console.log(array);
+}
+
+function criarPilha (n){
+  
+for (var i=0;i<n;i++){
+  
+  var x = Math.random(0,10)*10;
+  push(x.toFixed(0));
+  x = 0;
+  
+}
+
+ if (n > 2 && n < 3){
+    clear();
+  }
+
+}
+
+criarPilha(Math.random(0,6)*6);
+
+console.log("Criando pilha :");
+
+console.log(array);
+
+console.log("\n");
+
+console.log("Estrutura de dados : Pilha ")
+
+pop(peek);
+
+listar();
+
+```
+
+
+
+### Exemplo 2 : com POO ( programação orientado a objeto) criando classe e objeto .
 
 
 ```javascript 
