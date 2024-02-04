@@ -64,8 +64,6 @@ class Pilha {
 
     }
     
-
-
 }
 
 let nomes = new Pilha();
