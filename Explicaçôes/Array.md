@@ -73,13 +73,13 @@ console.log(array);
 
 ##  _unshift()_ 
 
- Tira o primeiro índice do array.
+ Adiciona índices a partir do primeiro índice do array.
 
 ```javascript 
 
 var array = [18,57,88,26,86,54] ;
 
-array.unshift();
+array.unshift(25);
 
 console.log(array);
 
@@ -87,14 +87,14 @@ console.log(array);
 ```
 
 
-| 0 | 1 | 2 | 3 |
-|:-:|:-:|:-:|:-:|
-| 57|88| 26| 86 |
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-: | :-:| :-: |
+| 25 | 18 | 57|88| 26| 86 | 54|
 
 
 ## _push()_ 
 
-Adiciona índices no array.
+Adiciona índices a partir do último índice  no array.
 
 ```javascript 
 
