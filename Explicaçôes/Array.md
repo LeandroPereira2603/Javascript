@@ -31,6 +31,24 @@ var points = [       // Um array com 2 elementos.
 
  Tira o última posição do índice do array .
 
+```javascript 
+
+var array = [18,57,88,26,86,54] ;
+
+array.pop();
+
+console.log(array);
+
+
+'''
+
+
+| 0 | 1 | 2 | 3 | 4 | 
+|:-:|:-:|:-:|:-:|:-:|
+|18 | 57|88| 26| 86 |
+
+
+
 ## _splice()_ 
 
  Acrescenta mais elementos de índices , definindo a posição do índice onde será adicionada  .
