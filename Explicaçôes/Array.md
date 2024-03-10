@@ -1,6 +1,6 @@
 # Array
 
-<p> Array e um elemento unidimensional que possue vários índices .</p>
+<p> Array e unidimensional que pode ter vários índices .</p>
 
 ```javascript
 
@@ -29,7 +29,7 @@ var points = [       // Um array com 2 elementos.
 
 ## _pop()_ 
 
- Tira o última posição do índice do array .
+ Tira o última elemento do índice do array .
 
 ```javascript 
 
@@ -51,7 +51,7 @@ console.log(array);
 
 ## _splice()_ 
 
- Acrescenta mais índices .
+ Acrescenta e remove elementos do array.
 
 * **1 parâmetro** : define o índice onde será acrescentada  
 * **2 parametro** :  define onde vai se iniciar , o melhor para definir e o número 0 pois se colocar algum outro número ele vai deletar outros índices .
@@ -78,7 +78,7 @@ console.log(array);
 
 ##  _unshift()_ 
 
- Adiciona mais indices a partir do primeiro índice do array.
+ Adiciona mais elementos a partir do primeiro índice do array.
 
 ```javascript 
 
