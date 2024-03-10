@@ -25,6 +25,17 @@ var points = [       // Um array com 2 elementos.
 
 ```
 
+## Métodos do array 
+
+* pop : Tira o último índice .
+
+* splice : 
+
+* ushift : Tira o primeiro índice .
+
+
+
+
 # Matriz 
 
 ## Bidimensional 
