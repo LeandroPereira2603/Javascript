@@ -118,6 +118,28 @@ console.log(array);
 |18 | 57|88| 26| 86 |25|29|
 
 
+## _reverse()_
+
+Inverte os elementos do array 
+
+
+```javascript 
+
+var array = [18,57,88,26,86,54] ;
+
+array.reverse();
+
+console.log(array);
+
+```
+
+|0 | 1 | 2 | 3 | 4 |5|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|54 | 86 |26 | 88| 57 | 18 |
+`
+
+
+
 
 
 # Matriz 
