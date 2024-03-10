@@ -25,7 +25,7 @@ var points = [       // Um array com 2 elementos.
 
 ```
 
-# Métodos para o array 
+# Métodos
 
 ## _pop()_ 
 
