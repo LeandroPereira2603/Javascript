@@ -27,13 +27,21 @@ var points = [       // Um array com 2 elementos.
 
 # Métodos do array 
 
-## _pop()_ :  Tira o última posição do índice do array .
+## _pop()_ 
 
-## _splice()_ : Acrescenta mais elementos de índices , definindo a posição do índice onde será adicionada  .
+ Tira o última posição do índice do array .
 
-##  _ushift()_ : Tira o primeiro índice do array.
+## _splice()_ 
 
-## _push()_ : Adiciona índices no array.
+ Acrescenta mais elementos de índices , definindo a posição do índice onde será adicionada  .
+
+##  _ushift()_ 
+
+ Tira o primeiro índice do array.
+
+## _push()_ 
+
+Adiciona índices no array.
 
 
 
