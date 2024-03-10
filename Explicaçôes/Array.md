@@ -54,8 +54,8 @@ console.log(array);
  Acrescenta mais índices .
 
 * **1 parâmetro** : define o índice onde será acrescentada  
-* **2 parametro** :  define onde vai se iniciar .
-* **3 e 4 ,5 , 6 e por diante parametros** :   são 
+* **2 parametro** :  define onde vai se iniciar , o melhor para definir e o número 0 pois se colocar algum outro número ele vai deletar outros índices .
+* ** 3 e 4 ,5 , 6 e por diante parametros** :   são 
 os indices que serão acrescentados .
 
 ```javascript 
