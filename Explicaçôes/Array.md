@@ -53,13 +53,65 @@ console.log(array);
 
  Acrescenta mais elementos de índices , definindo a posição do índice onde será adicionada  .
 
-##  _ushift()_ 
+```javascript 
+
+var array = [18,57,88,26,86,54] ;
+
+array.splice(2,0, 25 , 27  );
+
+console.log(array);
+
+
+```
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 | 57|25 | 27 | 88 | 26| 86 |
+
+
+
+
+##  _unshift()_ 
 
  Tira o primeiro índice do array.
+
+```javascript 
+
+var array = [18,57,88,26,86,54] ;
+
+array.unshift();
+
+console.log(array);
+
+
+```
+
+
+| 0 | 1 | 2 | 3 |
+|:-:|:-:|:-:|:-:|
+| 57|88| 26| 86 |
+
 
 ## _push()_ 
 
 Adiciona índices no array.
+
+```javascript 
+
+var array = [18,57,88,26,86,54] ;
+
+array.push(25);
+
+console.log(array);
+
+
+```
+
+
+| 0 | 1 | 2 | 3 | 4 |5|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 | 57|88| 26| 86 |25|
+
 
 
 
