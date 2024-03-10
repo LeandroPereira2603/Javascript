@@ -56,7 +56,7 @@ console.log(array);
 * **1 parâmetro** : define o índice onde será acrescentada  
 * **2 parametro** :  define onde vai se iniciar .
 * **3 e 4 ,5 , 6 e por diante parametros** :   são 
-definindo a posição do índice onde será adicionada  .
+os indices que serão acrescentados .
 
 ```javascript 
 
