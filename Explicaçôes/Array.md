@@ -29,7 +29,7 @@ var points = [       // Um array com 2 elementos.
 
 ## _pop()_ 
 
- Tira o última elemento do índice do array .
+ Tira o último elemento do índice do array .
 
 ```javascript 
 
