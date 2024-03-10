@@ -51,11 +51,11 @@ console.log(array);
 
 ## _splice()_ 
 
- Acrescenta mais índices ,
+ Acrescenta mais índices .
 
-* 1 parâmetro :define o índice onde será acrescentada  
-* 2 parametro define vai se iniciar .
-* 3 e 4 ,5 , 6 e por diante parametros  são 
+* **1 parâmetro** : define o índice onde será acrescentada  
+* **2 parametro** :  define vai se iniciar .
+* **3 e 4 ,5 , 6 e por diante parametros** :   são 
 definindo a posição do índice onde será adicionada  .
 
 ```javascript 
