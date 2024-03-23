@@ -1,6 +1,6 @@
 # Calculo para insulina 
 
-
+Cada ml equivale a 100 unidade de insulina .
 
 
 ```javascript 
