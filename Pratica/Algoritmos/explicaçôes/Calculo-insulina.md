@@ -1,7 +1,7 @@
 # Calculo para insulina 
 
 * Cada ml equivale a 100 unidade de insulina .
-* frasco de ampola de insulina tem  10 mls .
+* Frasco de ampola de insulina tem  10 mls .
 
 
 | ML | UI | 
@@ -24,7 +24,7 @@ var ui = 4300;
 
 var ml = ui / 100 ;
 
-console.log('insulina : '+ui+' ui equivale '+ml+' ml ');
+console.log('Insulina : '+ui+' ui equivale '+ml+' ml ');
 
 console.log('Simulação : a receita pede 6.556 ui quantas frascos vai dispensar para cliente ? '); 
 
