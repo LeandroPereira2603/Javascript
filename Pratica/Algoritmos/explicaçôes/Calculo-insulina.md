@@ -1,7 +1,7 @@
 # Calculo para insulina 
 
 * Cada ml equivale a 100 unidade de insulina .
-* Frasco de ampola de insulina tem  10 mls .
+* O frasco de ampola de insulina tem  10 mls .
 
 
 | ML | UI | 
