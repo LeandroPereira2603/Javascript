@@ -5,7 +5,7 @@
 
 ```javascript 
 
-console.log ('Conversão de calculo de insulina ');
+console.log ('Conversão de calculo para a insulina ');
 
 var ml = 5;
 
