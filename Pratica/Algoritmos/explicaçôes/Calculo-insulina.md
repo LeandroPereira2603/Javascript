@@ -9,6 +9,7 @@
 | 1 | 100 | 
 | 0.01 | 1 | 
 
+#### Exemplo : 
 
 ```javascript 
 
