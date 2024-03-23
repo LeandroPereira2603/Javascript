@@ -20,3 +20,8 @@ var ml = ui / 100 ;
 console.log('insulina : '+ui+' ui equivale '+ml+' ml ');
 
 ```
+
+| UI | ML |
+|:-:|:-:|
+| 5000 | 5 |
+| 4300 | 43 |
