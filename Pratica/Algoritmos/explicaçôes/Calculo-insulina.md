@@ -4,7 +4,7 @@
 * frasco de ampola de insulina tem  10 mls .
 
 
-| ml | ui | 
+| ML | UI | 
 |:-:|:-:| 
 | 1 | 100 | 
 | 0.01 | 1 | 
