@@ -20,9 +20,9 @@ var ml = ui / 100 ;
 
 console.log('insulina : '+ui+' ui equivale '+ml+' ml ');
 
-console.log('Simulação :  a receita pede 6.556 ui quantas frascos vai dispensar para cliente ? '); 
+console.log('Simulação : a receita pede 6.556 ui quantas frascos vai dispensar para cliente ? '); 
 
-console.log(' o total e 65,5 mls então tem que ser 7 frascos '); 
+console.log('Resposta : o total deverá ser 65,5 mls então tem que dispensar 7 frascos de insulina '); 
 
 ```
 
