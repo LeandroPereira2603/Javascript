@@ -4,6 +4,12 @@
 * frasco de ampola de insulina tem  10 mls .
 
 
+| ml | ui | 
+|:-:|:-:| 
+| 1 | 100 | 
+| 0.01 | 1 | 
+
+
 ```javascript 
 
 console.log ('Conversão de calculo para a insulina ');
