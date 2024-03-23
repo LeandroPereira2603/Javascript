@@ -41,3 +41,24 @@ Resultado da saída do cálculo .
 |:-:|:-:|
 | 5000 | 5 |
 | 4300 | 43 |
+
+
+# Cálculos de conversão de gotas para ml
+
+| gotas | ml |
+|:-:|:-:| 
+| 20 | 1 | 
+
+Cada ml equivale a 20 gotas 
+
+#### Exemplo : 
+
+```javascript 
+
+console.log('Suposição : O cliente veio com a receita que tem que tomar no total do tratamento 60 gotas , o frasco tem 2 mls quantos frascos vai dispensar para o cliente ? ');
+
+console.log('Resposta : 2 frascos '); 
+
+
+
+```
