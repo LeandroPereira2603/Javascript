@@ -51,7 +51,7 @@ Resultado da saída do cálculo .
 
 Cada ml equivale a 20 gotas .
 
-O padrão é este modelo , mas existe alguns frascos especifico que tem abertura um pouco menor , aí  varia de fabricação do laboratório , pode ter a quantidade de 26 a 27 gotas cada ml , mas geralmente informa na embalagem , quando e diferente do padrão  .
+O padrão é 20 gotas , mas existe alguns frascos especifico que tem abertura um pouco menor , aí  varia da fabricação do laboratório , pode ter a quantidade de 26 a 27 gotas cada ml , mas geralmente informa na embalagem , quando e diferente do padrão .
 
 #### Exemplo : 
 
