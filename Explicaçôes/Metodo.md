@@ -44,7 +44,7 @@ Math.pow(x,2) ;
 ```
 ### 4 - Math.floor()
 
-<p> Transforma o númerp decimal em inteiro .</p>
+<p> Transforma o número decimal em inteiro .</p>
 
 ```javascript 
 
