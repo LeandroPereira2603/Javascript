@@ -61,13 +61,20 @@ console.log('Suposição : O cliente tem que tomar no total do tratamento com 60
 
 console.log('Resposta : 2 frascos '); 
 
-var gotasTotais = 94 ; 
+var gotasTotais = 60 ; 
 
 var ml = 20 ; 
 
 var result = gotasTotais / ml ; 
 
-console.log(result);
+console.log('\nTotal de gotas : '+gotasTotais);
+
+console.log('Total de mls : '+result);
+
+
+
+
+
 
 
 ```
