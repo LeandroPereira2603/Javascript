@@ -57,7 +57,7 @@ O padrão é este modelo , mas existe alguns frascos especifico que tem abertura
 
 ```javascript 
 
-console.log('Suposição : O cliente tem que tomar no total do tratamento com 60 gotas , o frasco tem 2 ml's quantos frascos vai ter que dispensar para o cliente ? ');
+console.log('Suposição : O cliente tem que tomar no total do tratamento com 60 gotas , o frasco tem 2 mls quantos frascos vai ter que dispensar para o cliente ? ');
 
 console.log('Resposta : 2 frascos '); 
 
