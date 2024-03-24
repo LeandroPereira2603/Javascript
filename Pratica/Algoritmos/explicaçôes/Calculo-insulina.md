@@ -45,7 +45,7 @@ Resultado da saída do cálculo .
 
 # Cálculos de conversão de gotas para ml
 
-| gotas | ml |
+| Gotas | ML |
 |:-:|:-:| 
 | 20 | 1 | 
 
