@@ -39,7 +39,7 @@ const add = (value) => {
         node = node.next ;
     }
 
-    node.next = Node(value)
+    node.next = Node(value);
     length++;
     return node.next;
 
@@ -84,7 +84,7 @@ Diversas operações podem ser realizadas em listas , tais como:
 * get(): Retornar um elemento da lista, e uma posição especifica .
 * insert(): Inserir um elemento em uma posição qualquer na lista .
 * remove(): Remover o elemento qualquer em uma posição especifica em uma lista (não-vazia):
-*removeAt(): Remover o elemento qualquer em uma posiçâo especficada na lista (não-vazia).
+* removeAt(): Remover o elemento qualquer em uma posiçâo especficada na lista (não-vazia).
 * replace(): Substituir um elemento em qualquer posição por outro elemento.
 * size(): Retornar o tamanho da lista (número de elementos).
 * isEmpty(): Retorna um booleano informado se a estrutura está vazia .

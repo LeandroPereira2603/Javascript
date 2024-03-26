@@ -137,7 +137,8 @@
 
 #### Tipos de estrutura de dados 
 
-1. ✔ [Pilha](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Pilha.md) ☕ [Pilha](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Pilha/classe.js)
+1. ✔ [Pilha](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/Pilha.md) ☕ [Pilha](https://github.com/LeandroPereira2603/Javascript/blob/main/C%C3%B3digos-Exemplos/Pilha/classe.js);
+1. [Lista](https://github.com/LeandroPereira2603/Javascript/blob/main/Explica%C3%A7%C3%B4es/listas.md)
 
 #### Métodos de organização para a estrutura de dados 
 
