@@ -94,7 +94,7 @@ Diversas operações podem ser realizadas em listas , tais como:
 
 
 
-- [!NOTE]
-- ** Refêrencias ** :
-- canal : Bóson treinamenoos (explicação)
-- canal : DevPleno  (code)
+> [!NOTE]
+> ** Refêrencias ** : 
+> canal : Bóson treinamenoos (explicação)
+> canal : DevPleno  (code)
