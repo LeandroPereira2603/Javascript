@@ -12,9 +12,12 @@ vet.forEach((item) => {
 
   var result = console.log(" "+item+" ");
 
+
+return result;
+
 });
 
- return result;
+ 
 
 ```
 | Saída |
