@@ -95,6 +95,6 @@ Diversas operações podem ser realizadas em listas , tais como:
 
 
 > [!NOTE]
-> ** Refêrencias ** : 
+> **Refêrencias** : 
 > canal : Bóson treinamenoos (explicação)
 > canal : DevPleno  (code)
