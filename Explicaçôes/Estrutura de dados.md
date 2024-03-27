@@ -4,7 +4,7 @@
 
 * **Pilha** - Para remover o último elemento do índice da pilha . 
 
-* Listas
+* **Listas** - 
 
 * Diferenças 
 
