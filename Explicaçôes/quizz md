@@ -1,5 +1,5 @@
 
-```javascript
+'''javascript
 
 // Rascunho pars fazer depois o aplicativo
 //.flutter ou android studio no java  
@@ -46,4 +46,4 @@ console.log('Qual e o imtervalo de  horas devo tomar o medicamento ? ');
 
 
 
-```
+'''
