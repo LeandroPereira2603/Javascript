@@ -1,0 +1,51 @@
+
+```javascript
+
+
+
+// Rascunho pars fazer depois o aplicativo
+//.flutter ou android studio no java  
+
+
+console.log('Easy :\n ');
+console.log('Cabelo : \n');
+
+var hair = []; 
+
+hair.push('O que é acido hialuronico ? ');
+hair.push('O que é acido glicolico ? ');
+hair.push('Opções para cabelo oporoso ?');
+hair.push('Opções para cabelo cacheado ?');
+
+var a = hair.length ; 
+var n = (Math.floor(Math.random()* a ));
+
+console.log(hair[n]); 
+
+console.log('Medicamento :\n');
+
+var medicamento = [];
+
+medicamento.push('Gotas e mais rapido que comprimido ?');
+medicamento.push('capsula e mais rapida que comprimido ?');
+medicamento.push('Pode trocar generico por similar ?');
+
+console.log('\n');
+
+console.log(medicamento[n]+' ');
+
+console.log('\nHard : ');
+
+console.log('Qual e o imtervalo de  horas devo tomar o medicamento ? ');
+
+
+
+
+
+
+
+
+
+
+
+```
