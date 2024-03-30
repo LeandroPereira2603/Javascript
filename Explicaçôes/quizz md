@@ -19,7 +19,7 @@
 
 // dois layout um para cronômetro e outra para  responder  
 
-
+// Exemplo : 
 
 console.log('Easy :\n ');
 console.log('Cabelo : \n');
