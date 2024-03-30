@@ -1,19 +1,23 @@
  
 ```javascript
 
-// Rascunho pars desenvolver  depois o aplicativo
-// flutter ou android studio no java  
+// Exercícios de atenção , desenvolver um até ou aplicativo .
+
+// flutter ou android studio no java  ,ou site .
+
 // Exemplo : 
 
-//Vai escolher uma categoria na tela e ira aparecer uma pergunta aleatória para responder .
+// tendo opção de categoria na tela e ira aparecer uma pergunta aleatória para responder .
 
-// com níveis de dificuldades , básico easy ,intermediário () ,  especialista expert .
+// informando com níveis de dificuldades , básico easy ,i ntermediário () ,  especialista expert .
 
 // com Nível de explicação , formal ou informal para leigos .
 
 // tela layout dinâmico criativo .
 
 // resposta objetiva ou prolongada .
+
+// dois layout um para cronômetro e outra para  responder  
 
 
 
