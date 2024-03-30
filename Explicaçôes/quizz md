@@ -1,8 +1,18 @@
  
 ```javascript
 
-// Rascunho pars fazer depois o aplicativo
-//.flutter ou android studio no java  
+// Rascunho pars desenvolver  depois o aplicativo
+// flutter ou android studio no java  
+// Exemplo : 
+
+//Vai escolher uma categoria na tela e ira aparecer uma pergunta aleatória para responder .
+
+// com níveis de dificuldades , básico easy ,intermediário () ,  especialista expert .
+
+// com Nível de explicação , formal ou informal para leigos .
+
+// tela layout dinâmico criativo 
+
 
 
 console.log('Easy :\n ');
