@@ -110,6 +110,7 @@ switch (question) {
 
 }
 
+console.log('Estatisticas do quizz : ');
 
 console.log ('\nRanking : \n\nTotal de pontos :'+ponto)
 console.log('Porcentagem : ');
