@@ -1,5 +1,14 @@
 # Quizz 
 
+Criar um site ou aplicativo 
+
+* cronômetro 
+* ranking
+* Mostra o nível de dificuldade 
+* escolher categorias 
+
+
+quizz básica na práticá em javascript :  
 
 
 ```javascript 
