@@ -1,8 +1,8 @@
 # Quizz 
 
-## Criar um site ou aplicativo
+### Criar um site ou aplicativo
 
-que tenha :  
+que tenha  :  
 
 * cronômetro 
 * ranking
