@@ -31,7 +31,7 @@ console.log('Question  : \n ');
 switch (question) {
   case 1 :
     
-console.log('Para que que serve nimesulida ? \n ');
+  console.log('Para que que serve nimesulida ? \n ');
   console.log('a : Anti flamatorio ');
   console.log('b : Acidez estomacal ');
   console.log('c : anti micotico ');
@@ -76,7 +76,7 @@ console.log('Para que que serve nimesulida ? \n ');
   
   case 4 : 
     
-console.log('Question ');
+  console.log('Question ');
   console.log('a :');
   console.log('b :');
   console.log('c :');
@@ -85,7 +85,7 @@ console.log('Question ');
   break ;
   
   case 5 : 
-console.log('Question ');
+  console.log('Question ');
   console.log('a :');
   console.log('b :');
   console.log('c :');
@@ -95,7 +95,7 @@ console.log('Question ');
   
   case 6 : 
     
-console.log('Question ');
+  console.log('Question ');
   console.log('a :');
   console.log('b :');
   console.log('c :');
