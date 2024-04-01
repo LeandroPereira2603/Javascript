@@ -2,12 +2,12 @@
 
 ### Criar um site ou aplicativo
 
-que tenha  :  
+Ações  :  
 
-* cronômetro 
-* ranking
+* Cronômetro 
+* Ranking
 * Mostra o nível de dificuldade 
-* escolher categorias 
+* Escolher categorias 
 
 
 quizz básica na práticá em javascript :  
@@ -29,6 +29,7 @@ question = 1 ;
 console.log('Question  : \n ');
 
 switch (question) {
+
   case 1 :
     
   console.log('Para que que serve nimesulida ? \n ');
@@ -49,7 +50,6 @@ switch (question) {
 
     console.log('\nResposta :'+resposta+' resposta errada ');
   }
-    
     
     
     break;
