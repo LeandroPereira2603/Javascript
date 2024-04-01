@@ -33,9 +33,9 @@ switch (question) {
   case 1 :
     
   console.log('Para que que serve nimesulida ? \n ');
-  console.log('a : Anti flamatorio ');
+  console.log('a : Anti inflamatorio ');
   console.log('b : Acidez estomacal ');
-  console.log('c : anti micotico ');
+  console.log('c : Anti micotico ');
   console.log('d : Anti termico ');
   
   resposta = 'a';
@@ -85,6 +85,7 @@ switch (question) {
   break ;
   
   case 5 : 
+
   console.log('Question ');
   console.log('a :');
   console.log('b :');
